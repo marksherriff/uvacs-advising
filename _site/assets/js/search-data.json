@@ -1,0 +1,254 @@
+{"0": {
+    "doc": "Announcements",
+    "title": "Announcement Archive",
+    "content": " ",
+    "url": "/announcements.html#announcement-archive",
+    
+    "relUrl": "/announcements.html#announcement-archive"
+  },"1": {
+    "doc": "Announcements",
+    "title": "Table of Contents",
+    "content": ". | January | . ",
+    "url": "/announcements.html#table-of-contents",
+    
+    "relUrl": "/announcements.html#table-of-contents"
+  },"2": {
+    "doc": "Announcements",
+    "title": "January",
+    "content": "Wednesday, January 18 . | Welcome and Intro | Required Texts and Games | The Wait List | MonoGame | . ",
+    "url": "/announcements.html#january",
+    
+    "relUrl": "/announcements.html#january"
+  },"3": {
+    "doc": "Announcements",
+    "title": "Announcements",
+    "content": " ",
+    "url": "/announcements.html",
+    
+    "relUrl": "/announcements.html"
+  },"4": {
+    "doc": "Home",
+    "title": "CS 4730 - Spring 2023",
+    "content": " ",
+    "url": "/#cs-4730---spring-2023",
+    
+    "relUrl": "/#cs-4730---spring-2023"
+  },"5": {
+    "doc": "Home",
+    "title": "Computer Game Design",
+    "content": "Our course is an introductory course in video game design and production. We will focus on both the design and technical aspects of creating a game, from concept inception and prototyping through coding and playtesting. Online Coursepack Gradescope Piazza Collab GitHub . ",
+    "url": "/#computer-game-design",
+    
+    "relUrl": "/#computer-game-design"
+  },"6": {
+    "doc": "Home",
+    "title": "Announcements",
+    "content": "Site Last Updated: Thursday, January 26, 2023 @ 11:17 AM . Friday, January 20 . | What is a game? We’ll discuss various definitions. | Discussing the first chapter of McGonigal | . ",
+    "url": "/#announcements",
+    
+    "relUrl": "/#announcements"
+  },"7": {
+    "doc": "Home",
+    "title": "Staff Information",
+    "content": "Instructor: Prof. Mark Sherriff Office: Rice 400 Office Hours: TBD Email: sherriff@virginia.edu Website: http://marksherriff.com . Teaching Assistants: TBD . ",
+    "url": "/#staff-information",
+    
+    "relUrl": "/#staff-information"
+  },"8": {
+    "doc": "Home",
+    "title": "Home",
+    "content": " ",
+    "url": "/",
+    
+    "relUrl": "/"
+  },"9": {
+    "doc": "MonoGame",
+    "title": "MonoGame References",
+    "content": "Version: We are using MonoGame 3.8.1 with Microsoft Visual Studio Community 2022 . | MonoGame Homepage | Getting Started with MonoGame | Official MonoGame Example Projects | . ",
+    "url": "/monogame.html#monogame-references",
+    
+    "relUrl": "/monogame.html#monogame-references"
+  },"10": {
+    "doc": "MonoGame",
+    "title": "MonoGame",
+    "content": " ",
+    "url": "/monogame.html",
+    
+    "relUrl": "/monogame.html"
+  },"11": {
+    "doc": "Quests",
+    "title": "Game Design Quests and Assessments",
+    "content": " ",
+    "url": "/quests.html#game-design-quests-and-assessments",
+    
+    "relUrl": "/quests.html#game-design-quests-and-assessments"
+  },"12": {
+    "doc": "Quests",
+    "title": "Table of Contents",
+    "content": ". | Required Games | Critical Analysis Quest | . ",
+    "url": "/quests.html#table-of-contents",
+    
+    "relUrl": "/quests.html#table-of-contents"
+  },"13": {
+    "doc": "Quests",
+    "title": "Required Games",
+    "content": " ",
+    "url": "/quests.html#required-games",
+    
+    "relUrl": "/quests.html#required-games"
+  },"14": {
+    "doc": "Quests",
+    "title": "Quest Information",
+    "content": "For this class, you are required to play two different games that we will analyze throughout the semester. | A Short Hike by adamgryu | Celeste by Maddy Makes Games | . | | | . | Available at: itch.io, Steam, Nintendo eShop, and other platforms | Available at: itch.io, Steam, Nintendo eShop, and other platforms | . | Objective: Complete the main story of the game | Objective: Complete through the beginning of Chapter 4 with and/or without assists turned on | . | Estimated time to complete: 2 hours | Estimated time to complete: 3 hours | . Note: We are going to be talking specifically about the assist options in Celeste. Even if you can get to Chapter 4 without the assists, make sure to play the game with them at some point to see how they work. Also, if you need to use the assists to make it to Chapter 4, that’s fine. Try to at least get through Chapter 1 without them, however. ",
+    "url": "/quests.html#quest-information",
+    
+    "relUrl": "/quests.html#quest-information"
+  },"15": {
+    "doc": "Quests",
+    "title": "Quest Submission",
+    "content": "No submission required specifically for playing the games. ",
+    "url": "/quests.html#quest-submission",
+    
+    "relUrl": "/quests.html#quest-submission"
+  },"16": {
+    "doc": "Quests",
+    "title": "Critical Analysis Quest",
+    "content": "First, watch this: . ",
+    "url": "/quests.html#critical-analysis-quest",
+    
+    "relUrl": "/quests.html#critical-analysis-quest"
+  },"17": {
+    "doc": "Quests",
+    "title": "Quest Information",
+    "content": "What is a critical analysis, and why do we care? . Critical analysis is not just a game review. We are not concerned with how many out of five stars, or any numbers from 0 to 10, or whether or not a game is “fun” (whatever that means to you). Critical analysis does not just mean a list of things that are wrong with the game. The word “critical” in this context does not mean “fault-finding” but rather a thorough and unbiased look at the game. Critical analysis is useful when discussing or comparing games. You can say “I like the card game Bang! because it’s fun” but that does not help us as designers to learn why it is fun. We must look at the parts of games and how they interact in order to understand how each part relates to the play experience. Critical analysis is also useful when examining our own works in progress. For a game that you’re working on, how do you know what to add or remove to make it better? . To complete a Critical Analysis assignment, write a paper (probably at least 2-3 pages) that does the following (and most likely somewhat in this order): . | Give a high-level description of the game, game’s history, or other introductory information you think is appropriate. I would expect also to see what you believe the games main aesthetics are here (as defined by the MDA paper). | Describe the game’s formal elements. Do not interpret at this point, simply state what is there. | Describe the results of the formal elements when put in motion. How do the different elements interact? What is the play of the game like? Is it effective? | Specifically discuss the mechanics, dynamics, and aesthetics of the game. | Try to understand why the designer chose those elements and not others. Why this particular player structure, and why that set of resources? What would have happened if the designer had chosen differently? | . Some questions to ask yourself during a critical analysis at various stages: . | What challenges do the players face? What actions can players take to overcome those challenges? | How do players affect each other? | Is the game perceived by the players as fair? (Note that it may or may not actually be fair. Perception and reality often differ.) | Is the game replayable? Are there multiple paths to victory, varied start positions, or optional rules that cause the experience to be different each time? | What is the game’s intended audience? Is the game appropriate for that audience? | What is the “core” of the game - the one thing you do over and over that represents the main “fun” part? | . NOTE: Literally just answering the above questions WILL NOT result in a good score. I expect you to put some thought into how best analyze the game you are looking at. Some of these questions make no sense for certain games and tossing “an answer” to them in your paper would be frowned upon. ",
+    "url": "/quests.html#quest-information-1",
+    
+    "relUrl": "/quests.html#quest-information-1"
+  },"18": {
+    "doc": "Quests",
+    "title": "Quest Submission",
+    "content": ". Submit a PDF of your paper to the appropriate assignment in Gradescope. An example Critical Eye on Hearthstone from Spring 2014 . You will complete this assessment at least twice: . | once for either A Short Hike or Celeste | once for a game of your choosing (including the other option of A Short Hike or Celeste) | optionally one more time as your Player’s Choice Quest | . If you choose your own game, it can be a game you have already played, although you may need to refresh your memory. If you need some thoughts on what games to play, I’m happy to offer suggestions. Some content here used with permission from Game Design Concepts by Ian Schreiber. ",
+    "url": "/quests.html#quest-submission-1",
+    
+    "relUrl": "/quests.html#quest-submission-1"
+  },"19": {
+    "doc": "Quests",
+    "title": "Quests",
+    "content": " ",
+    "url": "/quests.html",
+    
+    "relUrl": "/quests.html"
+  },"20": {
+    "doc": "Schedule",
+    "title": "Course Schedule",
+    "content": " ",
+    "url": "/schedule.html#course-schedule",
+    
+    "relUrl": "/schedule.html#course-schedule"
+  },"21": {
+    "doc": "Schedule",
+    "title": "Schedule",
+    "content": " ",
+    "url": "/schedule.html",
+    
+    "relUrl": "/schedule.html"
+  },"22": {
+    "doc": "Syllabus",
+    "title": "Course Syllabus",
+    "content": " ",
+    "url": "/syllabus.html#course-syllabus",
+    
+    "relUrl": "/syllabus.html#course-syllabus"
+  },"23": {
+    "doc": "Syllabus",
+    "title": "Table of Contents",
+    "content": ". | Lecture Sessions | Staff Information | Course Description and Requirements | Communication and Logistics | Assessment and Grading | Game Project in MonoGame | Class Management | Academic Integrity | Miscellaneous Policies | . ",
+    "url": "/syllabus.html#table-of-contents",
+    
+    "relUrl": "/syllabus.html#table-of-contents"
+  },"24": {
+    "doc": "Syllabus",
+    "title": "Basic Info",
+    "content": "Spring 2023 Semester https://s23.cs4730.games . ",
+    "url": "/syllabus.html#basic-info",
+    
+    "relUrl": "/syllabus.html#basic-info"
+  },"25": {
+    "doc": "Syllabus",
+    "title": "Lecture Sessions",
+    "content": "Mondays, Wednesdays, and Fridays @ 10:00 PM-10:50 AM in OLS 018 . ",
+    "url": "/syllabus.html#lecture-sessions",
+    
+    "relUrl": "/syllabus.html#lecture-sessions"
+  },"26": {
+    "doc": "Syllabus",
+    "title": "Staff Information",
+    "content": "Instructor: Prof. Mark Sherriff Office: Rice 400 Office Hours: TBA Email: sherriff@virginia.edu Website: http://marksherriff.com . Teaching Assistants: TBA . ",
+    "url": "/syllabus.html#staff-information",
+    
+    "relUrl": "/syllabus.html#staff-information"
+  },"27": {
+    "doc": "Syllabus",
+    "title": "Course Description and Requirements",
+    "content": "This course will introduce students to the concepts and tools used in the development of modern 2-D and 3-D real-time interactive computer video games. Topics covered in this include graphics, parallel processing, human-computer interaction, networking, artificial intelligence, and software engineering. -SIS Course Description . Our course is an introductory course in video game design and production. We will focus on both the design and technical aspects of creating a game, from concept inception and prototyping through coding and playtesting. Upon successful completion of this course, students will: . | Understand the social and ethical context in which video games are developed, marketed, and played; | Understand the technologies and platforms upon which modern interactive video games are developed; | Understand the software engineering concepts necessary to develop video games (and other large systems) in a large development group; | Comprehend the computational theory used in video games design, as well as, to a lesser extent, related fields (artificial intelligence, computer graphics, networks, etc.); | Understand the theoretical topic of game theory, and how that applies to multi-player games (and, to a lesser extent, artificial intelligence). | . Major Topics . | What exactly are games? | Game design elements | Game engines and frameworks | Game physics and collision detection | Game mechanics | Level and character design | Prototyping | AI and pathfinding | Graphics / Lighting | Statistics / Probability / Game Theory | Game balancing | . Course Requirements . | Prereq: Old Curriculum - CS 2150 / New Curriculum - CS 3140 | MUST attend class regularly. | You will be expected to learn programming languages and platforms on your own in this class! If you don’t feel comfortable with this, please talk to Prof. Sherriff as soon as possible! | . Textbooks . | Game Design Workshop: A Playcentric Approach to Creating Innovative Games by Tracy Fullerton - Available online as a PDF through UVA Library for free | Reality Is Broken: Why Games Make Us Better and How They Can Change the World by Jane McGonigal - Amazon | . ",
+    "url": "/syllabus.html#course-description-and-requirements",
+    
+    "relUrl": "/syllabus.html#course-description-and-requirements"
+  },"28": {
+    "doc": "Syllabus",
+    "title": "Communication and Logistics",
+    "content": "Piazza . Piazza @ https://piazza.com/class/lcp7ggfnle65e4 . We will be using Piazza for the following: . | Long-form questions about the class, code, or project (please post all code privately!) | Private messages for faculty or the entire staff | A searchable repository of common questions in the course about the project, assignments, etc. | . We will not be using Piazza for: . | Regrades (use Gradescope first, then office hours only if not resolved) | . Email . We will be using email for the following: . | Personal issues that can and should only be handled by a professor | Team issues that need to be escalated | . We will not be using email for: . | Regrades (use Gradescope first, then office hours only if not resolved) | Tech help (use Piazza) | Project questions (use Piazza) | . PLEASE make sure to put “CS 4730” in the subject line somewhere so I can keep track of your request! And please be patient with me in responding. I receive A LOT of email and it’s easy to get behind. If there is a time-critical nature to your note, please let me know that as well. ",
+    "url": "/syllabus.html#communication-and-logistics",
+    
+    "relUrl": "/syllabus.html#communication-and-logistics"
+  },"29": {
+    "doc": "Syllabus",
+    "title": "Assessment and Grading",
+    "content": "We will utilize a positive-reinforcement grading policy in this course. As the purpose of this class is for you to gain experience as a software developer working in a team on a larger-scale project, your grade in this course will be based on experience points (XP). Every student begins the course with 0 XP. As you complete assessments, work on the project, defeat bosses (tests), complete Random Encounters (in-class activities), etc. you will earn XP. Some assessments will have a way to retake or resubmit to earn some of the XP that was not earned on the first attempt. Please see individual assessments for more information regarding how this mechanic works. | Assessment | Who | Instances | Max XP | Max XP Avail | . | Random Encounters | Small Groups or Individual | min 10 | 10 | min 100 | . | Critical Analysis Quests | Individual | 2 | 50 | 100 | . | Game Design Quests | Individual | 3 | 50 | 150 | . | Player’s Choice Quest | Individual | 1 | 50 | 50 | . | Game Design Document | Team | 1 | 50 | 50 | . | Physical Game Prototype | Team | 1 | 50 | 50 | . | MonoGame Team Project | Team | 1 | 200 | 200 | . | Mini-Boss Battle (Midterm) | Individual | 1 | 150 | 150 | . | Final Boss Battle (Final Exam) | Individual | 1 | 150 | 150 | . | Total Course XP |   |   |   | 1000 | . | Letter Grade | XP Required | . | A+ | 1000 | . | A | 950 | . | A- | 900 | . | B+ | 875 | . | B | 850 | . | B- | 825 | . | C+ | 775 | . | C | 750 | . | C- | 700 | . | D+ | 675 | . | D | 650 | . | D- | 625 | . Assessment Notes . Mini-Boss Battle and Final Boss Battle: . | There are two tests in the course - the Mini-Boss Battle (Midterm) and the Final Boss Battle (Final Exam). | The dates for these are set on the course calendar. Students that cannot make either of these dates must inform the instructor at least 72 hours in advance. | Students with SDAC accommodations should make those known to the instructor at least 72 hours in advance and should proceed with scheduling a time with SDAC to take their test. | . Critical Analysis: . | Students will write at least two 3-4 page papers during the semester analyzing different video games. | See the Critical Analysis section of the course website for more information. | . Random Encounters: . | Random encounters are short, in-class assessments to ascertain a student’s understanding of a single concept we have been discussing recently. | These could take the form of single-question quizzes, analyzing a game in class, or some other activity. | There will be a minimum of 10 of these throughout the semester. However, there will likely be more than 10 and students can earn bonus XP for completing more random encounters. | Missed random encounters cannot be made up. | . ",
+    "url": "/syllabus.html#assessment-and-grading",
+    
+    "relUrl": "/syllabus.html#assessment-and-grading"
+  },"30": {
+    "doc": "Syllabus",
+    "title": "Game Project in MonoGame",
+    "content": ". | Students will pitch game ideas to the class at the beginning of the semester. | Students will then vote on the ideas, thus selecting the games they will be building on teams. | Team size will be three or four students. | Students must use the MonoGame frameworke to build their games. | There will be multiple in-class labs as tutorials for MonoGame. | . ",
+    "url": "/syllabus.html#game-project-in-monogame",
+    
+    "relUrl": "/syllabus.html#game-project-in-monogame"
+  },"31": {
+    "doc": "Syllabus",
+    "title": "Class Management",
+    "content": "Attendance . | In-person attendance is expected and generally required for this class, especially on lab activity days. | Attendance will be taken on all lab activity and random encounter days. There will be (on average) one lab day per week. | . Late Policy . | In general, late work is not accepted. If there is a late period for an assessment, this will be noted on the assessment itself and there will be a corresponding late window in Gradescope. | Exceptions to this rule must be approved by the instructor at least 24 hours in advance. | . This Syllabus . This syllabus is to be considered a reference document that can and will be adjusted through the course of the semester to address changing needs. This syllabus can be changed at any time without notification. It is up to the student to monitor this page for any changes. Final authority on any decision in this course rests with the professor, not with this document. Professionalism . In this course, there will be a focus on working well together and learning about the development process. A large portion of that process involves interpersonal skills and conflict management. Students and staff are all expected to treat each other with respect. This includes, but certainly is not limited to: . | Proper use of class platforms (Discord, Piazza, YouTube comments, etc.) | Respectful behavior in class (including extraneous internet browsing, social media, phone usage, etc.) | Respectful language or actions to course staff or other students | Promptness for all deadlines and class meetings | Quality work | Working well with your partners | Following the honor code and other collaboration policies | Following any University health and safety regulations | . Students can and will be penalized for unprofessional behavior. ",
+    "url": "/syllabus.html#class-management",
+    
+    "relUrl": "/syllabus.html#class-management"
+  },"32": {
+    "doc": "Syllabus",
+    "title": "Academic Integrity",
+    "content": "Summary: . | Know the honor code | Work with your team, but not any other team | Using code from other students (from any semester) is an honor violation | Using publically-available example code and libraries is fine, but you must cite your resources | More information on what is allowed will be included with each assignment if necessary | It never hurts to ask the staff what is allowed or not allowed! | . The School of Engineering and Applied Science relies upon and cherishes its community of trust. We firmly endorse, uphold, and embrace the University’s Honor principle that students will not lie, cheat, or steal, nor shall they tolerate those who do. We recognize that even one honor infraction can destroy an exemplary reputation that has taken years to build. Acting in a manner consistent with the principles of honor will benefit every member of the community both while enrolled in the Engineering School and in the future. Students are expected to be familiar with the university honor code, including the section on academic fraud http://honor.virginia.edu/academic-fraud. Assessments will describe allowed collaborations, and deviations from these will be considered Honor violations. If you have questions on what is allowable, ask! Unless otherwise noted, all assessments will be considered pledged that you have neither given nor received help. (Among other things, this means that you are not allowed to describe problems on an exam, assignment, or project to a student who has not taken it yet. You are not allowed to show exam papers to another student or view another student’s exam papers while working on an exam.) Sending, receiving, or otherwise copying or describing the contents of electronic files that are part of course assignments are not allowed collaborations (except for those explicitly allowed in assignment instructions). Assignments or exams where honor infractions or prohibited collaborations occur will receive a zero grade for that entire assignment or exam. Such infractions will also be submitted to the Honor Committee if that is appropriate. Students who have had prohibited collaborations may not be allowed to work with partners on remaining homeworks. Using code developed by previous students in the course or code written for your use by someone outside the course is not allowed and will likely be an honor violation. This does not apply to the use of publicly available frameworks and libraries, unless indicated in the assessment instructions. In general, we expect that you will be using code, examples, and ideas from many different websites and resources for your projects. This is allowed within reason. Wholesale copying of an entire project or any major feature from any source (the web, another student, etc.) is definitely not allowed. Using code snippts that you find to round out a feature is allowed. If you ever have a question about what is or is not appropriate, ask first! . In ALL cases, you need to cite all sources at the top of the file where the code or algorithm was used AND you should note all sources in your documentation. Failure to properly attribute your sources will result in a 50% penalty for the project at a minimum. ",
+    "url": "/syllabus.html#academic-integrity",
+    
+    "relUrl": "/syllabus.html#academic-integrity"
+  },"33": {
+    "doc": "Syllabus",
+    "title": "How to Cite Code",
+    "content": "Use the following format (or something functionally similar) as an example citing code you use. You may not have all of these fields available, but this should give you a good idea of things to look for. Order by title of the software package. Use the appropriate commenting format for the programming language of your source code. Below is a general example of a citation format. Does yours have to look exactly like this? No, nor does it have to have all the fields. It does have to have enough to give the proper credit and so we can find the resource if needed. /*************************************************************************************** * REFERENCES * Title: &lt;title of program/source code&gt; * Author: &lt;author(s) names&gt; * Date: &lt;date&gt; * Code version: &lt;code version&gt; * URL: &lt;where it's located&gt; * Software License: &lt;license software is released under&gt; * * Title: .... * ***************************************************************************************/ . ",
+    "url": "/syllabus.html#how-to-cite-code",
+    
+    "relUrl": "/syllabus.html#how-to-cite-code"
+  },"34": {
+    "doc": "Syllabus",
+    "title": "Miscellaneous Policies",
+    "content": "Inclement Weather Policy . If there is the possibility of inclement weather that could affect class, it is your responsibility to stay informed. Information about how to sign up for email and/or text alerts from UVA Emergency Management, along with the current University status, can be found at https://uvaemergency.virginia.edu/. SDAC and Other Special Circumstances . It is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please make an appointment to with your instructor outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center (SDAC) to discuss a range of options to removing barriers in this course, including official accommodations. We are fortunate to have an SDAC advisor, Courtney MacMasters, physically located in Engineering. You may email her at cmacmasters@virginia.edu to schedule an appointment. For general questions please visit the SDAC website: sdac.studenthealth.virginia.edu. If you have already been approved for accommodations through SDAC, please send your instructor your accommodation letter as soon as possible. We happily and discretely provide the recommended accommodations for those students identified by the SDAC. For quizzes and other individual assessments, please remind us one week before an exam so we can make accommodations. For team related assessments, we cannot grant significant accommodations for an entire team due to just one person. However, we are more than happy to discuss with you the best way to integrate with your team with your accommodations in consideration. Please make an appointment with your instructor outside of office hours to have this discussion. If you have other special circumstances (athletics, other university-related activities, etc.), please contact the instructor as soon as you know these may affect you in class. Religious Accommodations . It is the University’s long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements. Students who wish to request academic accommodation for a religious observance should submit their request to their instructor by email as far in advance as possible. Students who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the University’s Office for Equal Opportunity and Civil Rights (EOCR) at UVAEOCR@virginia.edu or 434-924-3200. Accommodations do not relieve you of the responsibility for completion of any part of the coursework - including the team project - missed as the result of a religious observance. Support for Career Development . Engaging in your career development is an important part of your student experience. For example, presenting at a research conference, attending an interview for a job or internship, or participating in an extern/shadowing experience are not only necessary steps on your path but are also invaluable lessons in and of themselves. We wish to encourage and support you in activities related to your career development. To that end, please notify your instructor by email as far in advance as possible to arrange for appropriate accommodations. Student Support Team . You have many resources available to you when you experience academic or personal stresses. In addition to your professor, the School of Engineering and Applied Science has staff members located in Thornton Hall who you can contact to help manage academic or personal challenges. Please do not wait until the end of the semester to ask for help! . NOTE: These resources are available for BACS majors as well! You are still a part of our department! . Learning . | Lisa Lampe, Director of Undergraduate Education | Blake Calhoun, Director of Undergraduate Success | Courtney MacMasters, Accessibility Specialist | Free tutoring is available for most classes | . Health and Wellbeing . | Assistant Dean of Students, Student Safety and Support | Elizabeth Ramirez-Weaver, CAPS counselor | Katie Fowler, CAPS counselor | . You may schedule time with the CAPS counselors through Student Health. When scheduling, be sure to specify that you are an Engineering student or College student. You are also urged to use TimelyCare for either scheduled or on-demand 24/7 mental health care. Community and Identity . The Center for Diversity in Engineering (CDE) is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world. The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers. Statement on Violence . The University of Virginia is dedicated to providing a safe and equitable learning environment for all students. If you or someone you know has been affected by power-based personal violence, more information can be found on the UVA Sexual Violence website that describes reporting options and resources available. The same resources and options for individuals who experience sexual misconduct are available for discrimination, harassment, and retaliation. UVA prohibits discrimination and harassment based on age, color, disability, family medical or genetic information, gender identity or expression, marital status, military status, national or ethnic origin, political affiliation, pregnancy (including childbirth and related conditions), race, religion, sex, sexual orientation, veteran status. UVA policy also prohibits retaliation for reporting such behavior. If you witness or are aware of someone who has experienced prohibited conduct, you are encouraged to submit a report to Just Report It (justreportit.virginia.edu) or contact EOCR, the office of Equal Opportunity and Civil Rights. If you would prefer to disclose such conduct to a confidential resource where what you share is not reported to the University, you can turn to Counseling &amp; Psychological Services (“CAPS”) and Women’s Center Counseling Staff and Confidential Advocates (for students of all genders). As your professor and as a person, know that I care about you and your well-being and stand ready to provide support and resources as I can. As a faculty member, I am a responsible employee, which means that I am required by University policy and by federal law to report certain kinds of conduct that you report to me to the University’s Title IX Coordinator. The Title IX Coordinator’s job is to ensure that the reporting student receives the resources and support that they need, while also determining whether further action is necessary to ensure survivor safety and the safety of the University community. ",
+    "url": "/syllabus.html#miscellaneous-policies",
+    
+    "relUrl": "/syllabus.html#miscellaneous-policies"
+  },"35": {
+    "doc": "Syllabus",
+    "title": "Syllabus",
+    "content": " ",
+    "url": "/syllabus.html",
+    
+    "relUrl": "/syllabus.html"
+  }
+}
