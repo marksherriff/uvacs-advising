@@ -5,12 +5,18 @@ nav_order: 4
 ---
 
 # Course Information
+{: .no_toc }
+
+1. TOC
+{:toc}
 
 ## Course Descriptions
 
 {% for course in site.data.courses %}
 
-__{{ course.course }}: {{ course.title }}__ _({{ course.credits }} credits)_           
+### {{ course.course }}: {{ course.title }}
+{: .no_toc }
+_({{ course.credits }} credits)_           
 {{ course.description }} 
 
 {% endfor %}
