@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Place Out Information
+title: Place Out Tests
+nav_order: 5
 ---
 
 # Place Out Tests

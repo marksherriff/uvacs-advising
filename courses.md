@@ -1,10 +1,19 @@
 ---
 layout: default
-title: Course Rules
-nav_order: 3
+title: Course Information
+nav_order: 4
 ---
 
-# Course Rules
+# Course Information
+
+## Course Descriptions
+
+{% for course in site.data.courses %}
+
+__{{ course.course }}: {{ course.title }}__ _({{ course.credits }} credits)_           
+{{ course.description }} 
+
+{% endfor %}
 
 ## Course Equivalencies
 
