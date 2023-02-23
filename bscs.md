@@ -14,13 +14,15 @@ nav_order: 2
 
 The official undergraduate record contains the official rules for completing the degree program.  If there is any disagreement between these pages and the rules in the undergraduate record, the record is the final authority.
 
+[UVA BSCS Undergraduate Record 2022-2023]({{ site.data.externallinks.bscs_undergraduate_record }})
+
 ## Declaring the Major
 
-Students declare their major in the School of Engineering and Applied Science either in their second semester if they entered the school as a first year student or upon transfer to the School.  More information can be found on the SEAS page for major declaration.
+Students declare their major in the School of Engineering and Applied Science either in their second semester if they entered the school as a first year student or upon transfer to the School.  More information can be found on the [SEAS page for major declaration]({{ site.data.externallinks.seas_major_minor }}).
 
-## Degree Handouts
+## Degree Handouts and Resources
 
-Degree checklist, example schedule, and prerequisite chart: http://bscschecklist.uvacs.org
+* [UVA BSCS Degree Checklist]({{ site.data.externallinks.bscs_checklist}})
 
 ## Degree Requirements
 

@@ -1,13 +1,8 @@
-github_classroom_project: "#"
+## Undergradaute Record links
 
-github_organization: "https://github.com/uva-cs4730-s23"
+bscs_undergraduate_record: "http://records.ureg.virginia.edu/preview_program.php?catoid=54&poid=7140"
+seas_major_minor: "http://records.ureg.virginia.edu/content.php?catoid=54&navoid=4326#Major_Minor"
 
-gradescope: "https://www.gradescope.com/courses/486468"
+## CS Materials
 
-piazza: "https://piazza.com/class/lcp7ggfnle65e4"
-
-lms: "https://collab.its.virginia.edu/portal/site/99d9957c-e199-40b7-bee7-23fac02e33ca/"
-
-coursepack: "https://www.cs4730.org"
-
-gamespage: "https://s23.cs4730.games"
+bscs_checklist: "/materials/uva-bscs-checklist.pdf"
