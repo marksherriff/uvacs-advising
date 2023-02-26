@@ -2,8 +2,12 @@
   title: Introduction to Information Technology
   credits: 3
   description: "How computers create, preserve, manipulate and communicate information and the concepts and tools used to that end. Units include how computers work, web technologies, creating web pages, algorithms and logic, basic programming, and solving problems with spreadsheets. Students will learn to recognize computational problems and develop basic skill sets to solve future problems in their discipline of study. No prior programming experience required. Cannot be taken for credit by students in SEAS."
+  prereqs: None
 
 - course: CS 1110
   title: Introduction to Programming
   credits: 3
   description: "A first course in programming, software development, and computer science. Introduces computing fundamentals and an appreciation for computational thinking. No previous programming experience required. Note: CS 1110, 1111, 1112, 1113, and 1120 provide different approaches to teaching the same core material; students may only receive credit for one of these courses."
+  prereqs: None
+
+  

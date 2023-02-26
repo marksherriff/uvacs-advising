@@ -1,8 +1,17 @@
 ## Undergradaute Record links
-
 bscs_undergraduate_record: "http://records.ureg.virginia.edu/preview_program.php?catoid=54&poid=7140"
 seas_major_minor: "http://records.ureg.virginia.edu/content.php?catoid=54&navoid=4326#Major_Minor"
 
 ## CS Materials
-
 bscs_checklist: "/materials/uva-bscs-checklist.pdf"
+
+## Lou's List links
+apma_course_list: "https://louslist.org/CC/APMA.html"
+chem_course_list: "https://louslist.org/CC/Chemistry.html"
+phys_course_list: "https://louslist.org/CC/Physics.html"
+engr_course_list: "https://louslist.org/CC/ENGR.html"
+sts_course_list: "https://louslist.org/CC/STS.html"
+
+## SEAS links
+math_sci_elective: "https://engineering.virginia.edu/uva-engineering-math-and-science-electives"
+seas_elective_info: "https://engineering.virginia.edu/current-students/current-undergraduate-students/degree-information/elective-information"

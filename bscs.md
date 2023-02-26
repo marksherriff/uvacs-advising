@@ -32,19 +32,19 @@ All students completing the Bachelor of Science degree in Computer Science must 
 
 BSCS students must complete the unified set of general requirements for all engineering majors.  More information can be found on the SEAS Curricular Requirements page.  These courses are often completed during the first two years in SEAS, with the exception of STS 4500 and 4600, which are taken during the fall and spring of the fourth year, respectively.
 
-* APMA 1110 - Single Variable Calculus II (Credits: 4)
-* APMA 2120 - Multivariable Calculus III (Credits: 4)
-* CHEM 1410/1411 - Introductory Chemistry I & Lab (Credits: 4)
-* CS 1110/1111/1112/1113 - Introduction to Programming (Credits: 3) (more info below)
-* ENGR 1624 - Introduction to Engineering
-* PHYS 1425/1429 - Introductory Physics I & Lab (Credits: 4)
-* PHYS 2415/2419 - Introductory Physics II & Lab (Credits: 4)
-* STS 1500 - Science, Technology, and Contemporary Issues (Credits: 3)
-* STS 2000 or 3000 level - STS Elective (Credits: 3) (see Department of Engineering and Society for more information)
-* STS 4500 - STS and Engineering Practice (Credits: 3)
-* STS 4600 - The Engineer, Ethics, and Professional Responsibility (Credits: 3)
-* Math and Science Elective (Credits: 3)
-* Humanities or Social Science Electives (Credits: 9) (more info below)
+* [APMA 1110 - Single Variable Calculus II]({{ site.data.externallinks.apma_course_list }}) (Credits: 4)
+* [APMA 2120 - Multivariable Calculus III]({{ site.data.externallinks.apma_course_list }}) (Credits: 4)
+* [CHEM 1410/1411 - Introductory Chemistry I & Lab]({{ site.data.externallinks.chem_course_list }}) (Credits: 4)
+* [CS 1110/1111/1112/1113 - Introduction to Programming]({{ baseurl }}/courses.html#cs-1110-introduction-to-programming) (Credits: 3) (more info below)
+* [ENGR 1624 - Introduction to Engineering]({{ site.data.externallinks.engr_course_list }})
+* [PHYS 1425/1429 - Introductory Physics I & Lab]({{ site.data.externallinks.phys_course_list }}) (Credits: 4)
+* [PHYS 2415/2419 - Introductory Physics II & Lab]({{ site.data.externallinks.phys_course_list }}) (Credits: 4)
+* [STS 1500 - Science, Technology, and Contemporary Issues]({{ site.data.externallinks.sts_course_list }}) (Credits: 3)
+* [STS 2000 or 3000 level - STS Elective]({{ site.data.externallinks.sts_course_list }}) (Credits: 3) (see Department of Engineering and Society for more information)
+* [STS 4500 - STS and Engineering Practice]({{ site.data.externallinks.sts_course_list }}) (Credits: 3)
+* [STS 4600 - The Engineer, Ethics, and Professional Responsibility]({{ site.data.externallinks.sts_course_list }}) (Credits: 3)
+* [Math and Science Elective]({{ site.data.externallinks.seas_elective_info }}) (Credits: 3)
+* [Humanities or Social Science Electives]({{ site.data.externallinks.seas_elective_info }}) (Credits: 9) (more info below)
 
 ### Introduction to Programming
 
