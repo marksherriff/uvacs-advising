@@ -29,7 +29,7 @@
   prereqs: None
 
 - course: CS 1120
-  title: Introduction to Computing: Explorations in Language, Logic, and Machines
+  title: "Introduction to Computing: Explorations in Language, Logic, and Machines"
   credits: 3
   description: "This course is an introduction to the most important ideas in computing. It focuses on the big ideas in computer science including the major themes of recursive definitions, universality, and abstraction. It covers how to describe information processes by defining procedures using the Scheme and Python programming languages, how to analyze the costs required to carry out a procedure, and the fundamental limits of what can be computed."
   prereqs: None
@@ -49,43 +49,43 @@
 - course: CS 2100
   title: Data Structures and Algorithms 1
   credits: 4
-  description: "A second course in computing with an emphasis on foundational data structures and program analysis. The course provides a introduction to object oriented programming and the Java programming language, concurrency, and inheritance / polymorphism. Additionally, foundational data structures and related algorithms / analysis are studied. These include lists, stacks, queues, trees, hash tables, and priority queues. Prereq: CS 1100 - CS 1199"
-  prereqs: None
+  description: "A second course in computing with an emphasis on foundational data structures and program analysis. The course provides a introduction to object oriented programming and the Java programming language, concurrency, and inheritance / polymorphism. Additionally, foundational data structures and related algorithms / analysis are studied. These include lists, stacks, queues, trees, hash tables, and priority queues."
+  prereqs: CS 1110, 1111, 1112, 1113, or 1120 with a grade of C- or higher; or the CS 1110 placement test.
 
 - course: CS 2102
   title: Discrete Mathematics
   credits: 3
-  description: "Introduces discrete mathematics and proof techniques involving first order predicate logic and induction. Application areas include finite and infinite sets, elementary combinatorial problems, and graph theory. Development of tools and mechanisms for reasoning about discrete problems. Prerequisite: CS 1110, 1111, 1112, 1113, or 1120 with a grade of C- or higher; or the CS 1110 placement test."
-  prereqs: None
+  description: "NOTE: This course is no longer being offered.  See CS 2120.  Introduces discrete mathematics and proof techniques involving first order predicate logic and induction. Application areas include finite and infinite sets, elementary combinatorial problems, and graph theory. Development of tools and mechanisms for reasoning about discrete problems."
+  prereqs: CS 1110, 1111, 1112, 1113, or 1120 with a grade of C- or higher; or the CS 1110 placement test.
 
 - course: CS 2110
   title: Software Development Methods
   credits: 3
-  description: "A second course in computing with an emphasis on modern software development and principles central to computer science. Topics include software requirements, testing, object-oriented design, abstraction, encapsulation, recursion, and time-complexity. Prerequisite: CS 1110, 1111, 1112, 1113, or 1120 with a grade of C- or higher; or the CS 1110 placement test."
-  prereqs: None
+  description: "NOTE: This course is no longer being offered.  A second course in computing with an emphasis on modern software development and principles central to computer science. Topics include software requirements, testing, object-oriented design, abstraction, encapsulation, recursion, and time-complexity. Prerequisite: CS 1110, 1111, 1112, 1113, or 1120 with a grade of C- or higher; or the CS 1110 placement test."
+  prereqs: CS 1110, 1111, 1112, 1113, or 1120 with a grade of C- or higher; or the CS 1110 placement test.
 
 - course: CS 2120
   title: Discrete Mathematics and Theory 1
   credits: 3
-  description: "Introduces discrete mathematics and proof techniques involving first order predicate logic and induction. Application areas include sets, tuples, functions, relations, and combinatorial problems. Prereq: CS 1100 - CS 1199"
-  prereqs: None
+  description: "Introduces discrete mathematics and proof techniques involving first order predicate logic and induction. Application areas include sets, tuples, functions, relations, and combinatorial problems."
+  prereqs: CS 1110, 1111, 1112, 1113, or 1120 with a grade of C- or higher; or the CS 1110 placement test.
 
 - course: CS 2130
   title: Computer Systems and Organization 1
   credits: 4
-  description: "This course covers topics on the computer architecture abstraction hierarchy ranging from a step above silicon to a step below modern programming languages. Students in this course will learn to write low-level code in C and Assembly, how data is stored in memory, the basics of hardware design from gates and registers through general-purpose computers, and legal, ethical, and security issues related to these topics. CS 1100 - CS 1199 and either familiarity with Java, C++, or another C-like language, or concurrent enrollment in CS 2100"
-  prereqs: None
+  description: "This course covers topics on the computer architecture abstraction hierarchy ranging from a step above silicon to a step below modern programming languages. Students in this course will learn to write low-level code in C and Assembly, how data is stored in memory, the basics of hardware design from gates and registers through general-purpose computers, and legal, ethical, and security issues related to these topics."
+  prereqs: CS 1110, 1111, 1112, 1113, or 1120 with a grade of C- or higher; or the CS 1110 placement test AND either familiarity with Java, C++, or another C-like language, or concurrent enrollment in CS 2100
 
 - course: CS 2150
   title: Program and Data Representation
   credits: 3
-  description: "Introduces programs and data representation at the machine level. Data structuring techniques and the representation of data structures during program execution. Operations and control structures and their representation during program execution. Representations of numbers, arithmetic operations, arrays, records, recursion, hashing, stacks, queues, trees, graphs, and related concepts. Prerequisite: CS 2110 with grades of C- or higher, or the CS 2110 placement test; co-requisite CS 2102 or CS 2120"
-  prereqs: None
+  description: "NOTE: This course is no longer being offered.  Introduces programs and data representation at the machine level. Data structuring techniques and the representation of data structures during program execution. Operations and control structures and their representation during program execution. Representations of numbers, arithmetic operations, arrays, records, recursion, hashing, stacks, queues, trees, graphs, and related concepts."
+  prereqs: CS 2110 with grades of C- or higher, or the CS 2110 placement test; co-requisite CS 2102 or CS 2120
 
 - course: CS 2330
   title: Digital Logic Design
   credits: 3
-  description: "Introduction to analysis and design of digital systems from switches to gates to components to CPU. Analysis and design of combinational and sequential components including multiplexers and demultiplexers, decoders and encoders, comparators, adders and ALU, registers and register files, counters and timers, RTL design, culminating in the design of a simple programmable processor. 10-12 studio design activities. Cross-listed as ECE 2330."
+  description: "NOTE: This course is no longer required for CS majors.  Introduction to analysis and design of digital systems from switches to gates to components to CPU. Analysis and design of combinational and sequential components including multiplexers and demultiplexers, decoders and encoders, comparators, adders and ALU, registers and register files, counters and timers, RTL design, culminating in the design of a simple programmable processor. 10-12 studio design activities. Cross-listed as ECE 2330."
   prereqs: None
 
 - course: CS 2501
@@ -109,32 +109,32 @@
 - course: CS 3100
   title: Data Structures and Algorithms 2
   credits: 3
-  description: "Builds upon previous analysis of algorithms and the effects of data structures on them. Algorithms selected from areas such as searching, shortest paths, greedy algorithms, backtracking, divide-and-conquer, dynamic programming, and machine learning. Analysis techniques include asymptotic worst case, expected time, amortized analysis, and reductions.CS 2150 or (CS 2100 & CS 2120); APMA 1090 or MATH 1210 or MATH 1310 or equivalent"
-  prereqs: None
+  description: "Builds upon previous analysis of algorithms and the effects of data structures on them. Algorithms selected from areas such as searching, shortest paths, greedy algorithms, backtracking, divide-and-conquer, dynamic programming, and machine learning. Analysis techniques include asymptotic worst case, expected time, amortized analysis, and reductions."
+  prereqs: CS 2150 or (CS 2100 & CS 2120); APMA 1090 or MATH 1210 or MATH 1310 or equivalent
 
 - course: CS 3102
   title: Theory of Computation
   credits: 3
-  description: "Introduces computation theory including grammars, finite state machines, pushdown automata, and Turing machines. Prerequisites: (CS 2102 or CS 2120) and (CS 2100 or CS 2110 or CS 2501 topic "DSA 2" or the CS 2110 placement test); both with grades of C- or higher."
-  prereqs: None
+  description: "NOTE: This course is no longer being offered.  Introduces computation theory including grammars, finite state machines, pushdown automata, and Turing machines."
+  prereqs: (CS 2102 or CS 2120) and (CS 2100 or CS 2110 or CS 2501 topic "DSA 2" or the CS 2110 placement test); both with grades of C- or higher
 
 - course: CS 3120
   title: Discrete Mathematics and Theory 2
   credits: 3
-  description: "The goal of this course is to understand the fundamental limits on what can be efficiently computed. These limits reveal properties about information, communication, and computing, as well as practical issues about how to solve problems. Introduces computation theory including grammars, automata, and Turing machines. Prereq: CS 4102 or CS 3100 with a grade of C- or better"
-  prereqs: None
+  description: "The goal of this course is to understand the fundamental limits on what can be efficiently computed. These limits reveal properties about information, communication, and computing, as well as practical issues about how to solve problems. Introduces computation theory including grammars, automata, and Turing machines."
+  prereqs: CS 4102 or CS 3100 with a grade of C- or better
 
 - course: CS 3130
   title: Computer Systems and Organization 2
   credits: 4
-  description: "A second course in computer systems, this course will explore a more realistic model of processors and how they and the operating system work together to provide various functionality we depend on as application programmers. Course topics include permission models, system architecture, concurrency, virtual memory, cryptographic primitives, and TCP/IP networking. Prereq CS 2100 and CS 2130 with a grade of C- or better"
-  prereqs: None
+  description: "A second course in computer systems, this course will explore a more realistic model of processors and how they and the operating system work together to provide various functionality we depend on as application programmers. Course topics include permission models, system architecture, concurrency, virtual memory, cryptographic primitives, and TCP/IP networking."
+  prereqs: CS 2100 and CS 2130 with a grade of C- or better
 
 - course: CS 3140
   title: Software Development Essentials
   credits: 3
-  description: "A first course in software engineering and software construction, this course focuses on bringing the programming concepts learned in a first course in data structures and algorithms together to begin to teach students how to build more complex systems. The course covers introductory topics in testing, software design principles, design patterns, functional programming, and data storage and manipulation. Completed CS 2100 with a C- or better."
-  prereqs: None
+  description: "A first course in software engineering and software construction, this course focuses on bringing the programming concepts learned in a first course in data structures and algorithms together to begin to teach students how to build more complex systems. The course covers introductory topics in testing, software design principles, design patterns, functional programming, and data storage and manipulation."
+  prereqs: CS 2100 with a C- or better.
 
 - course: CS 3205
   title: HCI in Software Development
@@ -205,20 +205,19 @@
 - course: CS 4434
   title: Dependable Computing Systems
   credits: 3
-  description: "Focuses on techniques for designing & analyzing dependable computer-based systems. Topics include basic dependability concepts & attributes, fault models & effects, combinatorial & state-space modeling, hardware redundancy, error detecting & correcting codes, time redundancy, software fault tolerance, checkpointing & recovery, reliable networked systems, error detection techniques, & experimental dependability evaluation techniques. Prereq:CS 3330 or CS 2501 topic "COA 2" or ECE 3430 or ECE 4435 or ECE 3502 topic "ECR II" or CS 3130 and CS 3140; APMA 3100, APMA 3110, MATH 3100, or equivalent. Must complete CS courses with a grade 
-of C- or better."
+  description: "Focuses on techniques for designing & analyzing dependable computer-based systems. Topics include basic dependability concepts & attributes, fault models & effects, combinatorial & state-space modeling, hardware redundancy, error detecting & correcting codes, time redundancy, software fault tolerance, checkpointing & recovery, reliable networked systems, error detection techniques, & experimental dependability evaluation techniques. Prereq:CS 3330 or CS 2501 topic \"COA 2\" or ECE 3430 or ECE 4435 or ECE 3502 topic \"ECR II\" or CS 3130 and CS 3140; APMA 3100, APMA 3110, MATH 3100, or equivalent. Must complete CS courses with a grade of C- or better."
   prereqs: None
 
 - course: CS 4444
   title: Introduction to Parallel Computing
   credits: 3
-  description: "Introduces the student to the basics of high-performance parallel computing and the national cyber-infrastructure. The course is targeted for both computer science students and students from other disciplines who want to learn how to significantly increase the performance of applications. Prereq: CS 2150 and CS 3330 or CS 2501 topic "COA 2" or ECE 3430 or ECE 4435 or ECE 3502 topic "ECR II" or CS 3100 and CS 3130. Must complete CS courses with a grade of C- or better."
+  description: "Introduces the student to the basics of high-performance parallel computing and the national cyber-infrastructure. The course is targeted for both computer science students and students from other disciplines who want to learn how to significantly increase the performance of applications. Prereq: CS 2150 and CS 3330 or CS 2501 topic \"COA 2\" or ECE 3430 or ECE 4435 or ECE 3502 topic \"ECR II\" or CS 3100 and CS 3130. Must complete CS courses with a grade of C- or better."
   prereqs: None
 
 - course: CS 4457
   title: Computer Networks
   credits: 3
-  description: "A first course in communication networks for upper-level undergraduate students. Topics include the design of modern communication networks; point-to-point and broadcast network solutions; advanced issues such as Gigabit networks; ATM networks; and real-time communications. Cross-listed as ECE 4457. Prerequisite: CS 3330 or CS 2501 topic "COA 2" or ECE 3430 or ECE 4435 or ECE 3502 topic "ECR II" or CS 3130. Must complete CS courses with a grade of C- or better."
+  description: "A first course in communication networks for upper-level undergraduate students. Topics include the design of modern communication networks; point-to-point and broadcast network solutions; advanced issues such as Gigabit networks; ATM networks; and real-time communications. Cross-listed as ECE 4457. Prerequisite: CS 3330 or CS 2501 topic \"COA 2\" or ECE 3430 or ECE 4435 or ECE 3502 topic \"ECR II\" or CS 3130. Must complete CS courses with a grade of C- or better."
   prereqs: None
 
 - course: CS 4458
@@ -242,9 +241,7 @@ of C- or better."
 - course: CS 4620
   title: Compilers
   credits: 3
-  description: "Provides an introduction to the field of compilers, which translate programs written in high-level languages to a form that can be executed. The course covers the theories and mechanisms of compilation 
-tools. Students will learn the core ideas behind compilation and how to use software tools such as lex/flex, yacc/bison to build a compiler for a non-trivial programming language. Prerequisite: CS 2150 or (CS 2120 and 
-3140) with a grade of C- or better"
+  description: "Provides an introduction to the field of compilers, which translate programs written in high-level languages to a form that can be executed. The course covers the theories and mechanisms of compilation tools. Students will learn the core ideas behind compilation and how to use software tools such as lex/flex, yacc/bison to build a compiler for a non-trivial programming language. Prerequisite: CS 2150 or (CS 2120 and 3140) with a grade of C- or better"
   prereqs: None
 
 - course: CS 4630
@@ -274,8 +271,7 @@ tools. Students will learn the core ideas behind compilation and how to use soft
 - course: CS 4730
   title: Computer Game Design
   credits: 3
-  description: "This course will introduce students to the concepts and tools used in the development of modern 2-D and 3-D real-time interactive computer video games. Topics covered in this include graphics, parallel 
-processing, human-computer interaction, networking, artificial intelligence, and software engineering. Prerequisite: CS 2150 or CS 3140 with a grade of C- or better"
+  description: "This course will introduce students to the concepts and tools used in the development of modern 2-D and 3-D real-time interactive computer video games. Topics covered in this include graphics, parallel processing, human-computer interaction, networking, artificial intelligence, and software engineering. Prerequisite: CS 2150 or CS 3140 with a grade of C- or better"
   prereqs: None
 
 - course: CS 4740
@@ -287,8 +283,7 @@ processing, human-computer interaction, networking, artificial intelligence, and
 - course: CS 4750
   title: Database Systems 
   credits: 3
-  description: "Introduces the fundamental concepts for design and development of database systems. Emphasizes relational data model and conceptual schema design using ER model, practical issues in commercial database 
-systems, database design using functional dependencies, and other data models. Develops a working relational database for a realistic application. Prerequisite: CS 2150 or (CS 2120 and 3140) with a grade of C- or better"
+  description: "Introduces the fundamental concepts for design and development of database systems. Emphasizes relational data model and conceptual schema design using ER model, practical issues in commercial database systems, database design using functional dependencies, and other data models. Develops a working relational database for a realistic application. Prerequisite: CS 2150 or (CS 2120 and 3140) with a grade of C- or better"
   prereqs: None
 
 - course: CS 4753
@@ -312,8 +307,7 @@ systems, database design using functional dependencies, and other data models. D
 - course: CS 4780
   title: Information Retrieval
   credits: 3
-  description: "An introduction to modern information retrieval technologies. Topics include indexing, query processing, document ranking, query recommendation, personalization, and other current topics in information 
-retrieval. Students develop a custom search engine as part of this course. Prerequisites: CS 2150 or CS 3100 with a grade of C- or better; APMA 3100, APMA 3110, MATH 3100, or equivalent"
+  description: "An introduction to modern information retrieval technologies. Topics include indexing, query processing, document ranking, query recommendation, personalization, and other current topics in information retrieval. Students develop a custom search engine as part of this course. Prerequisites: CS 2150 or CS 3100 with a grade of C- or better; APMA 3100, APMA 3110, MATH 3100, or equivalent"
   prereqs: None
 
 - course: CS 4810
@@ -331,8 +325,7 @@ retrieval. Students develop a custom search engine as part of this course. Prere
 - course: CS 4971
   title: Capstone Practicum II
   credits: 3
-  description: "This course is one option in the CS fourth-year thesis track and is the continuation from CS 4970. Under the practicum track, students will take two 3-credit courses, CS 4970 and CS 4971. These courses 
-would form a year-long group-based and project-based practicum class. There would be an actual customer, which could be either internal (the course instructor, other CS professors, etc.) or external (local companies, local non-profits, etc.). Prerequisite: CS 4970"
+  description: "This course is one option in the CS fourth-year thesis track and is the continuation from CS 4970. Under the practicum track, students will take two 3-credit courses, CS 4970 and CS 4971. These courses would form a year-long group-based and project-based practicum class. There would be an actual customer, which could be either internal (the course instructor, other CS professors, etc.) or external (local companies, local non-profits, etc.). Prerequisite: CS 4970"
   prereqs: None
 
 - course: CS 4980
@@ -362,7 +355,7 @@ would form a year-long group-based and project-based practicum class. There woul
 - course: CS 5010
   title: Programming and Systems for Data Science
   credits: 3
-  description: "The objective of this course is to introduce basic data analysis techniques including data analysis at scale, in the context of real-world domains such as bioinformatics, public health, marketing, security, etc. For the purpose of facilitating data manipulation and analysis, students will be introduced to essential programming techniques in Python, an increasingly prominent language for data science and "big data" manipulation. Prerequisite: CS 1110, Math 1310 or APMA 1110, Math 3351 or APMA 3080, Math 3100, APMA 3010 or APMA 3110"
+  description: "The objective of this course is to introduce basic data analysis techniques including data analysis at scale, in the context of real-world domains such as bioinformatics, public health, marketing, security, etc. For the purpose of facilitating data manipulation and analysis, students will be introduced to essential programming techniques in Python, an increasingly prominent language for data science and \"big data\" manipulation. Prerequisite: CS 1110, Math 1310 or APMA 1110, Math 3351 or APMA 3080, Math 3100, APMA 3010 or APMA 3110"
   prereqs: None
 
 - course: CS 5012
@@ -380,8 +373,7 @@ would form a year-long group-based and project-based practicum class. There woul
 - course: CS 5487
   title: Real-Time Systems
   credits: 3
-  description: "This course presents the underlying theory, concepts, and practice for real-time systems, such as avionics, process control, space travel, mobile computing and ubiquitous computing. The goals of the course include: introducing the unique problems that arise when time constraints are imposed on systems, identifying basic theory and the boundary between what is known today and what is still research, stressing a systems integration viewpoint in the sense of showing how everything fits together rather than presenting a collection of isolated solutions, and addressing multiprocessing and distributed systems. This course also presents 
-some of the basic results from what might be called the classical technology of real-time computing and presents these results in the context of new applications of this technology in ubiquitous/pervasive computer systems. Prerequisite: CS 3330 and CS 4414, knowledge of C or C++, or instructor permission."
+  description: "This course presents the underlying theory, concepts, and practice for real-time systems, such as avionics, process control, space travel, mobile computing and ubiquitous computing. The goals of the course include: introducing the unique problems that arise when time constraints are imposed on systems, identifying basic theory and the boundary between what is known today and what is still research, stressing a systems integration viewpoint in the sense of showing how everything fits together rather than presenting a collection of isolated solutions, and addressing multiprocessing and distributed systems. This course also presents some of the basic results from what might be called the classical technology of real-time computing and presents these results in the context of new applications of this technology in ubiquitous/pervasive computer systems. Prerequisite: CS 3330 and CS 4414, knowledge of C or C++, or instructor permission."
   prereqs: None
 
 - course: CS 5501
@@ -399,8 +391,7 @@ some of the basic results from what might be called the classical technology of 
 - course: CS 6111
   title: Cloud Computing
   credits: 3
-  description: "This course introduces a basic grounding in designing and implementing cloud systems. It aims to acquaint students with principles and technologies of server clusters, virtualized datacenters, Internet 
-clouds, and applications. Students will gain hands-on experience on public cloud such as Amazon EC2. Prerequisites: CS2150 Program and Data Representation or CS 111x Introduction to Programming, CS 4457 Computer Networks or equivalent background."
+  description: "This course introduces a basic grounding in designing and implementing cloud systems. It aims to acquaint students with principles and technologies of server clusters, virtualized datacenters, Internet clouds, and applications. Students will gain hands-on experience on public cloud such as Amazon EC2. Prerequisites: CS2150 Program and Data Representation or CS 111x Introduction to Programming, CS 4457 Computer Networks or equivalent background."
   prereqs: None
 
 - course: CS 6160
@@ -442,8 +433,7 @@ clouds, and applications. Students will gain hands-on experience on public cloud
 - course: CS 6333
   title: Mobile and IoT Security
   credits: 3
-  description: "This course focuses on aspects of system security that arise in this challenging and ever-evolving space of mobile communication systems, primarily focusing on smartphones and IoT platforms. One of the 
-main goals of the course is to improve knowledge and awareness of security issues faced by mobile application and system developers. The material will cover standards and research challenges in both deployed and future systems."
+  description: "This course focuses on aspects of system security that arise in this challenging and ever-evolving space of mobile communication systems, primarily focusing on smartphones and IoT platforms. One of the main goals of the course is to improve knowledge and awareness of security issues faced by mobile application and system developers. The material will cover standards and research challenges in both deployed and future systems."
   prereqs: None
 
 - course: CS 6354
@@ -509,8 +499,7 @@ main goals of the course is to improve knowledge and awareness of security issue
 - course: CS 6666
   title: Data Mining - Principles and Algorithms
   credits: 3
-  description: "This graduate-level course introduces the fundamental techniques, algorithms, and applications of data mining. Topics to be covered include frequent pattern mining, clustering, classification, anomaly detection, feature selection, graph and network analysis, correlation analysis, distance/similarity metric learning, streaming data mining, spatiotemporal data mining, visualization of patterns, recommendation systems, 
-and evaluation and validation."
+  description: "This graduate-level course introduces the fundamental techniques, algorithms, and applications of data mining. Topics to be covered include frequent pattern mining, clustering, classification, anomaly detection, feature selection, graph and network analysis, correlation analysis, distance/similarity metric learning, streaming data mining, spatiotemporal data mining, visualization of patterns, recommendation systems, and evaluation and validation."
   prereqs: None
 
 - course: CS 6750
@@ -526,7 +515,7 @@ and evaluation and validation."
   prereqs: None
 
 - course: CS 6763
-  title: Cyber-Physical Systems: Formal Methods, Safety and Security
+  title: "Cyber-Physical Systems: Formal Methods, Safety and Security"
   credits: 3
   description: "Cyber-physical systems (CPS) are smart systems that include co-engineered interacting networks of physical and computational components. This course will teach students the required skills to analyze the CPS that are all around us, so that when they contribute to the design of CPS, they are able to understand important safety and security aspects and feel confident designing and analyzing CPS systems."
   prereqs: None
@@ -552,8 +541,7 @@ and evaluation and validation."
 - course: CS 6890
   title: Industrial Applications
   credits: 1
-  description: "A graduate student returning from Curricular Practical Training can use this course to claim one credit hour of academic credit after successfully reporting, orally and in writing, a summary of the CPT 
-experience to his/her academic advisor."
+  description: "A graduate student returning from Curricular Practical Training can use this course to claim one credit hour of academic credit after successfully reporting, orally and in writing, a summary of the CPT experience to his/her academic advisor."
   prereqs: None
 
 - course: CS 6993

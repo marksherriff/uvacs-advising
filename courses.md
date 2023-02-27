@@ -16,8 +16,8 @@ nav_order: 4
 
 ### {{ course.course }}: {{ course.title }}
 {: .no_toc }
-_({{ course.credits }} credits)_           
-{{ course.description }} 
+_({{ course.credits }} credits  / Prerequisites: {{ course.prereqs }})_           
+{{ course.description }}        
 
 {% endfor %}
 
