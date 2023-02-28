@@ -10,3 +10,9 @@ nav_order: 5
 ## BSCS General Information Session
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/f28reZQEmuc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## BACS General Information Session
+
+[http://www.cs.virginia.edu/~horton/bacs-orientation-21oct2022.html](http://www.cs.virginia.edu/~horton/bacs-orientation-21oct2022.html)
+
+The latest video about the Old BACS is here: [http://www.cs.virginia.edu/~horton/bacs-orientation-05sep2021.html](http://www.cs.virginia.edu/~horton/bacs-orientation-05sep2021.html) (This is from Sept. 2021, but it focuses on the "old curriculum".)
