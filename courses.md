@@ -10,6 +10,10 @@ nav_order: 4
 1. TOC
 {:toc}
 
+## Course Prerequisite Chart
+
+![Prerequisite Chart]({{ site.data.externallinks.prereq_chart }})
+
 ## Course Descriptions
 
 {% for course in site.data.courses %}

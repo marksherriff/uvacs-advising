@@ -2,26 +2,31 @@
 layout: default
 title: BACS Information
 nav_order: 3
+has_children: true
 ---
 
 # BACS Information
+{: .no_toc }
 
-New Curriculum
+1. TOC
+{:toc}
 
-Students who will have completed CS 2110 with a C+ or higher (or a CR during a “covid” semester) by the end of fall 2021, can declare the current BACS major (see "Old Curriculum") and follow the requirements in the 2021-22 Undergraduate Record.
+## Undergraduate Record
 
-Students who have not completed CS 2110 by the end of fall 2021 should follow the guidance below.
+The official undergraduate record contains the official rules for completing the degree program.  If there is any disagreement between these pages and the rules in the undergraduate record, the record is the final authority.
 
-Currently the “BACS” degree at UVA is officially one of several majors that are part of the College’s Bachelor of Arts (BA) in Interdisciplinary degree program. Efforts are underway to transition its official status so that it is separated from the Interdisciplinary degree program.
+[UVA BACS Undergraduate Record 2022-2023]({{ site.data.externallinks.bacs_undergraduate_record }})
 
-Thus a request to establish a Bachelor of Arts in Computer Science has been submitted to the State Council of Higher Education for Virginia (SCHEV) for review and approval.  The following guidance for this degree is offered for planning purposes only pending SCHEV approval.  The College of Arts and Sciences will know by November 2021 if this degree program will be available effective Spring 2022 and will revise the below guidance as needed consistent with SCHEV’s decision.
+## Declaring the Major
 
-Below we will refer to this “new” degree as the “New-BACS” major, and refer to the current degree with its interdisciplinary degree status as the “INTER-CS” major.  The INTER-CS option will continue to exist and be available to students until the New-BACS degree becomes officially available.
-Undergraduate Record
+Students declare their major in the School of Engineering and Applied Science either in their second semester if they entered the school as a first year student or upon transfer to the School.  More information can be found on the [SEAS page for major declaration]({{ site.data.externallinks.seas_major_minor }}).
 
-The official undergraduate record has not yet been updated for the new BACS degree program.
-Declaring the Major
+## Degree Handouts and Resources
 
+* [UVA BSCS Degree Checklist]({{ site.data.externallinks.bscs_checklist}})
+* [Course Prerequisite Chart]({{ baseurl }} /courses.html#prerequisite-chart)
+
+## Degree Requirements
 Information on how to declare the BACS major can be found at: https://bit.ly/bacs-declaring
 Degree Handouts
 
