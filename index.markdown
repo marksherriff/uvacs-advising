@@ -8,7 +8,7 @@ permalink: /
 
 # UVA CS Advising Guide
 
-Site Last Updated: {{ site.time | date: '%A, %B %d, %Y @ %l:%M %p' }}
+Site Last Updated: {{ site.time | date: '%A, %B %d, %Y' }}
 
 __This page is currently in Beta and is under construction.  Use at your own risk!__
 

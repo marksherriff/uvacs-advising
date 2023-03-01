@@ -18,16 +18,16 @@ Students who wish to take the place out test can fill out this form to receive a
 
 The place-out test is made up of several multiple-choice, short answer, and coding questions. Students may use any of the following languages on the test: Java, Python, C++, C, Javascript, or C#.  Students interested in taking the test need to be familiar with:
 
-    variables (creation and manipulation)
-    functions/methods (creation and usage)
-    how to read and interpret code
-    if / else statements
-    various loop constructs (for, while)
-    string manipulation
-    input and output
-    arrays / lists
+* variables (creation and manipulation)
+* functions/methods (creation and usage)
+* how to read and interpret code
+* if / else statements
+* various loop constructs (for, while)
+* string manipulation
+* input and output
+* arrays / lists
 
-CS 2100 Place Out Test Information
+## CS 2100 Place Out Test Information
 
 Place out tests are only available as follows:
 
