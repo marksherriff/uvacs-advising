@@ -19,7 +19,7 @@ The official undergraduate record contains the official rules for completing the
 
 ## Declaring the Major
 
-Students declare their major in the School of Engineering and Applied Science either in their second semester if they entered the school as a first year student or upon transfer to the School.  More information can be found on the [SEAS page for major declaration]({{ site.data.externallinks.seas_major_minor }}).
+See the page on [Declaring the BACS]({{ baseurl }}/bacs/declaring.html).
 
 ## Degree Handouts and Resources
 

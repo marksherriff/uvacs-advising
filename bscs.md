@@ -23,6 +23,7 @@ Students declare their major in the School of Engineering and Applied Science ei
 ## Degree Handouts and Resources
 
 * [UVA BSCS Degree Checklist]({{ site.data.externallinks.bscs_checklist}})
+* [UVA BSCS Example Semester Schedule]({{ site.data.externallinks.bscs_example_schedule }})
 * [Course Prerequisite Chart]({{ baseurl }} /courses.html#prerequisite-chart)
 
 ## Degree Requirements
