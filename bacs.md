@@ -23,65 +23,40 @@ See the page on [Declaring the BACS]({{ baseurl }}/bacs/declaring.html).
 
 ## Degree Handouts and Resources
 
-* [UVA BSCS Degree Checklist]({{ site.data.externallinks.bscs_checklist}})
+* [UVA BACS Degree Checklist]({{ site.data.externallinks.bacs_checklist}})
+* [UVA BACS Example Semester Schedule]({{ site.data.externallinks.bacs_example_schedule }})
 * [Course Prerequisite Chart]({{ baseurl }} /courses.html#prerequisite-chart)
 
 ## Degree Requirements
-Information on how to declare the BACS major can be found at: https://bit.ly/bacs-declaring
-Degree Handouts
 
-    Degree checklist, example schedule, and prerequisite chart: http://bacschecklist.uvacs.org
-    General information for new and prospective BACS majors: http://bit.ly/bacs-basic-info
-    Detailed information regarding Integration Electives and policies: https://bit.ly/bacs-integration-electives
+### BACS Prerequisites
 
+To declare the degree, you must have completed the following:
 
-Advising for Spring 2021
+* An introductory computer science course, such as CS 1110 , CS 1111 , CS 1112 , CS 1113  or CS 1120 , or an equivalent course; or successful completion of the associated place-out test.
+* [CS 2100 - Data Structures and Algorithms 1]({{ baseurl }}/courses.html#cs-2100-data-structures-and-algorithms-1) (with C+ or higher) or equivalent or successful completion of the associated place-out test.
 
-If you have completed CS 2110 with a C+ or higher (or a CR during a “covid” semester) by the end of fall 2021:
+The following courses satisfy the major requirements for the BACS degree:
 
-    None of these new changes will affect your your path to graduation.
-    You will be able to declare the INTER-CS major and follow the degree requirements given in the 2021-22 Undergraduate Record.
-    You should complete CS 2150 in spring 2021 or fall 2022 (the last semester we plan to offer it).
+### BACS Required CS courses
 
+All BACS majors must complete the following courses (20 credits):
 
-If you WON’T complete CS 2110 with a C+ or higher (or a CR during a “covid” semester) by the end of fall 2021: 
-
-    In spring 2022 or later, you should plan to take CS 2100, the new Data Structures and Analysis 1 course, instead of CS 2110 and you should plan to follow the “new degree requirements” listed below.
-    If SCHEV approval for the New-BACS happens before spring semester (and we believe it very likely will), you will only be allowed to declare the “new” degree.
-    If SCHEV approval is delayed, you may have a choice of declaring either the New-BACS or the existing INTER-CS major. But exact details of what this means and how the requirements for the INTER-CS major will be updated have not yet been determined.
-    For spring 2022, it’s enough to know that taking CS 2100, CS 2120, or CS 2130 in Spring 2022 or later will count towards either degree. So plan to follow the “new degree requirements” listed below.
+* [CS 2120 - Discrete Mathematics and Theory 1]({{ baseurl }}/courses.html#cs-2120-discrete-mathematics-and-theory-1) (Credits: 3)
+* [CS 2130 - Computer Systems and Organization 1]({{ baseurl }}/courses.html#cs-2130-computer-systems-and-organization-1) (Credits: 4)
+* [CS 3100 - Data Structures and Algorithms 2]({{ baseurl }}/courses.html#cs-2100-data-structures-and-algorithms-2) (Credits: 4)
+* [CS 3120 - Discrete Mathematics and Theory 2]({{ baseurl }}/courses.html#cs-2120-discrete-mathematics-and-theory-2) (Credits: 3)
+* [CS 3130 - Computer Systems and Organization 2]({{ baseurl }}/courses.html#cs-2130-computer-systems-and-organization-2) (Credits: 4)
+* [CS 3140 - Software Development Essentials]({{ baseurl }}/courses.html#cs-3140-software-development-essentials) (Credits: 3)
 
 
-Degree Requirements
+### Computer Science Electives 
 
-These are the requirements for the New-BACS degree, as submitted in the proposal to SCHEV.
+All BACS majors must complete 9 credits (normally 3 courses) of [CS electives]({{baseurl}}/policies.html#cs-elective-policy).  These are CS courses at the 3000-level or above, in addition to the required courses listed above. At most, 3 credits of CS 4993 (Independent Study) can be counted towards this requirement. CS 4980 and CS 4998 cannot be counted towards this requirement.
 
-Prerequisites: To declare the degree, you must have completed the following:
+### Integration Electives
 
-    An introductory computer science course, such as CS 1110 , CS 1111 , CS 1112 , CS 1113  or CS 1120 , or an equivalent course; or successful completion of the associated place-out test.
-    CS 2100, Data Structures and Algorithms 1 (with C+ or higher), or equivalent
-
-
-The following courses satisfy the major requirements for the New-BACS degree:
-
-Required CS courses (20 credits):
-
-    CS 2120 – Discrete Mathematics and Theory 1 (3 credits)
-    CS 2130 – Computer Systems and Organization 1 (4 credits)
-    CS 3100 – Data Structures and Algorithms 2 (3 credits)
-    CS 3120 – Discrete Mathematics and Theory 2 (3 credits)
-    CS 3130 – Computer Systems and Organization 2 (4 credits)
-    CS 3140 – Software Development Essentials (3 credits)
-
-
-CS elective courses (9 credits, normally 3 courses):
-These are CS courses at the 3000-level or above, in addition to the required courses listed above. At most, 3 credits of CS 4993 (Independent Study) can be counted towards this requirement. CS 4980 and CS 4998 cannot be counted towards this requirement.
-
-Integration Electives (12 credits):
-These are non-CS courses that contribute to this program of study by exploring applications of computing to arts and sciences fields in a significant way or by providing fundamental computing depth and background. Integration electives are courses offered by departments in the College of Liberal Arts and Sciences. The list of approved courses can be found in the BACS section of the UG Record.
-
-Distinguished Majors Program:
-Students who apply to and are accepted to be in the Distinguished Majors Program must complete the degree requirements listed above as well as a fourth year thesis project. This requires two semesters of CS 4998, Distinguished BA Majors Research (3 credits each semester) in addition to the above requirements. See the department website for more details.
+All BACS majors must complete 12 credits of [Integration Electives]({{baseurl}}/bacs/integration_electives.html).  These are non-CS courses that contribute to this program of study by exploring applications of computing to arts and sciences fields in a significant way or by providing fundamental computing depth and background. Integration electives are courses offered by departments in the College of Liberal Arts and Sciences. The list of approved courses can be found in the [BACS section of the UG Record]({{ site.data.externallinks.bacs_undergraduate_record }}).
 
 ## Distinguished Majors Program
 
