@@ -20,7 +20,10 @@ sts_course_list: "https://louslist.org/CC/STS.html"
 ## SEAS links
 math_sci_elective: "https://engineering.virginia.edu/uva-engineering-math-and-science-electives"
 seas_elective_info: "https://engineering.virginia.edu/current-students/current-undergraduate-students/degree-information/elective-information"
+seas_declaring_major: "https://engineering.virginia.edu/current-students/current-undergraduate-students/degree-information/majors-and-minors"
 
 ## College links
 college_declaring_major: "https://college.as.virginia.edu/declaremajor"
 college_departments: "http://as.virginia.edu/departments"
+
+## Contacts
