@@ -1,3 +1,5 @@
+## For changing copy/pasted text from Lou's List into YML for Jekyll to use
+
 
 courses_file = open("courses_raw.txt", "r")
 
