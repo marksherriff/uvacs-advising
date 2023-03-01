@@ -83,3 +83,6 @@ These are non-CS courses that contribute to this program of study by exploring a
 Distinguished Majors Program:
 Students who apply to and are accepted to be in the Distinguished Majors Program must complete the degree requirements listed above as well as a fourth year thesis project. This requires two semesters of CS 4998, Distinguished BA Majors Research (3 credits each semester) in addition to the above requirements. See the department website for more details.
 
+## Distinguished Majors Program
+
+Prof. David Evans manages the BACS Distinguished Majors Program (DMP), and details about that program can be found at this link.  Students who apply to and are accepted to be in the Distinguished Majors Program must complete the usual degree requirements as well as a fourth year thesis project. This requires two semesters of CS 4998, Distinguished BA Majors Research (3 credits each semester) in addition to the usual requirements.
