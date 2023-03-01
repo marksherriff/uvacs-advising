@@ -6,7 +6,7 @@ parent: BACS Information
 
 # Declaring the BACS Major
 
-__Last updated: 11/8/2022__
+__Last updated: 11/08/2022__
 
 ## Who can declare? 
 The BACS was created for College students who want to study computer science and combine that with the study of how computing applies in other fields of the arts and sciences.  SEAS students are not eligible to declare the BACS and should instead declare the CS minor or the BSCS as a second major. Students from other schools should contact the Director of the BACS program at [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu).

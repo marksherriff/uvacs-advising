@@ -8,18 +8,6 @@ parent: BACS Information
 
 __Last updated: 10/26/2022__
 
-## Degree Requirements:
-“New Curriculum:” Students who declared the BACS in May 2022 or later will follow what we often refer to as the “new curriculum.”  This is the one that requires CS2100, CS2130, CS3140 etc.
-The official degree requirements are in the 2022-23 Undergraduate Record at this link. 
-Here’s a nice page with a checklist, sample schedule, and a prereq chart.
-SIS automatically recognizes the list of integration electives for these students linked to from that page in the UG Record. Here’s a direct link. (But see the info on integration electives below.)
-“Old Curriculum:” Students who declared the BACS in Fall 2021 or earlier follow what we call the “old curriculum” (unless they switched to the new curriculum). This is the one that requires CS2110, CS2150, CS3330, etc.
-The official degree requirements are in the 2021-22 Undergraduate Record at this link.
-SIS automatically recognizes the list of integration electives for these students linked to from that page in the UG Record. Here’s a direct link. (But see the info on integration electives below.)
-Current students can declare the major with the “old curriculum” at this time only if they are able to complete CS2150 by the end of Fall 2022 (with a C- or higher) and pass CS3330 no later than Spring 2023.
-Need more info on our transition from the “old” to the “new” curriculum?
-Go to this page on the CS department website, and look through the two subsections named Undergraduate Curriculum Transition Plan and Undergraduate Degree Information and Advising.
-
 Integration electives:  The truly official list of approved courses in the one linked to in the UG Record for your requirements year. (There are direct links provided in the first section of this document.)
 
 More about integration electives:  We have a long document at https://bit.ly/bacs-integration-electives  that describes rules on whether things NOT on the official list can be counted, a link to the petition-request form, and a list of courses that have already been successfully petitioned. If you have questions about anything in this doc, email one of the contact emails at the end of this doc.
