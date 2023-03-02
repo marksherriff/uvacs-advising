@@ -56,6 +56,14 @@ __For CS 2100, CS 2130, or CS 3130:__ Any CS course numbered 2000 or higher.
 
 __For APMA:__ Any other APMA or MATH course credits not already being used toward the major.
 
+## Policy on Changing Graduation Year / Graduating Early
+
+The department will help a CS student change their graduation year / class year standing in SIS because they are graduating early __only when they are about to start their final year at UVA__.  This can include two regular semester + summer sessions if needed.  
+
+If a student is in this position and wishes to proceed, they need to create a course schedule / outline that shows that they can finish the degree in one year and make an appointment with the appropriate program director - [bscsdirector@virginia.edu](mailto:bscsdirector@virginia.edu) or [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu) - with their plan to set up a meeting.  If the program director agrees that this plan is feasible, the program director will contact the appropriate school registrar to make the change in SIS.
+
+We __will not__ entertain requests to change a graduation year / class standing until one year remains because it is not uncommon for students to think they want to graduate early, only to find that they require more time.
+
 
 ## UVA Policies
 
