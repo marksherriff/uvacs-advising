@@ -12,7 +12,7 @@ nav_order: 5
 
 ## Prerequisite Policy
 
-The CS department enforces all course prerequisites listed in course descriptions. For example, if you take a course that requires CS 2100 with a C- or higher and you don’t meet that prereq, you may be able to enroll but you’ll be removed at the start of the semester. Obey the prerequisite rules!
+The CS department enforces all course prerequisites listed in course descriptions. For example, if you take a course that requires CS 2100 with a C- or higher and you don't meet that prereq, you may be able to enroll but you'll be removed at the start of the semester. Obey the prerequisite rules!
 
 ## CS Elective Policy
 
@@ -31,9 +31,9 @@ Guidelines for CS Electives:
 ## Double Counting Courses Policy
 
 __BACS:__     
-1. If you’re following the “old” curriculum requirements, the CS degree you’ll get is an interdisciplinary major, i.e. it is officially part of the “interdisciplinary” degree program.  Therefore, you __can share up to 3 courses__ from the BACS (CS courses and/or Integration Electives) with any other major. 
-2. If you’re following the “new” curriculum requirements, the CS degree you’ll get is NOT an interdisciplinary major.  If the other major is interdisciplinary, you __can share up to 3 courses__ from the BACS (CS courses and/or Integration Electives) with that interdisciplinary major. But if the other major is not interdisciplinary, you __can share only 2 courses__.
-3. It’s possible that the other department may need to agree to sharing. CS always approves of such sharing. Check with your advisor or DUP in the other department to see if they have any restrictions.  Cognitive Science in particular has some specific rules about this. Check with CogSci about this if that’s your second major.
+1. If you're following the "old" curriculum requirements, the CS degree you'll get is an interdisciplinary major, i.e. it is officially part of the "interdisciplinary" degree program.  Therefore, you __can share up to 3 courses__ from the BACS (CS courses and/or Integration Electives) with any other major. 
+2. If you're following the "new" curriculum requirements, the CS degree you'll get is NOT an interdisciplinary major.  If the other major is interdisciplinary, you __can share up to 3 courses__ from the BACS (CS courses and/or Integration Electives) with that interdisciplinary major. But if the other major is not interdisciplinary, you __can share only 2 courses__.
+3. It's possible that the other department may need to agree to sharing. CS always approves of such sharing. Check with your advisor or DUP in the other department to see if they have any restrictions.  Cognitive Science in particular has some specific rules about this. Check with CogSci about this if that's your second major.
 
 __BSCS:__    
 1. SEAS has no restriction on allowing a course to count for two majors.
