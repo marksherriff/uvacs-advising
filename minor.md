@@ -1,7 +1,7 @@
 ---
 layout: default
 title: CS Minor
-nav_order: 4
+nav_order: 3.4
 ---
 
 # CS Minor

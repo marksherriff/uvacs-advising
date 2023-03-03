@@ -1,7 +1,7 @@
 ---
 layout: default
 title: BSCS Information
-nav_order: 2
+nav_order: 3.1
 ---
 
 # BSCS Information
