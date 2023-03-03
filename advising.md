@@ -46,7 +46,10 @@ BACS
 The College has restrictions on sharing courses between two majors and between a major and minor. The student should see the [College website on declaring a minor or major]({{ site.data.externallinks.college_declaring_major }}) to learn about these, or see their [Association Dean](https://college.as.virginia.edu/association-deans).
 
 BSCS
-{: .label .label-blue }See the [SEAS page on Declaring a Major or Minor]( {{ site.data.externallinks.seas_declaring_major }}).
+{: .label .label-blue }
+CpE
+{: .label .label-red }
+See the [SEAS page on Declaring a Major or Minor]( {{ site.data.externallinks.seas_declaring_major }}).
 
 ## Help with a 5th Year Masters / UVAccelerate
 

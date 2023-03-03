@@ -38,6 +38,8 @@ BACS
 
 BSCS
 {: .label .label-blue }
+CpE
+{: .label .label-red }
 1. SEAS has no restriction on allowing a course to count for two majors.
 1. SEAS has no restriction on allowing a course to count for both a SEAS major and a minor.
 
