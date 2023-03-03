@@ -169,7 +169,7 @@
 - course: CS 3710
   title: Introduction to Cybersecurity
   credits: 3
-  description: "Introduces students to the fields of cybersecurity. Both non-technical issues, such as ethics and policy, and technical issues are covered. Students see and experiment with a wide range of areas within cybersecurity, including: binary exploitation, encryption, digital forensics, networks, and modern threats. Prerequisites: CS 2150 or (CS 2100 or CS 2100 place out test and CS 2130) with a grade of C- or better        "
+  description: "Introduces students to the fields of cybersecurity. Both non-technical issues, such as ethics and policy, and technical issues are covered. Students see and experiment with a wide range of areas within cybersecurity, including: binary exploitation, encryption, digital forensics, networks, and modern threats. Prerequisites: CS 2150 or (CS 2100 or CS 2100 place-out test and CS 2130) with a grade of C- or better        "
   prereqs: None
 
 - course: CS 4102

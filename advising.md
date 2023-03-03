@@ -41,9 +41,12 @@ If a course __must__ be taken in a specific semester in order for a student to g
 
 ## Help with Declaring a Second Major
 
-__BACS:__ The College has restrictions on sharing courses between two majors and between a major and minor. The student should see the [College website on declaring a minor or major]({{ site.data.externallinks.college_declaring_major }}) to learn about these, or see their [Association Dean](https://college.as.virginia.edu/association-deans).
+BACS
+{: .label .label-green }
+The College has restrictions on sharing courses between two majors and between a major and minor. The student should see the [College website on declaring a minor or major]({{ site.data.externallinks.college_declaring_major }}) to learn about these, or see their [Association Dean](https://college.as.virginia.edu/association-deans).
 
-__BSCS:__ See the [SEAS page on Declaring a Major or Minor]( {{ site.data.externallinks.seas_declaring_major }}).
+BSCS
+{: .label .label-blue }See the [SEAS page on Declaring a Major or Minor]( {{ site.data.externallinks.seas_declaring_major }}).
 
 ## Help with a 5th Year Masters / UVAccelerate
 

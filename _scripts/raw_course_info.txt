@@ -99,7 +99,7 @@ Spring 2023	Content varies, depending on instructor interests and the needs of t
 Course was offered Spring 2022, Fall 2021, Spring 2021, Fall 2020, Spring 2020, Spring 2019, Fall 2018
 CS 3710	Introduction to Cybersecurity (3)
 Offered
-Spring 2023	Introduces students to the fields of cybersecurity. Both non-technical issues, such as ethics and policy, and technical issues are covered. Students see and experiment with a wide range of areas within cybersecurity, including: binary exploitation, encryption, digital forensics, networks, and modern threats. Prerequisites: CS 2150 or (CS 2100 or CS 2100 place out test and CS 2130) with a grade of C- or better
+Spring 2023	Introduces students to the fields of cybersecurity. Both non-technical issues, such as ethics and policy, and technical issues are covered. Students see and experiment with a wide range of areas within cybersecurity, including: binary exploitation, encryption, digital forensics, networks, and modern threats. Prerequisites: CS 2150 or (CS 2100 or CS 2100 place-out test and CS 2130) with a grade of C- or better
 Course was offered Fall 2022, Summer 2022, Spring 2022, Fall 2021, Summer 2021, Spring 2021, Fall 2020, Summer 2020, Spring 2020, Fall 2019
 CS 4102	Algorithms (3)
 	Introduces the analysis of algorithms and the effects of data structures on them. Algorithms selected from areas such as sorting, searching, shortest paths, greedy algorithms, backtracking, divide-and-conquer, and dynamic programming. Data structures include heaps and search, splay, and spanning trees. Analysis techniques include asymtotic worst case, expected time, amortized analysis, and reductions between problems. Prerequisite: CS 2150 or CS 3120 with a grade of C- or better

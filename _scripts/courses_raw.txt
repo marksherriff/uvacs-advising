@@ -55,7 +55,7 @@ CS 3330	Computer Architecture (3)
 CS 3501	Special Topics in Computer Science (1 - 3)
 	Content varies, depending on instructor interests and the needs of the Department. Taught strictly at the undergraduate level. Prerequisite: Instructor permission; additional specific requirements vary with topics.
 CS 3710	Introduction to Cybersecurity (3)
-	Introduces students to the fields of cybersecurity. Both non-technical issues, such as ethics and policy, and technical issues are covered. Students see and experiment with a wide range of areas within cybersecurity, including: binary exploitation, encryption, digital forensics, networks, and modern threats. Prerequisites: CS 2150 or (CS 2100 or CS 2100 place out test and CS 2130) with a grade of C- or better
+	Introduces students to the fields of cybersecurity. Both non-technical issues, such as ethics and policy, and technical issues are covered. Students see and experiment with a wide range of areas within cybersecurity, including: binary exploitation, encryption, digital forensics, networks, and modern threats. Prerequisites: CS 2150 or (CS 2100 or CS 2100 place-out test and CS 2130) with a grade of C- or better
 CS 4102	Algorithms (3)
 	Introduces the analysis of algorithms and the effects of data structures on them. Algorithms selected from areas such as sorting, searching, shortest paths, greedy algorithms, backtracking, divide-and-conquer, and dynamic programming. Data structures include heaps and search, splay, and spanning trees. Analysis techniques include asymtotic worst case, expected time, amortized analysis, and reductions between problems. Prerequisite: CS 2150 or CS 3120 with a grade of C- or better
 CS 4240	Principles of Software Design (3)

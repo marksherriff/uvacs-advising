@@ -55,7 +55,7 @@ All SEAS students (including CS majors) must complete one Introduction to Progra
 Choose one of the following:
 
 * [CS 1110 - Introduction to Programming]({{ baseurl }}/courses.html#cs-1110-introduction-to-programming) (Credits: 3) - A general introduction course, including a lecture and lab.  Appropriate for all students, whether they have programming background or not.
-* [CS 1111 - Introduction to Programming]({{ baseurl }}/courses.html#cs-1111-introduction-to-programming) (Credits: 3) - An introduction course for students who have some programming experience but not enough to place out of the course or who wish to review the material.  Proof of programming experience may be required.
+* [CS 1111 - Introduction to Programming]({{ baseurl }}/courses.html#cs-1111-introduction-to-programming) (Credits: 3) - An introduction course for students who have some programming experience but not enough to place-out of the course or who wish to review the material.  Proof of programming experience may be required.
 * [CS 1112 - Introduction to Programming]({{ baseurl }}/courses.html#cs-1112-introduction-to-programming) (Credits: 3) - An introduction course only for students with no programming experience.  Lecture and lab are combined.
 * [CS 1113 - Introduction to Programming]({{ baseurl }}/courses.html#cs-1113-introduction-to-programming) (Credits: 3) - A special topics introduction course that is offered occasionally.  Check the specific course offering for more information.
 

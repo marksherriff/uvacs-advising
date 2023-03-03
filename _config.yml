@@ -70,6 +70,15 @@ search:
   # Supports true or false (default)
   button: true
 
+callouts:
+  warning:
+    title: Warning
+    color: red
+
+  note:
+    title: note
+    color: purple
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

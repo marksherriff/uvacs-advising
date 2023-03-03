@@ -18,7 +18,7 @@ The CS department enforces all course prerequisites listed in course description
 
 CS electives consist of CS courses at the 3000 level or higher that are not already being used for a degree requirement.  These courses must have the CS mnemonic.  Courses from other disciplines will only be accepted under rare circumstances and by approval of the CS Undergraduate Curriculum Committee.  Additional CS electives may be required as part of the CS 4991 option for the senior thesis or to fill in missing credits due to place-out test.
 
-Guidelines for CS Electives:
+__Guidelines for CS Electives:__
 
 * Must have a CS mnemonic.
 * Must be at the 3000 level or higher.
@@ -30,12 +30,14 @@ Guidelines for CS Electives:
 
 ## Double Counting Courses Policy
 
-__BACS:__     
+BACS
+{: .label .label-green }
 1. If you're following the "old" curriculum requirements, the CS degree you'll get is an interdisciplinary major, i.e. it is officially part of the "interdisciplinary" degree program.  Therefore, you __can share up to 3 courses__ from the BACS (CS courses and/or Integration Electives) with any other major. 
 2. If you're following the "new" curriculum requirements, the CS degree you'll get is NOT an interdisciplinary major.  If the other major is interdisciplinary, you __can share up to 3 courses__ from the BACS (CS courses and/or Integration Electives) with that interdisciplinary major. But if the other major is not interdisciplinary, you __can share only 2 courses__.
 3. It's possible that the other department may need to agree to sharing. CS always approves of such sharing. Check with your advisor or DUP in the other department to see if they have any restrictions.  Cognitive Science in particular has some specific rules about this. Check with CogSci about this if that's your second major.
 
-__BSCS:__    
+BSCS
+{: .label .label-blue }
 1. SEAS has no restriction on allowing a course to count for two majors.
 1. SEAS has no restriction on allowing a course to count for both a SEAS major and a minor.
 

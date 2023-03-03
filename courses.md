@@ -10,11 +10,11 @@ nav_order: 4
 1. TOC
 {:toc}
 
-## Course Prerequisite Chart
+## CS Course Prerequisite Chart
 
 ![Prerequisite Chart]({{ site.data.externallinks.prereq_chart }})
 
-## Course Descriptions
+## CS Course Descriptions
 
 {% for course in site.data.courses %}
 
@@ -25,11 +25,11 @@ _({{ course.credits }} credits  / Prerequisites: {{ course.prereqs }})_
 
 {% endfor %}
 
-## Course Equivalencies
+## UVA Course Equivalencies
+
+These courses have been approved and entered into SIS to count for each other in all cases.  If you find a discrepancy in your academic record, please [email cs-office@virginia.edu](mailto:cs-office@virginia.edu).
 
 ### CS Courses
-
-These CS courses will count for each other in all cases.
 
 * CS 2120 == CS 2102
 * CS 3100 == CS 4102
@@ -51,6 +51,8 @@ These CS courses will count for each other in all cases.
 * MAE 2310 == CE 2310
 * MAE 2320 == CE 2320
 
-### SEAS Approved Equivalencies outside UVA
+## Approved Transfer Courses
 
-[https://engineering.virginia.edu/current-students/current-undergraduate-students/transferring-uva-engineering/transfer-credit](https://engineering.virginia.edu/current-students/current-undergraduate-students/transferring-uva-engineering/transfer-credit)
+[SEAS List of Approved Transfer Courses](https://engineering.virginia.edu/current-students/current-undergraduate-students/transferring-uva-engineering/transfer-credit)
+
+[College Transfer Credit Equivalencies for U.S. Colleges and Universities](http://ascs8.eservices.virginia.edu/AsEquivs)
