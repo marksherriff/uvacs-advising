@@ -51,7 +51,7 @@ Also, a student could be "missing credits" if they took the CS 1110 or CS 2100 p
 
 __For CS 1110:__ Any technical course will count EXCEPT our own CS 1 courses (CS 1110, 1111, 1112, or 1113).  Some examples include:
 
-* Any CS course number 2000 or higher
+* Any CS course numbered 2000 or higher
 * A programming course in another department, such as PHYS 1655 or STAT 1602
 * An APMA course not already being used toward the major
 * [Another SEAS science elective]({{ site.data.externallinks.seas_elective_info}})
