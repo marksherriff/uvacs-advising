@@ -20,8 +20,21 @@ nav_order: 4
 
 ### {{ course.course }}: {{ course.title }}
 {: .no_toc }
-_({{ course.credits }} credits  / Prerequisites: {{ course.prereqs }})_           
-{{ course.description }}        
+{% if course.flag == "foundation" %}
+Foundation
+{: .label .label-green .float-right}
+{% elsif course.flag == "elective" %}
+CS Elective
+{: .label .label-purple .float-right}
+{% elsif course.flag == "deprecated" %}
+Deprecated
+{: .label .label-red .float-right}
+{% elsif course.flag != NULL %}
+{{ course.flag }}
+{: .label .float-right}
+{% endif %}
+_({{ course.credits }} credits  / Prerequisites: {{ course.prereqs }})_     
+{{ course.description }}
 
 {% endfor %}
 

@@ -3,36 +3,42 @@
   credits: 3
   description: "How computers create, preserve, manipulate and communicate information and the concepts and tools used to that end. Units include how computers work, web technologies, creating web pages, algorithms and logic, basic programming, and solving problems with spreadsheets. Students will learn to recognize computational problems and develop basic skill sets to solve future problems in their discipline of study. No prior programming experience required. Cannot be taken for credit by students in SEAS."
   prereqs: None
+  flag: foundation
 
 - course: CS 1110
   title: Introduction to Programming
   credits: 3
   description: "A first course in programming, software development, and computer science. Introduces computing fundamentals and an appreciation for computational thinking. No previous programming experience required. Note: CS 1110, 1111, 1112, 1113, and 1120 provide different approaches to teaching the same core material; students may only receive credit for one of these courses."
   prereqs: None
+  flag: foundation
 
 - course: CS 1111
   title: Introduction to Programming
   credits: 3
   description: "A first course in programming, software development, and computer science. Introduces computing fundamentals and an appreciation for computational thinking. Prerequisite: Students should have some experience with programming. Note: CS 1110, 1111, 1112, 1113, and 1120 provide different approaches to teaching the same core material; students may only receive credit for one of these courses."
   prereqs: None
+  flag: foundation
 
 - course: CS 1112
   title: Introduction to Programming
   credits: 3
   description: "A first course in programming, software development, and computer science. Introduces computing fundamentals and an appreciation for computational thinking. Prerequisite: Students must have no previous programming experience. Note: CS 1110, 1111, 1112, 1113, and 1120 provide different approaches to teaching the same core material; students may only receive credit for one of these courses."
   prereqs: None
+  flag: foundation
 
 - course: CS 1113
   title: Introduction to Programming
   credits: 3
   description: "A first course in programming, software development, and computer science. Introduces computing fundamentals and an appreciation for computational thinking. Special domain topics and materials will differ by section and semester. Note: CS 1110, 1111, 1112, 1113, and 1120 provide different approaches to teaching the same core material; students may only receive credit for one of these courses."
   prereqs: None
+  flag: foundation
 
 - course: CS 1120
   title: "Introduction to Computing: Explorations in Language, Logic, and Machines"
   credits: 3
   description: "This course is an introduction to the most important ideas in computing. It focuses on the big ideas in computer science including the major themes of recursive definitions, universality, and abstraction. It covers how to describe information processes by defining procedures using the Scheme and Python programming languages, how to analyze the costs required to carry out a procedure, and the fundamental limits of what can be computed."
   prereqs: None
+  flag: foundation
 
 - course: CS 1501
   title: Special Topics in Computer Science
@@ -51,48 +57,55 @@
   credits: 4
   description: "A second course in computing with an emphasis on foundational data structures and program analysis. The course provides a introduction to object oriented programming and the Java programming language, concurrency, and inheritance / polymorphism. Additionally, foundational data structures and related algorithms / analysis are studied. These include lists, stacks, queues, trees, hash tables, and priority queues."
   prereqs: CS 1110, 1111, 1112, 1113, or 1120 with a grade of C- or higher; or the CS 1110 placement test.
+  flag: foundation
 
 - course: CS 2102
   title: Discrete Mathematics
   credits: 3
-  description: "NOTE: This course is no longer being offered.  See CS 2120.  Introduces discrete mathematics and proof techniques involving first order predicate logic and induction. Application areas include finite and infinite sets, elementary combinatorial problems, and graph theory. Development of tools and mechanisms for reasoning about discrete problems."
+  description: "_NOTE: This course is no longer being offered.  See CS 2120._  Introduces discrete mathematics and proof techniques involving first order predicate logic and induction. Application areas include finite and infinite sets, elementary combinatorial problems, and graph theory. Development of tools and mechanisms for reasoning about discrete problems."
   prereqs: CS 1110, 1111, 1112, 1113, or 1120 with a grade of C- or higher; or the CS 1110 placement test.
+  flag: deprecated
 
 - course: CS 2110
   title: Software Development Methods
   credits: 3
-  description: "NOTE: This course is no longer being offered.  A second course in computing with an emphasis on modern software development and principles central to computer science. Topics include software requirements, testing, object-oriented design, abstraction, encapsulation, recursion, and time-complexity. Prerequisite: CS 1110, 1111, 1112, 1113, or 1120 with a grade of C- or higher; or the CS 1110 placement test."
+  description: "_NOTE: This course is no longer being offered._  A second course in computing with an emphasis on modern software development and principles central to computer science. Topics include software requirements, testing, object-oriented design, abstraction, encapsulation, recursion, and time-complexity."
   prereqs: CS 1110, 1111, 1112, 1113, or 1120 with a grade of C- or higher; or the CS 1110 placement test.
+  flag: deprecated
 
 - course: CS 2120
   title: Discrete Mathematics and Theory 1
   credits: 3
   description: "Introduces discrete mathematics and proof techniques involving first order predicate logic and induction. Application areas include sets, tuples, functions, relations, and combinatorial problems."
   prereqs: CS 1110, 1111, 1112, 1113, or 1120 with a grade of C- or higher; or the CS 1110 placement test.
+  flag: foundation
 
 - course: CS 2130
   title: Computer Systems and Organization 1
   credits: 4
   description: "This course covers topics on the computer architecture abstraction hierarchy ranging from a step above silicon to a step below modern programming languages. Students in this course will learn to write low-level code in C and Assembly, how data is stored in memory, the basics of hardware design from gates and registers through general-purpose computers, and legal, ethical, and security issues related to these topics."
   prereqs: CS 1110, 1111, 1112, 1113, or 1120 with a grade of C- or higher; or the CS 1110 placement test AND either familiarity with Java, C++, or another C-like language, or concurrent enrollment in CS 2100
+  flag: foundation
 
 - course: CS 2150
   title: Program and Data Representation
   credits: 3
-  description: "NOTE: This course is no longer being offered.  Introduces programs and data representation at the machine level. Data structuring techniques and the representation of data structures during program execution. Operations and control structures and their representation during program execution. Representations of numbers, arithmetic operations, arrays, records, recursion, hashing, stacks, queues, trees, graphs, and related concepts."
+  description: "_NOTE: This course is no longer being offered._  Introduces programs and data representation at the machine level. Data structuring techniques and the representation of data structures during program execution. Operations and control structures and their representation during program execution. Representations of numbers, arithmetic operations, arrays, records, recursion, hashing, stacks, queues, trees, graphs, and related concepts."
   prereqs: CS 2110 with grades of C- or higher, or the CS 2110 placement test; co-requisite CS 2102 or CS 2120
+  flag: deprecated
 
 - course: CS 2330
   title: Digital Logic Design
   credits: 3
-  description: "NOTE: This course is no longer required for CS majors.  Introduction to analysis and design of digital systems from switches to gates to components to CPU. Analysis and design of combinational and sequential components including multiplexers and demultiplexers, decoders and encoders, comparators, adders and ALU, registers and register files, counters and timers, RTL design, culminating in the design of a simple programmable processor. 10-12 studio design activities. Cross-listed as ECE 2330."
+  description: "_NOTE: This course is no longer required for CS majors._  Introduction to analysis and design of digital systems from switches to gates to components to CPU. Analysis and design of combinational and sequential components including multiplexers and demultiplexers, decoders and encoders, comparators, adders and ALU, registers and register files, counters and timers, RTL design, culminating in the design of a simple programmable processor. 10-12 studio design activities. Cross-listed as ECE 2330."
   prereqs: None
+  flag: deprecated
 
 - course: CS 2501
   title: Special Topics in Computer Science
   credits: 1 - 3
-  description: "Content varies, depending on instructor interests and the needs of the Department. Taught strictly at the undergraduate level. Prerequisite: Instructor permission; additional specific requirements vary with topics."
-  prereqs: None
+  description: "Content varies, depending on instructor interests and the needs of the Department. Taught strictly at the undergraduate level."
+  prereqs: Instructor permission; additional specific requirements vary with topics.
 
 - course: CS 2910
   title: CS Education Practicum
@@ -111,246 +124,288 @@
   credits: 3
   description: "Builds upon previous analysis of algorithms and the effects of data structures on them. Algorithms selected from areas such as searching, shortest paths, greedy algorithms, backtracking, divide-and-conquer, dynamic programming, and machine learning. Analysis techniques include asymptotic worst case, expected time, amortized analysis, and reductions."
   prereqs: CS 2150 or (CS 2100 & CS 2120); APMA 1090 or MATH 1210 or MATH 1310 or equivalent
+  flag: foundation
 
 - course: CS 3102
   title: Theory of Computation
   credits: 3
-  description: "NOTE: This course is no longer being offered.  Introduces computation theory including grammars, finite state machines, pushdown automata, and Turing machines."
+  description: "_NOTE: This course is no longer being offered._  Introduces computation theory including grammars, finite state machines, pushdown automata, and Turing machines."
   prereqs: (CS 2102 or CS 2120) and (CS 2100 or CS 2110 or CS 2501 topic "DSA 2" or the CS 2110 placement test); both with grades of C- or higher
+  flag: deprecated
 
 - course: CS 3120
   title: Discrete Mathematics and Theory 2
   credits: 3
   description: "The goal of this course is to understand the fundamental limits on what can be efficiently computed. These limits reveal properties about information, communication, and computing, as well as practical issues about how to solve problems. Introduces computation theory including grammars, automata, and Turing machines."
   prereqs: CS 4102 or CS 3100 with a grade of C- or better
+  flag: foundation
 
 - course: CS 3130
   title: Computer Systems and Organization 2
   credits: 4
   description: "A second course in computer systems, this course will explore a more realistic model of processors and how they and the operating system work together to provide various functionality we depend on as application programmers. Course topics include permission models, system architecture, concurrency, virtual memory, cryptographic primitives, and TCP/IP networking."
   prereqs: CS 2100 and CS 2130 with a grade of C- or better
+  flag: foundation
 
 - course: CS 3140
   title: Software Development Essentials
   credits: 3
   description: "A first course in software engineering and software construction, this course focuses on bringing the programming concepts learned in a first course in data structures and algorithms together to begin to teach students how to build more complex systems. The course covers introductory topics in testing, software design principles, design patterns, functional programming, and data storage and manipulation."
   prereqs: CS 2100 with a C- or better.
+  flag: foundation
 
 - course: CS 3205
   title: HCI in Software Development
   credits: 3
-  description: "Human-computer interaction and user-centered design in the context of software engineering. Examines the fundamental principles of human-computer interaction. Includes evaluating a system's usability based on well-defined criteria; user and task analysis, as well as conceptual models and metaphors; the use of prototyping for evaluating design alternatives; and physical design of software user-interfaces, including windows, menus, and commands. Prerequisite: CS 2110 or CS 2100 with a grade of C- or better"
-  prereqs: None
+  description: "Human-computer interaction and user-centered design in the context of software engineering. Examines the fundamental principles of human-computer interaction. Includes evaluating a system's usability based on well-defined criteria; user and task analysis, as well as conceptual models and metaphors; the use of prototyping for evaluating design alternatives; and physical design of software user-interfaces, including windows, menus, and commands."
+  prereqs: CS 2110 or CS 2100 with a grade of C- or better
+  flag: elective
 
 - course: CS 3240
   title: Advanced Software Development Techniques
   credits: 3
-  description: "Analyzes modern software engineering practice for multi-person projects; methods for requirements specification, design, implementation, verification, and maintenance of large software systems; advanced software development techniques and large project management approaches; project planning, scheduling, resource management, accounting, configuration control, and documentation. Prerequisite: CS 2150 or CS 3140 with a grade of C- or better"
-  prereqs: None
+  description: "Analyzes modern software engineering practice for multi-person projects; methods for requirements specification, design, implementation, verification, and maintenance of large software systems; advanced software development techniques and large project management approaches; project planning, scheduling, resource management, accounting, configuration control, and documentation."
+  prereqs: CS 2150 or CS 3140 with a grade of C- or better
+  flag: BSCS Required / BACS Elective
 
 - course: CS 3250
   title: Software Testing
   credits: 3
-  description: "An introduction to testing for assuring software quality. Covers concepts and techniques for testing software, including testing at the unit, module, subsystem, and system levels; automatic and manual techniques for generating and validating test data; the testing process; static vs. dynamic analysis; functional testing; inspections; testing in specific application domains; and reliability assessment. Prerequisite: CS 2150 or (CS 2100 and CS 2120) with a grade of C- or better"
-  prereqs: None
+  description: "An introduction to testing for assuring software quality. Covers concepts and techniques for testing software, including testing at the unit, module, subsystem, and system levels; automatic and manual techniques for generating and validating test data; the testing process; static vs. dynamic analysis; functional testing; inspections; testing in specific application domains; and reliability assessment."
+  prereqs: CS 2150 or (CS 2100 and CS 2120) with a grade of C- or better
+  flag: elective
 
 - course: CS 3330
   title: Computer Architecture
   credits: 3
-  description: "Includes the organization and architecture of computer systems hardware; instruction set architectures; addressing modes; register transfer notation; processor design and computer arithmetic; memory systems; hardware implementations of virtual memory, and input/output control and devices. Prerequisite: CS 2150 or CS 3130 with a grade of C- or better"
-  prereqs: None
+  description: "_NOTE: This course is being updated for the new curriculum._ Includes the organization and architecture of computer systems hardware; instruction set architectures; addressing modes; register transfer notation; processor design and computer arithmetic; memory systems; hardware implementations of virtual memory, and input/output control and devices."
+  prereqs: CS 2150 or CS 3130 with a grade of C- or better
+  flag: deprecated
 
 - course: CS 3501
   title: Special Topics in Computer Science
   credits: 1 - 3
-  description: "Content varies, depending on instructor interests and the needs of the Department. Taught strictly at the undergraduate level. Prerequisite: Instructor permission; additional specific requirements vary with topics."
-  prereqs: None
+  description: "Content varies, depending on instructor interests and the needs of the Department. Taught strictly at the undergraduate level."
+  prereqs: Instructor permission; additional specific requirements vary with topics.
+  flag: elective
 
 - course: CS 3710
   title: Introduction to Cybersecurity
   credits: 3
-  description: "Introduces students to the fields of cybersecurity. Both non-technical issues, such as ethics and policy, and technical issues are covered. Students see and experiment with a wide range of areas within cybersecurity, including: binary exploitation, encryption, digital forensics, networks, and modern threats. Prerequisites: CS 2150 or (CS 2100 or CS 2100 place-out test and CS 2130) with a grade of C- or better        "
-  prereqs: None
+  description: "Introduces students to the fields of cybersecurity. Both non-technical issues, such as ethics and policy, and technical issues are covered. Students see and experiment with a wide range of areas within cybersecurity, including: binary exploitation, encryption, digital forensics, networks, and modern threats."
+  prereqs: CS 2150 or (CS 2100 or CS 2100 place-out test and CS 2130) with a grade of C- or better
+  flag: elective
 
 - course: CS 4102
   title: Algorithms
   credits: 3
-  description: "Introduces the analysis of algorithms and the effects of data structures on them. Algorithms selected from areas such as sorting, searching, shortest paths, greedy algorithms, backtracking, divide-and-conquer, and dynamic programming. Data structures include heaps and search, splay, and spanning trees. Analysis techniques include asymtotic worst case, expected time, amortized analysis, and reductions between problems. Prerequisite: CS 2150 or CS 3120 with a grade of C- or better"
-  prereqs: None
+  description: "_NOTE: This course is being redesigned for the new curriculum._  Introduces the analysis of algorithms and the effects of data structures on them. Algorithms selected from areas such as sorting, searching, shortest paths, greedy algorithms, backtracking, divide-and-conquer, and dynamic programming. Data structures include heaps and search, splay, and spanning trees. Analysis techniques include asymtotic worst case, expected time, amortized analysis, and reductions between problems."
+  prereqs: CS 2150 or CS 3120 with a grade of C- or better
+  flag: deprecated
 
 - course: CS 4240
   title: Principles of Software Design
   credits: 3
-  description: "Focuses on techniques for software design in the development of large and complex software systems. Topics will include software architecture, modeling (including UML), object-oriented design patterns, and processes for carrying out analysis and design. More advanced or recent developments may be included at the instructor's discretion. The course will balance an emphasis on design principles with an understanding of how to apply techniques and methods to create successful software systems. Prerequisite: CS 2150 or CS 3140 with a grade of C- or better"
-  prereqs: None
+  description: "Focuses on techniques for software design in the development of large and complex software systems. Topics will include software architecture, modeling (including UML), object-oriented design patterns, and processes for carrying out analysis and design. More advanced or recent developments may be included at the instructor's discretion. The course will balance an emphasis on design principles with an understanding of how to apply techniques and methods to create successful software systems."
+  prereqs: CS 2150 or CS 3140 with a grade of C- or better
+  flag: elective
 
 - course: CS 4260
   title: Internet Scale Applications
   credits: 3
-  description: "A survey of methods for building large-scale internet websites and mobile apps, with a focus on how theory meets practice. Topics covered include performance engineering, scaling, security, and large team software engineering. Results in students building a working scalable online application. Prerequisites: CS 3240 with a grade of C- or better"
-  prereqs: None
+  description: "A survey of methods for building large-scale internet websites and mobile apps, with a focus on how theory meets practice. Topics covered include performance engineering, scaling, security, and large team software engineering. Results in students building a working scalable online application."
+  prereqs: CS 3240 with a grade of C- or better
+  flag: elective
 
 - course: CS 4330
   title: Advanced Computer Architecture 
   credits: 3
-  description: "Provides an overview of modern microprocessor design. The topics covered in the course will include the design of super-scalar processors and their memory systems, and the fundamentals of multi-core processor design. Prerequisite: CS 3330 with a grade of C- or better"
-  prereqs: None
+  description: "_NOTE: This course is being redesigned for the new curriculum._ Provides an overview of modern microprocessor design. The topics covered in the course will include the design of super-scalar processors and their memory systems, and the fundamentals of multi-core processor design."
+  prereqs: CS 3330 with a grade of C- or better
+  flag: deprecated
 
 - course: CS 4414
   title: Operating Systems
   credits: 3
-  description: "Analyzes process communication and synchronization; resource management; virtual memory management algorithms; file systems; and networking and distributed systems. Prerequisite: CS 3330 or (CS 2501 COA 2 & CS 2150) or (CS 3130 and CS 3100) with a grade of C- or better or ECE 3430 or ECE 3502 Embedded Computing & Robotics 2"
-  prereqs: None
+  description: "Analyzes process communication and synchronization; resource management; virtual memory management algorithms; file systems; and networking and distributed systems."
+  prereqs: CS 3330 or (CS 2501 COA 2 & CS 2150) or (CS 3130 and CS 3100) with a grade of C- or better or ECE 3430 or ECE 3502 Embedded Computing & Robotics 2
+  flag: Old Curriculum
 
 - course: CS 4434
   title: Dependable Computing Systems
   credits: 3
-  description: "Focuses on techniques for designing & analyzing dependable computer-based systems. Topics include basic dependability concepts & attributes, fault models & effects, combinatorial & state-space modeling, hardware redundancy, error detecting & correcting codes, time redundancy, software fault tolerance, checkpointing & recovery, reliable networked systems, error detection techniques, & experimental dependability evaluation techniques. Prereq:CS 3330 or CS 2501 topic \"COA 2\" or ECE 3430 or ECE 4435 or ECE 3502 topic \"ECR II\" or CS 3130 and CS 3140; APMA 3100, APMA 3110, MATH 3100, or equivalent. Must complete CS courses with a grade of C- or better."
-  prereqs: None
+  description: "Focuses on techniques for designing & analyzing dependable computer-based systems. Topics include basic dependability concepts & attributes, fault models & effects, combinatorial & state-space modeling, hardware redundancy, error detecting & correcting codes, time redundancy, software fault tolerance, checkpointing & recovery, reliable networked systems, error detection techniques, & experimental dependability evaluation techniques."
+  prereqs: CS 3330 or CS 2501 topic \"COA 2\" or ECE 3430 or ECE 4435 or ECE 3502 topic \"ECR II\" or CS 3130 and CS 3140; APMA 3100, APMA 3110, MATH 3100, or equivalent. Must complete CS courses with a grade of C- or better.
+  flag: elective
+  
 
 - course: CS 4444
   title: Introduction to Parallel Computing
   credits: 3
-  description: "Introduces the student to the basics of high-performance parallel computing and the national cyber-infrastructure. The course is targeted for both computer science students and students from other disciplines who want to learn how to significantly increase the performance of applications. Prereq: CS 2150 and CS 3330 or CS 2501 topic \"COA 2\" or ECE 3430 or ECE 4435 or ECE 3502 topic \"ECR II\" or CS 3100 and CS 3130. Must complete CS courses with a grade of C- or better."
-  prereqs: None
+  description: "Introduces the student to the basics of high-performance parallel computing and the national cyber-infrastructure. The course is targeted for both computer science students and students from other disciplines who want to learn how to significantly increase the performance of applications."
+  prereqs: CS 2150 and CS 3330 or CS 2501 topic \"COA 2\" or ECE 3430 or ECE 4435 or ECE 3502 topic \"ECR II\" or CS 3100 and CS 3130. Must complete CS courses with a grade of C- or better.
+  flag: elective
 
 - course: CS 4457
   title: Computer Networks
   credits: 3
-  description: "A first course in communication networks for upper-level undergraduate students. Topics include the design of modern communication networks; point-to-point and broadcast network solutions; advanced issues such as Gigabit networks; ATM networks; and real-time communications. Cross-listed as ECE 4457. Prerequisite: CS 3330 or CS 2501 topic \"COA 2\" or ECE 3430 or ECE 4435 or ECE 3502 topic \"ECR II\" or CS 3130. Must complete CS courses with a grade of C- or better."
-  prereqs: None
+  description: "A first course in communication networks for upper-level undergraduate students. Topics include the design of modern communication networks; point-to-point and broadcast network solutions; advanced issues such as Gigabit networks; ATM networks; and real-time communications. Cross-listed as ECE 4457."
+  prereqs: CS 3330 or CS 2501 topic \"COA 2\" or ECE 3430 or ECE 4435 or ECE 3502 topic \"ECR II\" or CS 3130. Must complete CS courses with a grade of C- or better.
+  flag: elective
 
 - course: CS 4458
   title: Internet Engineering
   credits: 3
-  description: "An advanced course on computer networks on the technologies and protocols of the Internet. Topics include the design principles of the Internet protocols, including TCP/IP, the Domain Name System, routing protocols, and network management protocols. A set of laboratory exercises covers aspects of traffic engineering in a wide-area network. Prerequisite: CS 4457 with a grade of C- or better."
-  prereqs: None
+  description: "An advanced course on computer networks on the technologies and protocols of the Internet. Topics include the design principles of the Internet protocols, including TCP/IP, the Domain Name System, routing protocols, and network management protocols. A set of laboratory exercises covers aspects of traffic engineering in a wide-area network."
+  prereqs: CS 4457 with a grade of C- or better.
+  flag: elective
 
 - course: CS 4501
   title: Special Topics in Computer Science
   credits: 1 - 3
-  description: "Content varies annually, depending on instructor interests and the needs of the department. Similar to CS 5501 and CS 7501, but taught strictly at the undergraduate level. Prerequisite: Instructor permission; additional specific requirements vary with topics."
-  prereqs: None
+  description: "Content varies annually, depending on instructor interests and the needs of the department. Similar to CS 5501 and CS 7501, but taught strictly at the undergraduate level."
+  prereqs: Instructor permission; additional specific requirements vary with topics.
+  flag: elective
 
 - course: CS 4610
   title: Programming Languages
   credits: 3
-  description: "Presents the fundamental concepts of programming language design and implementation. Emphasizes language paradigms and implementation issues. Develops working programs in languages representing different language paradigms. Many programs oriented toward language implementation issues. Prerequisite: CS 2150 or (CS 2120 and 3140) with a grade of C- or better"
-  prereqs: None
+  description: "Presents the fundamental concepts of programming language design and implementation. Emphasizes language paradigms and implementation issues. Develops working programs in languages representing different language paradigms. Many programs oriented toward language implementation issues."
+  prereqs: CS 2150 or (CS 2120 and 3140) with a grade of C- or better
+  flag: elective
 
 - course: CS 4620
   title: Compilers
   credits: 3
-  description: "Provides an introduction to the field of compilers, which translate programs written in high-level languages to a form that can be executed. The course covers the theories and mechanisms of compilation tools. Students will learn the core ideas behind compilation and how to use software tools such as lex/flex, yacc/bison to build a compiler for a non-trivial programming language. Prerequisite: CS 2150 or (CS 2120 and 3140) with a grade of C- or better"
-  prereqs: None
+  description: "Provides an introduction to the field of compilers, which translate programs written in high-level languages to a form that can be executed. The course covers the theories and mechanisms of compilation tools. Students will learn the core ideas behind compilation and how to use software tools such as lex/flex, yacc/bison to build a compiler for a non-trivial programming language."
+  prereqs: CS 2150 or (CS 2120 and 3140) with a grade of C- or better
+  flag: elective
 
 - course: CS 4630
   title: Defense Against the Dark Arts
   credits: 3
-  description: "Viruses, worms, and other malicious software are an ever-increasing threat to computer systems. There is an escalating battle between computer security specialists and the designers of malicious software. This course provides an essential understanding of the techniques used by both sides of the computer security battle. Prerequisite: CS 3710 with a grade of C- or better"
-  prereqs: None
+  description: "Viruses, worms, and other malicious software are an ever-increasing threat to computer systems. There is an escalating battle between computer security specialists and the designers of malicious software. This course provides an essential understanding of the techniques used by both sides of the computer security battle."
+  prereqs: CS 3710 with a grade of C- or better
+  flag: elective
 
 - course: CS 4640
   title: Programming Languages for Web Applications
   credits: 3
-  description: "Presents programming languages and implementations used in developing web applications. Both client and server side languages are presented as well as database languages. In addition, frameworks that enable interactive web pages are discussed as well as formatting languages. Language features and efficiencies including scoping, parameter passing, object orientation, just in time compilation and dynamic binary translation are included. Prerequisite: CS 2150 or CS 3140 with a grade of C- or better"
-  prereqs: None
+  description: "Presents programming languages and implementations used in developing web applications. Both client and server side languages are presented as well as database languages. In addition, frameworks that enable interactive web pages are discussed as well as formatting languages. Language features and efficiencies including scoping, parameter passing, object orientation, just in time compilation and dynamic binary translation are included."
+  prereqs: CS 2150 or CS 3140 with a grade of C- or better
+  flag: elective
 
 - course: CS 4710
   title: Artificial Intelligence
   credits: 3
-  description: "Introduces artificial intelligence. Covers fundamental concepts and techniques and surveys selected application areas. Core material includes state space search, logic, and resolution theorem proving. Application areas may include expert systems, natural language understanding, planning, machine learning, or machine perception. Provides exposure to AI implementation methods, emphasizing programming in Common LISP. Prerequisite: CS 2150 or CS 3100 with a grade of C- or better"
-  prereqs: None
+  description: "Introduces artificial intelligence. Covers fundamental concepts and techniques and surveys selected application areas. Core material includes state space search, logic, and resolution theorem proving. Application areas may include expert systems, natural language understanding, planning, machine learning, or machine perception. Provides exposure to AI implementation methods, emphasizing programming in Common LISP. "
+  prereqs: CS 2150 or CS 3100 with a grade of C- or better
+  flag: elective
 
 - course: CS 4720
   title: Mobile Application Development
   credits: 3
-  description: "Mobile computing devices have become ubiquitous in our communities. In this course, we focus on the creation of mobile solutions for various modern platforms, including major mobile operating systems. Topics include mobile device architecture, programming languages, software engineering, user interface design, and app distribution. Prerequisite: CS 2150 or CS 3140 with a grade of C- or better"
-  prereqs: None
+  description: "Mobile computing devices have become ubiquitous in our communities. In this course, we focus on the creation of mobile solutions for various modern platforms, including major mobile operating systems. Topics include mobile device architecture, programming languages, software engineering, user interface design, and app distribution."
+  prereqs: CS 2150 or CS 3140 with a grade of C- or better
+  flag: elective
 
 - course: CS 4730
   title: Computer Game Design
   credits: 3
-  description: "This course will introduce students to the concepts and tools used in the development of modern 2-D and 3-D real-time interactive computer video games. Topics covered in this include graphics, parallel processing, human-computer interaction, networking, artificial intelligence, and software engineering. Prerequisite: CS 2150 or CS 3140 with a grade of C- or better"
-  prereqs: None
+  description: "This course will introduce students to the concepts and tools used in the development of modern 2-D and 3-D real-time interactive computer video games. Topics covered in this include graphics, parallel processing, human-computer interaction, networking, artificial intelligence, and software engineering."
+  prereqs: CS 2150 or CS 3140 with a grade of C- or better
+  flag: elective
 
 - course: CS 4740
   title: Cloud Computing
   credits: 3
-  description: "Investigates the architectural foundations of the various cloud platforms, as well as examining both current cloud computing platforms and modern cloud research. Student assignments utilize the major cloud platforms. Prerequisite: CS 2150 or CS 3140 with a grade of C- or better"
-  prereqs: None
+  description: "Investigates the architectural foundations of the various cloud platforms, as well as examining both current cloud computing platforms and modern cloud research. Student assignments utilize the major cloud platforms."
+  prereqs: CS 2150 or CS 3140 with a grade of C- or better
+  flag: elective
 
 - course: CS 4750
   title: Database Systems 
   credits: 3
-  description: "Introduces the fundamental concepts for design and development of database systems. Emphasizes relational data model and conceptual schema design using ER model, practical issues in commercial database systems, database design using functional dependencies, and other data models. Develops a working relational database for a realistic application. Prerequisite: CS 2150 or (CS 2120 and 3140) with a grade of C- or better"
-  prereqs: None
+  description: "Introduces the fundamental concepts for design and development of database systems. Emphasizes relational data model and conceptual schema design using ER model, practical issues in commercial database systems, database design using functional dependencies, and other data models. Develops a working relational database for a realistic application."
+  prereqs: CS 2150 or (CS 2120 and 3140) with a grade of C- or better
+  flag: elective
 
 - course: CS 4753
   title: Electronic Commerce Technologies
   credits: 3
-  description: "History of Internet and electronic commerce on the web; case studies of success and failure; cryptographic techniques for privacy, security, and authentication; digital money; transaction processing; wired and wireless access technologies; Java; streaming multimedia; XML; Bluetooth. Defining, protecting, growing, and raising capital for an e-business. Prerequisite: CS 2150 or CS 3140 with a grade of C- or better     "
-  prereqs: None
+  description: "History of Internet and electronic commerce on the web; case studies of success and failure; cryptographic techniques for privacy, security, and authentication; digital money; transaction processing; wired and wireless access technologies; Java; streaming multimedia; XML; Bluetooth. Defining, protecting, growing, and raising capital for an e-business."
+  prereqs: CS 2150 or CS 3140 with a grade of C- or better
+  flag: elective
 
 - course: CS 4760
   title: Network Security
   credits: 3
-  description: "This course covers the principles of secure network communications and the application of network security. Topics include: attack types, attack surfaces, attack phases, network security devices.(a)symmetric key encryption, cryptographic hash function, authentication/identification techniques, key distribution, and data integrity assurance. Also, currently used security mechanisms and protocols will be discussed. Prerequisite: CS 3710 with a grade of C- or better"
-  prereqs: None
+  description: "This course covers the principles of secure network communications and the application of network security. Topics include: attack types, attack surfaces, attack phases, network security devices.(a)symmetric key encryption, cryptographic hash function, authentication/identification techniques, key distribution, and data integrity assurance. Also, currently used security mechanisms and protocols will be discussed."
+  prereqs: CS 3710 with a grade of C- or better
+  flag: elective
 
 - course: CS 4774
   title: Machine Learning
   credits: 3
-  description: "An introduction to machine learning: the study of algorithms that improve their performance through experience. Covers both machine learning theory and algorithms. Introduces algorithms, theory, and applications related to both supervised and unsupervised learning, including regression, classification, and optimization and major algorithm families for each. Prerequisites: CS 2150 or CS 3100 with a grade of C- or better; APMA 3100, APMA 3110, MATH 3100, or equivalent and Math 3350 or APMA 3080 or equivalent"
-  prereqs: None
+  description: "An introduction to machine learning: the study of algorithms that improve their performance through experience. Covers both machine learning theory and algorithms. Introduces algorithms, theory, and applications related to both supervised and unsupervised learning, including regression, classification, and optimization and major algorithm families for each."
+  prereqs: CS 2150 or CS 3100 with a grade of C- or better; APMA 3100, APMA 3110, MATH 3100, or equivalent and Math 3350 or APMA 3080 or equivalent
+  flag: elective
 
 - course: CS 4780
   title: Information Retrieval
   credits: 3
-  description: "An introduction to modern information retrieval technologies. Topics include indexing, query processing, document ranking, query recommendation, personalization, and other current topics in information retrieval. Students develop a custom search engine as part of this course. Prerequisites: CS 2150 or CS 3100 with a grade of C- or better; APMA 3100, APMA 3110, MATH 3100, or equivalent"
-  prereqs: None
+  description: "An introduction to modern information retrieval technologies. Topics include indexing, query processing, document ranking, query recommendation, personalization, and other current topics in information retrieval. Students develop a custom search engine as part of this course."
+  prereqs: CS 2150 or CS 3100 with a grade of C- or better; APMA 3100, APMA 3110, MATH 3100, or equivalent
+  flag: elective
 
 - course: CS 4810
   title: Introduction to Computer Graphics
   credits: 3
-  description: "Introduces the fundamentals of three-dimensional computer graphics: rendering, modeling, and animation. Students learn how to represent three-dimensional objects (modeling) and the movement of those objects over time (animation). Students learn and implement the standard rendering pipeline, defined as the stages of turning a three-dimensional model into a shaded, lit, texture-mapped two-dimensional image. Prerequisite: CS 2150 or (CS 3100 and 3130) with a grade of C- or better"
-  prereqs: None
+  description: "Introduces the fundamentals of three-dimensional computer graphics: rendering, modeling, and animation. Students learn how to represent three-dimensional objects (modeling) and the movement of those objects over time (animation). Students learn and implement the standard rendering pipeline, defined as the stages of turning a three-dimensional model into a shaded, lit, texture-mapped two-dimensional image."
+  prereqs: CS 2150 or (CS 3100 and 3130) with a grade of C- or better
+  flag: elective
 
 - course: CS 4970
   title: Capstone Practicum I
   credits: 3
-  description: "This course is one option in the CS fourth-year thesis track. Under the practicum track, students will take two 3-credit courses, CS 4970 and CS 4971. These courses would form a year-long group-based and project-based practicum class. There would be an actual customer, which could be either internal (the course instructor, other CS professors, etc.) or external (local companies, local non-profits, etc.). Prerequisite: CS 2150 or CS 2501 topic DSA2 with a grade of C- or higher, and BSCS major"
-  prereqs: None
+  description: "This course is one option in the CS fourth-year thesis track. Under the practicum track, students will take two 3-credit courses, CS 4970 and CS 4971. These courses would form a year-long group-based and project-based practicum class. There would be an actual customer, which could be either internal (the course instructor, other CS professors, etc.) or external (local companies, local non-profits, etc.)."
+  prereqs: CS 2150 or CS 2501 topic DSA2 with a grade of C- or higher, and BSCS major
+  flag: elective
 
 - course: CS 4971
   title: Capstone Practicum II
   credits: 3
-  description: "This course is one option in the CS fourth-year thesis track and is the continuation from CS 4970. Under the practicum track, students will take two 3-credit courses, CS 4970 and CS 4971. These courses would form a year-long group-based and project-based practicum class. There would be an actual customer, which could be either internal (the course instructor, other CS professors, etc.) or external (local companies, local non-profits, etc.). Prerequisite: CS 4970"
-  prereqs: None
+  description: "This course is one option in the CS fourth-year thesis track and is the continuation from CS 4970. Under the practicum track, students will take two 3-credit courses, CS 4970 and CS 4971. These courses would form a year-long group-based and project-based practicum class. There would be an actual customer, which could be either internal (the course instructor, other CS professors, etc.) or external (local companies, local non-profits, etc.)."
+  prereqs: CS 4970
+  flag: Capstone
 
 - course: CS 4980
   title: Capstone Research
   credits: 1 - 3
-  description: "This course is one option in the CS fourth-year thesis track. Students will seek out a faculty member as an advisor, and do an independent project with said advisor. Instructors can give the 3 credits across multiple semesters, if desired. This course is designed for students who are doing research, and want to use that research for their senior thesis. Note that this track could also be an implementation project, including a group-based project. Prerequisite: CS 2150 or CS 2501 topic DSA2 with a grade of C- or higher, and BSCS major"
-  prereqs: None
+  description: "This course is one option in the CS fourth-year thesis track. Students will seek out a faculty member as an advisor, and do an independent project with said advisor. Instructors can give the 3 credits across multiple semesters, if desired. This course is designed for students who are doing research, and want to use that research for their senior thesis. Note that this track could also be an implementation project, including a group-based project."
+  prereqs: CS 2150 or CS 2501 topic DSA2 with a grade of C- or higher, and BSCS major
+  flag: Capstone
 
 - course: CS 4991
   title: Capstone Technical Report
   credits: 0
-  description: "Supports the writing of the technical report component of the fourth-year thesis, credit for which is given in STS 4600. Students will write the report assuming a non-technical audience. The course is part of the CS 4XXX elective option in the fourth-year CS thesis track. BS CS 4th years (both first & second majors) and pre- or co-requisite STS 4500"
-  prereqs: None
+  description: "Supports the writing of the technical report component of the fourth-year thesis, credit for which is given in STS 4600. Students will write the report assuming a non-technical audience. The course is part of the CS 4XXX elective option in the fourth-year CS thesis track."
+  prereqs: BSCS 4th years (both first & second majors) and pre- or co-requisite STS 4500
+  flag: Capstone
 
 - course: CS 4993
   title: Independent Study
   credits: 1 - 3
-  description: "In-depth study of a computer science or computer engineering problem by an individual student in close consultation with departmental faculty. The study is often either a thorough analysis of an abstract computer science problem or the design, implementation, and analysis of a computer system (software or hardware). Prerequisite: Instructor permission."
-  prereqs: None
+  description: "In-depth study of a computer science or computer engineering problem by an individual student in close consultation with departmental faculty. The study is often either a thorough analysis of an abstract computer science problem or the design, implementation, and analysis of a computer system (software or hardware)."
+  prereqs: Instructor permission.
+  flag: elective
 
 - course: CS 4998
   title: Distinguished BA Majors Research
   credits: 3
-  description: "Required for Distinguished Majors completing the Bachelor of Arts degree in the College of Arts and Sciences. An introduction to computer science research and the writing of a Distinguished Majors thesis. Prerequisites: CS 2150 or CS 2501 topic DSA2 with a grade of C- or higher, and BSCS major"
-  prereqs: None
+  description: "Required for Distinguished Majors completing the Bachelor of Arts degree in the College of Arts and Sciences. An introduction to computer science research and the writing of a Distinguished Majors thesis."
+  prereqs: CS 2150 or CS 2501 topic DSA2 with a grade of C- or higher, and BACS major
+  flag: BACS DMP
 
 - course: CS 5010
   title: Programming and Systems for Data Science
