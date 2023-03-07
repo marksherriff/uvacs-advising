@@ -13,12 +13,6 @@ Site Last Updated: {{ site.time | date: '%A, %B %d, %Y' }}
 {: .warning }
 This guide is currently in beta and is under construction.  While the information here should be accurate, we are actively looking for any inconsistencies.  If you find anything, please [email Prof. Sherriff](mailto:sherriff@virginia.edu).
 
-{: .warning }
-Currently this site is open to faculty and staff ONLY.  Do not share with students until we are ready to do so!!
-
-{: .note }
-Faculty and Staff - Notice something that needs to be added?  Put it here: [https://docs.google.com/document/d/1LcqhvOnE4PPuqR-_o6Bhmx1_Rl8hIwh64t6NvSP0IyI/edit?usp=sharing](https://docs.google.com/document/d/1LcqhvOnE4PPuqR-_o6Bhmx1_Rl8hIwh64t6NvSP0IyI/edit?usp=sharing)
-
 ## Information for Fall 2023
 
 __Additional Courses May Be Added or Instructors Changed:__

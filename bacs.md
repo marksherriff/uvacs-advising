@@ -36,9 +36,7 @@ To declare the degree, you must have completed the following:
 * An introductory computer science course, such as CS 1110 , CS 1111 , CS 1112 , CS 1113  or CS 1120 , or an equivalent course; or successful completion of the associated place-out test.
 * [CS 2100 - Data Structures and Algorithms 1]({{ baseurl }}/courses.html#cs-2100-data-structures-and-algorithms-1) (with C+ or higher) or equivalent or successful completion of the associated place-out test.
 
-The following courses satisfy the major requirements for the BACS degree:
-
-### BACS Required CS courses
+### BACS Required CS Courses
 
 All BACS majors must complete the following courses (20 credits):
 

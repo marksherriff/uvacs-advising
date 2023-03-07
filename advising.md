@@ -7,6 +7,9 @@ nav_order: 5
 # Getting Help / Advising
 {: .no_toc }
 
+1. TOC
+{:toc}
+
 ## Advising
 
 Every BACS and BSCS major is assigned an advisor in the CS department. You can find their name when you log into SIS. This person is a good resource for CS matters but not for other things.  Your CS advisor is a great person to talk to about CS and computing issues. Course selection, career plans, getting into research, etc.

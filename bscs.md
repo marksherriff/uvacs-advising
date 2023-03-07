@@ -18,7 +18,7 @@ The official undergraduate record contains the official rules for completing the
 
 ## Declaring the Major
 
-Students declare their major in the School of Engineering and Applied Science either in their second semester if they entered the school as a first year student or upon transfer to the School.  More information can be found on the [SEAS page for major declaration]({{ site.data.externallinks.seas_major_minor }}).
+Students declare their major in the School of Engineering and Applied Science either in their second semester if they entered the school as a first year student or upon transfer to the School.  More information can be found on the [SEAS page for major declaration]({{ site.data.externallinks.seas_declaring_major }}).
 
 ## Degree Handouts and Resources
 
@@ -61,7 +61,7 @@ Choose one of the following:
 
 ### Foundation Courses
 
-These courses are the next set of courses students take after finishing Introduction to Programming and comprise the set of prerequisites needed for upper-level courses.  The 2000 level courses should be taken before the 3000 level courses and note that there are other prerequisites that govern the order that these courses should be taken.  Example schedules can be found at http://bscschecklist.uvacs.org.
+These courses are the next set of courses students take after finishing Introduction to Programming and comprise the set of prerequisites needed for upper-level courses.  The 2000 level courses should be taken before the 3000 level courses and note that there are other prerequisites that govern the order that these courses should be taken.  An example schedule can be found in the [Degree Handouts and Resources]({{baseurl}}/bscs.html#degree-handouts-and-resources) section.
 
 * [CS 2100 - Data Structures and Algorithms 1]({{ baseurl }}/courses.html#cs-2100-data-structures-and-algorithms-1) (Credits: 3)
 * [CS 2120 - Discrete Mathematics and Theory 1]({{ baseurl }}/courses.html#cs-2120-discrete-mathematics-and-theory-1) (Credits: 3)
@@ -129,13 +129,20 @@ BSCS majors must have a 2.0 GPA average for CS courses in order to graduate.  Fo
 
 ## Capstone Information
 
-Fourth-Year BSCS students need to do the following:
+The BSCS Capstone is seperate but related to the SEAS Senior Thesis requirement for graduation.  As a part of the SEAS Senior Thesis, students will take STS 4500 and STS 4600 during their last two semesters at UVA.  Through these courses, students will create a Senior Thesis Portfolio accordoing to the [SEAS Thesis Portfolio Guide](https://guides.lib.virginia.edu/seasthesis).  The Portfolio contains several parts, most of which will be done through the STS courses.  
 
-1. Take STS 4500 in the fall and STS 4600 in the spring.
-2. Complete your CS capstone / senior thesis requirement in one of two ways:
+However, the part that intersects with the CS Capstone is the "Technical Report."  
 
-_Option 1)_ Take 3 credits of CS 4980 (or CS 4993) and write a "significant technical paper" at the end of this course.  Whoever you take CS 4980 with will sign off on the paper as being your technical report component for your senior thesis portfolio that you do with STS during 4500 and 4600.  Reach out to faculty to see what projects they may have or check out [http://ug-research.cs.virginia.edu](http://ug-research.cs.virginia.edu) for ideas!     
-_Option 2)_ Take a 6th CS elective (CS 3000 or higher) -AND- take the 0-credit CS 4991 course.  The 6th CS elective will cover your required 3 credits needed for the capstone slot in your SIS Academic Requirements report.  CS 4991 is the course in which we track and evaluate a "significant technical paper" that you come up with on your own.  This course is pass/fail and you need a pass to graduate.
+The CS Capstone is comprised of two parts:
+
+1. Three credits of student work, either through independent research or a CS elective
+2. Writing the technical report as a part of the SEAS Senior Thesis
+
+There are two primary options for completing these two steps:
+
+__Option 1)__ Take 3 credits of CS 4980 (or CS 4993) and write the technical report at the end of this course.  Whoever you take CS 4980 with will sign off on the paper as being your technical report component for your senior thesis portfolio that you do with STS during 4500 and 4600.  Reach out to faculty to see what projects they may have or check out [http://ug-research.cs.virginia.edu](http://ug-research.cs.virginia.edu) for ideas!   
+
+__Option 2)__ Take a 6th CS elective (CS 3000 or higher) -AND- take the 0-credit CS 4991 course.  The 6th CS elective will cover your required 3 credits needed for the capstone slot in your SIS Academic Requirements report.  CS 4991 is the course in which we track and evaluate a your technical report that you come up with on your own.  This course is pass/fail and you need a pass to graduate.
   
 __Q: How do I come up with my paper topic?__    
 A: Here are two prompts to consider:

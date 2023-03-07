@@ -64,6 +64,10 @@ These courses have been approved and entered into SIS to count for each other in
 * MAE 2310 == CE 2310
 * MAE 2320 == CE 2320
 
+### Courses That ARE NOT Equivalent
+
+* STAT 3080 - From Data to Knowledge cannot be used in place of APMA 3150 due to differences in content.
+
 ## Approved Transfer Courses
 
 [SEAS List of Approved Transfer Courses](https://engineering.virginia.edu/current-students/current-undergraduate-students/transferring-uva-engineering/transfer-credit)
