@@ -405,7 +405,7 @@
   location: RICE 340
 
 - course: CS 4501
-  title: Special Topics in Computer Science
+  title: "Privacy in the Internet Age"
   type: LEC
   instructor: Yixin Sun
   day: TuTh 11:00-12:15
@@ -511,6 +511,216 @@
 
 - course: CS 4980
   title: Capstone Research
+  type: IND
+  instructor: All Instructors
+  day: TBD
+  location: TBD
+
+- course: CS 4993
+  title: Independent Study
+  type: IND
+  instructor: All Instructors
+  day: TBD
+  location: TBD
+
+- course: CS 4998
+  title: Distinguished BA Majors Research
+  type: IND
+  instructor: All Instructors
+  day: TBD
+  location: TBD
+  
+- course: CS 6111
+  title: Cloud Computing
+  type: LEC
+  instructor: Haiying Shen
+  day: MoWe 14:00-15:15
+  location: OLS 009
+
+- course: CS 6160
+  title: Theory of Computation
+  type: LEC
+  instructor: Mohammad Mahmoody
+  day: MoWe 15:30-16:45
+  location: OLS 009
+
+- course: CS 6190
+  title: Computer Science Perspectives
+  type: LEC
+  instructor: Sandhya Dwarkadas
+  day: TuTh 09:30-10:45
+  location: THN E316
+
+- course: CS 6316
+  title: Machine Learning
+  type: LEC
+  instructor: Aidong Zhang
+  day: MoWe 14:00-15:15
+  location: OLS 011
+
+- course: CS 6434
+  title: Dependable Computing Systems
+  type: LEC
+  instructor: Homa Alemzadeh
+  day: MoWe 14:00-15:15
+  location: RICE 340
+
+- course: CS 6501
+  title: Special Topics in Computer Science
+  type: LEC
+  instructor: Seongkook Heo
+  day: TuTh 15:30-16:45
+  location: OLS 009
+
+- course: CS 6501
+  title: Special Topics in Computer Science
+  type: LEC
+  instructor: Tom Fletcher
+  day: TuTh 14:00-15:15
+  location: THN E316
+
+- course: CS 6501
+  title: Special Topics in Computer Science
+  type: LEC
+  instructor: Brad Campbell
+  day: TuTh 09:30-10:45
+  location: RICE 340
+
+- course: CS 6501
+  title: Special Topics in Computer Science
+  type: LEC
+  instructor: Afsaneh Doryab
+  day: TuTh 14:00-15:15
+  location: RICE 340
+
+- course: CS 6501
+  title: Special Topics in Computer Science
+  type: LEC
+  instructor: Hongning Wang
+  day: TuTh 11:00-12:15
+  location: OLS 009
+
+- course: CS 6501
+  title: Special Topics in Computer Science
+  type: LEC
+  instructor: David Evans
+  day: MoWe 09:30-10:45
+  location: RICE 340
+
+- course: CS 6501
+  title: Special Topics in Computer Science
+  type: LEC
+  instructor: Adwait Jog
+  day: TuTh 12:30-13:45
+  location: RICE 032
+
+- course: CS 6501
+  title: Special Topics in Computer Science
+  type: LEC
+  instructor: Sebastian Elbaum
+  day: MoWe 11:00-12:15
+  location: RICE 340
+
+- course: CS 6501
+  title: Special Topics in Computer Science
+  type: LEC
+  instructor: Jundong Li
+  day: TuTh 15:30-16:45
+  location: THN E304
+
+- course: CS 6501
+  title: Special Topics in Computer Science
+  type: LEC
+  instructor: Miaomiao Zhang
+  day: MoWe 15:30-16:45
+  location: THN E303
+
+- course: CS 6501
+  title: Special Topics in Computer Science
+  type: LEC
+  instructor: Yen-Ling Kuo
+  day: TuTh 15:30-16:45
+  location: RICE 340
+
+- course: CS 6501
+  title: Special Topics in Computer Science
+  type: LEC
+  instructor: Nicola Bezzo
+  day: We 12:30-13:45
+  location: RICE 120
+
+- course: CS 6501
+  title: Special Topics in Computer Science
+  type: LEC
+  instructor: Yangfeng Ji
+  day: TuTh 11:00-12:15
+  location: MEC 339
+
+- course: CS 6762
+  title: Signal Processing, Machine Learning and Control
+  type: LEC
+  instructor: Felix Lin
+  day: TuTh 12:30-13:45
+  location: RICE 340
+
+- course: CS 6780
+  title: Cyber-Physical Systems Technology and Ethics
+  type: LEC
+  instructor: Brad Campbell
+  day: TuTh 11:00-12:15
+  location: RICE 340
+
+- course: CS 6890
+  title: Industrial Applications
+  type: IND
+  instructor: All Instructors
+  day: TBD
+  location: TBD
+
+- course: CS 6993
+  title: Independent Study
+  type: IND
+  instructor: All Instructors
+  day: TBD
+  location: TBD
+
+- course: CS 7993
+  title: Independent Study
+  type: IND
+  instructor: All Instructors
+  day: TBD
+  location: TBD
+
+- course: CS 7995
+  title: Supervised Project Research
+  type: IND
+  instructor: All Instructors
+  day: TBD
+  location: TBD
+
+- course: CS 8897
+  title: Graduate Teaching Instruction
+  type: IND
+  instructor: All Instructors
+  day: TBD
+  location: TBD
+
+- course: CS 8999
+  title: Thesis
+  type: IND
+  instructor: All Instructors
+  day: TBD
+  location: TBD
+
+- course: CS 9897
+  title: Graduate Teaching Instruction
+  type: IND
+  instructor: All Instructors
+  day: TBD
+  location: TBD
+
+- course: CS 9999
+  title: Dissertation
   type: IND
   instructor: All Instructors
   day: TBD

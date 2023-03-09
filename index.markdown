@@ -10,7 +10,7 @@ permalink: /
 
 Site Last Updated: {{ site.time | date: '%A, %B %d, %Y' }}
 
-{: .warning }
+{: .note }
 This guide is currently in beta and is under construction.  While the information here should be accurate, we are actively looking for any inconsistencies.  If you find anything, please [email Prof. Sherriff](mailto:sherriff@virginia.edu).
 
 ## Information for Fall 2023
