@@ -39,7 +39,7 @@ _(3 credits  / Prerequisites: C- or better in CS 2150 or CS 3140)_
 _(3 credits  / Prerequisites: C- or better in CS 2150 or CS 3140)_     
 The recent phenomenal success of AI is mostly due to the application of giant neural networks. The most effective and widely used method to train those neural networks is gradient descent, which belongs to the family of first-order optimization methods. In this course, we will dive into the foundations of first-order optimization methods to understand why they work and how they work. You will have the chance to prove their efficacy and implement them.
 
-## CS 4501: Machine Learning in Image Analysis w/ Prof. M. Zhang
+### CS 4501: Machine Learning in Image Analysis w/ Prof. M. Zhang
 {: .no_toc }
 _(3 credits  / Prerequisites: C- or better in CS 2150 or CS 3140)_     
 This course focuses on an in-depth study of advanced topics and interests in image data analysis. Students will learn practical image techniques and gain mathematical fundamentals in machine learning needed to build their own models for effective problem solving. Topics of image denoising/reconstruction, deformable image registration, numerical analysis, probabilistic modeling, data dimensionality reduction, and convolutional neural networks for image segmentation/classification will be covered. The main focus might change from semester to semester. The graduate students (ECE/CS 6501) will be given additional programming tasks and more advanced theoretical questions.
