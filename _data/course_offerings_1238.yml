@@ -412,7 +412,7 @@
   location: THN E303
 
 - course: CS 4501
-  title: "F1/10 Racing"
+  title: "F1/10 Autonomous Racing"
   type: LEC
   instructor: Madhur Behl
   day: TBD
@@ -447,14 +447,14 @@
   location: OLS 018
 
 - course: CS 4501
-  title: Special Topics in Computer Science
+  title: Optimization
   type: LEC
   instructor: Shangtong Zhang
   day: TuTh 14:00-15:15
   location: OLS 120
 
 - course: CS 4501
-  title: Special Topics in Computer Science
+  title: Machine Learning in Image Analysis
   type: LEC
   instructor: Miaomiao Zhang
   day: MoWe 15:30-16:45
