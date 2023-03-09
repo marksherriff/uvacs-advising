@@ -10,6 +10,10 @@ nav_order: 10
 1. TOC
 {:toc}
 
+## CS Student Mailing Lists
+
+All Undergrad CS Students Department List (cs-ugrads@virginia.edu): A list called cs-ugrads@virginia.edu is used to send important messages to all our undergraduate computing majors (BSCS, BACS, and BSCpE majors). At least once a year, we update these lists and add all our majors.
+
 ## CS Department Contacts
 
 * General questions and help: [cs-office@virginia.edu](mailto:cs-office@virginia.edu)

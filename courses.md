@@ -74,3 +74,36 @@ These courses have been approved and entered into SIS to count for each other in
 [SEAS List of Approved Transfer Courses](https://engineering.virginia.edu/current-students/current-undergraduate-students/transferring-uva-engineering/transfer-credit)
 
 [College Transfer Credit Equivalencies for U.S. Colleges and Universities](http://ascs8.eservices.virginia.edu/AsEquivs)
+
+## Which CS1 Course Should I Take
+
+If you have never programmed before, take CS 1110, 1112, 1113, or 1120. If you have programmed a little, take CS 1111 (or 1110 or 1113 if you can't get into 1111). If you have programmed a fair amount, you can probably get transfer credit or test out of CS 111x. More details follow.
+
+* CS 1110 - A basic introductory course that focuses on learning the basics of programming and computational thinking. No prerequisite required. Language: Python. Requires a lecture section and a lab.
+* CS 1111 - Only students with some programming experience may take this course. This programming experience can be in any language. CS 1111 has the same assignments and tests as CS 1110, but does not require lab and moves slightly faster through some material since students are expected to have some exposure to basic concepts. Language: Python.
+* CS 1112 - Only students with no programming experience may take this course. Offered as a lecture + lab combination that meets three times a week. Language: Python. Students must submit a permission of instructor request through SIS to request a seat in the course.
+* CS 1113 - CS1 special topics and can vary from semester to semester. In the past we have offered a version focused on a mathematical approach to computing and a version emphasizing uses of computing in engineering disciplines.
+* CS 1120 - A course designed as an introductory course for the BACS, it now counts the same for all majors and schools.
+
+Note - You can only receive credit for 1 CS 111X or 1120 course.
+
+## AP/IB/Dual Enrollment Credit
+
+### Advanced Placement
+{: .no_toc }
+
+* For Computer Science - 4 or 5 gives credit for CS 1110
+* For CS Principles - 4 or 5 gives credit for CS 1000T and the student is encouraged to take the CS 1110 Placement Test
+
+### International Baccalaureate
+{: .no_toc }
+
+For Computer Science:
+
+* 5 on High Level gives credit for CS 1110
+* 6 or 7 on High Level gives credit for CS 1110 and CS 2110
+
+### Dual Enrollment
+{: .no_toc }
+
+Please discuss with a CS advisor or the SEAS dean's office.
