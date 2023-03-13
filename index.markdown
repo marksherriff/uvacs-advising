@@ -15,7 +15,13 @@ This guide is currently in beta and is under construction.  While the informatio
 
 ## Information for Fall 2023
 
-__Courses for Fall 2023__
+__Important Dates:__
+
+* Courses listed in SIS: Friday, March 17
+* Shopping carts open in SIS (students can pre-select courses): Friday, March 24
+* First day of undergraduate registration: Monday, April 10
+
+__Courses for Fall 2023:__
 
 * [CS Course Offerings]({{baseurl}}/semester/f23/course_offerings.html)
 * [Undergraduate Special Topics Courses]({{baseurl}}/semester/f23/special_topics_offerings.html)
