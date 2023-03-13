@@ -6,6 +6,8 @@ parent: Course Information
 
 # Course Offerings for Fall 2023
 
+__Last Updated: Thursday, March 8__
+
 | Course        | Title          | Instructor |  Meeting |      
 |:-------------|:------------------|:------|:-------|
 {% for course in site.data.course_offerings_1238 -%}

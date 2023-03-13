@@ -6,6 +6,8 @@ parent: Course Information
 
 # Special Topics Courses for Fall 2023
 
+__Last Updated: Thursday, March 8__
+
 ### CS 4501: Privacy in the Internet Age w/ Prof. Sun
 {: .no_toc }
 _(3 credits  / Prerequisites: C- or better in CS 2150 or CS 3130)_     
