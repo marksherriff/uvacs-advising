@@ -42,7 +42,7 @@ Enrollment in a course is ultimately up to the instructor, so reach out to them 
 
 If a course __must__ be taken in a specific semester in order for a student to graduate on time, email the instructor and the appropriate program director - [bscsdirector@virginia.edu](mailto:bscsdirector@virginia.edu) or [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu) - with your situtation.
 
-## Help with Declaring a Second Major
+## Help with Declaring a Second Major / Double Major
 
 BACS
 {: .label .label-green }
