@@ -62,7 +62,7 @@ __For APMA:__ Any other APMA or MATH course credits not already being used towar
 
 ## Policy on Changing Graduation Year / Graduating Early
 
-The department will help a CS student change their graduation year / class year standing in SIS because they are graduating early __only when they are about to start their final year at UVA__.  This can include two regular semesters + summer sessions if needed.  
+The department will help a CS student change their graduation year / class year standing in SIS because they are graduating early __only when they are about to start their final year at UVA__.  This typically means the student has roughly 30-36 credits remaining and plans on enrolling in two more regular semesters at UVA.
 
 If a student is in this position and wishes to proceed, they need to create a course schedule / outline that shows that they can finish the degree in one year and make an appointment with the appropriate program director - [bscsdirector@virginia.edu](mailto:bscsdirector@virginia.edu) or [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu) - with their plan to set up a meeting.  If the program director agrees that this plan is feasible, the program director will contact the appropriate school registrar to make the change in SIS.
 
