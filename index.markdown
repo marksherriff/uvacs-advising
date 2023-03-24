@@ -35,3 +35,7 @@ __Old Curriculum Transition:__
 
 * Fall 2023 will be the final semester we offer [CS 4414: Operating Systems]({{ baseurl }}/courses.html#cs-4414-operating-systems) in its "old curriculum" form.  The course will be locked to ONLY 4th year BSCS and CPE majors.  If you need to take this course, please make sure to sign up for it on time!
 * Students on the old curriculum who have not completed the core courses up through CS 3330 by the start of the Fall 2023 semester should email their advisor and the appropriate program director - [bscsdirector@virginia.edu](mailto:bscsdirector@virginia.edu) or [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu) - with your situation.
+
+__Physics 2 Replacement:__
+
+* Prof. Keith Williams has created a new course that has been approved to count in place of PHYS 2415/2419 - ECE 2200: Applied Physics (Credits: 4).  Taking this course will fully satisfy the Physics 2 requirement.
