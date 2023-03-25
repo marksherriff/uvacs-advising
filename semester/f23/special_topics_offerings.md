@@ -5,8 +5,15 @@ parent: Course Information
 ---
 
 # Special Topics Courses for Fall 2023
+{: .no_toc }
+
+1. TOC
+{:toc}
+
 
 __Last Updated: Thursday, March 8__
+
+## CS Undergraduate Special Topics
 
 ### CS 4501: Privacy in the Internet Age w/ Prof. Sun
 {: .no_toc }
@@ -46,3 +53,13 @@ The recent phenomenal success of AI is mostly due to the application of giant ne
 _(3 credits  / Prerequisites: C- or better in CS 2150 or CS 3140)_     
 This course focuses on an in-depth study of advanced topics and interests in image data analysis. Students will learn practical image techniques and gain mathematical fundamentals in machine learning needed to build their own models for effective problem solving. Topics of image denoising/reconstruction, deformable image registration, numerical analysis, probabilistic modeling, data dimensionality reduction, and convolutional neural networks for image segmentation/classification will be covered. The main focus might change from semester to semester. The graduate students (ECE/CS 6501) will be given additional programming tasks and more advanced theoretical questions.
 
+## CS Graduate Special Topics
+
+_Coming soon!_
+
+## Special Topics Outside CS
+
+### ENGR 4880: Engineering & Business - Leadership and Purpose in a Complex World
+{: .no_toc }
+_(3 credits)_
+Dialogue, discussion, team interactions and a summit of Mt. Everest (virtual) will be complemented with insights from guest speakers.  Classes will be hosted by Blair Okita, a UVA Engineering graduate, who has led Process Development, Manufacturing and Quality Organizations at start-ups, mid-size, and multinational biopharmaceutical companies. [PDF Flyer](/semester/f23/engr4880-f23.pdf)
