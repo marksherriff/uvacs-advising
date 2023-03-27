@@ -75,6 +75,17 @@ These courses have been approved and entered into SIS to count for each other in
 
 [College Transfer Credit Equivalencies for U.S. Colleges and Universities](http://ascs8.eservices.virginia.edu/AsEquivs)
 
+### What if the course I want to transfer is not listed?
+
+If there is a course that you believe would match one of our CS courses for transfer, email the following to your program director ([bscsdirector@virginia.edu](mailto:bscsdirector@virginia.edu) or [bscsdirector@virginia.edu](mailto:bscsdirector@virginia.edu)):
+
+* Where you want to take the course from
+* Course Number / Title
+* Link to course syllabus or a PDF of the course syllabus
+* Why you believe the course is a match
+
+We will then look at the course and inform you of the decision as soon as possible.
+
 ## Which CS1 Course Should I Take
 
 If you have never programmed before, take CS 1110, 1112, 1113, or 1120. If you have programmed a little, take CS 1111 (or 1110 or 1113 if you can't get into 1111). If you have programmed a fair amount, you can probably get transfer credit or test out of CS 111x. More details follow.
