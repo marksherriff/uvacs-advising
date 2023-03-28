@@ -537,13 +537,6 @@
   day: MoWe 14:00-15:15
   location: OLS 009
 
-- course: CS 6160
-  title: Theory of Computation
-  type: LEC
-  instructor: Mohammad Mahmoody
-  day: MoWe 15:30-16:45
-  location: OLS 009
-
 - course: CS 6190
   title: Computer Science Perspectives
   type: LEC
