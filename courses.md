@@ -98,7 +98,7 @@ If the course is not on the pre-approved list for your school, approval is requi
 We will then look at the course and inform you of the CS department's decision as soon as possible, and then you will have to follow your school's procedures for the paperwork approval.
 
 
-### About prerequisites
+### Transferring a course that is a prerequisite to CS courses
 
 The courses taken at another institution cannot apply toward prerequisites at UVA until it has been completed and the grade is shown in SIS.  For example, if you plan to take a course to replace CS 2100 over the summer, SIS will not let you register for CS 3140 for the following fall until the course you are taking over the summer has been successfully completed AND is in SIS.  There is no good way to put in exceptions in SIS based on what a student "plans to do."  You can always reach out to the professors of the course you want to get in to, but they will generally let the registration process proceed normally.
 
