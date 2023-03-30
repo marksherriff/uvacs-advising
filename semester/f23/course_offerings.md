@@ -6,14 +6,4 @@ parent: Course Information
 
 # Course Offerings for Fall 2023
 
-__Last Updated: Thursday, March 8__
-
-| Course        | Title          | Instructor |  Meeting |      
-|:-------------|:------------------|:------|:-------|
-{% for course in site.data.course_offerings_1238 -%}
-{% if course.type == "LAB" -%}
-| {{ course.course }} | {{ course.title }} (LAB) | {{ course.instructor }} | {{ course.day }} |
-{% else -%}
-| {{ course.course }} | {{ course.title }} | {{ course.instructor }} | {{ course.day }} |
-{% endif -%}
-{%- endfor -%}
+Please see [Lou's List](https://louslist.org/page.php?Semester=1238&Type=Group&Group=CompSci) for the most up-to-date information on CS course offerings.
