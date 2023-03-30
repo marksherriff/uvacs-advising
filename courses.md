@@ -15,30 +15,6 @@ has_children: true
 
 ![Prerequisite Chart]({{ site.data.externallinks.prereq_chart }})
 
-## CS Course Descriptions
-
-{% for course in site.data.courses %}
-
-### {{ course.course }}: {{ course.title }}
-{: .no_toc }
-{% if course.flag == "foundation" %}
-Foundation
-{: .label .label-green .float-right}
-{% elsif course.flag == "elective" %}
-CS Elective
-{: .label .label-purple .float-right}
-{% elsif course.flag == "deprecated" %}
-Deprecated
-{: .label .label-red .float-right}
-{% elsif course.flag != NULL %}
-{{ course.flag }}
-{: .label .float-right}
-{% endif %}
-_({{ course.credits }} credits  / Prerequisites: {{ course.prereqs }})_     
-{{ course.description }}
-
-{% endfor %}
-
 ## UVA Course Equivalencies
 
 These courses have been approved and entered into SIS to count for each other in all cases.  If you find a discrepancy in your academic record, please [email cs-office@virginia.edu](mailto:cs-office@virginia.edu).
@@ -72,14 +48,13 @@ These courses have been approved and entered into SIS to count for each other in
 
 ## Transfering Courses to UVA
 
-
 Current UVA students taking course work at other institutions may need to secure permission prior to enrolling in courses at another institution -- see more about this below. After completing such work, students must have official transcripts from the institution in which the courses were taken sent to the appropriate dean’s office at the University. Here are links to policies and procedures:
 
 * [General University Policies](http://records.ureg.virginia.edu/content.php?catoid=54&navoid=4293#transer_credit) from the 2022-23 UG Record
 * [SEAS process and policies](https://engineering.virginia.edu/current-students/current-undergraduate-students/transferring-uva-engineering/transfer-credit) (for BSCS and CpE majors)
 * [College process and policies](https://college.as.virginia.edu/transfer-credit) (for BACS majors)
 
-The College and SEAS pages have their own list of courses each has pre-approved. If a course is pre-approved, College students must submit a form  before they take it (see the instructions on their website). SEAS does not require anything in advance if the course is pre-approved, but see their page for what you need to do after you complete the course. 
+The College and SEAS pages have their own list of courses each has pre-approved. If a course is pre-approved, College students must submit a form before they take it (see the instructions on their website). SEAS does not require anything in advance if the course is pre-approved, but see their page for what you need to do after you complete the course. 
 
 ## Approved Transfer Courses
 
@@ -147,3 +122,27 @@ For Computer Science:
 {: .no_toc }
 
 Please discuss with a CS advisor or the SEAS dean's office.
+
+## CS Course Descriptions
+
+{% for course in site.data.courses %}
+
+### {{ course.course }}: {{ course.title }}
+{: .no_toc }
+{% if course.flag == "foundation" %}
+Foundation
+{: .label .label-green .float-right}
+{% elsif course.flag == "elective" %}
+CS Elective
+{: .label .label-purple .float-right}
+{% elsif course.flag == "deprecated" %}
+Deprecated
+{: .label .label-red .float-right}
+{% elsif course.flag != NULL %}
+{{ course.flag }}
+{: .label .float-right}
+{% endif %}
+_({{ course.credits }} credits  / Prerequisites: {{ course.prereqs }})_     
+{{ course.description }}
+
+{% endfor %}
