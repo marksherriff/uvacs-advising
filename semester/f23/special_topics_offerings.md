@@ -39,9 +39,10 @@ This course is meant as a general introduction to cryptocurrency. This course is
 _(3 credits  / Prerequisites: C- or better in CS 2150 or CS 3140)_     
 Usability engineering, a sub-domain of Human Computer Interaction, explores the best ways to design interactive systems that are "easy and intuitive to use." Although this last phrase has been widely used, or abused, by software engineers and other stakeholders in software development, there is actually a foolproof path to design interactive systems that ensure usability (i.e., usefulness, efficiency, effectiveness, learnability, satisfaction, accessibility).
 
-### CS 4501: TBD w/ Prof. Kwon
+### CS 4501: Operating Systems Security: Breaking the Code w/ Prof. Kwon
 {: .no_toc }
 _(3 credits  / Prerequisites: C- or better in CS 2150 or CS 3140)_     
+Operating systems are critical to systems security because every software runs on top of it. Over the decades, various hacks have been developed by malicious attackers, from breaking existing software to hiding and running malicious code. In this course, we will navigate various hacks and tricks used by advanced attackers for decades for various platforms and purposes. In particular, we will cover in-depth details of how each trick is possible and how to prevent or mitigate it. Further, we will discuss how those tricks can persist over decades and whether they will stay in the new era of computing environments.
 
 ### CS 4501: Optimization w/ Prof. S. Zhang
 {: .no_toc }
