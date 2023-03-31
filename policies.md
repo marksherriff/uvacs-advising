@@ -68,6 +68,8 @@ If a student is in this position and wishes to proceed, they need to create a co
 
 We __will not__ entertain requests to change a graduation year / class standing until one year remains because it is not uncommon for students to think they want to graduate early, only to find that they require more time.
 
+Further, if we process this change for you, __you are committing to graduating early and cannot revert this change except under special circumstances.__
+
 ## CS Department Grading Guidelines
 
 _This document was approved as an official guideline for the CS department and its associated courses by vote of the CS faculty on 2019-02-18._
