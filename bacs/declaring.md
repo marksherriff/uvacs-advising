@@ -83,4 +83,6 @@ Be sure to click Finish at the bottom of the major declaration form!
 Your form will be forwarded to a sequence of people, who will approve it, assign you a CS advisor, and finally enter your new major into SIS. After the final step happens, DocuSign is supposed to send you an email saying it’s completed. We’ve noticed that sometimes this email doesn’t reach your Inbox, so check on SIS to see if your major has been updated if you don’t see the email. (New BACS declarations in Summer 2022 – see Important Note #4 above.)
 
 
+## How to Undeclare
 
+If the BACS is your second major, and you no longer wish to pursue the BACS major, use the "Delete a Major or Minor" form on the [student forms](https://college.as.virginia.edu/student-forms) page.
