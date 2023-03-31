@@ -9,12 +9,11 @@ parent: BACS Information
 
 __Last Updated: 01/25/2023__
 
-## What Integration Electives are Offered Next Semester?
+**What Integration Electives are Offered Next Semester?**
 
-[Click on this link[(https://www.cs.virginia.edu/~horton/integ-elect.html) to see a page that shows what Integration Electives are offered that you can enroll in. The page lets you search, sort, find courses with open seats, see which count for a College General Education requirement, etc.
+[Click on this link](https://www.cs.virginia.edu/~horton/integ-elect.html) to see a page that shows what Integration Electives are offered that you can enroll in. The page lets you search, sort, find courses with open seats, see which count for a College General Education requirement, etc.
 
-
-## Information, Policies and Petitioning
+---
 
 1. TOC
 {:toc}
