@@ -64,7 +64,7 @@ Prof. David Evans manages the BACS Distinguished Majors Program (DMP), and detai
 
 ## "Old" BACS Requirements
 
-The BACS degree program changed significantly for students who started at UVA in Summer 2021 and later. Some current BA majors are still completing the "old" degree program. Here is some advising info for those students.
+The BACS degree program changed significantly for students who started at UVA in Summer 2022 and later. Some current BA majors are still completing the "old" degree program. Here is some advising info for those students.
 
 * The official degree requirements are in the 2021-22 Undergraduate Record [at this link](http://records.ureg.virginia.edu/preview_program.php?catoid=52&poid=6752&returnto=4118).
 * Here's a [check-list of requirements](http://bacsoldchecklist.uvacs.org/) for the "old" degree requirements.
