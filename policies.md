@@ -14,6 +14,11 @@ nav_order: 5
 
 The CS department enforces all course prerequisites listed in course descriptions. For example, if you take a course that requires CS 2100 with a C- or higher and you don't meet that prereq, you may be able to enroll but you'll be removed at the start of the semester. Obey the prerequisite rules!
 
+__Q: What if I am taking a course over the summer / J-term?  Will that count toward prereqs for the next regular term?__       
+A: For courses taken outside UVA, there is no good way to allow students to sign up for a course that requires a prerequisite that does not currently appear in SIS.  To do this, there would have to be manual intervention in SIS and we would have to check the transcript later.  Further, there is no guarantee that the course will be completed and transferred until it is reflected in SIS.  For these reasons, if a prerequisite course is taken at another unveristy, the transfer process must be fully completed with the course in SIS for it to be used as a prerequisite for a later course at UVA.
+
+We currently do not know, however, what SIS will do if the summer course is being taken at UVA.  SIS allows students to sign up for courses that have a prerequisite if they are currently enrolled in the course but do not yet have a grade.  We are investigating whether this also applies to summer courses and will update this page once the answer is known.
+
 ## CS Elective Policy
 
 CS electives consist of CS courses at the 3000 level or higher that are not already being used for a degree requirement.  These courses must have the CS mnemonic.  Courses from other disciplines will only be accepted under rare circumstances and by approval of the CS Undergraduate Curriculum Committee.  Additional CS electives may be required as part of the CS 4991 option for the senior thesis or to fill in missing credits due to place-out test.
@@ -87,8 +92,6 @@ It is traditional for grades to reflect a combination of several kinds of learni
 * "F" is used for students who failed to demonstrate minimal competence in learning objectives. An “F” should be seen as indicating that future efforts in areas that depend on these objectives should not be undertaken without first retaking the course that gave the “F”.
 
 Misconduct or lack of professionalism may result in a lower grade than demonstrated competence would otherwise indicate. The scope and nature of such reductions, if any, may be determined independently for each course offering.
-
-
 
 ## UVA Policies
 
