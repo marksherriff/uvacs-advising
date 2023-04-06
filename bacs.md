@@ -27,6 +27,8 @@ See the page on [Declaring the BACS]({{ baseurl }}/bacs/declaring.html).
 * [UVA BACS Example Semester Schedule]({{ site.data.externallinks.bacs_example_schedule }})
 * [Course Prerequisite Chart]({{ baseurl }} /courses.html#prerequisite-chart)
 
+For information on the "old" BACS degree requirements, see the bottom of this page.
+
 ## Degree Requirements
 
 ### BACS Prerequisites
@@ -59,3 +61,13 @@ All BACS majors must complete 12 credits of [Integration Electives]({{baseurl}}/
 ## Distinguished Majors Program
 
 Prof. David Evans manages the BACS Distinguished Majors Program (DMP), and details about that program can be found at [https://csdmp.github.io/](https://csdmp.github.io/).  Students who apply to and are accepted to be in the Distinguished Majors Program must complete the usual degree requirements as well as a fourth year thesis project. This requires two semesters of [CS 4998 - Distinguished BA Majors Research]({{ baseurl }}/courses.html#cs-4998-distinguished-ba-majors-research) (3 credits each semester) in addition to the usual requirements.
+
+## "Old" BACS Requirements
+
+The BACS degree program changed significantly for students who started at UVA in Summer 2021 and later. Some current BA majors are still completing the "old" degree program. Here is some advising info for those students.
+
+* The official degree requirements are in the 2021-22 Undergraduate Record [at this link](http://records.ureg.virginia.edu/preview_program.php?catoid=52&poid=6752&returnto=4118).
+* Here's a [check-list of requirements](http://bacsoldchecklist.uvacs.org/) for the "old" degree requirements.
+* SIS automatically recognizes the list of integration electives for these students linked to from that page in the UG Record. Here’s a [direct link](http://records.ureg.virginia.edu/mime/media/view/52/4095/Computer%2BScience%2BIntegration%2BElectives%2B2021-2022.pdf). (Courses on a more recent list can count, but the student must fill out the request form.)
+* Current students can declare the major with the “old curriculum” at this time only if they were able to complete CS2150 by the end of Fall 2022 (with a C- or higher) and pass CS3330 no later than Spring 2023.
+
