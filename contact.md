@@ -18,7 +18,7 @@ All Undergrad CS Students Department List (cs-ugrads@virginia.edu): A list calle
 
 * General questions and help: [cs-office@virginia.edu](mailto:cs-office@virginia.edu)
 * BSCS Director: [bscsdirector@virginia.edu](mailto:bscsdirector@virginia.edu)
-* BACS Director: [bscsdirector@virginia.edu](mailto:bscsdirector@virginia.edu)
+* BACS Director: [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu)
 
 ## SEAS Student Support Team
 You have many resources available to you when you experience academic or personal stresses. In addition to your professor, the School of Engineering and Applied Science has staff members located in Thornton Hall who you can contact to help manage academic or personal challenges. Please do not wait until the end of the semester to ask for help! 
