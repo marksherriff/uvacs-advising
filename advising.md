@@ -72,6 +72,6 @@ For a 5000-level course, we're told you do not need special permission to enroll
 
 For a 6000-level course:
 
-If you are a College student who is enrolled in the UVAccelerate program (described in an item just above this), you should receive instructions from that program about the process you should use.  Essentially you will follow the procedure for SEAS students (see above), and the UVAccelerate and SEAS will coordinate with the College to make this happen.
+__College students enrolled in UVAccelerate:__ You should receive instructions from that program about the process you should use.  Essentially you will follow the procedure for SEAS students (see above), and the UVAccelerate and SEAS will coordinate with the College to make this happen.
 
-College students not in that program, the College has a policy described on their "Forms" page. To enroll in a 6000-level course students must complete and submit the "6000 Form".  However, the form will not be made available until a few weeks before classes start, so it's not possible to enroll before that time. (The CS department has no control over this policy.)
+__College students _not_ in UVAccelerate:__ The College has a policy described on their "Forms" page. To enroll in a 6000-level course students must complete and submit the "6000 Form".  However, the form will not be made available until a few weeks before classes start, so it's not possible to enroll before that time. (The CS department has no control over this policy.)
