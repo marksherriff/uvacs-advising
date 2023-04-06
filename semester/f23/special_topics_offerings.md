@@ -52,7 +52,7 @@ The recent phenomenal success of AI is mostly due to the application of giant ne
 ### CS 4501: Machine Learning in Image Analysis w/ Prof. M. Zhang
 {: .no_toc }
 _(3 credits  / Prerequisites: C- or better in CS 2150 or CS 3140)_     
-This course focuses on an in-depth study of advanced topics and interests in image data analysis. Students will learn practical image techniques and gain mathematical fundamentals in machine learning needed to build their own models for effective problem solving. Topics of image denoising/reconstruction, deformable image registration, numerical analysis, probabilistic modeling, data dimensionality reduction, and convolutional neural networks for image segmentation/classification will be covered. The main focus might change from semester to semester. The graduate students (ECE/CS 6501) will be given additional programming tasks and more advanced theoretical questions.
+This course focuses on an in-depth study of advanced topics and interests in image data analysis. Students will learn practical image techniques and gain mathematical fundamentals in machine learning needed to build their own models for effective problem solving. Topics of image denoising/reconstruction, deformable image registration, numerical analysis, probabilistic modeling, data dimensionality reduction, and convolutional neural networks for image segmentation/classification will be covered. The main focus might change from semester to semester. The graduate students (ECE/CS 6501) will be given additional programming tasks and more advanced theoretical questions. Mathematical background in linear algebra, multivariate calculus, probability and statistics, and programming skills are required in this class.
 
 ## CS Graduate Special Topics
 
