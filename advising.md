@@ -57,3 +57,15 @@ See the [SEAS page on Declaring a Major or Minor]( {{ site.data.externallinks.se
 ## Help with a 5th Year Masters / UVAccelerate
 
 The CS contact for this is [Prof. Felix Lin](mailto:felixlin@virginia.edu) and the website is [https://engineering.virginia.edu/future-grads/graduate-programs/uvaccelerate](https://engineering.virginia.edu/future-grads/graduate-programs/uvaccelerate).
+
+## Help with Taking a Graduate Course as an Undergrad
+
+BSCS
+{: .label .label-blue }
+CpE
+{: .label .label-red }
+See the [SEAS Undergraduate Forms page]( {{ site.data.externallinks.seas_undergrad_forms }}) for the form to use to request to take a graduate-level course as an undergrad in SEAS.  Note that graduate courses taken that are not in any way used toward an undergraduate degree (neither degree requirements nor overall credits) can be transferred over to a graduate program post-graduation.
+
+BACS
+{: .label .label-green }
+The College has a different procedure/form for taking graduate-level courses as an undergrad.  More information coming soon.
