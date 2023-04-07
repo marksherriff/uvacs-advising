@@ -18,7 +18,13 @@ Before course registration, an advisor hold is placed on your account. You must 
 
 __What do I do if I don't hear from my advisor?__  If you haven't heard anything from your advisor after several attempts, please email [cs-office@virginia.edu](mailto:cs-office@virginia.edu).
 
-## Help Degree Requirements in SIS
+## Help with Tracking Degree Progress
+
+To see how the courses you have taken are meeting your degree requirements, in SIS you can click "Academics" in the left navigation panel, and then select "View Academic Requirements". This will show you each requirement for your degree(s), which requirements you have already satisfied, what requirements your registered courses will meet, and which requirements you still need to meet.
+
+Note, the Academic Requirements page is dense and somewhat unintuitive to read. However, it is the most concise way to view which courses are meeting which requirements. The Degree Progress is more visually appealing, but requires more searching to find the same information.
+
+## Help with Issues in SIS
 
 SIS is wrong?  Missing a class from transfer, something in the wrong “bucket”, etc.  please email [cs-office@virginia.edu](mailto:cs-office@virginia.edu) with your name, ID, and situation. It is each student's responsibility to ensure that their academic record as recorded on the SIS is accurate.
 
