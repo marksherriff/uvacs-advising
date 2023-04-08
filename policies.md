@@ -15,9 +15,11 @@ nav_order: 5
 The CS department enforces all course prerequisites listed in course descriptions. For example, if you take a course that requires CS 2100 with a C- or higher and you don't meet that prereq, you may be able to enroll but you'll be removed at the start of the semester. Obey the prerequisite rules!
 
 __Q: What if I am taking a course over the summer / J-term?  Will that count toward prereqs for the next regular term?__       
-A: For courses taken outside UVA, there is no good way to allow students to sign up for a course that requires a prerequisite that does not currently appear in SIS.  To do this, there would have to be manual intervention in SIS and we would have to check the transcript later.  Further, there is no guarantee that the course will be completed and transferred until it is reflected in SIS.  For these reasons, if a prerequisite course is taken at another unveristy, the transfer process must be fully completed with the course in SIS for it to be used as a prerequisite for a later course at UVA.
+A: For courses taken outside UVA, there is no good way to allow students to sign up for a course that requires a prerequisite that does not currently appear in SIS.  To do this, there would have to be manual intervention in SIS and we would have to check the transcript later.  Therefore, if a prerequisite course is taken at another unveristy, the transfer process must be fully completed with the course in SIS for it to be used as a prerequisite for a later course at UVA.
 
-We currently do not know, however, what SIS will do if the summer course is being taken at UVA.  SIS allows students to sign up for courses that have a prerequisite if they are currently enrolled in the course but do not yet have a grade.  We are investigating whether this also applies to summer courses and will update this page once the answer is known.
+If, however, the summer / J-term course is taken at UVA, SIS will treat the course the same as if you are taking it in the current semester.  Example: You are taking CS 2100 in the Spring semester and want to enroll in CS 3100 in the Fall.  CS 3100, however, requires that you have both CS 2100 and CS 2120.  If you register for CS 2120 over the summer at UVA, SIS will treat CS 2120 as part of your academic plan ahead of the fall and will allow you to register for CS 3100.
+
+__NOTE:__ Regardless of what SIS let's you register for, the CS department will still check all prerequisites at the start of each semester.  If you do not have the appropriate grades in the needed courses, we will drop you from the courses that have these prerequisites.
 
 ## CS Elective Policy
 
