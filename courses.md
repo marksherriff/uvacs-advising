@@ -123,6 +123,10 @@ For Computer Science:
 
 Please discuss with a CS advisor or the SEAS dean's office.
 
+### UVA AP Credit Information
+
+Please see the [undergraduate record]({{site.data.externallinks.ap_credit}}) for information about what AP credit UVA accepts.
+
 ## CS Course Descriptions
 
 {% for course in site.data.courses %}
