@@ -48,6 +48,19 @@ Enrollment in a course is ultimately up to the instructor, so reach out to them 
 
 If a course __must__ be taken in a specific semester in order for a student to graduate on time, email the instructor and the appropriate program director - [bscsdirector@virginia.edu](mailto:bscsdirector@virginia.edu) or [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu) - with your situtation.
 
+## Help with Taking Overload Credit Hours
+
+BACS
+{: .label .label-green }
+College students are restricted to 15 credit hours during initial registration.  This limit increases to 17 at the beginning of the semester.  Please see the [University Registrar's website](https://registrar.virginia.edu/enrollment-information) for the specific dates.  For a College student to do more than 17 hours, they need to do an [overload form through the College](https://college.as.virginia.edu/forms).  These are only processed at the beginning of a semester.
+
+BSCS
+{: .label .label-blue }
+CpE
+{: .label .label-red }
+
+SEAS students should aim to take 15 credit hours a term on average to complete their degree on time.  SEAS students are limited to 19 credit hours in a semester without needed special permission.  This limit does not change like the College limit does.  To take more than 19 credit hours in a semester, a SEAS student should fill out the [Over 19 Hours](https://engineering.virginia.edu/node/48766/) form from the SEAS forms website.
+
 ## Help with Declaring a Second Major / Double Major
 
 BACS
