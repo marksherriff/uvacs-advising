@@ -59,7 +59,7 @@ BSCS
 CpE
 {: .label .label-red }
 
-SEAS students should aim to take 15 credit hours a term on average to complete their degree on time.  SEAS students are limited to 19 credit hours in a semester without needed special permission.  This limit does not change like the College limit does.  To take more than 19 credit hours in a semester, a SEAS student should fill out the [Over 19 Hours](https://engineering.virginia.edu/node/48766/) form from the SEAS forms website.
+SEAS students should aim to take 15 credit hours a term on average to complete their degree on time.  SEAS students are limited to 19 credit hours in a semester without special permission.  This limit does not change like the College limit does.  To take more than 19 credit hours in a semester, a SEAS student should fill out the [Over 19 Hours](https://engineering.virginia.edu/node/48766/) form from the SEAS forms website.
 
 ## Help with Declaring a Second Major / Double Major
 
