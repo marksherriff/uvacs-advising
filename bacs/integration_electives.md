@@ -188,7 +188,6 @@ Below that is a list of courses for which petitions __will not be accepted__. Be
 * LPPP 3559    Hacking the Department of Defense
 * LPPP 3559    Hacking for DOD Innovation
 * LPPS 3241/STS 3020    Science and Technology Policy
-* MDST 2000    Introduction to Media Studies
 * MDST 3310    Sound and Cinema
 * MDST 3140    Mass Media and American Politics
 * MDST 3559    Propaganda and Digital Politics
