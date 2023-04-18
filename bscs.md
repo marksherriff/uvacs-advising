@@ -54,6 +54,15 @@ BSCS students must complete the unified set of general requirements for all engi
 * [Math and Science Elective]({{ site.data.externallinks.seas_elective_info }}) (Credits: 3)
 * [Humanities or Social Science Electives]({{ site.data.externallinks.seas_elective_info }}) (Credits: 9) (more info below)
 
+Update Fall 2023
+{: .label .label-green }
+
+Starting in Fall 2023, the following courses will change:
+
+* ENGR 1624 (4 credits) is being replaced with ENGR 1010 – Engineering Foundations I (4 credits)
+* STS 1500 (3 credits) is being replaced with ENGR 1020 – Engineering Foundations II (3 credits)
+* STS Elective (3 credits) is being replaced with STS 2600 – Engineering Ethics (3 credits)
+
 ### Introduction to Programming
 
 All SEAS students (including CS majors) must complete one Introduction to Programming course as a part of their general SEAS requirements.  Students may also complete this requirement through Advanced Placement (AP), International Baccalaureate (IB), or dual-enrollment credit.  Some students with programming experience may wish to take the place-out test, which satisfies the requirement but does not award degree credit.  More information can be found in the Place-Out Tests section below.
@@ -120,6 +129,7 @@ Notes:
 * APMA 3120 and APMA 3150 are both statistics courses with substantial overlap and thus cannot both count toward the BSCS degree.  Students interested in taking these courses should choose one or the other.
 * APMA 3110 - Applied Statistics and Probability does not count toward the BSCS degree.  Students switching to the BSCS major who have already had this course should consult with their advisor on further APMA courses.
 * STAT 3080 - From Data to Knowledge _cannot be used_ in place of APMA 3150 due to differences in content.
+* If APMA 2130 is taken at another institution and transfers in as 3 credits, that is fine and it will still count.  No replacement is necessary for the other credit.
 
 ### Humanities and Social Science (HSS) Electives
 
