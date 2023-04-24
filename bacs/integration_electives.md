@@ -69,14 +69,20 @@ The College members of the BACS committee and the College Dean’s office have g
 __Sharing courses with another major:__     
 The College’s rule states: “No more than two courses can be counted simultaneously for two non-interdisciplinary majors; an interdisciplinary major may share up to three courses with another major.”  (You can see this rule and a list of which majors are “interdisciplinary” [on this page in the section “Number of Credits”]({{ site.data.externallinks.college_declaring_major }}).)
 
+__Sharing and CS111x and CS2100/CS2110:__ For the BACS, these courses are __prerequisites to declare the major,__ and for this reason are not officially degree requirements. So College sharing rules for major and minors do not apply to these courses!
+
 For College CS majors, it depends on if you’re following the “old” or “new” CS major requirements.
 
 1. If you’re following the “old” curriculum requirements, the CS degree you’ll get is an interdisciplinary major, i.e. it is officially part of the “interdisciplinary” degree program.  Therefore, you __can share up to 3 courses__ from the BACS (CS courses and/or Integration Electives) with any other major. 
 2. If you’re following the “new” curriculum requirements, the CS degree you’ll get is NOT an interdisciplinary major.  If the other major is interdisciplinary, you __can share up to 3 courses__ from the BACS (CS courses and/or Integration Electives) with that interdisciplinary major. But if the other major is not interdisciplinary, you __can share only 2 courses__.
 3. It’s possible that the other department may need to agree to sharing. CS always approves of such sharing. Check with your advisor or DUP in the other department to see if they have any restrictions.  Cognitive Science in particular has some specific rules about this. Check with CogSci about this if that’s your second major.
 
-__Sharing with a minor:__     
-No.  The College has a rule that course credits applied toward a major may not also be applied toward a minor. This means that a BACS student’s integration electives or CS courses may not also be used towards a minor in another subject.  CS has no control over this rule.
+__Sharing with a minor:__
+First, the College rules on sharing apply no matter even if the minor is outside the College (e.g. Data Science).
+
+Second, the sharing rules do not apply to prerequisites to declare the BACS major or to declare the minor. (E.g., if Data Science requires a STAT course before you can declare the DS minor, it's a prerequisite to declare that minor, and that course could count for a BACS integration elective if it's on our list.)
+
+Finally, if it's a degree requirement for the BACS major and also fulfills a requirement for the minor, it cannot be shared, i.e. used for both.   The College has a rule that course credits applied toward a major may not also be applied toward a minor. This means that a BACS student’s integration electives or CS courses may not also be used towards a minor in another subject.  CS has no control over this rule.
 
 ## 6) Is it possible for any course from outside the College of Arts and Sciences to count?
 
@@ -87,10 +93,10 @@ But, schools outside the College sometimes offer a course that has an arts and s
 Here are some examples that show non-College courses meeting this criteria:
 
 * EDHS 4300, Psycholinguistics and Communication, is the kind of course that could be taught by UVA’s Psychology department.
-* ESome STS courses offered by the Engineering School have a heavy focus on a topic in the arts and sciences (e.g. ethics or history) and are taught by faculty with PhDs in an arts or science discipline.
-* EAPMA courses in Engineering that match an equivalent MATH course on the list fall into this category.
-* ESome courses from the Batten School that are courses that could have been something taught by the College’s Politics department.
-* ESome courses in Architecture are covered by this guideline also.
+* Some STS courses offered by the Engineering School have a heavy focus on a topic in the arts and sciences (e.g. ethics or history) and are taught by faculty with PhDs in an arts or science discipline.
+* APMA courses in Engineering that match an equivalent MATH course on the list fall into this category.
+* Some courses from the Batten School that are courses that could have been something taught by the College’s Politics department.
+* Some courses in Architecture are covered by this guideline also.
 
 There may be other examples. Again, you can only count one course outside the College.
 
