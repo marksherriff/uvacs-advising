@@ -123,12 +123,6 @@ __Data Structures and Algorithms 1 (CS 2100)__
     * Rotation methods
     * Maintaining balance
     * Inheritance in Java
-<!--
-Removed the following based on discussions in Spring 2023:
-* Red-Black Trees
-    * Overview, but not implementation details
-    * Example of structure with same complexity (as AVL) but lower constants / overhead
---> 
 * Examples of solving problems with Trees
 * Sorting Algorithms
     * Comparison sorts vs Adjacent Sorts, Java’s Comparable Interface
