@@ -13,19 +13,7 @@ Site Last Updated: {{ site.time | date: '%A, %B %d, %Y' }}
 {: .note }
 This guide is currently in beta and is under construction.  While the information here should be accurate, we are actively looking for any inconsistencies.  If you find anything, please [email Prof. Sherriff](mailto:sherriff@virginia.edu).
 
-## CS Graduation Information 2023
-
-See the page below o learn when and where CS diploma ceremonies happen, diploma ceremony ticket information, some info for students regarding the day-of graduation, plus various celebration opportunities!
-
-[Information for CS Graduation Ceremonies 2023](https://engineering.virginia.edu/cs-graduation-2023)
-
 ## Information for Fall 2023
-
-__Important Dates:__
-
-* Courses listed in SIS: Friday, March 17
-* Shopping carts open in SIS (students can pre-select courses): Friday, March 24
-* First day of undergraduate registration: Monday, April 10
 
 __Courses for Fall 2023:__
 
