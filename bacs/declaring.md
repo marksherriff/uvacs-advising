@@ -85,4 +85,4 @@ Your form will be forwarded to a sequence of people, who will approve it, assign
 
 ## How to Undeclare
 
-If the BACS is your second major, and you no longer wish to pursue the BACS major, use the "Delete a Major or Minor" form on the [student forms](https://college.as.virginia.edu/student-forms) page.
+If the BACS is your second major, and you no longer wish to pursue the BACS major, use the "Delete a Major or Minor" form on the [student forms](https://college.as.virginia.edu/student-forms) page.  This form is also used to change a major to a minor. 
