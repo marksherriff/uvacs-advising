@@ -37,13 +37,12 @@ __Guidelines for CS Electives:__
 
 ## Policy on Course Credit for Internships
 
-Students often ask if they can receive credit in some way for an internship experience that they have.  While the department highly encourages students to seek out internships, these are not part of our degree program and generally cannot grant course credit.  
+Students often ask if they can receive CS course credit for an internship experience that they have.  While the department highly encourages students to seek out internships, these are not part of our degree program and cannot grant course credit.  
 
-For an external experience to count for credit, all of the following must be true:
+The reasons for this are:
 
-* A student must sign up for either CS 4993, CS 4980, or CS 4998 with a faculty member with an appointment in Computer Science
-* The faculty member must be a primary mentor/advisor of the work and be involved in supervising the student
-* The student cannot be paid for any work being done that is being considered for credit
+* For accreditation reasons, CS coursework that counts toward the degree program must be supervised by a faculty member with an appointment in Computer Science
+* A student cannot be paid for any work being done that is being considered for credit
 
 Students who must get course credit for an internship (such as for visa requirements) should sign up for UNST 2820: Internship for Credit, not CS independent study.
 

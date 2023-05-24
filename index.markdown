@@ -15,12 +15,6 @@ This guide is currently in beta and is under construction.  While the informatio
 
 ## Information for Fall 2023
 
-__Courses for Fall 2023:__
-
-* [CS Course Offerings]({{baseurl}}/semester/f23/course_offerings.html)
-* [Undergraduate Special Topics Courses]({{baseurl}}/semester/f23/special_topics_offerings.html)
-* [Available Integration Electives (BACS)]({{baseurl}}/semester/f23/ie_offerings.html)
-
 __Additional Courses Will Be Added or Instructors Changed:__
 
 * Seven new faculty will be joining the CS department this fall (with three more joining in 2024)!  New courses will be added to the over the coming months.  We will post information about these courses as soon as we can.  Questions can be directed to Prof. Sherriff.
