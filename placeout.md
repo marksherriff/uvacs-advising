@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Place-Out Tests
-nav_order: 5
+nav_order: 6
 ---
 
 # Place-Out Tests

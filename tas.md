@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Teaching Assistants
-nav_order: 5.1
+nav_order: 8
 ---
 
 # Undergraduate Teaching Assistants

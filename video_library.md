@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Presentations and Videos
-nav_order: 5
+nav_order: 9
 ---
 
 # Presentations

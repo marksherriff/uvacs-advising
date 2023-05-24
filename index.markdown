@@ -21,9 +21,13 @@ __Courses for Fall 2023:__
 * [Undergraduate Special Topics Courses]({{baseurl}}/semester/f23/special_topics_offerings.html)
 * [Available Integration Electives (BACS)]({{baseurl}}/semester/f23/ie_offerings.html)
 
-__Additional Courses May Be Added or Instructors Changed:__
+__Additional Courses Will Be Added or Instructors Changed:__
 
-* The department is hoping to hire new faculty to start in Fall 2023.  If we have new faculty joining the department this fall, we will announce any changes to the course schedule as soon as we can.  
+* Seven new faculty will be joining the CS department this fall (with three more joining in 2024)!  New courses will be added to the over the coming months.  We will post information about these courses as soon as we can.  Questions can be directed to Prof. Sherriff.
+
+_Announced New Courses:_
+
+* An additional section of CS 4710: AI has been added.  We will first offer seats to students on the wait list for the current section of CS 4710 before opening to all.
 
 __Old Curriculum Transition:__
 

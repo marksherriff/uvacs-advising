@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Special Topics Courses for F23
+title: F23 Special Topics Courses
 parent: Course Information
 ---
 
