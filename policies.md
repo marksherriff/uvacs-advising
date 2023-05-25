@@ -41,10 +41,11 @@ Students often ask if they can receive CS course credit for an internship experi
 
 The reasons for this are:
 
-* For accreditation reasons, CS coursework that counts toward the degree program must be supervised by a faculty member with an appointment in Computer Science
-* Per the registrar, a student cannot be paid for any work being done that is being considered for credit
+* For accreditation reasons, CS coursework that counts toward the degree program must be supervised by a faculty member with an appointment in Computer Science.
+* The course description for our independent study course states that it is an "in-depth study of a computer science or computer engineering problem by an individual student in close consultation with departmental faculty."  This is almost never the case with an internship.
+* Per the registrar, a student cannot be paid for any work or employment experience that is being considered for credit.
 
-Students who must get course credit for an internship (such as for visa requirements) should sign up for UNST 3910 or UNST 3920.  These one-credit courses are offered CR/NC and cannot be used toward degree requirements, but do count toward overall credits taken.
+Students who must get course credit for an internship (such as for visa requirements or CPT) should sign up for UNST 3910 or UNST 3920.  These one-credit courses are offered CR/NC and cannot be used toward degree requirements, but do count toward overall credits taken.
 
 ## Double Counting Courses Policy
 
