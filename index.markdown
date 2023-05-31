@@ -10,9 +10,6 @@ permalink: /
 
 Site Last Updated: {{ site.time | date: '%A, %B %d, %Y' }}
 
-{: .note }
-This guide is currently in beta and is under construction.  While the information here should be accurate, we are actively looking for any inconsistencies.  If you find anything, please [email Prof. Sherriff](mailto:sherriff@virginia.edu).
-
 ## Information for Fall 2023
 
 __Welcome Incoming First-Years!  Summer Orientation Information:__
@@ -35,3 +32,6 @@ __Old Curriculum Transition:__
 __Physics 2 Replacement:__
 
 * Prof. Keith Williams has created a new course that has been approved to count in place of PHYS 2415/2419 - ECE 2200: Applied Physics (Credits: 4).  Taking this course will fully satisfy the Physics 2 requirement.
+
+{: .note }
+The information contained on this website is for informational purposes only. The Undergraduate Record and Graduate Record represent the official repository for academic program requirements. These publications may be found [here](http://records.ureg.virginia.edu/index.php).
