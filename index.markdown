@@ -15,6 +15,10 @@ This guide is currently in beta and is under construction.  While the informatio
 
 ## Information for Fall 2023
 
+__Welcome Incoming First-Years!  Summer Orientation Information:__
+
+Welcome new Hoos!  Interested in CS?  Please see our page on [Information for Summer Orientation 2023](/summer2023.html) to get answers to questions like what CS course you could/should take, what courses may have openings, and general advice.
+
 __Additional Courses Will Be Added or Instructors Changed:__
 
 * Seven new faculty will be joining the CS department this fall (with three more joining in 2024)!  New courses will be added to the over the coming months.  We will post information about these courses as soon as we can.  Questions can be directed to Prof. Sherriff.
