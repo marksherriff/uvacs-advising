@@ -10,7 +10,16 @@ nav_order: 11
 1. TOC
 {:toc}
 
-## Which CS1 / Intro course should I take?
+## I'm ready to get started!  What courses should I take as a first-year CS major?
+
+Welcome to UVA and we're glad you're excited!  Remember that new first-year students at UVA are all undeclared and will spend the bulk of their first two semesters taking the general requirements of their school of enrollment (College of Arts and Sciences or School of Engineering and Applied Science).  For more information, please see your school's website:
+
+- [College of Arts and Sciences Student Guide](https://college.as.virginia.edu/student-guide)
+- [School of Engineering and Applied Science Summer Advising and Enrollment](https://engineering.virginia.edu/current-students/current-undergraduate-students/uva-engineering-summer-advising-and-enrollment)
+
+If you have AP credit or otherwise have an open spot in your schedule, you may consider taking a CS course in your first semester.  But it is completely fine for prospective CS majors in SEAS and the College to take Introduction to Programming in their second semester (or third for College students)!
+
+## Which CS1 / Introduction to Programming course should I take?
 
 _From [http://uvacsadvising.org/courses.html#which-cs1-course-should-i-take](http://uvacsadvising.org/courses.html#which-cs1-course-should-i-take)_
 
@@ -80,6 +89,22 @@ You cannot declare the major or minor just yet.  More information about major de
 * BSCS and CPE: [https://uvacsadvising.org/bscs.html#declaring-the-major](https://uvacsadvising.org/bscs.html#declaring-the-major)
 * BACS: [https://uvacsadvising.org/bacs/declaring.html](https://uvacsadvising.org/bacs/declaring.html)
 * Minor: [https://uvacsadvising.org/minor.html](https://uvacsadvising.org/minor.html)
+
+## What laptop do I need to be a computing major?
+
+BSCS
+{: .label .label-blue }
+CpE
+{: .label .label-red }
+
+The [laptop requirement information for SEAS students](https://engineering.virginia.edu/current-students/current-undergraduate-students/uva-engineering-summer-advising-and-enrollment#accordion97564) recommends that students come with whatever machine they have available and then purchase a new one when necessary.  For our introductory courses, this is a reasonable recommendation.
+
+While the SEAS information recommends that students purchase a Windows laptop, this is not a requirement for CS courses.  For our foundation courses, any reasonably powerful laptop running Windows or macOS (Intel or Apple M1/M2) is acceptable.  Linux machines are often acceptable as well, but may need specialized packages.  Chromebooks or other netbooks are generally not acceptable.  When computing students get to a course that requires particular hardware (e.g. CS 2130, CS 3130), we provide students with an account on our department computing cluster to use the department Linux machines.  For later courses, sometimes there are instances where course software runs "better" in certain environments, but course staff will work with students to get things running.  That said, learning to use your personal computer as a "tool" - including, but not limited to, changing configuration variables, installing packages, setting up programming environments - is a crucial skill for any computing professional and we will expect you to learn how to do this during your time at UVA>
+
+BACS
+{: .label .label-green }
+
+The College does not have a policy that laptops are required.  However, it is strongly recommended that BACS majors have access to a similar laptop as outlined above for BSCS majors.  
 
 ## I have other questions!
 
