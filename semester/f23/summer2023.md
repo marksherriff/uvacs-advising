@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Information for Summer Orientation 2023
-nav_order: 11
+nav_order: 11.1
 ---
 
 # Information for Summer Orientation 2023
