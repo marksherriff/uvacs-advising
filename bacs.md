@@ -13,9 +13,14 @@ has_children: true
 
 ## Undergraduate Record
 
-The official undergraduate record contains the official rules for completing the degree program.  If there is any disagreement between these pages and the rules in the undergraduate record, the record is the final authority.
+*The information contained on this website is for informational purposes only. The Undergraduate Record and Graduate Record represent the official repository for academic program requirements. These publications may be found [here](http://records.ureg.virginia.edu/index.php).*
 
-[UVA BACS Undergraduate Record 2022-2023]({{ site.data.externallinks.bacs_undergraduate_record }})
+Official descriptions for the BACS degree program in the Undergraduate Record:
+
+* For those following the [2023-2024 requirements](site.data.externallinks.bacs_undergraduate_record)
+* For those following the [2022-2023 requirements]({{ http://records.ureg.virginia.edu/preview_program.php?catoid=54&poid=7501}})
+* For those listed in SIS with an earlier "requirements term", go to one of the pages above, then click on "Archived Records" near the bottom of the left-side menu.
+
 
 ## Declaring the Major
 
@@ -35,7 +40,7 @@ For information on the "old" BACS degree requirements, see the bottom of this pa
 
 To declare the degree, you must have completed the following:
 
-* An introductory computer science course, such as CS 1110 , CS 1111 , CS 1112 , CS 1113  or CS 1120 , or an equivalent course; or successful completion of the associated place-out test.
+* An introductory computer science course, such as [CS 1110]({{ baseurl }}/courses.html#cs-1110-introduction-to-programming), CS 1111, CS 1112, CS 1113 or CS 1120, or an equivalent course; or successful completion of the associated place-out test.
 * [CS 2100 - Data Structures and Algorithms 1]({{ baseurl }}/courses.html#cs-2100-data-structures-and-algorithms-1) (with C+ or higher) or equivalent or successful completion of the associated place-out test.
 
 ### BACS Required CS Courses
