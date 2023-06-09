@@ -17,8 +17,8 @@ has_children: true
 
 Official descriptions for the BACS degree program in the Undergraduate Record:
 
-* For those following the [2023-2024 requirements](site.data.externallinks.bacs_undergraduate_record)
-* For those following the [2022-2023 requirements]({{ http://records.ureg.virginia.edu/preview_program.php?catoid=54&poid=7501}})
+* For those following the [2023-2024 requirements]({{site.data.externallinks.bacs_undergraduate_record}})
+* For those following the [2022-2023 requirements](http://records.ureg.virginia.edu/preview_program.php?catoid=54&poid=7501)
 * For those listed in SIS with an earlier "requirements term", go to one of the pages above, then click on "Archived Records" near the bottom of the left-side menu.
 
 
