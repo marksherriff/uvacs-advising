@@ -34,4 +34,4 @@ __Physics 2 Replacement:__
 * Prof. Keith Williams has created a new course that has been approved to count in place of PHYS 2415/2419 - ECE 2200: Applied Physics (Credits: 4).  Taking this course will fully satisfy the Physics 2 requirement.
 
 {: .note }
-The information contained on this website is for informational purposes only. The Undergraduate Record and Graduate Record represent the official repository for academic program requirements. These publications may be found at [http://records.ureg.virginia.edu/index.php](http://records.ureg.virginia.edu/index.php).
+The information contained on this website is for informational purposes only. The Undergraduate Record and Graduate Record represent the official repository for academic program requirements. These publications may be found at [http://records.ureg.virginia.edu/](http://records.ureg.virginia.edu/index.php).

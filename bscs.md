@@ -12,7 +12,7 @@ nav_order: 3.1
 
 ## Undergraduate Record
 
-The official undergraduate record contains the official rules for completing the degree program.  If there is any disagreement between these pages and the rules in the undergraduate record, the record is the final authority.
+_The information contained on this website is for informational purposes only. The Undergraduate Record and Graduate Record represent the official repository for academic program requirements. These publications may be found [http://records.ureg.virginia.edu/](http://records.ureg.virginia.edu/index.php)._
 
 [UVA BSCS Undergraduate Record 2022-2023]({{ site.data.externallinks.bscs_undergraduate_record }})
 
