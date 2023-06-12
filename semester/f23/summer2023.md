@@ -38,6 +38,7 @@ For Fall 2023, we are offering:
 * Three sections of CS 1110 at MWF 1:00, MWF 2:00, and MWF 3:00.
 * One section of CS 1111 at MW 3:30.
 * Two sections of CS 1112 at MWF 12:30 and MWF 2:00.
+* One section of CS 1113 in cooperation with the Physics department will hopefully be added to the schedule soon.
 
 Please see [Lou's List](https://louslist.org/page.php?Semester=1238&Type=Group&Group=CompSci) or SIS for more information about current enrollment and instructors.
 
@@ -64,6 +65,12 @@ For Computer Science:
 
 Please discuss with a CS advisor or the SEAS dean's office.
 
+## Why don't I see my AP/IB credit in SIS right now?
+
+Credit for AP/IB courses and courses transfered in through dual enrollment take time to process and often must be done by hand.  Do not worry if your credit does not appear right now.  Sign up for courses based on what you know your scores are and what you will have credit for.
+
+If the credit is not reflected in SIS after a couple weeks into the semester, then you should reach out to the registrar of your school of enrollment.
+
 ## I have programming experience and want to place out of CS 1110.  How do I do that?  What is on the place-out test?
 
 Please see [https://uvacsadvising.org/placeout.html](https://uvacsadvising.org/placeout.html) for more information.
@@ -82,6 +89,8 @@ __What about other CS courses?__
 * [CS 3100: Data Structures and Algorithms 2](https://uvacsadvising.org/courses.html#cs-3100-data-structures-and-algorithms-2) requires that a student has had both CS 2100 and CS 2120.  Only very advanced students should consider this course and should first reach out to the instructors for more information.
 * [CS 3140: Software Development Essentials](https://uvacsadvising.org/courses.html#cs-3140-software-development-essentials) is not recommended for first-year students and the class is already at capacity (we are holding seats for transfer students who must get the course this fall).
 
+In all of these cases, you are welcome to get on the wait list if you have the prerequistes fulfilled.  Note that we do not allow prerequisites to be taken at the same time as the course that requires them.  
+
 ## I want to declare the major/minor.  How do I go ahead and do that?
 
 You cannot declare the major or minor just yet.  More information about major declaration can be found here:
@@ -94,17 +103,17 @@ You cannot declare the major or minor just yet.  More information about major de
 
 BSCS
 {: .label .label-blue }
-CpE
+CPE
 {: .label .label-red }
 
 The [laptop requirement information for SEAS students](https://engineering.virginia.edu/current-students/current-undergraduate-students/uva-engineering-summer-advising-and-enrollment#accordion97564) recommends that students come with whatever machine they have available and then purchase a new one when necessary.  For our introductory courses, this is a reasonable recommendation.
 
-While the SEAS information recommends that students purchase a Windows laptop, this is not a requirement for CS courses.  For our foundation courses, any reasonably powerful laptop running Windows or macOS (Intel or Apple M1/M2) is acceptable.  Linux machines are often acceptable as well, but may need specialized packages.  Chromebooks or other netbooks are generally not acceptable.  When computing students get to a course that requires particular hardware (e.g. CS 2130, CS 3130), we provide students with an account on our department computing cluster to use the department Linux machines.  For later courses, sometimes there are instances where course software runs "better" in certain environments, but course staff will work with students to get things running.  That said, learning to use your personal computer as a "tool" - including, but not limited to, changing configuration variables, installing packages, setting up programming environments - is a crucial skill for any computing professional and we will expect you to learn how to do this during your time at UVA>
+While the SEAS information recommends that students purchase a Windows laptop, this is not a requirement for CS courses.  For our foundation courses, any reasonably powerful laptop running Windows or macOS (Intel or Apple M1/M2) is acceptable.  Linux machines are often acceptable as well, but may need specialized packages.  Chromebooks or other netbooks are generally not acceptable.  When computing students get to a course that requires particular hardware (e.g. CS 2130, CS 3130), we provide students with an account on our department computing cluster to use the department Linux machines.  For later courses, sometimes there are instances where course software runs "better" in certain environments, but course staff will work with students to get things running.  Anecdotally, there are still some things with the Apple M1/M2 chips that we are working on for some classes that do make things a bit more complicated.  Learning to use your personal computer as a "tool" - including, but not limited to, changing configuration variables, installing packages, setting up programming environments - is a crucial skill for any computing professional and we will expect you to learn how to do this during your time at UVA.
 
 BACS
 {: .label .label-green }
 
-The College does not have a policy that laptops are required.  However, it is strongly recommended that BACS majors have access to a similar laptop as outlined above for BSCS majors.  
+The College does not have a policy that laptops are required.  However, it is strongly recommended that BACS majors have access to a similar laptop as outlined above for BSCS and CPE majors.  
 
 ## I have other questions!
 
