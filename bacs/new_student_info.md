@@ -4,12 +4,15 @@ title: Info for New BACS Students
 parent: BACS Information
 ---
 
+# Info for New BACS Students
+{: .no_toc }
+
+Site Last Updated: {{ site.time | date: '%A, %B %d, %Y' }}
+
+
 1. TOC
 {:toc}
 
-# Info for New BACS Students
-
-__Last updated: 6/12/2023__
 
 
 ## About the BACS Major
@@ -29,7 +32,7 @@ See [these sections on the main BACS page on this website]({{ baseurl }}/bacs.ht
 1. CS has staff in the CS office to help answer routine questions. You can email them at cs-office@virginia.edu. 
 2. The Program Director (DUP) for the BACS is currently Tom Horton, and if you email bacsdirector@viginia.edu that will reach him and a back-up who helps out.
 
-## Getting Help, Advising
+## Getting Help and Advising for the BACS
 
 1. Your first place to get information is to browse or search this advising website, of course!
 2. Every BACS student is assigned an advisor in the CS department. You can find their name when you log into SIS. This person is a good resource for CS matters but not for other things – read below.
@@ -43,6 +46,6 @@ See [these sections on the main BACS page on this website]({{ baseurl }}/bacs.ht
 
 1. __Career Services:__  BACS majors have full access to services from the Center for Engineering Career Development. Don’t let the “engineering” put you off!  CS students are their largest community of customers, and they know and welcome BACS students! They can give advice for CS students about graduate school and job/careers in "non-engineering" fields too.
 2. To learn about __job openings__ for CS students, be sure to learn about the Handshake system run by the career center.
-3. __Student organizations:__ The CS department has a web page with info on clubs and organizations that might interest CS students. Also, the student ACM group has created a list of student organizations that any CS major can get involved with. 
+3. __Student clubs and organizations:__ The CS department has a [web page with info on clubs and organizations](https://engineering.virginia.edu/departments/computer-science/about-computer-science/clubs-and-groups) that might interest CS students. 
 4. __Study-abroad course approval:__  Contact Prof. Charles Reiss (creiss@virginia.edu) for approval of courses you may take abroad that you want to count for your CS major. He approves these for the CS department instead of the program director. Except for integration electives -- for those, contact the Director.
 5. There is a __Distinguished Majors Program (DMP)__ for BACS students.  Find out more on the the [BACS advising page]({{ baseurl }}/bacs.html).

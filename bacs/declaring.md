@@ -4,12 +4,15 @@ title: Declaring the BACS
 parent: BACS Information
 ---
 
+# Declaring the BACS Major
+{: .no_toc }
+
+Site Last Updated: {{ site.time | date: '%A, %B %d, %Y' }}
+
+
 1. TOC
 {:toc}
 
-# Declaring the BACS Major
-
-__Last updated: 6/12/2023__
 
 ## Who can declare? 
 
@@ -30,7 +33,7 @@ Transfer students who believe they have met the prerequisites to declare with co
 
 __Important:__ Transfer students should not carry out the instructions below about how to declare until they have been advised by someone in the CS department. 
 
-As noted in the [Undergraduate Record]( {{ site.data.externallinks.bacs_undergraduate_record }}, transfer students who have not completed the degree’s pre-requisites (CS 1110 or equivalent and CS 2100 or equivalent, with grades of C+ or higher) before their first semester in residence cannot be accepted into the major. Students missing CS 2100 can "defer" the major and then declare after Fall if they earn a C+ in CS 2100. Students who take CS 2100 in their 5th semester __can__ complete all the degree requirements in 8 semesters, but there is little flexiblity or room for error. (We strongly recommend students in this situation have a "Plan B" for another major and also take courses toward that major in their first semester at UVA.)
+As noted in the [Undergraduate Record]( {{ site.data.externallinks.bacs_undergraduate_record }}), transfer students who have not completed the degree’s pre-requisites (CS 1110 or equivalent and CS 2100 or equivalent, with grades of C+ or higher) before their first semester in residence cannot be accepted into the major. Students missing CS 2100 can "defer" the major and then declare after Fall if they earn a C+ in CS 2100. Students who take CS 2100 in their 5th semester __can__ complete all the degree requirements in 8 semesters, but there is little flexiblity or room for error. (We strongly recommend students in this situation have a "Plan B" for another major and also take courses toward that major in their first semester at UVA.)
 
 Due to prerequisite dependencies, it is nearly impossible for third-year students who have not completed CS 1100 or its equivalent to complete the BA in CS in the four remaining semesters. It is important that students transferring to the University as third-years complete the equivalent of CS 1110 and ideally CS 2100 before coming to UVA. The ability to complete the degree in a timely fashion is one factor that will determine if you are accepted into the degree program.
 
@@ -57,10 +60,10 @@ All College students who meet the prerequisites will be allowed to declare. Curr
 
 There are two forms to complete: the CS department form, and the College's major declaration form with DocuSign.
 
-# First, fill out the [CS department declaration form (June 2022 version)]({{ site.data.externallinks.bacs_declaration_form }}).  When you complete that PDF form, you’ll need to save it to your computer after you enter your responses into it.
-# Second, follow the instructions below to complete the __College’s major declaration form using DocuSign.__ You will attach the CS declaration form (the PDF file you completed) when you submit the College form using DocuSign.
+* First, fill out the [CS department declaration form (June 2022 version)]({{ site.data.externallinks.bacs_declaration_form }}).  When you complete that PDF form, you’ll need to save it to your computer after you enter your responses into it.
+* Second, follow the instructions below to complete the __College’s major declaration form using DocuSign.__ You will attach the CS declaration form (the PDF file you completed) when you submit the College form using DocuSign.
 
-_Notes before you declare:_
+__Before you declare:__
 
 * If you are not sure you meet the prerequisites, contact [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu) before applying.
 * Read the [Info for New BACS Students]({{ baseurl }}/bacs/new_student_info.html) page. Check that out at some point, please, as it answers many questions.
@@ -98,6 +101,6 @@ Be sure to click __Finish__ at the bottom of the major declaration form!
 Your form will be forwarded to a sequence of people, who will approve it, assign you a CS advisor, and finally enter your new major into SIS. After the final step happens, DocuSign is supposed to send you an email saying it’s completed. We’ve noticed that sometimes this email doesn’t reach your Inbox, so check on SIS to see if your major has been updated if you don’t see the email.
 
 
-## How to Undeclare
+## How to Undeclare the BACS Major
 
 If the BACS is your second major, and you no longer wish to pursue the BACS major, use the "Delete a Major or Minor" form on the [student forms](https://college.as.virginia.edu/student-forms) page.  This form is also used to change a major to a minor. 

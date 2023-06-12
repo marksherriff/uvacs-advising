@@ -8,12 +8,15 @@ has_children: true
 # BACS Information
 {: .no_toc }
 
+Site Last Updated: {{ site.time | date: '%A, %B %d, %Y' }}
+
 1. TOC
 {:toc}
 
 ## Undergraduate Record
 
-*The information contained on this website is for informational purposes only. The Undergraduate Record and Graduate Record represent the official repository for academic program requirements. These publications may be found [here](http://records.ureg.virginia.edu/index.php).*
+{: .note }
+The information contained on this website is for informational purposes only. The Undergraduate Record and Graduate Record represent the official repository for academic program requirements. These publications may be found [here](http://records.ureg.virginia.edu/index.php).
 
 Official descriptions for the BACS degree program in the Undergraduate Record:
 
