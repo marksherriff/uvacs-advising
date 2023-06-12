@@ -7,7 +7,7 @@ parent: BACS Information
 # Info for New BACS Students
 {: .no_toc }
 
-Site Last Updated: {{ site.time | date: '%A, %B %d, %Y' }}
+Page Last Updated: {{ site.time | date: '%A, %B %d, %Y' }}
 
 
 1. TOC
@@ -21,7 +21,7 @@ The BA degree program in Computer Science provides students with a solid foundat
 
 ## Advising Information and Web Pages
 
-The CS department has developed an advising website that attempts to be a comprehensive source of info for its majors. The page you're reading is part of that website, but its main address is: [{{ baseurl }}]({{ baseurl }}) Note this page is searchable -- type your query into the box at the top of any page.
+The CS department has developed an advising website that attempts to be a comprehensive source of info for its majors. The page you're reading is part of that website, but its main address is: [https://uvacsadvising.org](https://uvacsadvising.org). Note this page is searchable -- type your query into the box at the top of any page.
 
 ## Degree Requirements (Handouts, Resources)
 

@@ -7,18 +7,18 @@ parent: BACS Information
 # Declaring the BACS Major
 {: .no_toc }
 
-Site Last Updated: {{ site.time | date: '%A, %B %d, %Y' }}
+Page Last Updated: {{ site.time | date: '%A, %B %d, %Y' }}
 
 
 1. TOC
 {:toc}
 
 
-## Who can declare? 
+## Who can declare the BACS? 
 
 The BACS was created for College students who want to study computer science and combine that with the study of how computing applies in other fields of the arts and sciences.  SEAS students are not eligible to declare the BACS and should instead declare the CS minor or the BSCS as a second major. Students from other schools should contact the Director of the BACS program at [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu).
 
-## New degree with new requirements     
+## New BACS degree with new requirements     
 
 Effective Summer 2022, a "new" version of the BACS major came into existence. Almost every student who declares the BA in CS in Summer 2022 and later will complete the requirements for this "new" version of the BACS. Some current majors are completing the "Old BACS", but they all had to complete CS2110 (an "old" course) by the end of Fall 2021. Any student taking CS2100 in Spring 2022 or later must do the "New BACS", and in order to declare you must have met its prerequisites.
 
@@ -27,7 +27,7 @@ Effective Summer 2022, a "new" version of the BACS major came into existence. Al
 
 __Can I declare the "Old BACS"?__  Only if you completed CS2150 with a C+ or higher by the end of Fall 2022. If you did but did not complete CS 3330 by the end of Spring 2023, contact the Program Director for advice.  (We won’t be teaching "old" courses like CS2110, CS2150 and CS3330 again, so they and the Old BACS are being phased out.)
 
-## Transfer Students
+## Transfer Students and the BACS
 
 Transfer students who believe they have met the prerequisites to declare with courses from their previous school can declare the major when they arrive. Those starting in the Fall semester should attend UVA's summer orientation, when staff from the CS department will advise new transfer students, evaluate course equivalencies, help them get into classes they need, etc. Fall students who don't attend summer orientation and students arriving in Spring should contact the BACS Director by emailing [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu) to be advised and have any questions of course equivalencies resolved.
 
@@ -38,7 +38,7 @@ As noted in the [Undergraduate Record]( {{ site.data.externallinks.bacs_undergra
 Due to prerequisite dependencies, it is nearly impossible for third-year students who have not completed CS 1100 or its equivalent to complete the BA in CS in the four remaining semesters. It is important that students transferring to the University as third-years complete the equivalent of CS 1110 and ideally CS 2100 before coming to UVA. The ability to complete the degree in a timely fashion is one factor that will determine if you are accepted into the degree program.
 
 
-## Getting Information and Advising Before You Declare
+## Getting Information and Advising Before You Declare the BACS
 
 You might have questions. You might want to meet with someone to get info or advice before you declare. We definitely want to help, but there are literally hundreds of students who declare the BACS each year, so we have a system to try to get you the info you need. We just can’t have one-on-one meetings with everyone. Of course, if what we provide doesn’t answer all your questions, we will meet! But before that, here are steps to take.
 
@@ -48,7 +48,7 @@ You might have questions. You might want to meet with someone to get info or adv
 
 If you’ve watched the info video, looked at the Basic Info page and still have questions, email the Program Director(s) at [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu) to ask a question or request a meeting.
 
-## How to Declare
+## How to Declare the BACS
 
 ### When can I declare? 
 You can submit your declaration any time, but our staff may not necessarily process it immediately. (In particular, those submitted in summer may not be processed until mid-August.) We normally process these in batches. We will attempt to process applications submitted at peak times (start of fall term, right before course registration) more promptly.  Declarations submitted in late April and May are often not processed until June.
@@ -70,7 +70,7 @@ __Before you declare:__
 * You’ll be assigned a CS advisor when we process your major declaration, and you’ll find that person’s name in SIS. For any CS questions before that, email [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu). 
 
 
-### Submitting the Declaration of Major
+### Submitting the Declaration of Major for the BACS
 
 Go to the College's page of DocuSign forms, [https://college.as.virginia.edu/student-forms](https://college.as.virginia.edu/student-forms). (FYI the instructions recommend you use the Chrome web browser.) You have to do some things to show you're a real UVA student, and then look for the item "Declaration of Major and Minor Form (DocuSign)".  Read what's there, and to then get to the form, click on that text in the left column.  Note: it says to contact someone in CS to determine what steps you need to in order to declare, but you don't need to do that -- the page you're reading explains all that!
  
