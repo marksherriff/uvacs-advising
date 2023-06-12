@@ -14,7 +14,7 @@ Site Last Updated: {{ site.time | date: '%A, %B %d, %Y' }}
 
 __Welcome Incoming First-Years!  Summer Orientation Information:__
 
-Welcome new Hoos!  Interested in CS?  Please see our page on [Information for Summer Orientation 2023](/summer2023.html) to get answers to questions like what CS course you could/should take, what courses may have openings, and general advice.
+Welcome new Hoos!  Interested in CS?  Please see our page on [Information for Summer Orientation 2023](/f23/summer2023.html) to get answers to questions like what CS course you could/should take, what courses may have openings, and general advice.
 
 __Additional Courses Will Be Added or Instructors Changed:__
 
