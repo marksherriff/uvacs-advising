@@ -8,15 +8,12 @@ has_children: true
 # BACS Information
 {: .no_toc }
 
-Site Last Updated: {{ site.time | date: '%A, %B %d, %Y' }}
+Page Last Updated: {{ site.time | date: '%A, %B %d, %Y' }}
 
 1. TOC
 {:toc}
 
 ## Undergraduate Record
-
-{: .note }
-The information contained on this website is for informational purposes only. The Undergraduate Record and Graduate Record represent the official repository for academic program requirements. These publications may be found [here](http://records.ureg.virginia.edu/index.php).
 
 Official descriptions for the BACS degree program in the Undergraduate Record:
 
@@ -38,6 +35,11 @@ See the page on [Declaring the BACS]({{ baseurl }}/bacs/declaring.html).
 For information on the "old" BACS degree requirements, see the bottom of this page.
 
 ## Degree Requirements
+
+{: .note }
+The information contained on this website is for informational purposes only. The Undergraduate Record and Graduate Record represent the official repository for academic program requirements. These publications may be found [here](http://records.ureg.virginia.edu/index.php).
+
+
 
 ### BACS Prerequisites
 
@@ -68,9 +70,9 @@ All BACS majors must complete 12 credits of [Integration Electives]({{baseurl}}/
 
 Our page about  [Integration Electives]({{baseurl}}/bacs/integration_electives.html) describes rules on whether things NOT on the official list can be counted. It also has a link to the petition-request for, and a list of courses that have already been successfully petitioned. If you have questions about anything about integration electives not answered on that page, email the BACS Program Director.  Please note the following:
 
-# SIS automatically recognizes the set of integration electives that were defined for your "requirements term" as indicated in SIS.  
-# A course that’s been added to a more recent version of the list will count for students who have an earlier year’s requirements term. (You will need to submit the form described in the document above.)
-# But, a course that’s been removed from an earlier year’s list will not count for a student following a later year’s requirements, unless it was taken before we made the change.
+* SIS automatically recognizes the set of integration electives that were defined for your "requirements term" as indicated in SIS.  
+* A course that’s been added to a more recent version of the list will count for students who have an earlier year’s requirements term. (You will need to submit the form described in the document above.)
+* But, a course that’s been removed from an earlier year’s list will not count for a student following a later year’s requirements, unless it was taken before we made the change.
 
 
 ## Distinguished Majors Program
