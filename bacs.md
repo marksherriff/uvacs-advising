@@ -63,6 +63,13 @@ All BACS majors must complete 9 credits (normally 3 courses) of [CS electives]({
 
 All BACS majors must complete 12 credits of [Integration Electives]({{baseurl}}/bacs/integration_electives.html).  These are non-CS courses that contribute to this program of study by exploring applications of computing to arts and sciences fields in a significant way or by providing fundamental computing depth and background. Integration electives are courses offered by departments in the College of Liberal Arts and Sciences. The list of approved courses can be found in the [BACS section of the UG Record]({{ site.data.externallinks.bacs_undergraduate_record }}).
 
+Our page about  [Integration Electives]({{baseurl}}/bacs/integration_electives.html) describes rules on whether things NOT on the official list can be counted. It also has a link to the petition-request for, and a list of courses that have already been successfully petitioned. If you have questions about anything about integration electives not answered on that page, email the BACS Program Director.  Please note the following:
+
+# SIS automatically recognizes the set of integration electives that were defined for your "requirements term" as indicated in SIS.  
+# A course that’s been added to a more recent version of the list will count for students who have an earlier year’s requirements term. (You will need to submit the form described in the document above.)
+# But, a course that’s been removed from an earlier year’s list will not count for a student following a later year’s requirements, unless it was taken before we made the change.
+
+
 ## Distinguished Majors Program
 
 Prof. David Evans manages the BACS Distinguished Majors Program (DMP), and details about that program can be found at [https://csdmp.github.io/](https://csdmp.github.io/).  Students who apply to and are accepted to be in the Distinguished Majors Program must complete the usual degree requirements as well as a fourth year thesis project. This requires two semesters of [CS 4998 - Distinguished BA Majors Research]({{ baseurl }}/courses.html#cs-4998-distinguished-ba-majors-research) (3 credits each semester) in addition to the usual requirements.

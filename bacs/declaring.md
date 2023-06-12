@@ -4,24 +4,39 @@ title: Declaring the BACS
 parent: BACS Information
 ---
 
+1. TOC
+{:toc}
+
 # Declaring the BACS Major
 
-__Last updated: 11/08/2022__
+__Last updated: 6/12/2023__
 
 ## Who can declare? 
+
 The BACS was created for College students who want to study computer science and combine that with the study of how computing applies in other fields of the arts and sciences.  SEAS students are not eligible to declare the BACS and should instead declare the CS minor or the BSCS as a second major. Students from other schools should contact the Director of the BACS program at [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu).
 
 ## New degree with new requirements     
-Perhaps you have heard there are new "foundation courses" for CS majors. These are part of a new version of the BA in CS degree, which we’ll call the "New BACS" in this document. Some current majors are completing the "Old BACS", but they all had to complete CS2110 (an "old" course) by the end of Fall 2021. Any student taking CS2100 in Spring 2022 or later must do the "New BACS", and in order to declare you must have met its prerequisites.
+
+Effective Summer 2022, a "new" version of the BACS major came into existence. Almost every student who declares the BA in CS in Summer 2022 and later will complete the requirements for this "new" version of the BACS. Some current majors are completing the "Old BACS", but they all had to complete CS2110 (an "old" course) by the end of Fall 2021. Any student taking CS2100 in Spring 2022 or later must do the "New BACS", and in order to declare you must have met its prerequisites.
 
 * What are the prerequisites?  CS1110 or equivalent with a C+ or higher, and CS2100 or equivalent with a C+ or higher.
 * Where can I find the requirements for the "New BACS"? The official degree requirements are in the [2022-23 Undergraduate Record]( {{ site.data.externallinks.bacs_undergraduate_record }}).  
 
-__Can I declare the "Old BACS"?__  Only if you complete CS2150 with a C+ or higher by the end of Fall 2022. You will also need to complete CS 3330 by the end of Spring 2023. We won’t be teaching these "old" courses again, so they and the Old BACS are being phased out.
+__Can I declare the "Old BACS"?__  Only if you completed CS2150 with a C+ or higher by the end of Fall 2022. If you did but did not complete CS 3330 by the end of Spring 2023, contact the Program Director for advice.  (We won’t be teaching "old" courses like CS2110, CS2150 and CS3330 again, so they and the Old BACS are being phased out.)
 
-Transfer students who believe they have met the prerequisites to declare should contact the BACS Director by emailing [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu) to be advised and have any questions of course equivalencies resolved.
+## Transfer Students
+
+Transfer students who believe they have met the prerequisites to declare with courses from their previous school can declare the major when they arrive. Those starting in the Fall semester should attend UVA's summer orientation, when staff from the CS department will advise new transfer students, evaluate course equivalencies, help them get into classes they need, etc. Fall students who don't attend summer orientation and students arriving in Spring should contact the BACS Director by emailing [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu) to be advised and have any questions of course equivalencies resolved.
+
+__Important:__ Transfer students should not carry out the instructions below about how to declare until they have been advised by someone in the CS department. 
+
+As noted in the [Undergraduate Record]( {{ site.data.externallinks.bacs_undergraduate_record }}, transfer students who have not completed the degree’s pre-requisites (CS 1110 or equivalent and CS 2100 or equivalent, with grades of C+ or higher) before their first semester in residence cannot be accepted into the major. Students missing CS 2100 can "defer" the major and then declare after Fall if they earn a C+ in CS 2100. Students who take CS 2100 in their 5th semester __can__ complete all the degree requirements in 8 semesters, but there is little flexiblity or room for error. (We strongly recommend students in this situation have a "Plan B" for another major and also take courses toward that major in their first semester at UVA.)
+
+Due to prerequisite dependencies, it is nearly impossible for third-year students who have not completed CS 1100 or its equivalent to complete the BA in CS in the four remaining semesters. It is important that students transferring to the University as third-years complete the equivalent of CS 1110 and ideally CS 2100 before coming to UVA. The ability to complete the degree in a timely fashion is one factor that will determine if you are accepted into the degree program.
+
 
 ## Getting Information and Advising Before You Declare
+
 You might have questions. You might want to meet with someone to get info or advice before you declare. We definitely want to help, but there are literally hundreds of students who declare the BACS each year, so we have a system to try to get you the info you need. We just can’t have one-on-one meetings with everyone. Of course, if what we provide doesn’t answer all your questions, we will meet! But before that, here are steps to take.
 
 1. There’s an info video recorded for those who are thinking of declaring. See the [Video Library]({{baseurl}}/video_library.html) on the menu to the left.
@@ -33,15 +48,17 @@ If you’ve watched the info video, looked at the Basic Info page and still have
 ## How to Declare
 
 ### When can I declare? 
-You can submit your declaration any time, but our staff may not necessarily process it immediately. (In particular, those submitted in summer may not be processed until mid-August.) We normally process these in batches. We will attempt to process applications submitted at peak times (start of fall term, right before course registration) more promptly.
+You can submit your declaration any time, but our staff may not necessarily process it immediately. (In particular, those submitted in summer may not be processed until mid-August.) We normally process these in batches. We will attempt to process applications submitted at peak times (start of fall term, right before course registration) more promptly.  Declarations submitted in late April and May are often not processed until June.
 
 ### Will I be accepted into the major? 
 All College students who meet the prerequisites will be allowed to declare. Currently there are no "caps" or limits on the number of College students who can declare the BACS. So it is not a competitive admissions situation.
 
 ### I want to declare!  What do I do now?
-To declare you will first fill out a [CS department declaration form (June 2022 version)]({{ site.data.externallinks.bacs_declaration_form }}).
 
-When you complete that PDF form, you’ll need to save it to your computer after you enter your responses into it.  Then follow the instructions below to complete the __College’s major declaration form using DocuSign.__ You will attach the CS declaration form (the PDF file you completed) when you submit the College form using DocuSign.
+There are two forms to complete: the CS department form, and the College's major declaration form with DocuSign.
+
+# First, fill out the [CS department declaration form (June 2022 version)]({{ site.data.externallinks.bacs_declaration_form }}).  When you complete that PDF form, you’ll need to save it to your computer after you enter your responses into it.
+# Second, follow the instructions below to complete the __College’s major declaration form using DocuSign.__ You will attach the CS declaration form (the PDF file you completed) when you submit the College form using DocuSign.
 
 _Notes before you declare:_
 
@@ -52,19 +69,17 @@ _Notes before you declare:_
 
 ### Submitting the Declaration of Major
 
-Go to this page and at the top there is a link to start the major declaration process with DocuSign:   [https://college.as.virginia.edu/student-forms](https://college.as.virginia.edu/student-forms)
-(FYI the instructions recommend you use the Chrome web browser.)
-You have to do some things to show you're a real UVA student, and then look for the item "Declaration of Major and Minor Form (DocuSign)".  Read what's there, and to then get to the form, click on that text in the left column.
+Go to the College's page of DocuSign forms, [https://college.as.virginia.edu/student-forms](https://college.as.virginia.edu/student-forms). (FYI the instructions recommend you use the Chrome web browser.) You have to do some things to show you're a real UVA student, and then look for the item "Declaration of Major and Minor Form (DocuSign)".  Read what's there, and to then get to the form, click on that text in the left column.  Note: it says to contact someone in CS to determine what steps you need to in order to declare, but you don't need to do that -- the page you're reading explains all that!
  
 __Step 1:__     
-You'll first see the "Powerform" where you must enter just 4 things:  your name and your email address, and then (for the "DMC" person) enter my name, Tom Horton, and this email address tbh3f@virginia.edu. (Not "horton@virginia.edu", but "tbh3f@virginia.edu". Do NOT enter the "bacsdirector" email alias in DocuSign! __Failure to enter the correct email address means your form may not come to our attention for months, if at all, due to the way DocuSign works.__)
-Don't enter or change anything else, but you MUST click on Begin Signing at the bottom.
+You'll first see the "Powerform" where you must enter just 4 things:  your name and your email address, and then (for the "DMC" person) enter the Program Director's name, Tom Horton, and the email address __tbh3f@virginia.edu__. (Not "horton@virginia.edu", but "tbh3f@virginia.edu". Do NOT enter the "bacsdirector" email alias in DocuSign! __Failure to enter the correct email address means your form may not come to our attention for months, if at all, due to the way DocuSign works.__)
+Don't enter or change anything else, but you MUST click on __Begin Signing__ at the bottom.
 (The following link shows you what this Powerform looks like and where you enter things:
 [https://college.as.virginia.edu/sites/college.as.virginia.edu/files/DoM%20PowerForm%20Instructions3.pdf](https://college.as.virginia.edu/sites/college.as.virginia.edu/files/DoM%20PowerForm%20Instructions3.pdf))
  
 __Step 2:__      
-After you click "Begin Signing", you'll see the major declaration form. You'll need to complete the required info, sign it, and click Finish at the bottom of that page.
-What info will you need to enter?  Here's a PDF file that shows what this form will look like:
+After you click __Begin Signing__, you'll see the major declaration form. You'll need to complete the some info, sign it, and click __Finish__ at the bottom of that page.
+What info will you need to enter?  __See the next section for CS-specific instructions.__  Also, here's a PDF file the College has provided that shows what this form will look like:
 [https://college.as.virginia.edu/sites/college.as.virginia.edu/files/DecOfMajorForm%20watermark.pdf](https://college.as.virginia.edu/sites/college.as.virginia.edu/files/DecOfMajorForm%20watermark.pdf)
  
 __IMPORTANT NOTES:__       
@@ -72,15 +87,15 @@ __IMPORTANT NOTES:__
 1. On the line "Intended Major/Minor" you must enter either the text "CS-BA" (for the New BACS major) or "INCOMP-BA" (for the Old BACS major). Entering anything other than these will result in your form being rejected. (If you type, say, "Computer Science" that could mean either degree, and the Dean’s Office can’t tell which of the two degrees you’re declaring.)
 2. Just after that line in the form, be sure to check at least one of the boxes about your intended major.  If this will be your second major or if you’re replacing your previous major, this section is important!
 3. There's a section labeled "Complete the bottom portion of this form with a major/minor advisor". For CS it's perfectly OK if you don't fill this out, but DocuSign requires you put something here. So just put 29 (or anything) for the number of credit hours needed, and enter info for just one CS course.  But for the course title write "see attachment".
-4. FYI: if you’re declaring the New BACS ("CS-BA") in Summer of 2022, you will not see your CS major listed in SIS until the fall term arrives. Nothing is wrong – it’s just that the rules for new BACS don't come into effect until August 2022, and while SIS has your major for Fall term correctly recorded it won’t appear until Fall term arrives.
+
 
 __Step 3:__     
 At the bottom of that form, you’ll see a button with a paper-clip. This lets you add an attachment. Click on that and attach the PDF file that is your completed CS major declaration form. Be sure you don’t forget this!
  
 __Final Step:__    
-Be sure to click Finish at the bottom of the major declaration form!
+Be sure to click __Finish__ at the bottom of the major declaration form!
 
-Your form will be forwarded to a sequence of people, who will approve it, assign you a CS advisor, and finally enter your new major into SIS. After the final step happens, DocuSign is supposed to send you an email saying it’s completed. We’ve noticed that sometimes this email doesn’t reach your Inbox, so check on SIS to see if your major has been updated if you don’t see the email. (New BACS declarations in Summer 2022 – see Important Note #4 above.)
+Your form will be forwarded to a sequence of people, who will approve it, assign you a CS advisor, and finally enter your new major into SIS. After the final step happens, DocuSign is supposed to send you an email saying it’s completed. We’ve noticed that sometimes this email doesn’t reach your Inbox, so check on SIS to see if your major has been updated if you don’t see the email.
 
 
 ## How to Undeclare
