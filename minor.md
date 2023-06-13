@@ -14,7 +14,7 @@ The Computer Science minor requires credit for six CS courses as described below
 
 To obtain a minor in computer science, a student must complete the following requirements:
 
-* [CS 2100 - Data Structures and Algorithms 1]({{ baseurl }}/courses.html#cs-2100-data-structures-and-algorithms-1) (Credits: 3)
+* [CS 2100 - Data Structures and Algorithms 1]({{ baseurl }}/courses.html#cs-2100-data-structures-and-algorithms-1) (Credits: 4)
 * [CS 2120 - Discrete Mathematics and Theory 1]({{ baseurl }}/courses.html#cs-2120-discrete-mathematics-and-theory-1) (Credits: 3)
 * [CS 2130 - Computer Systems and Organization 1]({{ baseurl }}/courses.html#cs-2130-computer-systems-and-organization-1) (Credits: 4)
 * [CS 3140 - Software Development Essentials]({{ baseurl }}/courses.html#cs-3140-software-development-essentials) (Credits: 3)
