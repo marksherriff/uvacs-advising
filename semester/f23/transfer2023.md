@@ -23,7 +23,7 @@ CpE
 BACS
 {: .label .label-green }
 - [College of Arts and Sciences Student Guide](https://college.as.virginia.edu/student-guide)
-- [CS info page on when and how College students can declare]({{ baseurl }}/bacs/declaring.html) the BACS major
+- [CS info page on when and how College students can declare]({{ baseurl }}/bacs/declaring.html) the BACS major (in particular, see the section _Transfer Students and the BACS_ for important info if you're arriving as a third-year student)
 - [CS info page on basic info on the BACS major]({{ baseurl }}/bacs/new_student_info.html) for College students
 
 Note that the CS department does not control how courses outside CS transfer in to UVA.  For any questions regarding other courses, please talk to your school's registrar.
