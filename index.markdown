@@ -24,9 +24,9 @@ _Announced New Courses:_
 
 * An additional section of CS 4710: AI has been added.  We will first offer seats to students on the wait list for the current section of CS 4710 before opening to all.
 
-__Old Curriculum Transition:__
+__Old Curriculum Transition:__ _(Updated: June 13)_
 
-* Fall 2023 will be the final semester we offer [CS 4414: Operating Systems]({{ baseurl }}/courses.html#cs-4414-operating-systems) in its "old curriculum" form.  The course will be locked to ONLY 4th year BSCS and CPE majors.  If you need to take this course, please make sure to sign up for it on time!
+* Due to higher-than-anticipated demand, we have decided that it would be in the students' and department's best interest to offer [CS 4414: Operating Systems]({{ baseurl }}/courses.html#cs-4414-operating-systems) both fall and spring for students on the old curriculum (BSCS, CPE, and BACS).  We will still limit the course to students who have had CS 3330, since there is significant overlap with CS 3130.  
 * Students on the old curriculum who have not completed the core courses up through CS 3330 by the start of the Fall 2023 semester should email their advisor and the appropriate program director - [bscsdirector@virginia.edu](mailto:bscsdirector@virginia.edu) or [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu) - with your situation.
 
 __Physics 2 Replacement:__
