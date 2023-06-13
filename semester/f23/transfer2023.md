@@ -44,6 +44,17 @@ BACS
 
 The College does not have a policy that laptops are required.  However, it is strongly recommended that BACS majors have access to a similar laptop as outlined above for BSCS majors.  
 
+## What if the CS courses that I need this semester are already full?
+
+BSCS
+{: .label .label-blue }
+BACS
+{: .label .label-green }
+CpE
+{: .label .label-red }
+
+We are reserving seats specifically for transfer students in all relevant courses (such as CS 2100, CS 2130, CS 3130, CS 3140, etc.).  Your transfer advisor will work with you and the CS undergraduate support staff to get you enrolled in the CS courses you need through a separate process.  For courses outside of CS, you will need to contact the registrar of your school of enrollment or the department that is offering the course you are intersted in.
+
 ## I have other questions!
 
 Please use the search bar at the top of each page to look for more information about other topics or refer to the menu on the left.  If you have further questions that are not answered here, please email [cs-office@virginia.edu](mailto:cs-office@virginia.edu).

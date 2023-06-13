@@ -7,6 +7,8 @@ nav_order: 3.1
 # BSCS Information
 {: .no_toc }
 
+Page Last Updated: {{ site.time | date: '%A, %B %d, %Y' }}
+
 1. TOC
 {:toc}
 
