@@ -14,8 +14,17 @@ nav_order: 11.2
 
 Welcome to UVA and we're excited to have you here!  First, __please read__ all the information provided from your school of enrollment:
 
-- [College of Arts and Sciences Student Guide](https://college.as.virginia.edu/student-guide)
+BSCS
+{: .label .label-blue }
+CpE
+{: .label .label-red }
 - [School of Engineering and Applied Science Summer Advising and Enrollment](https://engineering.virginia.edu/current-students/current-undergraduate-students/uva-engineering-summer-advising-and-enrollment)
+
+BACS
+{: .label .label-green }
+- [College of Arts and Sciences Student Guide](https://college.as.virginia.edu/student-guide)
+- [CS info page on when and how College students can declare]({{ baseurl }}/bacs/declaring.html) the BACS major
+- [CS info page on basic info on the BACS major]({{ baseurl }}/bacs/new_student_info.html) for College students
 
 Note that the CS department does not control how courses outside CS transfer in to UVA.  For any questions regarding other courses, please talk to your school's registrar.
 
