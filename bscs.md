@@ -80,7 +80,7 @@ Choose one of the following:
 
 These courses are the next set of courses students take after finishing Introduction to Programming and comprise the set of prerequisites needed for upper-level courses.  The 2000 level courses should be taken before the 3000 level courses and note that there are other prerequisites that govern the order that these courses should be taken.  An example schedule can be found in the [Degree Handouts and Resources]({{baseurl}}/bscs.html#degree-handouts-and-resources) section.
 
-* [CS 2100 - Data Structures and Algorithms 1]({{ baseurl }}/courses.html#cs-2100-data-structures-and-algorithms-1) (Credits: 3)
+* [CS 2100 - Data Structures and Algorithms 1]({{ baseurl }}/courses.html#cs-2100-data-structures-and-algorithms-1) (Credits: 4)
 * [CS 2120 - Discrete Mathematics and Theory 1]({{ baseurl }}/courses.html#cs-2120-discrete-mathematics-and-theory-1) (Credits: 3)
 * [CS 2130 - Computer Systems and Organization 1]({{ baseurl }}/courses.html#cs-2130-computer-systems-and-organization-1) (Credits: 4)
 * [CS 3100 - Data Structures and Algorithms 2]({{ baseurl }}/courses.html#cs-2100-data-structures-and-algorithms-2) (Credits: 3)

@@ -79,7 +79,7 @@ Please see [https://uvacsadvising.org/placeout.html](https://uvacsadvising.org/p
 
 If you have credit for CS 1110, then the next class you should consider is [CS 2100: Data Structures and Algorithms 1](https://uvacsadvising.org/courses.html#cs-2100-data-structures-and-algorithms-1).  Another option is [CS 2120: Discrete Mathematics and Thoery 1](https://uvacsadvising.org/courses.html#cs-2120-discrete-mathematics-and-theory-1), but these seats are very limited and we are holding some specifically for transfer students. 
 
-If you have credit for both CS 1110 and CS 2100, we recommend you take [CS 3205: HCI in Software Development](https://uvacsadvising.org/courses.html#cs-3205-hci-in-software-development) as this course will count as a CS elective for the BACS, BSCS, and CPE degrees.  Otherwise, we recommend that SEAS students work on your APMA electives and that College students take general education courses or explore other interests.
+If you have credit for both CS 1110 and CS 2100, we recommend you take [CS 3205: HCI in Software Development](https://uvacsadvising.org/courses.html#cs-3205-hci-in-software-development) as this course will count as a CS elective for the BACS, BSCS, and CPE degrees.  Otherwise, we recommend that SEAS students work on their APMA electives and that College students take general education courses or explore other interests.
 
 Please see [Lou's List](https://louslist.org/page.php?Semester=1238&Type=Group&Group=CompSci) or SIS for more information about current enrollment and instructors.
 
