@@ -10,11 +10,17 @@ permalink: /
 
 Site Last Updated: {{ site.time | date: '%A, %B %d, %Y' }}
 
+## Summer Orientation 2023
+
+_Welcome new Hoos!_  
+
+Information for incoming first year students (College and SEAS) can be found on our [Information for Summer Orientation 2023]({{ baseurl }}/semester/f23/summer2023.html) page. Go here to get answers to questions like what CS course you could/should take, what courses may have openings, and general advice.
+
+Are you a new transfer student?  We have information for you as well on our [Information for Transfer Students Summer 2023]({{ baseurl }}/semester/f23/transfer2023.html) page.
+
+Also, feel free to search the site with the search bar above to find information about our different degree programs and answers to many of your questions!
+
 ## Information for Fall 2023
-
-__Welcome Incoming First-Years!  Summer Orientation Information:__
-
-Welcome new Hoos!  Interested in CS?  Please see our page on [Information for Summer Orientation 2023]({{ baseurl }}/semester/f23/summer2023.html) to get answers to questions like what CS course you could/should take, what courses may have openings, and general advice.
 
 __Additional Courses Will Be Added or Instructors Changed:__
 
