@@ -20,6 +20,10 @@ nav_order: 9
 
 ## BACS Presentations
 
-* [Orientation Video for College students interested in the BACS or CS minor](https://www.cs.virginia.edu/~horton/bacs-orientation-june2023.html).  Recorded June 2023.  This is for potential majors, newly declared majors, and new or potential transfer students.
+Here is an orientation Video for College students interested in the BACS or CS minor (recorded June 2023).  This is for potential majors, newly declared majors, and new or potential transfer students.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EbbcLVnX1T4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 * [Slides]({{base_url}}/materials/bacs-orientation-june2023.pdf) from the above presentation. 
 * The latest video about the Old BACS is here: [http://www.cs.virginia.edu/~horton/bacs-orientation-05sep2021.html](http://www.cs.virginia.edu/~horton/bacs-orientation-05sep2021.html) (This is from Sept. 2021, but it focuses on the "old curriculum".)
