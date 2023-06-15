@@ -28,6 +28,14 @@ Note, the Academic Requirements page is dense and somewhat unintuitive to read. 
 
 SIS is wrong?  Missing a class from transfer, something in the wrong “bucket”, etc.  please email [cs-office@virginia.edu](mailto:cs-office@virginia.edu) with your name, ID, and situation. It is each student's responsibility to ensure that their academic record as recorded on the SIS is accurate.
 
+## Help with SIS putting a CS elective in my Capstone slot (or any other course in a particular slot)
+
+A "feature" of SIS that often confuses students and faculty is how SIS will take courses and place them into certain requirements slots in the Academic Requirements (AR) report.  SIS will take the list of available coures that haven't been used yet and put a given course into the "highest priority spot" that it can fit into (and then it uses the courses with the highest grades first if there is a tie).  The number one culprit of this is a CS elective that gets put against the capstone requirement instead of the CS elective requirement, because to SIS, the capstone has higher priority.  Often someone (student or faculty) will ask to have the course moved down to the CS elective slot.  
+
+Nothing needs to be done in this case.  Once something else is taken that fits the capstone slot better (e.g. CS 4980), the CS elective will move down to its appropriate slot automatically.  
+
+Also, if the student is doing the 6th elective option for the capstone, the actual elective that appears in the capstone slot does not matter, even if that course has nothing to do with the actual capstone paper being written for CS 4991.  
+
 ## Help with Studying Abroad
 
 Start with the International Studies office - [https://www.virginia.edu/academics/international](https://www.virginia.edu/academics/international).  They see a lot of CS majors and know many things faculty don't.
