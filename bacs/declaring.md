@@ -93,7 +93,7 @@ __IMPORTANT NOTES:__
 
 
 __Step 3:__     
-At the bottom of that form, you’ll see a button with a paper-clip. This lets you add an attachment. Click on that and attach the PDF file that is your completed CS major declaration form. Be sure you don’t forget this!
+At the bottom of that form, you’ll see a button with a paper-clip. This lets you add an attachment. Click on that and attach the PDF file of the completed [CS department declaration form]({{ site.data.externallinks.bacs_declaration_form }}) that we mentioned earlier. Be sure you don’t forget to complete and attach this!
  
 __Final Step:__    
 Be sure to click __Finish__ at the bottom of the major declaration form!
