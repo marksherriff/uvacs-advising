@@ -23,14 +23,16 @@ The BA degree program in Computer Science provides students with a solid foundat
 
 The CS department has developed an advising website that attempts to be a comprehensive source of info for its majors. The page you're reading is part of that website, but its main address is: [https://uvacsadvising.org](https://uvacsadvising.org). Note this page is searchable -- type your query into the box at the top of any page.
 
-## Degree Requirements (Handouts, Resources)
+## Degree Requirements (Handouts, Resources, Orientation Video)
 
 See [these sections on the main BACS page on this website]({{ baseurl }}/bacs.html#degree-handouts-and-resources). That page has comprehensive information.
+
+Students can also watch the [orientation video for College students interested in the BACS or CS minor]({{ baseurl }}/video_library.html#bacs-presentations). This is for potential majors, newly declared majors, and new or potential transfer students.
 
 ## Contacts
 
 1. CS has staff in the CS office to help answer routine questions. You can email them at cs-office@virginia.edu. 
-2. The Program Director (DUP) for the BACS is currently Tom Horton, and if you email bacsdirector@viginia.edu that will reach him and a back-up who helps out.
+2. The Program Director (DUP) for the BACS is currently Tom Horton, and if you email bacsdirector@viginia.edu that will reach him and a back-up who helps out.\
 
 ## Getting Help and Advising for the BACS
 
