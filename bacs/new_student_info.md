@@ -17,7 +17,7 @@ Page Last Updated: {{ site.time | date: '%A, %B %d, %Y' }}
 
 ## About the BACS Major
 
-The BA degree program in Computer Science provides students with a solid foundation in computer science theory and practice. An important goal of the program is give students the ability to apply computing to other disciplines in the arts and sciences (e.g., life and physical sciences, mathematics, social sciences, visual and performing arts). This idea of studying computer science in the context of a liberal arts education is what distinguishes the BA in Computer Science from computing degrees in the School of Engineering and Applied Sciences. Graduates of this program will be prepared to apply their technical knowledge to analyze and solve computing challenges in a wide range of problem areas, including those faced by today's computing industry. Graduates will also be prepared for graduate study in computer science and other fields that require knowledge of computer science.
+The BA degree program in Computer Science provides students with a solid foundation in computer science theory and practice. An important goal of the program is to give students the ability to apply computing to other disciplines in the arts and sciences (e.g., life and physical sciences, mathematics, social sciences, visual and performing arts). This idea of studying computer science in the context of a liberal arts education is what distinguishes the BA in Computer Science from computing degrees in the School of Engineering and Applied Sciences. Graduates of this program will be prepared to apply their technical knowledge to analyze and solve computing challenges in a wide range of problem areas, including those faced by today's computing industry. Graduates will also be prepared for graduate study in computer science and other fields that require knowledge of computer science.
 
 ## Advising Information and Web Pages
 
@@ -44,7 +44,7 @@ See [these sections on the main BACS page on this website]({{ baseurl }}/bacs.ht
 
 ## Some Other Things
 
-1. __Career Services:__  BACS majors have full access to services from the Center for Engineering Career Development. Don’t let the “engineering” put you off!  CS students are their largest community of customers, and they know and welcome BACS students! They can give advice for CS students about graduate school and job/careers in "non-engineering" fields too.
+1. __Career Services:__  BACS majors have full access to services from the [Center for Engineering Career Development](https://engineering.virginia.edu/about/offices/career-development-center-engineering-career-development). Don’t let the “engineering” put you off!  CS students are their largest community of customers, and they know and welcome BACS students! They can give advice for CS students about graduate school and job/careers in "non-engineering" fields too.
 2. To learn about __job openings__ for CS students, be sure to learn about the Handshake system run by the career center.
 3. __Student clubs and organizations:__ The CS department has a [web page with info on clubs and organizations](https://engineering.virginia.edu/departments/computer-science/about-computer-science/clubs-and-groups) that might interest CS students. 
 4. __Study-abroad course approval:__  Contact Prof. Charles Reiss (creiss@virginia.edu) for approval of courses you may take abroad that you want to count for your CS major. He approves these for the CS department instead of the program director. Except for integration electives -- for those, contact the Director.
