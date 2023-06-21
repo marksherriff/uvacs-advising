@@ -32,7 +32,7 @@ Students can also watch the [orientation video for College students interested i
 ## Contacts
 
 1. CS has staff in the CS office to help answer routine questions. You can email them at cs-office@virginia.edu. 
-2. The Program Director (DUP) for the BACS is currently Tom Horton, and if you email bacsdirector@viginia.edu that will reach him and a back-up who helps out.\
+2. The Program Director (DUP) for the BACS is currently Tom Horton, and if you email bacsdirector@viginia.edu that will reach him and a back-up who helps out.
 
 ## Getting Help and Advising for the BACS
 
