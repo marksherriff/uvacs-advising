@@ -36,6 +36,8 @@ _Announced New Courses:_
 
 * An additional section of CS 4710: AI has been added.  We will first offer seats to students on the wait list for the current section of CS 4710 before opening to all.
 
+* Prof. Derrick Stone will be offering CS 4260: Internet Scale Applications this fall.  His short description: "This course is about massive apps. As sites grow to support unprecedented numbers of users, they exceed capacity of available architecture. Social media such as Facebook and Netflix, eCommerce sites such as Amazon and eBay constantly encounter challenging issues of scale. This course will explore growth-related challenges, how massive sites are built and what tools and techniques are used. Topics include distributed databases, service architecture and reliability engineering. This course involves hands-on design and development; CS3240 is required."  If you are interested in the course AND you have passed CS 3240, you should get on the wait list.  On (or shortly after) August 7 (when the credit limit for college students will go up), we will randomly select up to 80 students to get into the course.  (Note we may select fewer students in case we need to use some of the seats for transfers, etc.).
+
 __Old Curriculum Transition:__ _(Updated: June 13)_
 
 * Due to higher-than-anticipated demand, we have decided that it would be in the students' and department's best interest to offer [CS 4414: Operating Systems]({{ baseurl }}/courses.html#cs-4414-operating-systems) both fall and spring for students on the old curriculum (BSCS, CPE, and BACS).  We will still limit the course to students who have had CS 3330, since there is significant overlap with CS 3130.  
