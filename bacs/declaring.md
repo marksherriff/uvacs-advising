@@ -35,7 +35,7 @@ __Important:__ Transfer students should not carry out the instructions below abo
 
 As noted in the [Undergraduate Record]( {{ site.data.externallinks.bacs_undergraduate_record }}), transfer students who have not completed the degree’s pre-requisites (CS 1110 or equivalent and CS 2100 or equivalent, with grades of C+ or higher) before their first semester in residence cannot be accepted into the major. Students missing CS 2100 can "defer" the major and then declare after Fall if they earn a C+ in CS 2100. Students who take CS 2100 in their 5th semester __can__ complete all the degree requirements in 8 semesters, but there is little flexiblity or room for error. (We strongly recommend students in this situation have a "Plan B" for another major and also take courses toward that major in their first semester at UVA.)
 
-Due to prerequisite dependencies, it is nearly impossible for third-year students who have not completed CS 1100 or its equivalent to complete the BA in CS in the four remaining semesters. It is important that students transferring to the University as third-years complete the equivalent of CS 1110 and ideally CS 2100 before coming to UVA. The ability to complete the degree in a timely fashion is one factor that will determine if you are accepted into the degree program.
+Due to prerequisite dependencies, it is nearly impossible for third-year students who have not completed CS 1110 (or its equivalent) to complete the BA in CS in the four remaining semesters. It is important that students transferring to the University as third-years complete the equivalent of CS 1110 and ideally CS 2100 before coming to UVA. The ability to complete the degree in a timely fashion is one factor that will determine if you are accepted into the degree program.
 
 
 ## Getting Information and Advising Before You Declare the BACS
@@ -93,7 +93,7 @@ __IMPORTANT NOTES:__
 
 
 __Step 3:__     
-At the bottom of that form, you’ll see a button with a paper-clip. This lets you add an attachment. Click on that and attach the PDF file that is your completed CS major declaration form. Be sure you don’t forget this!
+At the bottom of that form, you’ll see a button with a paper-clip. This lets you add an attachment. Click on that and attach the PDF file of the completed [CS department declaration form]({{ site.data.externallinks.bacs_declaration_form }}) that we mentioned earlier. Be sure you don’t forget to complete and attach this!
  
 __Final Step:__    
 Be sure to click __Finish__ at the bottom of the major declaration form!

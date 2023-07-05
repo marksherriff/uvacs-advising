@@ -29,7 +29,7 @@ If you have never programmed before, take CS 1110, 1112, 1113, or 1120. If you h
 * CS 1111 - Only students with some programming experience may take this course. This programming experience can be in any language. CS 1111 has the same assignments and tests as CS 1110, but does not require lab and moves slightly faster through some material since students are expected to have some exposure to basic concepts. Language: Python.
 * CS 1112 - Only students with no programming experience may take this course. Offered as a lecture + lab combination that meets three times a week. Language: Python.
 * CS 1113 - CS1 special topics and can vary from semester to semester. In the past we have offered a version focused on a mathematical approach to computing and a version emphasizing uses of computing in engineering disciplines.
-* CS 1120 - A course designed as an introductory course for the BACS, it now counts the same for all majors and schools.
+* CS 1120 - This course focuses on the big ideas in computer science including the major themes of recursive definitions, universality, and abstraction.  It has not been offered in recent years, but remains in the course catalogue in case we want to offer it again.
 
 Note - You can only receive credit for 1 CS 111X or 1120 course.
 
