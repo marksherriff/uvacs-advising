@@ -24,7 +24,7 @@ Students declare their major in the School of Engineering and Applied Science ei
 
 __Engineering Students Changing Majors or Seeking a Second Major:__ Current SEAS students who want to change their major to the BSCS or add the BSCS as a second major can do so only after they have completed CS 2100 with a C- or better.  In order to apply for the BSCS major, you must turn in the appropriate form from the [SEAS Majors and Minors]({{ site.data.externallinks.seas_declaring_major }}) page, along with a copy of your unofficial transcript from SIS to [cs-office@virginia.edu](mailto:cs-office@virginia.edu)​ or in person to the CS desk (Rice Hall 527).
 
-__Transferring from the Virginia Community College System:__ The current transfer guide for students coming from a Virginia community college can be found here: [BSCS VCCS Transfer Guide](/materials/bscs_vccs_transfer_guide.pdf)
+__Transferring from the Virginia Community College System:__ _Update: We are currently reworking our VCCS transfer guide and will update this post when it is available.  In the meantime, see the SEAS page for course transfers to see how courses transfer in._
 
 __Transferring Credits from Another University:__ Individual courses in Computer Science may be transferred from another university or college based on how the content in the course compares with our own.  Please see your academic advisor in CS or email [cs-office@virginia.edu](mailto:cs-office@virginia.edu) with the syllabus of the course.
 
