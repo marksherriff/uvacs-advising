@@ -91,6 +91,33 @@ We __will not__ entertain requests to change a graduation year / class standing 
 
 Further, if we process this change for you, __you are committing to graduating early and cannot revert this change except under special circumstances.__
 
+
+## Grade Appeal Policy
+
+__This policy is a draft as of 8/4/2023.  If and when it is approved, this comment will be removed.__
+
+Students who wish to dispute their course grade in an undergraduate CS course must follow the following process.  The process applies to any student taking a CS course no matter what school they are enrolled in. This policy is meant to be compatible and not conflict with school or university policies, including the [SEAS Grade Appeal Policy]{https://engineering.virginia.edu/current-students/current-undergraduate-students/policies-and-appeals}.
+
+Before filing a grievance with the department, the student should have attempted to resolve their concerns directly with the instructor(s). These attempts should be sincere and substantial.  If these attempts do not resolve the issue, the student affected should email their grievance to the contact listed at end of this section.  The grievance must specify:
+
+* Which course policy or procedure has been violated, e.g. the specific issue(s) behind the appeal. If the syllabus or posted course policies are relevant, describe what they are and how they apply.
+* What efforts the student has made to resolve the concern informally; and
+* The requested resolution.
+
+It is the responsibility of the student filing the grievance to ensure that the grievance clearly describes the issue and includes all necessary supporting documentation at the time of submission.
+
+A disagreement over the quality of the student’s work is not sufficient grounds for an appeal. Appeals may only relate to adherence to course policies, the process of how the final grade was computed, etc. An appeal based on a student's disagreement with a documented course policy is unlikely to succeed, unless the student can argue that the policy has been  applied in an unfair or unreasonable manner. 
+
+A grade appeal to the CS department from a course offered during the fall term must be initiated by the student by February 1st of the following spring term; the appeal of a grade from a course offered during the spring or summer terms must be initiated by the student by September 1st of the following fall term. The appeal of a grade from a course offered during a student’s final term before graduation must be appealed before graduation.
+
+If the student is unsatisfied with the department's response to the appeal, they can follow the [SEAS Grade Appeal Policy]{https://engineering.virginia.edu/current-students/current-undergraduate-students/policies-and-appeals}. Note that the SEAS deadlines to submit an appeal are exactly one month after the CS department deadlines listed above. By SEAS policy, a student does not have to appeal to the department and can appeal directly to the School. If a student does this, then they cannot appeal to the department once the School has given a response, i.e. the School's response cannot be appealed to the department.   
+
+Email a grade appeal for an undergraduate CS courses to one of the following addresses.  Make sure the email subject includes "grade appeal" and the course.
+
+* SEAS students: [bscsdirector@virginia.edu](mailto:bscsdirector@virginia.edu)
+* College and students in other schools: [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu)
+
+
 ## CS Department Grading Guidelines
 
 _This document was approved as an official guideline for the CS department and its associated courses by vote of the CS faculty on 2019-02-18._
