@@ -98,16 +98,16 @@ __This policy is a draft as of 8/4/2023.  If and when it is approved, this comme
 
 Students who wish to dispute their course grade in an undergraduate CS course must follow the following process.  The process applies to any student taking a CS course no matter what school they are enrolled in. This policy is meant to be compatible and not conflict with school or university policies, including the [SEAS Grade Appeal Policy](https://engineering.virginia.edu/current-students/current-undergraduate-students/policies-and-appeals).
 
-Before filing a grievance with the department, the student should have attempted to resolve their concerns directly with the instructor(s). These attempts should be sincere and substantial.  If these attempts do not resolve the issue, the student affected should email their grievance to the contact listed at end of this section.  The grievance must specify:
+Before filing a grievance with the department, the student should have attempted to resolve their concerns directly with the instructor(s). These attempts should be sincere and substantial.  If these attempts do not resolve the issue, the student affected should email their grievance to the contact listed at end of this section.  The grievance must include:
 
-* Which course policy or procedure has been violated, e.g. the specific issue(s) behind the appeal.
-* If the syllabus or posted course policies are relevant,  what they are and how they apply.
-* What efforts the student has made to resolve the concern with the instructor(s); and
+* Which course policy or procedure has been violated, e.g. the specific issue(s) behind the appeal;
+* Any syllabus or posted course policies that are relevant (including links or a PDF of the information), describing how they apply to the situation;
+* What efforts the student has made to resolve the concern with the instructor(s), including copies of emails, etc. if relevant; and,
 * The requested resolution.
 
 It is the responsibility of the student filing the grievance to ensure that the grievance clearly describes the issue and includes all necessary supporting documentation at the time of submission.
 
-A disagreement over the quality of the student’s work is not sufficient grounds for an appeal. Appeals may only relate to adherence to course policies, the process of how the final grade was computed, etc. An appeal based on a student's disagreement with a documented course policy is unlikely to succeed, unless the student can argue that the policy has been  applied in an unfair or unreasonable manner. 
+A disagreement over the quality of the student’s work is not sufficient grounds for an appeal. Appeals may only relate to adherence to course policies, the process of how the final grade was computed, etc. An appeal based on a student's disagreement with a documented course policy is unlikely to succeed, unless the student can argue that the policy has been applied in an unfair or unreasonable manner. 
 
 A grade appeal to the CS department from a course offered during the fall term must be initiated by the student by February 1st of the following spring term; the appeal of a grade from a course offered during the spring or summer terms must be initiated by the student by September 1st of the following fall term. The appeal of a grade from a course offered during a student’s final term before graduation must be appealed before graduation.
 
