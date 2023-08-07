@@ -27,6 +27,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: marksherriff
 github_username:  marksherriff
 
+ga_tracking: G-HHGDWHTWMG
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
+
 # Build settings
 # theme: "just-the-docs"
 remote_theme: pmarsceill/just-the-docs
