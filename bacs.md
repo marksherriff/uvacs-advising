@@ -87,4 +87,4 @@ The BACS degree program changed significantly for students who started at UVA in
 * Here's a [check-list of requirements](http://bacsoldchecklist.uvacs.org/) for the "old" degree requirements.
 * SIS automatically recognizes the list of integration electives for these students linked to from that page in the UG Record. Here’s a [direct link](http://records.ureg.virginia.edu/mime/media/view/52/4095/Computer%2BScience%2BIntegration%2BElectives%2B2021-2022.pdf). (Courses on a more recent list can count, but the student must fill out the request form.)
 * Current students can declare the major with the “old curriculum” at this time only if they were able to complete CS2150 by the end of Fall 2022 (with a C- or higher) and pass CS3330 no later than Spring 2023.
-
+* If a student is doing the old curriculum for either the BACS or the BSCS and needs to take CS3330 after Spring 2023, see [this page about what to do instead](https://docs.google.com/document/d/1KWvVXLSntg6I6fJrSy4SWaDCxBTABfptozVgO3Prn74/edit?usp=sharing).
