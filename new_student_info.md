@@ -30,7 +30,7 @@ CS has staff in the CS office to help answer routine questions. You can email th
 ### Mailing Lists
 {: .no_toc }
 
-The department manages several email lists specifically for majors and minors.  The department will occassionaly send out information regarding scheduling, special events, advising, and other important announcements.  Please make sure to read email that comes to these lists.  These lists are not available for students to post to directly.  If you need assistance with a mailing list, please contact [cs-office@virginia.edu](mailto:cs-office@virginia.edu).
+The department manages several email lists specifically for majors and minors.  The department will occasionally send out information regarding scheduling, special events, advising, and other important announcements.  Please make sure to read email that comes to these lists.  These lists are not available for students to post to directly.  If you need assistance with a mailing list, please contact [cs-office@virginia.edu](mailto:cs-office@virginia.edu).
 
 * cs-ugrads: Announcements from the department to all computing majors and minors (BSCS, BACS, BSCPE, and Minors).  (Examples include department schedule information, department-wide events, etc.)
 * bacs-ugrads: Announcements specifically for BACS majors.  (Examples include integration elective announcements, distinguished majors program, etc.)
