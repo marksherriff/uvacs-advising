@@ -46,24 +46,15 @@ BSCS students must complete the unified set of general requirements for all engi
 * [APMA 2120 - Multivariable Calculus III]({{ site.data.externallinks.apma_course_list }}) (Credits: 4)
 * [CHEM 1410/1411 - Introductory Chemistry I & Lab]({{ site.data.externallinks.chem_course_list }}) (Credits: 4)
 * [CS 1110/1111/1112/1113 - Introduction to Programming]({{ baseurl }}/courses.html#cs-1110-introduction-to-programming) (Credits: 3) (more info below)
-* [ENGR 1624 - Introduction to Engineering]({{ site.data.externallinks.engr_course_list }})
+* [ENGR 1010 - Engineering Foundations 1]({{ site.data.externallinks.engr_course_list }}) (Credits: 4)
+* [ENGR 1020 - Engineering Foundations 2]({{ site.data.externallinks.engr_course_list }}) (Credits: 3)
 * [PHYS 1425/1429 - Introductory Physics I & Lab]({{ site.data.externallinks.phys_course_list }}) (Credits: 4)
 * [PHYS 2415/2419 - Introductory Physics II & Lab]({{ site.data.externallinks.phys_course_list }}) (Credits: 4) -- OR -- ECE 2200 - Applied Physics
-* [STS 1500 - Science, Technology, and Contemporary Issues]({{ site.data.externallinks.sts_course_list }}) (Credits: 3)
-* [STS 2000 or 3000 level - STS Elective]({{ site.data.externallinks.sts_course_list }}) (Credits: 3) (see Department of Engineering and Society for more information)
+* [STS 2600 - Engineering Ethics]({{ site.data.externallinks.sts_course_list }}) (Credits: 3)
 * [STS 4500 - STS and Engineering Practice]({{ site.data.externallinks.sts_course_list }}) (Credits: 3)
 * [STS 4600 - The Engineer, Ethics, and Professional Responsibility]({{ site.data.externallinks.sts_course_list }}) (Credits: 3)
 * [Math and Science Elective]({{ site.data.externallinks.seas_elective_info }}) (Credits: 3)
 * [Humanities or Social Science Electives]({{ site.data.externallinks.seas_elective_info }}) (Credits: 9) (more info below)
-
-Update Fall 2023
-{: .label .label-green }
-
-Starting in Fall 2023, the following courses will change:
-
-* ENGR 1624 (4 credits) is being replaced with ENGR 1010 – Engineering Foundations I (4 credits)
-* STS 1500 (3 credits) is being replaced with ENGR 1020 – Engineering Foundations II (3 credits)
-* STS Elective (3 credits) is being replaced with STS 2600 – Engineering Ethics (3 credits)
 
 ### Introduction to Programming
 

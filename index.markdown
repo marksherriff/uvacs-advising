@@ -10,22 +10,6 @@ permalink: /
 
 Site Last Updated: {{ site.time | date: '%A, %B %d, %Y' }}
 
-## Summer Orientation 2023
-
-_**Welcome new Hoos!**_  
-
-[Information for Summer Orientation 2023]({{ baseurl }}/semester/f23/summer2023.html) - Information for incoming first year students (College and SEAS) can be found on this page. Go here to get answers to questions like what CS course you could/should take, what courses may have openings, and general advice.
-
-[Information for Transfer Students Summer 2023]({{ baseurl }}/semester/f23/transfer2023.html) - Are you a new transfer student?  We have seperate information for you on this page.
-
-Also, feel free to search the site with the search bar above to find information about our different degree programs and answers to many of your questions!
-
-## Updates Coming for ENGR 1010, ENGR 1020, and STS 2600
-
-Starting in Fall 2023, SEAS students will no longer take STS 1500, ENGR 1624, and an STS 2000-level elective.  These three courses are being replaced by ENGR 1010, ENGR 1020, and STS 2600.  First-year SEAS students will take ENGR 1010 in their first semester and ENGR 1020 in their second semester.  STS 2600 will generally be taken during the second year.
-
-Note that we are in the process of updating this website and materials with these changes!  Students who have entered UVA prior to Fall 2023 should have already completed ENGR 1624, STS 1500, and their STS elective.  (If the STS elective is remaining, the student should take STS 2600.)
-
 ## Information for Fall 2023
 
 __Additional Courses Will Be Added or Instructors Changed:__

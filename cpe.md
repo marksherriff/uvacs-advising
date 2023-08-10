@@ -61,11 +61,11 @@ fall and spring of the fourth year, respectively.
 *   [APMA 2120 - Multivariable Calculus III](https://louslist.org/CC/APMA.html) (Credits: 4)
 *   [CHEM 1410/1411 - Introductory Chemistry I & Lab](https://louslist.org/CC/Chemistry.html) (Credits: 4)
 *   [CS 1110/1111/1112/1113 - Introduction to Programming](/courses.html#cs-1110-introduction-to-programming) (Credits: 3) (more info below)
-*   [ENGR 1624 - Introduction to Engineering](https://louslist.org/CC/ENGR.html)
+* [ENGR 1010 - Engineering Foundations 1]({{ site.data.externallinks.engr_course_list }}) (Credits: 4)
+* [ENGR 1020 - Engineering Foundations 2]({{ site.data.externallinks.engr_course_list }}) (Credits: 3)
 *   [PHYS 1425/1429 - Introductory Physics I & Lab](https://louslist.org/CC/Physics.html) (Credits: 4)
 *   ECE 2200 - Applied Physics: Electricity and Magnetism or [PHYS 2415/2419 - Introductory Physics II & Lab](https://louslist.org/CC/Physics.html) (Credits: 4)
-*   [STS 1500 - Science, Technology, and Contemporary Issues](https://louslist.org/CC/STS.html) (Credits: 3)
-*   [STS 2000 or 3000 level - STS Elective](https://louslist.org/CC/STS.html) (Credits: 3) (see Department of Engineering and Society for more information)
+* [STS 2600 - Engineering Ethics]({{ site.data.externallinks.sts_course_list }}) (Credits: 3)
 *   [STS 4500 - STS and Engineering Practice](https://louslist.org/CC/STS.html) (Credits: 3)
 *   [STS 4600 - The Engineer, Ethics, and Professional Responsibility](https://louslist.org/CC/STS.html) (Credits: 3)
 *   [Math and Science Elective](https://engineering.virginia.edu/current-students/current-undergraduate-students/degree-information/elective-information) (Credits: 3)
@@ -138,11 +138,6 @@ CpE majors must take ECE 4440 to fulfill the capstone requirement.
 
 Chosen from: BIOL 2100, 2200; CHEM 1420; approved APMA course; MSE 2090; and
 PHYS 2620.
-
-### STS Elective
-
-Any course which meets the Second Writing Requirement as specified in the
-College of Arts & Sciences (CLAS) may be substituted for STS 2XXX/3XXX.
 
 ### Unrestricted Electives
 
