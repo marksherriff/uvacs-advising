@@ -14,7 +14,7 @@ parent: Course Information
 
 Current UVA students taking course work at other institutions may need to secure permission prior to enrolling in courses at another institution -- see more about this below. After completing such work, students must have official transcripts from the institution in which the courses were taken sent to the appropriate dean’s office at the University. Here are links to policies and procedures:
 
-* [General University Policies](http://records.ureg.virginia.edu/content.php?catoid=54&navoid=4293#transer_credit) from the 2022-23 UG Record
+* [General University Policies]({{ site.data.externallinks.ureg_transfer_credit }}) from the UG Record
 * [SEAS process and policies](https://engineering.virginia.edu/current-students/current-undergraduate-students/transferring-uva-engineering/transfer-credit) (for BSCS and CpE majors)
 * [College process and policies](https://college.as.virginia.edu/transfer-credit) (for BACS majors)
 

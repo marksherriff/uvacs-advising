@@ -16,7 +16,7 @@ Page Last Updated: {{ site.time | date: '%A, %B %d, %Y' }}
 
 _The information contained on this website is for informational purposes only. The Undergraduate Record and Graduate Record represent the official repository for academic program requirements. These publications may be found [http://records.ureg.virginia.edu/](http://records.ureg.virginia.edu/index.php)._
 
-[UVA BSCS Undergraduate Record 2022-2023]({{ site.data.externallinks.bscs_undergraduate_record }})
+[UVA BSCS Undergraduate Record]({{ site.data.externallinks.bscs_undergraduate_record }})
 
 ## Declaring the Major
 
