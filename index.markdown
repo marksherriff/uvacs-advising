@@ -12,17 +12,15 @@ Site Last Updated: {{ site.time | date: '%A, %B %d, %Y' }}
 
 ## Information for Fall 2023
 
-__Additional Courses Will Be Added or Instructors Changed:__
+__Walk-In CS Advising Hours:__
 
-* Seven new faculty will be joining the CS department this fall (with three more joining in 2024)!  New courses will be added to the over the coming months.  We will post information about these courses as soon as we can.  Questions can be directed to Prof. Sherriff.
+Rice Hall 4th Floor Open Area
 
-_Announced New Courses:_
-
-* An additional section of CS 4710: AI has been added.  We will first offer seats to students on the wait list for the current section of CS 4710 before opening to all.
-
-* Prof. Derrick Stone will be offering CS 4260: Internet Scale Applications this fall.  His short description: "This course is about massive apps. As sites grow to support unprecedented numbers of users, they exceed capacity of available architecture. Social media such as Facebook and Netflix, eCommerce sites such as Amazon and eBay constantly encounter challenging issues of scale. This course will explore growth-related challenges, how massive sites are built and what tools and techniques are used. Topics include distributed databases, service architecture and reliability engineering. This course involves hands-on design and development; CS3240 is required."  If you are interested in the course AND you have passed CS 3240, you should get on the wait list.  On (or shortly after) August 7 (when the credit limit for college students will go up), we will randomly select up to 80 students to get into the course.  (Note we may select fewer students in case we need to use some of the seats for transfers, etc.).
-
-* Prof. Jack Davidson is going to offer a CS 4501 special topics called "AI-Powered Cybersecurity."  The course description: " This course will explore the uses of emerging technologies and systems such as Large Language Models (LLMs), Generative Pre-trained Transformers (GPTs), ChatGPT, Copilot, and Duet AI in securing computer systems. In addition to gaining an understanding of these technologies, students will work in collaborative teams to create prototype systems to demonstrate and evaluate these emerging technologies."  Prerequisite: Introduction to Cybersecurity (CS 3710) and permission of instructor.
+- Monday 11:30 a.m. - 1:30 p.m. 
+- Tuesday 9:30 a.m. - 11:30 a.m.
+- Wednesday 11:30 a.m. - 1:30 p.m. 
+- Thursday 9:30 a.m. – 11:30 a.m. 
+- Friday 1:00 p.m. - 3:00 p.m. 
 
 __Old Curriculum Transition:__ _(Updated: June 13)_
 
