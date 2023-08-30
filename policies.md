@@ -23,13 +23,14 @@ __NOTE:__ Regardless of what SIS let's you register for, the CS department will 
 
 ## CS Elective Policy
 
-CS electives consist of CS courses at the 3000 level or higher that are not already being used for a degree requirement.  These courses must have the CS mnemonic.  Courses from other disciplines will only be accepted under rare circumstances and by approval of the CS Undergraduate Curriculum Committee.  Additional CS electives may be required as part of the CS 4991 option for the senior thesis or to fill in missing credits due to place-out test.
+CS electives consist of CS courses at the 3000 level or higher that are not already being used for a degree requirement.  These courses must have the CS mnemonic.  Courses from other disciplines will only be accepted under rare circumstances and by approval of the CS Undergraduate Curriculum Committee.  Per accredidation rules, CS electives must build upon foundational computer science material.  Additional CS electives may be required as part of the CS 4991 option for the senior thesis or to fill in missing credits due to place-out test.
 
 __Guidelines for CS Electives:__
 
 * Must have a CS mnemonic.
 * Must be at the 3000 level or higher.
 * Must not be a foundation course or upper-level required course.
+* Must have CS 2100 as a prerequisite at a minimum (3000-level foundation prerequisite is preferred).
 * Second digit of course number must not be 0 or 9, except as noted below.
 * Two electives with significant overlap of material cannot both count toward the CS degree.
 * Up to three (3) credits of CS 4993 - Independent Study may count toward the CS elective requirement.  Credits beyond this limit may be applied to the unrestricted elective requirement.
