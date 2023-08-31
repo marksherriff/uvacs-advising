@@ -14,9 +14,9 @@ The place-out test allows a student to take a course that requires CS 1110, CS 1
 
 Place-out tests are only available as follows:
 
-One week prior to the beginning of the semester (fall and spring), through the first seven business days of the semester; then again seven business days prior to course registration for the following semester. Typically, this is around the middle of October in the fall semester, and around the last week of March/first week of April in the spring semester.
+One week prior to the beginning of the semester (fall and spring), through the first five business days of the semester; then again seven business days prior to course registration for the following semester. 
 
-A student who has previously attempted CS 1110, CS 1111, CS 1112, or CS 1113 cannot take the exam. A student can only take the exam once, and students currently enrolled in a CS 1 course are not allowed to take the place-out exam beyond Wednesday of second week of the semester. 
+A student who has previously attempted CS 1110, CS 1111, CS 1112, or CS 1113 cannot take the exam. A student can only take the exam once, and students currently enrolled in a CS 1 course are not allowed to take the place-out exam beyond Monday of second week of the semester.  The test will be graded within a few days and the results will be emailed to the student.
 
 Students who wish to take the place-out test can [fill out this form to receive a link to the exam]({{ site.data.externallinks.cs1110_placeout_form }}). The exam must be submitted within 48 hours of receiving the link. The student is allotted 60 minutes to take the exam, beginning when the exam is first opened. Students cannot use books, notes, computers, or help from other people while taking the exam. The exam will be graded within a few days, and the results will be emailed to the student. Students who pass do not receive credit, and if CS 1110 was required as part of a degree program may be required to take some other course at UVA in lieu of CS111X; however, it does meet prerequisites. CS majors are required to take another math/technical course that is not already being counted toward their degree program.  Some examples include another APMA course, another CS elective, or a technical course in another SEAS department. 
 
@@ -57,9 +57,9 @@ Please discuss with your advisor of your major.
 
 Place-out tests are only available as follows:
 
-One week prior to the start of each semester (fall and spring), through the first seven business days of the semester; then again two weeks prior to course registration for the following semester; typically, this is around the middle of October in the fall semester, and around the last week of March/first week of April in the spring semester.
+One week prior to the start of each semester (fall and spring), through the first five business days of the semester; then again two weeks prior to course registration for the following semester.
 
-The place-out test for CS 2100 MUST be taken in person, during scheduled times. It is available Monday-Friday at either 9:30am or 1:30pm. The student is allotted 120 minutes to take the test. Students cannot use books, notes, computers, or help from other people while taking the test. A student can only take the test once, and students who have enrolled in CS 2100 are not allowed to take the place-out test, beyond the second week of the semester.  The test will be graded within a few days, and the results will be emailed to the student. 
+The place-out test for CS 2100 MUST be taken in person, during scheduled times. It is available Monday-Friday at either 9:30am or 1:30pm. The student is allotted 120 minutes to take the test. Students cannot use books, notes, computers, or help from other people while taking the test. A student can only take the test once, and students who have enrolled in CS 2100 are not allowed to take the place-out test, beyond Monday of the second week of the semester.  The test will be graded within a few days, and the results will be emailed to the student. 
 
 Students should use the Java programming language on the test. The place-out test is made up of several short-answer, implementation, and coding questions. Students interested in taking the test need to be familiar with:
 
