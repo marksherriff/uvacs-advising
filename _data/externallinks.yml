@@ -34,4 +34,7 @@ seas_undergrad_forms: "https://engineering.virginia.edu/node/48766/"
 college_declaring_major: "https://college.as.virginia.edu/declaremajor"
 college_departments: "http://as.virginia.edu/departments"
 
+## Registrar links
+ureg_academic_calendars: "https://registrar.virginia.edu/calendar/academic"
+
 ## Contacts

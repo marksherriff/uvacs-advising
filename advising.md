@@ -56,6 +56,12 @@ Enrollment in a course is ultimately up to the instructor, so reach out to them 
 
 If a course __must__ be taken in a specific semester in order for a student to graduate on time, email the instructor and the appropriate program director - [bscsdirector@virginia.edu](mailto:bscsdirector@virginia.edu) or [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu) - with your situtation.
 
+## Help with Adding or Dropping a Course
+
+All CS courses follow SEAS deadlines for add, drop, and withdraw _regardless of the school of enrollment of the student._  Add, drop, and withrdaw deadlines can be found on the [appropriate academic calendar on the Registrar's website.]({{ site.data.externallinks.ureg_academic_calendars }}).
+
+More information about how to add, drop, or withdraw from a course using SIS can be found on [ITS' SIS help pages](https://in.virginia.edu/sis-student).  Similarly, faculty should reference the [help page for faculty](https://in.virginia.edu/sis-faculty) for specific questions.
+
 ## Help with Taking Overload Credit Hours
 
 BACS
