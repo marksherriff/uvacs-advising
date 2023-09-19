@@ -26,6 +26,12 @@ Official descriptions for the BACS degree program in the Undergraduate Record:
 
 See the page on [Declaring the BACS]({{ baseurl }}/bacs/declaring.html).
 
+As noted in the Undergraduate Record:
+
+* "Because the goals of the degree are integrated with the study of the liberal arts, students from outside the College of Arts and Sciences who have not taken significant coursework in the College will not be allowed to declare the BA in CS degree as a second major."
+
+In particular, students in Engineering are not allowed to declare the BA in Computer Science (but are welcome to declare the BSCS as a 2nd major or to complete the CS minor).  Students from schools other than Engineering (or the College) who wish to explore if they have taken enough coursework in the College to be allowed to declare the BACS should contact the program director at [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu). 
+
 ## Degree Handouts and Resources
 
 * [UVA BACS Degree Checklist]({{ site.data.externallinks.bacs_checklist}})
