@@ -1,10 +1,10 @@
 ---
 layout: default
-title: New Student Information
+title: General Student Information
 nav_order: 3.5
 ---
 
-# New Student Information
+# General Student Information
 {: .no_toc }
 
 Page Last Updated: {{ site.time | date: '%A, %B %d, %Y' }}
@@ -48,6 +48,12 @@ If you wish to join the cs-jobs opt-in email list to hear about job and project 
 3. Your primary UVA email and name should be pre-populated in the fields.
 4. Click "I subscribe to list cs-jobs."
 5. Click "Confirm."
+
+### Laptop Loaner Program
+
+The CS department has a laptop loaner program for students who 1) are currently enrolled in a CS course and 2) have a CS faculty member willing to sponsor them to be loaned a laptop.
+
+For more information, please see the [CS Department Laptop Loaner Program](https://www.cs.virginia.edu/wiki/doku.php?id=cs_laptop_loaner) information page.
 
 ## BACS-Specific Information
 
