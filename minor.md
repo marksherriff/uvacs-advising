@@ -26,4 +26,4 @@ Any student who completes all of the requirements for a minor in Computer Scienc
 
 ## Declaring the CS Minor
 
-The CS Minor is a SEAS minor, even for students who are not in SEAS.  Thus, any student applying for the minor must use the [SEAS Minor Declaration form]( {{ site.data.externallinks.seas_declaring_major }}).  Complete the form and email it to [cs-office@virginia.edu](mailto:cs-office@virginia.edu).
+The CS Minor is a SEAS minor, even for students who are not in SEAS.  Thus, any student applying for the minor must use the following online DocuSign form: [Minor Declaration Form – School of Engineering & Applied Science](https://na2.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=3d7d67ed-1b4c-4df6-a1c7-1acf25b76be9&env=na2&acct=a8970e23-de25-4821-8826-64a7afe0662b&v=2)

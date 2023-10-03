@@ -22,7 +22,10 @@ _The information contained on this website is for informational purposes only. T
 
 Students declare their major in the School of Engineering and Applied Science either in their second semester if they entered the school as a first year student or upon transfer to the School.  More information can be found on the [SEAS page for major declaration]({{ site.data.externallinks.seas_declaring_major }}).
 
-__Engineering Students Changing Majors or Seeking a Second Major:__ Current SEAS students who want to change their major to the BSCS or add the BSCS as a second major can do so only after they have completed CS 2100 with a C- or better.  In order to apply for the BSCS major, you must turn in the appropriate form from the [SEAS Majors and Minors]({{ site.data.externallinks.seas_declaring_major }}) page, along with a copy of your unofficial transcript from SIS to [cs-office@virginia.edu](mailto:cs-office@virginia.edu)​ or in person to the CS desk (Rice Hall 527).
+__Engineering Students Changing Majors or Seeking a Second Major:__ Current SEAS students who want to change their major to the BSCS or add the BSCS as a second major can do so only after they have completed CS 2100 with a C- or better.  In order to apply for the BSCS major, please complete the appropriate online DocuSign form: 
+
+* [Additional Major Declaration Form - School of Engineering & Applied Science](https://na2.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=c018f3c4-2eef-48b1-be97-480958c42c0a&env=na2&acct=a8970e23-de25-4821-8826-64a7afe0662b&v=2)
+* [Change of Major Declaration Form – School of Engineering & Applied Science](https://na2.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=3ec6cf20-d420-4061-997b-ab5d112bb6b1&env=na2&acct=a8970e23-de25-4821-8826-64a7afe0662b&v=2)
 
 __Transferring from the Virginia Community College System:__ _Update: We are currently reworking our VCCS transfer guide and will update this post when it is available.  In the meantime, see the SEAS page for course transfers to see how courses transfer in._
 
