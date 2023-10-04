@@ -1,0 +1,510 @@
+- course: CS 1010
+  title: Introduction to Information Technology
+  type: LEC
+  instructor: David Evans
+  day: TuTh 11:00-12:15
+  location: TBD
+
+- course: CS 1110
+  title: Introduction to Programming
+  type: LEC
+  instructor: Arohi Khargonkar
+  day: MoWeFr 10:00-10:50
+  location: GIL 301
+
+- course: CS 1110
+  title: Introduction to Programming
+  type: LEC
+  instructor: Arohi Khargonkar
+  day: MoWeFr 13:00-13:50
+  location: RICE 130
+
+- course: CS 1110
+  title: Introduction to Programming
+  type: LEC
+  instructor: Derrick Stone
+  day: MoWeFr 12:00-12:50
+  location: OLS 120
+
+- course: CS 1110
+  title: Introduction to Programming
+  type: LAB
+  instructor: Arohi Khargonkar
+  day: Th 09:30-10:45
+  location: OLS 018
+
+- course: CS 1110
+  title: Introduction to Programming
+  type: LAB
+  instructor: Arohi Khargonkar
+  day: Th 11:00-12:15
+  location: OLS 018
+
+- course: CS 1110
+  title: Introduction to Programming
+  type: LAB
+  instructor: Arohi Khargonkar
+  day: Th 12:30-13:45
+  location: OLS 018
+
+- course: CS 1110
+  title: Introduction to Programming
+  type: LAB
+  instructor: Arohi Khargonkar
+  day: Th 14:00-15:15
+  location: OLS 018
+
+- course: CS 1110
+  title: Introduction to Programming
+  type: LAB
+  instructor: Arohi Khargonkar
+  day: Th 15:30-16:45
+  location: OLS 018
+
+- course: CS 1110
+  title: Introduction to Programming
+  type: LAB
+  instructor: Arohi Khargonkar
+  day: Th 17:00-18:15
+  location: OLS 018
+
+- course: CS 1110
+  title: Introduction to Programming
+  type: LAB
+  instructor: Arohi Khargonkar
+  day: Th 18:30-19:45
+  location: OLS 018
+
+- course: CS 1110
+  title: Introduction to Programming
+  type: LAB
+  instructor: Arohi Khargonkar
+  day: Th 17:00-18:15
+  location: OLS 009
+
+- course: CS 1111
+  title: Introduction to Programming
+  type: LEC
+  instructor: Panagiotis Apostolellis
+  day: MoWe 14:00-15:15
+  location: THN E316
+
+- course: CS 1112
+  title: Introduction to Programming
+  type: LEC
+  instructor: Nada Basit
+  day: MoWeFr 12:30-13:45
+  location: OLS 018
+
+- course: CS 1112
+  title: Introduction to Programming
+  type: LEC
+  instructor: Nada Basit
+  day: MoWeFr 14:00-15:15
+  location: OLS 018
+
+- course: CS 2100
+  title: Data Structures and Algorithms 1
+  type: LEC
+  instructor: Briana Morrison
+  day: MoWeFr 12:00-12:50
+  location: CHM 402
+
+- course: CS 2100
+  title: Data Structures and Algorithms 1
+  type: LEC
+  instructor: Derrick Stone
+  day: MoWeFr 11:00-11:50
+  location: OLS 120
+
+- course: CS 2100
+  title: Data Structures and Algorithms 1
+  type: LAB
+  instructor: Briana Morrison
+  day: Mo 15:00-16:45
+  location: OLS 120
+
+- course: CS 2100
+  title: Data Structures and Algorithms 1
+  type: LAB
+  instructor: Briana Morrison
+  day: Mo 17:00-18:45
+  location: RICE 130
+
+- course: CS 2100
+  title: Data Structures and Algorithms 1
+  type: LAB
+  instructor: Briana Morrison
+  day: Mo 19:00-20:45
+  location: RICE 130
+
+- course: CS 2100
+  title: Data Structures and Algorithms 1
+  type: LAB
+  instructor: Briana Morrison
+  day: Mo 15:30-17:15
+  location: MEC 205
+
+- course: CS 2120
+  title: Discrete Mathematics and Theory 1
+  type: LEC
+  instructor: Elizabeth Orrico
+  day: MoWeFr 14:00-14:50
+  location: RICE 130
+
+- course: CS 2120
+  title: Discrete Mathematics and Theory 1
+  type: LEC
+  instructor: Elizabeth Orrico
+  day: MoWeFr 15:00-15:50
+  location: RICE 130
+
+- course: CS 2120
+  title: Discrete Mathematics and Theory 1
+  type: LEC
+  instructor: Elizabeth Orrico
+  day: MoWeFr 16:00-16:50
+  location: RICE 130
+
+- course: CS 2130
+  title: Computer Systems and Organization 1
+  type: LEC
+  instructor: Daniel Graham
+  day: MoWeFr 14:00-14:50
+  location: CHM 402
+
+- course: CS 2130
+  title: Computer Systems and Organization 1
+  type: LAB
+  instructor: Daniel Graham
+  day: Tu 09:30-10:45
+  location: OLS 018
+
+- course: CS 2130
+  title: Computer Systems and Organization 1
+  type: LAB
+  instructor: Daniel Graham
+  day: Tu 11:00-12:15
+  location: OLS 018
+
+- course: CS 2130
+  title: Computer Systems and Organization 1
+  type: LAB
+  instructor: Daniel Graham
+  day: Tu 12:30-13:45
+  location: OLS 018
+
+- course: CS 2130
+  title: Computer Systems and Organization 1
+  type: LAB
+  instructor: Daniel Graham
+  day: Tu 14:00-15:15
+  location: OLS 018
+
+- course: CS 2130
+  title: Computer Systems and Organization 1
+  type: LAB
+  instructor: Daniel Graham
+  day: Tu 15:30-16:45
+  location: OLS 018
+
+- course: CS 2130
+  title: Computer Systems and Organization 1
+  type: LAB
+  instructor: Daniel Graham
+  day: Tu 17:00-18:15
+  location: OLS 018
+
+- course: CS 2910
+  title: CS Education Practicum
+  type: PRA
+  instructor: Nada Basit
+  day: TBD
+  location: TBD
+
+- course: CS 3100
+  title: Data Structures and Algorithms 2
+  type: LEC
+  instructor: Robbie Hott
+  day: TuTh 09:30-10:45
+  location: RICE 130
+
+- course: CS 3100
+  title: Data Structures and Algorithms 2
+  type: LEC
+  instructor: Raymond Pettit
+  day: TuTh 14:00-15:15
+  location: WNR 209
+
+- course: CS 3120
+  title: Discrete Mathematics and Theory 2
+  type: LEC
+  instructor: Mark Floryan
+  day: MoWeFr 12:00-12:50
+  location: WIL 402
+
+- course: CS 3130
+  title: Computer Systems and Organization 2
+  type: LEC
+  instructor: Charles Reiss
+  day: TuTh 15:30-16:45
+  location: WIL 402
+
+- course: CS 3130
+  title: Computer Systems and Organization 2
+  type: LAB
+  instructor: Charles Reiss
+  day: We 14:00-15:15
+  location: MEC 339
+
+- course: CS 3130
+  title: Computer Systems and Organization 2
+  type: LAB
+  instructor: Charles Reiss
+  day: We 15:30-16:45
+  location: OLS 018
+
+- course: CS 3130
+  title: Computer Systems and Organization 2
+  type: LAB
+  instructor: Charles Reiss
+  day: We 17:00-18:15
+  location: OLS 018
+
+- course: CS 3130
+  title: Computer Systems and Organization 2
+  type: LAB
+  instructor: Charles Reiss
+  day: We 18:30-19:45
+  location: OLS 018
+
+- course: CS 3140
+  title: Software Development Essentials
+  type: LEC
+  instructor: Rich Nguyen
+  day: TuTh 11:00-12:15
+  location: WNR 209
+
+- course: CS 3140
+  title: Software Development Essentials
+  type: LEC
+  instructor: Rich Nguyen
+  day: TuTh 12:30-13:45
+  location: TBD
+
+- course: CS 3205
+  title: HCI in Software Development
+  type: LEC
+  instructor: Panagiotis Apostolellis
+  day: TuTh 15:30-16:45
+  location: OLS 009
+
+- course: CS 3240
+  title: Advanced Software Development Techniques
+  type: LEC
+  instructor: Mark Sherriff
+  day: TuTh 11:00-12:15
+  location: RICE 130
+
+- course: CS 3240
+  title: Advanced Software Development Techniques
+  type: LEC
+  instructor: Sebastian Elbaum
+  day: TuTh 12:30-13:45
+  location: RICE 130
+
+- course: CS 3240
+  title: Advanced Software Development Techniques
+  type: LAB
+  instructor: Mark Sherriff
+  day: TBD
+  location: TBD
+
+- course: CS 3250
+  title: Software Testing
+  type: LEC
+  instructor: Upsorn Praphamontripong
+  day: MoWeFr 13:00-13:50
+  location: OLS 011
+
+- course: CS 3710
+  title: Introduction to Cybersecurity
+  type: LEC
+  instructor: Angela Orebaugh
+  day: MoWeFr 12:00-12:50
+  location: GIL 301
+
+- course: CS 4414
+  title: Operating Systems
+  type: LEC
+  instructor: Felix Lin
+  day: TuTh 14:00-15:15
+  location: OLS 120
+
+- course: CS 4457
+  title: Computer Networks
+  type: LEC
+  instructor: Hyojoon Kim
+  day: MoWeFr 13:00-13:50
+  location: OLS 120
+
+- course: CS 4501
+  title: Intro to Algorithmic Economics
+  type: LEC
+  instructor: Denis Nekipelov & Chen-Yu Wei
+  day: MoWe 15:30-16:45
+  location: OLS 005
+
+- course: CS 4501
+  title: Internet of Things
+  type: LEC
+  instructor: Brad Campbell
+  day: MoWe 14:00-15:15
+  location: OLS 005
+
+- course: CS 4501
+  title: Cybersecurity and Elections
+  type: LEC
+  instructor: Jack Davidson & Angela Orebaugh
+  day: MoWe 14:00-15:15
+  location: OLS 009
+
+- course: CS 4501
+  title: Engr Interactive Technologies
+  type: LEC
+  instructor: Seongkook Heo
+  day: TuTh 15:30-16:45
+  location: THN E303
+
+- course: CS 4501
+  title: Cryptocurrency
+  type: LEC
+  instructor: Aaron Bloomfield
+  day: MoWeFr 11:00-11:50
+  location: OLS 018
+
+- course: CS 4501
+  title: Hardware Security
+  type: LEC
+  instructor: Ashish Venkat
+  day: TuTh 14:00-15:15
+  location: MEC 339
+
+- course: CS 4501
+  title: Cryptography
+  type: LEC
+  instructor: Wei-Kai Lin
+  day: TuTh 09:30-10:45
+  location: THN E303
+
+- course: CS 4501
+  title: Human-Robot Interaction
+  type: LEC
+  instructor: Tariq Iqbal
+  day: TBD
+  location: TBD
+
+- course: CS 4501
+  title: Digital Signal Processing
+  type: LEC
+  instructor: Tom Fletcher
+  day: TuTh 11:00-12:15
+  location: THN E316
+
+- course: CS 4610
+  title: Programming Languages
+  type: LEC
+  instructor: Raymond Pettit
+  day: TuTh 11:00-12:15
+  location: OLS 009
+
+- course: CS 4630
+  title: Defense Against the Dark Arts
+  type: LEC
+  instructor: Jack Davidson
+  day: MoWe 15:30-16:45
+  location: OLS 009
+
+- course: CS 4640
+  title: Programming Languages for Web Applications
+  type: LEC
+  instructor: Robbie Hott
+  day: TuTh 12:30-13:45
+  location: THN E316
+
+- course: CS 4710
+  title: Artificial Intelligence
+  type: LEC
+  instructor: Yangfeng Ji
+  day: TuTh 11:00-12:15
+  location: TBD
+
+- course: CS 4710
+  title: Artificial Intelligence
+  type: LEC
+  instructor: Yen-Ling Kuo
+  day: TuTh 14:00-15:15
+  location: THN E316
+
+- course: CS 4720
+  title: Mobile Application Development
+  type: LEC
+  instructor: Paul McBurney
+  day: MoWeFr 12:00-12:50
+  location: THN A120
+
+- course: CS 4730
+  title: Computer Game Design
+  type: LEC
+  instructor: Paul McBurney
+  day: TuTh 14:00-15:15
+  location: THN A120
+
+- course: CS 4740
+  title: Cloud Computing
+  type: LEC
+  instructor: Chang Lou
+  day: MoWe 14:00-15:15
+  location: OLS 011
+
+- course: CS 4750
+  title: Database Systems
+  type: LEC
+  instructor: Upsorn Praphamontripong
+  day: MoWeFr 12:00-12:50
+  location: RICE 130
+
+- course: CS 4760
+  title: Network Security
+  type: LEC
+  instructor: Aaron Bloomfield
+  day: MoWeFr 10:00-10:50
+  location: OLS 018
+
+- course: CS 4980
+  title: Capstone Research
+  type: IND
+  instructor: All Instructors
+  day: TBD
+  location: TBD
+
+- course: CS 4991
+  title: Capstone Technical Report
+  type: SEM
+  instructor: Rosanne Vrugtman
+  day: Online
+  location: Online
+
+- course: CS 4993
+  title: Independent Study
+  type: IND
+  instructor: All Instructors
+  day: TBD
+  location: TBD
+
+- course: CS 4998
+  title: Distinguished BA Majors Research
+  type: IND
+  instructor: All Instructors
+  day: TBD
+  location: TBD

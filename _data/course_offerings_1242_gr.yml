@@ -1,0 +1,174 @@
+- course: CS 6316
+  title: Machine Learning
+  type: LEC
+  instructor: Shangtong Zhang
+  day: TuTh 14:00-15:15
+  location: MEC 341
+
+- course: CS 6354
+  title: Computer Architecture
+  type: LEC
+  instructor: Samira Khan
+  day: TuTh 12:30-13:45
+  location: THN E303
+
+- course: CS 6465
+  title: Human-Robot Interaction
+  type: LEC
+  instructor: Tariq Iqbal
+  day: TBD
+  location: TBD
+
+- course: CS 6501
+  title: Software Logic
+  type: LEC
+  instructor: Kevin Sullivan
+  day: MoWe 11:00-12:15
+  location: RICE 340
+
+- course: CS 6501
+  title: Network Security and Privacy
+  type: LEC
+  instructor: Yixin Sun
+  day: MoWe 14:00-15:15
+  location: MEC 341
+
+- course: CS 6501
+  title: Reinforcement Learning
+  type: LEC
+  instructor: Chen-Yu Wei
+  day: MoWe 09:30-10:45
+  location: RICE 340
+
+- course: CS 6501
+  title: Internet of Trillions ofThings
+  type: LEC
+  instructor: Kun Qian
+  day: MoWe 12:30-13:45
+  location: THN D222
+
+- course: CS 6501
+  title: Natural Language Processing
+  type: LEC
+  instructor: Yu Meng
+  day: MoWe 14:00-15:15
+  location: TBD
+
+- course: CS 6501
+  title: Hardware Accelerators
+  type: LEC
+  instructor: Kevin Skadron
+  day: TuTh 14:00-15:15
+  location: OLS 011
+
+- course: CS 6501
+  title: Responsible AI
+  type: LEC
+  instructor: Ferdinando Fioretto
+  day: MoWe 15:30-16:45
+  location: RICE 340
+
+- course: CS 6501
+  title: Digital Signal Processing
+  type: LEC
+  instructor: Tom Fletcher
+  day: TuTh 11:00-12:15
+  location: THN E316
+
+- course: CS 6501
+  title: Advanced Embedded Systems
+  type: LEC
+  instructor: Homa Alemzadeh
+  day: MoWe 14:00-15:15
+  location: RICE 340
+
+- course: CS 6501
+  title: Generative AI Seminar
+  type: LEC
+  instructor: Yanjun Qi
+  day: TuTh 09:30-10:45
+  location: RICE 340
+
+- course: CS 6501
+  title: Topics in Computer Artchitecture
+  type: LEC
+  instructor: Adwait Jog
+  day: TuTh 11:00-12:15
+  location: RICE 340
+
+- course: CS 6501
+  title: Learning in Robotics
+  type: LEC
+  instructor: Madhur Behl
+  day: TuTh 15:30-16:45
+  location: RICE 340
+
+- course: CS 6763
+  title: "Cyber-Physical Systems: Formal Methods, Safety and Security"
+  type: LEC
+  instructor: Lu Feng
+  day: TuTh 15:30-16:45
+  location: OLS 005
+
+- course: CS 6888
+  title: Software Analysis and Applications
+  type: LEC
+  instructor: Matthew Dwyer
+  day: MoWe 12:30-13:45
+  location: RICE 032
+
+- course: CS 6890
+  title: Industrial Applications
+  type: IND
+  instructor: All Instructors
+  day: TBD
+  location: TBD
+
+- course: CS 6993
+  title: Independent Study
+  type: IND
+  instructor: All Instructors
+  day: TBD
+  location: TBD
+
+- course: CS 7993
+  title: Independent Study
+  type: IND
+  instructor: All Instructors
+  day: TBD
+  location: TBD
+
+- course: CS 7995
+  title: Supervised Project Research
+  type: IND
+  instructor: All Instructors
+  day: TBD
+  location: TBD
+
+- course: CS 8897
+  title: Graduate Teaching Instruction
+  type: IND
+  instructor: All Instructors
+  day: TBD
+  location: TBD
+
+- course: CS 8999
+  title: Thesis
+  type: IND
+  instructor: All Instructors
+  day: TBD
+  location: TBD
+
+- course: CS 9897
+  title: Graduate Teaching Instruction
+  type: IND
+  instructor: All Instructors
+  day: TBD
+  location: TBD
+
+- course: CS 9999
+  title: Dissertation
+  type: IND
+  instructor: All Instructors
+  day: TBD
+  location: TBD
