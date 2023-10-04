@@ -3,7 +3,7 @@
   type: LEC
   instructor: David Evans
   day: TuTh 11:00-12:15
-  location: TBD
+  location: THN E303
 
 - course: CS 1110
   title: Introduction to Programming
@@ -394,7 +394,7 @@
   title: Cryptography
   type: LEC
   instructor: Wei-Kai Lin
-  day: TuTh 09:30-10:45
+  day: TuTh 14:00-15:15
   location: THN E303
 
 - course: CS 4501
@@ -415,7 +415,7 @@
   title: Programming Languages
   type: LEC
   instructor: Raymond Pettit
-  day: TuTh 11:00-12:15
+  day: MoWeFr 10:00-10:50
   location: OLS 009
 
 - course: CS 4630
@@ -436,7 +436,7 @@
   title: Artificial Intelligence
   type: LEC
   instructor: Yangfeng Ji
-  day: TuTh 11:00-12:15
+  day: TuTh 09:30-10:45
   location: TBD
 
 - course: CS 4710
