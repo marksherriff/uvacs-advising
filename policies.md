@@ -138,6 +138,12 @@ It is traditional for grades to reflect a combination of several kinds of learni
 
 Misconduct or lack of professionalism may result in a lower grade than demonstrated competence would otherwise indicate. The scope and nature of such reductions, if any, may be determined independently for each course offering.
 
+## Laptop policy for Computer Science courses
+
+There is already a policy in place that requires SEAS students to have and maintain a laptop for course work. However, the College does not have a similar policy. It is allowable for any faculty member to institute a laptop requirement for any Computer Science course as they see fit. If a student does not have access to a laptop that fits this requirement, the CS systems staff has obtained a number of long-term loaner computers that can be given to students. The student should contact the systems staff - [cshelpdesk@virginia.edu](cshelpdesk@virginia.edu) - in order to begin this process.
+
+The faculty member should make it clear to the students that laptops are required AND that this laptop loaner program is available to them. Students must return the laptop at the end of each semester, but can loan a new laptop at the beginning of the following semester if necessary. If, for some reason, the department finds that the demand for these laptops exceeds supply and a loaner is not able to be issued, then the faculty member must waive the laptop requirement for the student however they deem most appropriate.
+
 ## UVA Policies
 
 Links are provided here to relevant UVA policies on class activities.
