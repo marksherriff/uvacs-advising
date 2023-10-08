@@ -43,7 +43,7 @@ This course is meant as a general introduction to cryptocurrency. This course is
 
 ### CS 4501: Hardware Security w/ Prof. Venkat
 {: .no_toc }
-_(3 credits  / Prerequisites: C- or better in CS 2150 or CS 2130)_  
+_(3 credits  / Prerequisites: C- or better in CS 2130 or CS 2150)_  
 
 ### CS 4501: Cryptography w/ Prof. Lin
 {: .no_toc }
@@ -51,7 +51,7 @@ _(3 credits  / Prerequisites: C- or better in CS 2150 or CS 3100)_
 
 ### CS 4501: Human-Robot Interaction w/ Prof. Iqbal
 {: .no_toc }
-_(3 credits  / Prerequisites: C- or better in CS 2130 or CS 3100)_  
+_(3 credits  / Prerequisites: C- or better in CS 2130 or CS 2150)_  
 
 ### CS 4501: Digital Signal Processing w/ Prof. Fletcher
 {: .no_toc }
