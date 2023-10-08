@@ -16,6 +16,7 @@ Site Last Updated: {{ site.time | date: '%A, %B %d, %Y' }}
 
 * [Undergraduate Course Offerings](/semester/s24/course_offerings_1242_ug.html)
 * [Graduate Course Offerings](/semester/s24/course_offerings_1242_gr.html)
+* [Special Topics Course Information](/semester/s24/special_topics_offerings_1242.html)
 
 ### Important Dates
 
