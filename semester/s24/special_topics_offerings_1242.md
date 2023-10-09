@@ -11,7 +11,7 @@ parent: Course Information
 {:toc}
 
 
-__Last Updated: Saturday, October 8__
+__Last Updated: Monday, October 9__
 
 ## CS Undergraduate Special Topics
 
