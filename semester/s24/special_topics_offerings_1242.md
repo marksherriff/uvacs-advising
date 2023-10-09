@@ -105,10 +105,16 @@ _(3 credits  / Prerequisites: TBD)_
 {: .no_toc }
 _(3 credits  / Prerequisites: TBD)_  
 
-### CS 6501: Learning in Robotics w/ Prof. Behl
+### CS 6501: Learning in Robotics w/ Prof. Madhur Behl
 {: .no_toc }
-_(3 credits  / Prerequisites: TBD)_  
+_(3 credits)_  
+Ever attempted to decipher a robotics paper from renowned conferences like ICRA, IROS, or RSS, only to be deterred by complex math? This course is your solution. Designed to equip you for robotics research, we'll delve deep into its mathematical core at a graduate level. 
 
+We will cover the mathematical foundations of robotics in this graduate-level course. We will rigorously explore the three pillars of robotics: perception, planning, and control. We'll commence with theoretical discussions on state estimation methods, including the Kalman Filter, EKF, UKF, and Particle Filters, progress to mapping and visual odometry, and then navigate the intricacies of dynamic programming, control, and planning methods such as LQR and MDPs. Our journey will culminate in reinforcement learning models for robotics, like policy gradients and Q-learning, and specialized topics like foundation models for robotics. To ensure practical application, students will undertake programming assignments addressing real-world robotics challenges. While primarily for graduate students, undergraduates may enroll with the instructor's approval.
+
+_Prerequisites_: Proficiency in Python programming, familiarity with probability distributions, and a grasp of linear algebra, matrix algebra, and calculus.
+
+[Course Website](https://linklab-uva.github.io/robotlearning/)
 
 ## Special Topics Outside CS
 
