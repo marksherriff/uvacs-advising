@@ -43,11 +43,18 @@ This course is meant as a general introduction to cryptocurrency. This course is
 
 ### CS 4501: Hardware Security w/ Prof. Venkat
 {: .no_toc }
-_(3 credits  / Prerequisites: C- or better in CS 2130 or CS 2150)_  
+_(3 credits  / Prerequisites: C- or better in CS 3130 or CS 3330)_      
+The goal of this course is to investigate modern architectures for security flaws, craft exploits on real machines, and explore novel security-aware architectures.  By taking this course, students will:
+
+- become conversant with security issues that plague the modern semiconductor industry, and understand state-of-the-art defense mechanisms,
+- learn how to craft attacks that exploit security vulnerabilities in modern processors,
+- identify new security vulnerabilities and/or motivate new solutions to existing attacks
 
 ### CS 4501: Cryptography w/ Prof. Lin
 {: .no_toc }
-_(3 credits  / Prerequisites: C- or better in CS 2150 or CS 3100)_  
+_(3 credits  / Prerequisites: C- or better in CS 3100 or CS 4102)_  
+
+This course will provide an introduction to modern cryptography and its applications to computer security. This course will cover the fundamentals of symmetric cryptography (i.e., encryption and message authentication) and public-key cryptography (i.e., key-exchange and signatures) as well as cryptographic protocols like zero-knowledge proof systems. 
 
 ### CS 4501: Human-Robot Interaction w/ Prof. Iqbal
 {: .no_toc }
@@ -101,9 +108,10 @@ _(3 credits  / Prerequisites: TBD)_
 {: .no_toc }
 _(3 credits  / Prerequisites: TBD)_  
 
-### CS 6501: TBD w/ Prof. Jog
+### CS 6501: Topics in Computer Architecture w/ Prof. Jog
 {: .no_toc }
-_(3 credits  / Prerequisites: TBD)_  
+_(3 credits  / Prerequisites: Background in computer organization and design is expected. Background on other mentioned topics (graphics, quantum, cryogenic, superconducting) is not expected. / Breadth Area: Computer Systems)_     
+This course will cover several non-traditional and traditional computing paradigms and architectures such as graphics architectures, quantum computing, cryogenic designs, and superconducting architectures. The evaluation will be based on paper presentations, reviews, semester-long projects, and class participation. 
 
 ### CS 6501: Learning in Robotics w/ Prof. Behl
 {: .no_toc }
