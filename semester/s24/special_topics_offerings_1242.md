@@ -28,6 +28,20 @@ _(3 credits  / Prerequisites: C- or better in CS 2150 or CS 3100)_
 {: .no_toc }
 _(3 credits  / Prerequisites: C- or better in CS 2130 or CS 3330)_  
 
+The Internet of Things (IoT) is a computing platform where a large number of
+devices form a network to monitor, control, and optimize some physical system.
+To be scalable, these devices communicate _wirelessly_, both with each other and
+to the Internet at large. But what wireless protocols are available for IoT
+devices? How do they work? And why are there so many? This course will provide a
+hands-on introduction to the world of wireless in the Internet of Things. Over
+the course of the semester we will explore what wireless options we have
+available, how they differ and what the tradeoffs are, and how major IoT
+wireless protocols work. We will also build our own wireless "things" with
+embedded devices that connect to smartphones and a Charlottesville-wide LoRa
+network. See the [webpage from a previous
+semester](https://www.cs.virginia.edu/~bjc8c/class/cs4501-s23/) for more
+background.
+
 ### CS 4501: Cybersecurity and Elections w/ Profs. Davidson and Orebaugh
 {: .no_toc }
 _(3 credits  / Prerequisites: Permission of Instructor required)_    
