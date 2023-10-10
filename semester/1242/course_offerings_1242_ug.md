@@ -6,7 +6,7 @@ parent: Course Information
 
 # CS Undergrad Courses for Spring 2024
 
-__Last Updated: Saturday, October 7__
+__Last Updated: Tuesday, October 10__
 
 __NOTE: These courses/days/times are subject to change!  Once SIS / Lou's List has updated on October 13, please refer there for the latest information.__
 
