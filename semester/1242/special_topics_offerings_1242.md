@@ -150,4 +150,4 @@ The course is divided into 4 modules. During the Module 1 Understanding Yourself
 
 Please feel free to email: [jean.tom@virginia.edu](mailto:jean.tom@virginia.edu)
 
-[PDF Flyer](/semester/s24/engr4880-s24.pdf)
+[PDF Flyer](/semester/1242/engr4880-s24.pdf)
