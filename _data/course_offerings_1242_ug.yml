@@ -508,3 +508,10 @@
   instructor: All Instructors
   day: TBD
   location: TBD
+
+- course: CS 5501
+  title: Big Data Systems
+  type: LEC
+  instructor: Yue Cheng
+  day: MoWe 15:30-16:45
+  location: THN E303
