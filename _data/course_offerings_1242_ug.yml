@@ -240,7 +240,7 @@
   title: Discrete Mathematics and Theory 2
   type: LEC
   instructor: Mark Floryan
-  day: MoWeFr 12:00-12:50
+  day: TuTh 11:00-12:15
   location: WIL 402
 
 - course: CS 3130
@@ -282,15 +282,8 @@
   title: Software Development Essentials
   type: LEC
   instructor: Rich Nguyen
-  day: TuTh 11:00-12:15
+  day: TuTh 09:30-10:45
   location: WNR 209
-
-- course: CS 3140
-  title: Software Development Essentials
-  type: LEC
-  instructor: Rich Nguyen
-  day: TuTh 12:30-13:45
-  location: TBD
 
 - course: CS 3205
   title: HCI in Software Development
