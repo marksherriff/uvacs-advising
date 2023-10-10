@@ -100,7 +100,8 @@ _(3 credits  / Prerequisites: TBD)_
 
 ### CS 6501: Natural Language Processing w/ Prof. Meng
 {: .no_toc }
-_(3 credits  / Prerequisites: TBD)_  
+_(3 credits  / Prerequisites: CS 4774; Prior Knowledge in Deep Learning is Highly Recommended)_  
+This advanced graduate-level course offers a comprehensive exploration of cutting-edge developments in the field of natural language processing (NLP). With Large Language Models (LLMs) serving as the foundation for state-of-the-art NLP systems, we will cover various topics aiming at gaining a better understanding of LLMs' design, capabilities, limitations, and future prospects. Key areas include model architecture and design (e.g., Transformers, self-attention, position encodings), training methodologies (e.g., pretraining, instruction tuning, RLHF), emergent capabilities (e.g., in-context learning, chain-of-thought reasoning), efficiency (e.g., parameter-efficient tuning, quantization), limitations (e.g., hallucination), and security and ethics. This course will be highly research-driven with a substantial focus on presenting and discussing important papers and conducting research projects.
 
 ### CS 6501: Hardware Accelerators w/ Prof. Skadron
 {: .no_toc }
