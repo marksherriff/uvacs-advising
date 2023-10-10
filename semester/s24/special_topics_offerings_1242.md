@@ -94,9 +94,10 @@ _(3 credits  / Prerequisites: TBD)_
 {: .no_toc }
 _(3 credits  / Prerequisites: TBD)_  
 
-### CS 6501: Internet of Trillions of Things w/ Prof. Qian
+### CS 6501: Wireless Sensing for Internet of Things w/ Prof. Qian
 {: .no_toc }
-_(3 credits  / Prerequisites: TBD)_  
+_(3 credits  / Prerequisites: CS 4457; Prior Knowledge in Signals and Systems is Highly Recommended; Breadth Area: Internet of Things)_
+Wireless sensing technologies reuse wireless communication signals to sense physical space and gain situational awareness. With trillions of wirelessly connected things and advanced sensing algorithms, wireless sensing offers pervasive sensing coverage and vision-like sensing granularities, paving the way toward the vision of ambient intelligence. This course will introduce the fundamentals of wireless sensing, including wireless communication, signal processing, and machine learning. This course will also introduce state-of-the-art wireless sensing applications, such as indoor localization, activity sensing, vital signs monitoring, environmental sensing, etc. The evaluation will be based on paper presentations, assignments, projects, and class participation.
 
 ### CS 6501: Natural Language Processing w/ Prof. Meng
 {: .no_toc }
