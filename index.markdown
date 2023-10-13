@@ -14,8 +14,7 @@ Site Last Updated: {{ site.time | date: '%A, %B %d, %Y' }}
 
 ### Spring 2024 Course Offerings
 
-* [Undergraduate Course Offerings](/semester/1242/course_offerings_1242_ug.html)
-* [Graduate Course Offerings](/semester/1242/course_offerings_1242_gr.html)
+* [Lou's List for Spring 2024](https://louslist.org/page.php?Semester=1242&Type=Group&Group=CompSci)
 * [Special Topics Course Information](/semester/1242/special_topics_offerings_1242.html)
 
 ### Important Dates
