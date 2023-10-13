@@ -47,7 +47,7 @@ BSCS majors are required to take another math/technical course that is not alrea
 
 CS Minor
 {: .label .label-purple }
-CS minors are required to take another math/technical course that is not already being counted toward their minor.  See the [Missing/Replacement Credits Policy]({{baseurl}}/policies.html#missingreplacement-credits-policy) for more information.
+As CS 1110 is a prerequisite for the minor, a student is not required to make up these credits specifically for completing the minor.  However, they may need to make up the credits for their major (particularly if the major is in SEAS) and should check with their academic advisor.
 
 Other Majors
 {: .label .label-yellow}
