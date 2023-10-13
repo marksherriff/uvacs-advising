@@ -28,11 +28,13 @@ The BA degree in Computer Science degree is offered by the College of Arts and S
 
 ## 2) Where can I find a list of integration electives for the BACS?
 
-Starting in Spring 2020, there is one official list maintained by the University Registrar. If you look at the description of the BACS requirements in the Undergraduate Record, you’ll find a link there. That link (as of September 2022) is: [{{ site.data.externallinks.bacs_ureg_integration_electives }}]({{ site.data.externallinks.bacs_ureg_integration_electives }})
+Starting in Spring 2020, there is one official list maintained by the University Registrar. If you look at the description of the BACS requirements in the Undergraduate Record, you’ll find a the courses listed there. That page (as of October 2023) is: [{{ site.data.externallinks.bacs_ureg_integration_electives }}]({{ site.data.externallinks.bacs_ureg_integration_electives }})
 
-Is there a convenient list of all the integration electives that are offered in the up-coming semester?  No, not at this time. We’re working to make this happen. It’s possible that we'll email all majors to notify them of courses offered in an up-coming semester.
+Is there a convenient list of all the integration electives that are offered in the up-coming semester? [This page](https://www.cs.virginia.edu/~horton/integ-elect.html) shows what Integration Electives are offered in the upcoming semester that you can enroll in. The page lets you search, sort, find courses with open seats, see which count for a College General Education requirement, etc.
 
-This list can change from one academic year to the next, and will be updated just once a year (in the summer, before the next academic year begins). This list supersedes any other list you might find online. The link in the UG Record is official; if that changes and we don’t update the link above, the one in the Record is the official list.
+The course list in the UG Record is official! If that changes and we something on this website or another disagrees with that, the one in the Record is the official list. What the UG Record says supersedes any other list you might find online, including here. 
+
+This courses that can count will change from one academic year to the next, and will be updated just once a year (in the summer, before the next academic year begins). If a new course is added in a year after your declared the BACS, we will accept this but you'll have to fill out the form described later in this document.
 
 ## 3) What if a course I hope will count is not on that list?
 
