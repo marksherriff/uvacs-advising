@@ -107,7 +107,7 @@ This advanced graduate-level course offers a comprehensive exploration of cuttin
 ### CS 6501: Hardware Accelerators w/ Prof. Skadron
 {: .no_toc }
 _(3 credits  / Prerequisites: Students taking this course should have had a prior undergraduate course in computer architecture that covers at least pipelines and caches -- for UVA undergraduate students, this would be CS 3330 or ECE 4435 for students in the "old" curriculum, and CS 3130 for students in the "new" curriculum)_    
-This course will cover the design of a variety of hardware accelerators, including current commercial architectures such as GPUs, TPUs, and FPGAs, and research proposals for potential new acceleration architectures, such as processing in memory, new machine-learning accelerators, and so on.
+This course will cover the design of a variety of hardware accelerators, including current commercial architectures such as GPUs, TPUs, and FPGAs, and research proposals for potential new acceleration architectures, such as processing in memory, new machine-learning accelerators, and so on.  For more information, please see [https://www.cs.virginia.edu/~skadron/cs6501_s24.html](https://www.cs.virginia.edu/~skadron/cs6501_s24.html).
 
 ### CS 6501: TBD w/ Prof. Fioretto
 {: .no_toc }
