@@ -95,8 +95,6 @@ Further, if we process this change for you, __you are committing to graduating e
 
 ## Grade Appeal Policy
 
-__This policy is a draft as of 8/4/2023.  If and when it is approved, this comment will be removed.__
-
 Students who wish to dispute their course grade in an undergraduate CS course must follow the following process.  The process applies to any student taking a CS course no matter what school they are enrolled in. This policy is meant to be compatible and not conflict with school or university policies, including the [SEAS Grade Appeal Policy](https://engineering.virginia.edu/current-students/current-undergraduate-students/policies-and-appeals).
 
 Before filing a grievance with the department, the student should have attempted to resolve their concerns directly with the instructor(s). These attempts should be sincere and substantial.  If these attempts do not resolve the issue, the student affected should email their grievance to the contact listed at end of this section.  The grievance must include:
