@@ -6,9 +6,11 @@ parent: Course Information
 
 # CS Graduate Courses for Spring 2024
 
-__Last Updated: Wednesday, October 4__
+__Last Updated: Friday, October 13__
 
-__NOTE: These courses/days/times are subject to change!  Once SIS / Lou's List has updated on October 13, please refer there for the latest information.__
+__NOTE: This page is now deprecated.  Please see Lou's List or SIS for the most up-to-date information.  This page will be retained for a short period.__
+
+* [Lou's List for Spring 2024](https://louslist.org/page.php?Semester=1242&Type=Group&Group=CompSci)
 
 ## Graduate Courses
 

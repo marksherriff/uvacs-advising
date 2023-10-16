@@ -94,9 +94,10 @@ _(3 credits  / Prerequisites: TBD)_
 {: .no_toc }
 _(3 credits  / Prerequisites: TBD)_  
 
-### CS 6501: Internet of Trillions of Things w/ Prof. Qian
+### CS 6501: Wireless Sensing for Internet of Things w/ Prof. Qian
 {: .no_toc }
-_(3 credits  / Prerequisites: TBD)_  
+_(3 credits  / Prerequisites: CS 4457; Prior Knowledge in Signals and Systems is Highly Recommended / Breadth Area: Internet of Things)_    
+Wireless sensing technologies reuse wireless communication signals to sense physical space and gain situational awareness. With trillions of wirelessly connected things and advanced sensing algorithms, wireless sensing offers pervasive sensing coverage and vision-like sensing granularities, paving the way toward the vision of ambient intelligence. This course will introduce the fundamentals of wireless sensing, including wireless communication, signal processing, and machine learning. This course will also introduce state-of-the-art wireless sensing applications, such as indoor localization, activity sensing, vital signs monitoring, environmental sensing, etc. The evaluation will be based on paper presentations, assignments, projects, and class participation.
 
 ### CS 6501: Natural Language Processing w/ Prof. Meng
 {: .no_toc }
@@ -124,7 +125,7 @@ _(3 credits  / Prerequisites: TBD)_
 {: .no_toc }
 _(3 credits  / Prerequisites: TBD)_  
 
-### CS 6501: Topics in Computer Architecture w/ Prof. Jog
+### CS 6501: Cool Computing Architectures w/ Prof. Jog
 {: .no_toc }
 _(3 credits  / Prerequisites: Background in computer organization and design is expected. Background on other mentioned topics (graphics, quantum, cryogenic, superconducting) is not expected. / Breadth Area: Computer Systems)_     
 This course will cover several non-traditional and traditional computing paradigms and architectures such as graphics architectures, quantum computing, cryogenic designs, and superconducting architectures. The evaluation will be based on paper presentations, reviews, semester-long projects, and class participation. 

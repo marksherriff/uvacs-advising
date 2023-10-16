@@ -2,7 +2,7 @@
 bscs_undergraduate_record: "http://records.ureg.virginia.edu/preview_program.php?catoid=58&poid=8051"
 bacs_undergraduate_record: "http://records.ureg.virginia.edu/preview_program.php?catoid=58&poid=8142"
 seas_major_minor: "http://records.ureg.virginia.edu/content.php?catoid=54&navoid=4326#Major_Minor"
-bacs_ureg_integration_electives: "http://records.ureg.virginia.edu/mime/media/54/2598/Computer+Science+BA+-+Integration+Electives+-+2022-2023.pdf"
+bacs_ureg_integration_electives: "http://records.ureg.virginia.edu/preview_program.php?catoid=58&poid=8142"
 ap_credit: "http://records.ureg.virginia.edu/content.php?catoid=52&navoid=4102#Advanced_Placement_Program"
 ureg_transfer_credit: "http://records.ureg.virginia.edu/content.php?catoid=58&navoid=4806#transer_credit"
 
@@ -13,8 +13,8 @@ bacs_checklist: "/materials/uva-bacs-checklist.pdf"
 bacs_example_schedule: "/materials/bacs-example-schedule.pdf"
 prereq_chart: "/materials/prereq-chart-jun23.png"
 bacs_declaration_form: "https://www.cs.virginia.edu/~horton/BACS-Questionnaire-SP-2022-FINAL-6-22.pdf"
-bacs_integration_elective_petition: "https://app.smartsheet.com/b/form/eb6c0864450a418f871f8a7e43c3cb54"
-cs1110_placeout_form: "https://app.smartsheet.com/b/form/5814714c041d4ee08b80dcbfc0eed931"
+bacs_integration_elective_petition: "https://forms.office.com/r/4rYZrqcr4x"
+cs1110_placeout_form: "https://forms.office.com/r/YN7BRN8wbe"
 csta_interest_form: "https://forms.office.com/Pages/ResponsePage.aspx?id=x4A0ewc3c0iLd-IWczplrHXv3EkYJDlPovugDqEAoGtUODNSNzhBN1M5NUlQQURCWjk0UzFOUFVNMC4u"
 
 ## Lou's List links
