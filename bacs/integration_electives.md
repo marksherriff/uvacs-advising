@@ -117,7 +117,9 @@ Otherwise, it is still possible. To be guaranteed that it will count, you will n
 
 ## 8) There’s a course that’s been accepted but it’s not showing up in SIS as counting for me!
 
-If it’s not on the official list at the link in the Undergraduate Record, you must submit a petition -- see the last section.  SIS only recognizes those on the official list. If you took a class listed below that that’s been petitioned and accepted, you must submit the petition so our staff knows to enter a “SIS Exception” for you.  
+If it’s not on the official list in the Undergraduate Record for the "plan requirements term" as shown in SIS, you must submit a petition -- see the last section.  SIS only recognizes those on the official list. If you took a class listed below that that’s been petitioned and accepted, you must submit the petition so our staff knows to enter a “SIS Exception” for you.  
+
+This courses that can count will change from one academic year to the next, and will be updated just once a year (in the summer, before the next academic year begins). __If a new course is added in a year after your requirements term as shown in SIS, we will accept this but SIS does not automatically recognize it, so you'll have to fill out the form described later in this document.__
 
 ## 9) Who decides about petitions and about other policies about integration electives?
 
