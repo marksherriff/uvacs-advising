@@ -57,7 +57,7 @@ Please discuss with your advisor of your major.
 
 Place-out tests are only available as follows:
 
-One week prior to the start of each semester (fall and spring), through the first five business days of the semester; then again two weeks prior to course registration for the following semester.
+One week prior to the beginning of the semester (fall and spring), through the first five business days of the semester; then again seven business days prior to course registration for the following semester.
 
 The place-out test for CS 2100 MUST be taken in person, during scheduled times. It is available Monday-Friday at either 9:30am or 1:30pm. The student is allotted 120 minutes to take the test. Students cannot use books, notes, computers, or help from other people while taking the test. A student can only take the test once, and students who have enrolled in CS 2100 are not allowed to take the place-out test, beyond Monday of the second week of the semester.  The test will be graded within a few days, and the results will be emailed to the student. 
 
