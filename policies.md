@@ -92,6 +92,18 @@ We __will not__ entertain requests to change a graduation year / class standing 
 
 Further, if we process this change for you, __you are committing to graduating early and cannot revert this change except under special circumstances.__
 
+## Policy on Conflicts Between Required Courses for Graduating Students
+
+__NOTE: This policy is currently in draft form and being discussed.  If/when this policy is approved, this note will be removed.__
+
+If a student is double majoring in a computing major and something else or is minoring in CS, there is a chance that in a student's final semester, there could be a conflict between required courses from the two programs.
+
+Example: Student is majoring in the BACS and Psychology and is entering their last semester at UVA.  The student needs both CS 3120 (a required course) and a specific advanced research methods course in Psychology that meets at the same time as CS 3120 and there is only one section of each course.
+
+If a student is in this situation, they should document the conflict (specfically showing the required courses and their conflicting time) and reach out to the appropriate program director to discuss options.  Sometimes, we may be able to substitute a similar course or allow a student to take a class asnychronously.  There is no "one size fits all" solution to this issue, so a student should reach out as soon as the problem becomes apparent.
+
+Note that this is not an option for students who are not entering their final semester at UVA.  If there is more than one semester to complete both programs, note that CS offers all required courses every semester.
+
 
 ## Grade Appeal Policy
 
