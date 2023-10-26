@@ -28,13 +28,13 @@ The BA degree in Computer Science degree is offered by the College of Arts and S
 
 ## 2) Where can I find a list of integration electives for the BACS?
 
-Starting in Spring 2020, there is one official list maintained by the University Registrar. If you look at the description of the BACS requirements in the Undergraduate Record, you’ll find a the courses listed there. That page (as of October 2023) is: [{{ site.data.externallinks.bacs_ureg_integration_electives }}]({{ site.data.externallinks.bacs_ureg_integration_electives }})
+Starting in Spring 2020, there is one official list maintained by the University Registrar. If you look at the description of the BACS requirements in the Undergraduate Record, you’ll find the courses listed there. That page (as of October 2023) is: [{{ site.data.externallinks.bacs_ureg_integration_electives }}]({{ site.data.externallinks.bacs_ureg_integration_electives }})
 
 Is there a convenient list of all the integration electives that are offered in the up-coming semester? [This page](https://www.cs.virginia.edu/~horton/integ-elect2.html) shows what Integration Electives are offered in the upcoming semester that you can enroll in. The page lets you search, sort, find courses with open seats, see which count for a College General Education requirement, etc.
 
-The course list in the UG Record is official! If that changes and we something on this website or another disagrees with that, the one in the Record is the official list. What the UG Record says supersedes any other list you might find online, including here. 
+The course list in the UG Record is official! If that changes and something on this website or another disagrees with that, the one in the Record is the official list. What the UG Record says supersedes any other list you might find online, including here. 
 
-This courses that can count will change from one academic year to the next, and will be updated just once a year (in the summer, before the next academic year begins). If a new course is added in a year after your declared the BACS, we will accept this but you'll have to fill out the form described later in this document.
+This courses that can count will change from one academic year to the next, and will be updated just once a year (in the summer, before the next academic year begins). __If a new course is added in a year after your declared the BACS, we will accept this but you'll have to fill out the form described later in this document.__
 
 ## 3) What if a course I hope will count is not on that list?
 
@@ -117,7 +117,9 @@ Otherwise, it is still possible. To be guaranteed that it will count, you will n
 
 ## 8) There’s a course that’s been accepted but it’s not showing up in SIS as counting for me!
 
-If it’s not on the official list at the link in the Undergraduate Record, you must submit a petition -- see the last section.  SIS only recognizes those on the official list. If you took a class listed below that that’s been petitioned and accepted, you must submit the petition so our staff knows to enter a “SIS Exception” for you.  
+If it’s not on the official list in the Undergraduate Record for the "plan requirements term" as shown in SIS, you must submit a petition -- see the last section.  SIS only recognizes those on the official list. If you took a class listed below that that’s been petitioned and accepted, you must submit the petition so our staff knows to enter a “SIS Exception” for you.  
+
+This courses that can count will change from one academic year to the next, and will be updated just once a year (in the summer, before the next academic year begins). __If a new course is added in a year after your requirements term as shown in SIS, we will accept this but SIS does not automatically recognize it, so you'll have to fill out the form described later in this document.__
 
 ## 9) Who decides about petitions and about other policies about integration electives?
 
@@ -164,7 +166,7 @@ Below that is a list of courses for which petitions __will not be accepted__. Be
 * ​PHIL 3400, Introduction to Non-Classical Logic
 * PSYC 2100, Introduction to Learning (AKA Learning and Behavior?), Fall 2018
 * PSYC 2160, Cognitive Neuroscience
-* PSYC 2700   Child Psychology  This one is counted by SIS effective Fall 2022
+* PSYC 2700   Child Psychology  (Counted by SIS if major declared Fall 2022 or later)
 * PSYC 2559 (J-term 2021), Cognition and Cognitive Biases
 * PSYC 4500, Computational Methods in Psychology and Neuroscience, Fall 2020 and ?
 * PSYC 5270, Computational Neuroscience 
@@ -189,7 +191,7 @@ Below that is a list of courses for which petitions __will not be accepted__. Be
 * ASTR 1220    Introduction to Stars, Galaxies, and the Universe
 * ECE 2330    Digital Logic Design
 * EDIS xxxx	Applied Teaching with Technology other than EDIS 2200, Designing Art, Music, & Games
-* EGMT xxxx   The College has told us that now Engagement course can count
+* EGMT xxxx   The College has told us that no Engagement course can count
 * ENGR 1620  Introduction to Engineering
 * ENGR 2595    Design Like You Mean It
 * ENWR xxxx    No ENWR courses are allowed to count per College rule

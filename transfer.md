@@ -42,3 +42,20 @@ We will then look at the course and inform you of the CS department's decision a
 
 The courses taken at another institution cannot apply toward prerequisites at UVA until it has been completed and the grade is shown in SIS.  For example, if you plan to take a course to replace CS 2100 over the summer, SIS will not let you register for CS 3140 for the following fall until the course you are taking over the summer has been successfully completed AND is in SIS.  There is no good way to put in exceptions in SIS based on what a student "plans to do."  You can always reach out to the professors of the course you want to get in to, but they will generally let the registration process proceed normally.
 
+## Important Information about CSC 215 from a Virginia Community College
+
+Draft
+{: .label .label-red}
+
+If you have taken CSC 215 at one of Virginia's community colleges or are planning to, read the following carefully.
+
+CSC 215 is listed as an approved transfer course for UVA's CS 2130. A few years ago when we evaluated this course, the community colleges told us that CSC 205 was a pre-requisite for CSC 215. Our evaluation determined that students who take both CSC 205 and CSC 215 would be ready to take UVA's CS 3130.  But it appears that the community colleges made a change, and it's possible for a student to take CSC 215 without taking CSC 205.
+
+This is unfortunate. It's important that we honor our agreement with students and allow CSC 215 to count for CS 2130, especially for those who took it before being admitted to UVA. But this doesn't change the fact that students who only take CSC 215 will not be fully prepared for CS 3130.  Therefore we recommend the following:
+
+* If you are a student at UVA, we recommend you take CS 2130 here, or take both CSC 205 and CSC 215 at a community college.  If you don't do this, you'll need to learn some things outside of the normal classes or you won't be prepared for CS 3130.
+* You need to know how to read simple assembly language programs, be comfortable with common assembly instructions, and be able to understand how function calls are done in assembly language.
+* Students use x86-64 assembly (in AT&T syntax) in CS 2130; if you learn a different assembly language, you should be prepared for the names and syntax (e.g. order of operands) being slightly different. 
+* You should also have been introduced to the idea that assembly code is translated to machine code for the processor to run, including the fetch/execute cycle.
+
+BACS students at UVA who submit the transfer credit form before they register for CSC 215 will be warned about this issue and asked to acknowledge that they understand these issues and that they'll need to do some "outside learning" to prepared for CS 3130.  (BSCS students do not need department approval before taking the course, so we have no way to provide this information to them directly. We'll have to hope BSCS students will have read the information here!)

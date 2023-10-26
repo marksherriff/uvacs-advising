@@ -91,6 +91,8 @@ See the [SEAS page on Declaring a Major or Minor]( {{ site.data.externallinks.se
 
 The CS contact for this is [Prof. Felix Lin](mailto:felixlin@virginia.edu) and the website is [https://engineering.virginia.edu/future-grads/graduate-programs/uvaccelerate](https://engineering.virginia.edu/future-grads/graduate-programs/uvaccelerate).
 
+For if you have CS-specific questions, please email [cs-UVAccelerate@virginia.edu](cs-UVAccelerate@virginia.edu) to reach all program directors and the CS office staff.  For more SEAS-related questions, please email the contacts on the UVAccelerate page.
+
 ## Help with Taking a Graduate Course as an Undergrad
 
 BSCS

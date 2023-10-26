@@ -81,6 +81,10 @@ callouts:
   note:
     title: note
     color: purple
+  
+  example:
+    title: example
+    color: yellow
 
 # Exclude from processing.
 # The following items will not be processed, by default.

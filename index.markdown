@@ -16,6 +16,7 @@ Site Last Updated: {{ site.time | date: '%A, %B %d, %Y' }}
 
 * [Lou's List for Spring 2024](https://louslist.org/page.php?Semester=1242&Type=Group&Group=CompSci)
 * [Special Topics Course Information](/semester/1242/special_topics_offerings_1242.html)
+* [BACS Integration Electives offered](https://www.cs.virginia.edu/~horton/integ-elect2.html)
 
 ### Important Dates
 

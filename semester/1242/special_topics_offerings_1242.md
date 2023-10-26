@@ -106,7 +106,7 @@ This advanced graduate-level course offers a comprehensive exploration of cuttin
 
 ### CS 6501: Hardware Accelerators w/ Prof. Skadron
 {: .no_toc }
-_(3 credits  / Prerequisites: Students taking this course should have had a prior undergraduate course in computer architecture that covers at least pipelines and caches -- for UVA undergraduate students, this would be CS 3330 or ECE 4435 for students in the "old" curriculum, and CS 3130 for students in the "new" curriculum)_    
+_(3 credits  / Prerequisites: Students taking this course should have had a prior undergraduate course in computer architecture that covers at least pipelines and caches -- for UVA undergraduate students, this would be CS 3330 or ECE 4435 for students in the "old" curriculum, and CS 3130 for students in the "new" curriculum / Breadth Area: Systems)_    
 This course will cover the design of a variety of hardware accelerators, including current commercial architectures such as GPUs, TPUs, and FPGAs, and research proposals for potential new acceleration architectures, such as processing in memory, new machine-learning accelerators, and so on.  For more information, please see [https://www.cs.virginia.edu/~skadron/cs6501_s24.html](https://www.cs.virginia.edu/~skadron/cs6501_s24.html).
 
 ### CS 6501: TBD w/ Prof. Fioretto
@@ -132,7 +132,7 @@ This course will cover several non-traditional and traditional computing paradig
 
 ### CS 6501: Learning in Robotics w/ Prof. Behl
 {: .no_toc }
-_(3 credits / Prerequisites: Proficiency in Python programming, familiarity with probability distributions, and a grasp of linear algebra, matrix algebra, and calculus.)_      
+_(3 credits / Prerequisites: Proficiency in Python programming, familiarity with probability distributions, and a grasp of linear algebra, matrix algebra, and calculus. / Breadth Areas: Cyber-Physical Systems; Machine Learning; Theory and Algorithms)_      
 Ever attempted to decipher a robotics paper from renowned conferences like ICRA, IROS, or RSS, only to be deterred by complex math? This course is your solution. Designed to equip you for robotics research, we'll delve deep into its mathematical core at a graduate level. 
 
 We will cover the mathematical foundations of robotics in this graduate-level course. We will rigorously explore the three pillars of robotics: perception, planning, and control. We'll commence with theoretical discussions on state estimation methods, including the Kalman Filter, EKF, UKF, and Particle Filters, progress to mapping and visual odometry, and then navigate the intricacies of dynamic programming, control, and planning methods such as LQR and MDPs. Our journey will culminate in reinforcement learning models for robotics, like policy gradients and Q-learning, and specialized topics like foundation models for robotics. To ensure practical application, students will undertake programming assignments addressing real-world robotics challenges. While primarily for graduate students, undergraduates may enroll with the instructor's approval.
