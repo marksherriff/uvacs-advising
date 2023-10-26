@@ -101,7 +101,7 @@ If a student is double majoring in a computing major and something else or is mi
 {: .example }
 Student is majoring in the BACS and Psychology and is entering their last semester at UVA.  The student needs both CS 3120 (a required course) and a specific advanced research methods course in Psychology that meets at the same time as CS 3120 and there is only one section of each course.
 
-If a student is in this situation, they should document the conflict (specfically showing the required courses and their conflicting time) and reach out to the appropriate program director to discuss options.  Sometimes, we may be able to substitute a similar course or allow a student to take a class asnychronously.  There is no "one size fits all" solution to this issue, so a student should reach out as soon as the problem becomes apparent.
+If a student is in this situation, they should document the conflict (specfically showing the required courses and their conflicting time) and reach out to the appropriate program director (see below) to discuss options.  Sometimes, we may be able to substitute a similar course or allow a student to take a class asnychronously.  There is no "one size fits all" solution to this issue, so a student should reach out as soon as the problem becomes apparent.
 
 Please note that this _only applies to required courses in both degree programs._ If there are viable alternatives, we expect the student to take the alternate course, even if it is not optimal (e.g., different elective, a time slot the student doesn't want, etc.).
 
@@ -109,6 +109,12 @@ Please note that this _only applies to required courses in both degree programs.
 Student has a required class in another major that conflicts with CS 4774: Machine Learning, an elective that they want to take.  In this case, the student would need to choose another CS elective.
 
 Students who have more than one semester at UVA remaining cannot and should not ask for a curriculum modification due to conflicting classes.  Note that CS offers all required courses every semester, so there is ample opportunity to complete our required courses.
+
+__Contacts:__
+
+* BSCS students: [bscsdirector@virginia.edu](mailto:bscsdirector@virginia.edu)
+* BACS students: [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu)
+* CS Minor students: [csminordirector@virginia.edu](mailto:csminordirector@virginia.edu)
 
 
 ## Grade Appeal Policy
