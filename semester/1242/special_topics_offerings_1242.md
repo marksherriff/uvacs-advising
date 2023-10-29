@@ -125,10 +125,10 @@ _(3 credits  / Prerequisites: TBD)_
 {: .no_toc }
 _(3 credits  / Prerequisites: TBD)_  
 
-### CS 6501: Cool Computing Architectures w/ Prof. Jog
+### CS 6501: Modern Computing Architectures w/ Prof. Jog
 {: .no_toc }
 _(3 credits  / Prerequisites: Background in computer organization and design is expected. Background on other mentioned topics (graphics, quantum, cryogenic, superconducting) is not expected. / Breadth Area: Computer Systems)_     
-This course will cover several non-traditional and traditional computing paradigms and architectures such as graphics architectures, quantum computing, cryogenic designs, and superconducting architectures. The evaluation will be based on paper presentations, reviews, semester-long projects, and class participation. 
+This course will cover several non-traditional and traditional computing paradigms and architectures such as graphics architectures, quantum computing, cryogenic designs, and superconducting architectures. The evaluation will be based on paper presentations, reviews, semester-long projects, and class participation.  [Course Website](https://adwaitjog.github.io/teach/uva_6501_s24.html)
 
 ### CS 6501: Learning in Robotics w/ Prof. Behl
 {: .no_toc }
