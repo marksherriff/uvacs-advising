@@ -66,9 +66,9 @@ The goal of this course is to investigate modern architectures for security flaw
 
 ### CS 4501: Cryptography w/ Prof. Lin
 {: .no_toc }
-_(3 credits  / Prerequisites: C- or better in CS 3100 or CS 4102)_  
+_(3 credits  / Prerequisites: C- or better in CS 3120 or CS 3102)_  
 
-This course will provide an introduction to modern cryptography and its applications to computer security. This course will cover the fundamentals of symmetric cryptography (i.e., encryption and message authentication) and public-key cryptography (i.e., key-exchange and signatures) as well as cryptographic protocols like zero-knowledge proof systems. 
+Cryptographic primitives are applied almost everywhere on the network, for instance, encryption and authentication. In this course, we will start from the theoretic foundations that fortifies cryptography, and then we will visit some essential protocols as well as recent advances in cryptography. A major theme of this course is "provable security," that is, to define the desired security and then to rigorously prove the security is achieved. Hence, students are expected to be familiar with algorithms and mathematical proofs.
 
 ### CS 4501: Human-Robot Interaction w/ Prof. Iqbal
 {: .no_toc }
