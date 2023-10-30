@@ -83,7 +83,7 @@ For College CS majors, it depends on if you’re following the “old” or “n
 __Sharing with a minor:__
 First, the College rules on sharing apply no matter even if the minor is outside the College (e.g. Data Science).
 
-Second, the sharing rules do not apply to prerequisites to declare the BACS major or to declare the minor. (E.g., if Data Science requires a STAT course before you can declare the DS minor, it's a prerequisite to declare that minor, and that course could count for a BACS integration elective if it's on our list.)
+Second, the sharing rules do not apply to prerequisites to declare the BACS major (CS111x and CS2100) or to declare the minor. (E.g., if Data Science requires a STAT course before you can declare the DS minor, it's a prerequisite to declare the DS minor, and that course could count for a BACS integration elective if it's on our list. Or, if another major requires CS1110, there's no issue because it's a prereq to declare the BACS and not a major requirement.)
 
 Finally, if it's a degree requirement for the BACS major and also fulfills a requirement for the minor, it cannot be shared, i.e. used for both.   The College has a rule that course credits applied toward a major may not also be applied toward a minor. This means that a BACS student’s integration electives or CS courses may not also be used towards a minor in another subject.  CS has no control over this rule.
 
