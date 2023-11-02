@@ -29,7 +29,7 @@ The pages above have links to school's pre-approved list of courses, but here ar
 
 ## What if the course I want to transfer is not listed?
 
-If the course is not on the pre-approved list for your school, approval is required before you take the course. First email the following to your program director ([bscsdirector@virginia.edu](mailto:bscsdirector@virginia.edu) or [bscsdirector@virginia.edu](mailto:bscsdirector@virginia.edu)):
+If the course is not on the pre-approved list for your school, approval is required before you take the course. First email the following to your program director ([bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu) or [bscsdirector@virginia.edu](mailto:bscsdirector@virginia.edu)):
 
 * Where you want to take the course from
 * Course Number / Title
