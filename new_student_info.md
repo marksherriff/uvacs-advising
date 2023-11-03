@@ -49,6 +49,10 @@ If you wish to join the cs-jobs opt-in email list to hear about job and project 
 4. Click "I subscribe to list cs-jobs."
 5. Click "Confirm."
 
+### Student Clubs and Groups
+
+Go to [https://engineering.virginia.edu/departments/computer-science/about-computer-science/clubs-and-groups](https://engineering.virginia.edu/departments/computer-science/about-computer-science/clubs-and-groups) to find a listing of current computing-related student clubs and groups!
+
 ### Laptop Loaner Program
 
 The CS department has a laptop loaner program for students who 1) are currently enrolled in a CS course and 2) have a CS faculty member willing to sponsor them to be loaned a laptop.
