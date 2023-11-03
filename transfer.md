@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Transfering Courses
-parent: Course Information
+title: Transferring Courses
+nav_order: 4
 ---
 
-# Transfering Courses to UVA
+# Transferring Courses to UVA
 {: .no_toc }
 
 1. TOC
@@ -26,6 +26,19 @@ The pages above have links to school's pre-approved list of courses, but here ar
 
 * [SEAS List of Approved Transfer Courses](https://engineering.virginia.edu/current-students/current-undergraduate-students/transferring-uva-engineering/transfer-credit)
 * [College Transfer Credit Equivalencies for U.S. Colleges and Universities](http://ascs8.eservices.virginia.edu/AsEquivs)
+
+### Quick Reference for VCCS Courses
+
+| VCCS Course | VCCS Credits | UVA CS Course | UVA Credits |
+| ----------- | ------------ | ------------- | ----------- |
+| CSC 205: Computer Organization | 3 | CS 2000T | 3 |
+| CSC 208: Intro to Discrete Structures | 3 | CS 2120 | 3 |
+| CSC 215: Computer Systems | 3 | CS 2130 | 3 out of 4 _(See note below)_ |
+| CSC 221: Intro to Problem Solving & Programm | 3 | CS 1110 | 3 |
+| CSC 223 : Data Structures & Analysis of Algo | 4 | CS 2100 | 4 |
+
+__NOTE:__
+- CS 215 will only transfer 3 of 4 credits required for CS 2130.  Students must make up the remaining credit with another CS course level 2000 or higher.  Transfer students are _highly recommended_ to take CS 205 as part of their VCCS program to make up this credit.  See below for more information about CS 215 at VCCS transferring to UVA.
 
 ## What if the course I want to transfer is not listed?
 

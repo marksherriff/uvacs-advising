@@ -46,9 +46,9 @@ These courses have been approved and entered into SIS to count for each other in
 * STAT 3080 - From Data to Knowledge cannot be used in place of APMA 3150 due to differences in content.
 
 
-## Transfering Courses to UVA
+## Transferring Courses to UVA
 
-[See our dedicated page on transfering courses](/transfer.html)
+[See our dedicated page on transferring courses](/transfer.html)
 
 ## Which CS1 Course Should I Take
 
