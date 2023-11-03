@@ -38,7 +38,7 @@ The pages above have links to school's pre-approved list of courses, but here ar
 | CSC 223: Data Structures & Analysis of Algorithms | 4 | CS 2100 | 4 |
 
 __NOTE:__
-- CS 215 will only transfer 3 of 4 credits required for CS 2130.  Students must make up the remaining credit with another CS course level 2000 or higher.  Transfer students are _highly recommended_ to take CS 205 as part of their VCCS program to make up this credit.  See below for more information about CS 215 at VCCS transferring to UVA.
+- CS 215 will only transfer 3 of 4 credits required for CS 2130.  Students must make up the remaining credit with another CS course level 2000 or higher.  Transfer students are _highly recommended_ to take CS 205 as part of their VCCS program to make up this credit.  [See below for more information about CS 215 at VCCS transferring to UVA.](/transfer.html#important-information-about-csc-215-from-a-virginia-community-college)
 
 ## What if the course I want to transfer is not listed?
 
