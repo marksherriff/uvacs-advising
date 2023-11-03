@@ -31,7 +31,7 @@ The pages above have links to school's pre-approved list of courses, but here ar
 
 | VCCS Course | VCCS Credits | UVA CS Course | UVA Credits |
 | ----------- | ------------ | ------------- | ----------- |
-| CSC 205: Computer Organization | 3 | CS 2000T | 3 |
+| CSC 205: Computer Organization | 3 | CS 2000T | 3 (unrestricted elective) |
 | CSC 208: Intro to Discrete Structures | 3 | CS 2120 | 3 |
 | CSC 215: Computer Systems | 3 | CS 2130 | 3 out of 4 _(See note below)_ |
 | CSC 221: Intro to Problem Solving & Programming | 3 | CS 1110 | 3 |
