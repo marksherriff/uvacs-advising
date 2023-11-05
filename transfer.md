@@ -57,8 +57,6 @@ The courses taken at another institution cannot apply toward prerequisites at UV
 
 ## Important Information about CSC 215 from a Virginia Community College
 
-Draft
-{: .label .label-red}
 
 If you have taken CSC 215 at one of Virginia's community colleges or are planning to, read the following carefully.
 
