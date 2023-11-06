@@ -119,7 +119,7 @@ Otherwise, it is still possible. To be guaranteed that it will count, you will n
 
 If it’s not on the official list in the Undergraduate Record for the "plan requirements term" as shown in SIS, you must submit a petition -- see the last section.  SIS only recognizes those on the official list. If you took a class listed below that that’s been petitioned and accepted, you must submit the petition so our staff knows to enter a “SIS Exception” for you.  
 
-This courses that can count will change from one academic year to the next, and will be updated just once a year (in the summer, before the next academic year begins). __If a new course is added in a year after your requirements term as shown in SIS, we will accept this but SIS does not automatically recognize it, so you'll have to fill out the form described later in this document.__
+The set of courses that can count will change from one academic year to the next, and will be updated just once a year (in the summer, before the next academic year begins). __If a new course is added in a year after your requirements term as shown in SIS, we will accept this but SIS does not automatically recognize it, so you'll have to fill out the form described later in this document.__
 
 ## 9) Who decides about petitions and about other policies about integration electives?
 
@@ -164,7 +164,7 @@ Below that is a list of courses for which petitions __will not be accepted__. Be
 * MUSI 4620, Audio Visual Environments
 * PHYS 5630, Computational Physics I
 * PHIL 2500 sections on the topic Minds and Machines
-* ​PHIL 3400, Introduction to Non-Classical Logic
+* PHIL 3400, Introduction to Non-Classical Logic
 * PSYC 2100, Introduction to Learning (AKA Learning and Behavior?), Fall 2018
 * PSYC 2160, Cognitive Neuroscience
 * PSYC 2700   Child Psychology  (Counted by SIS if major declared Fall 2022 or later)
