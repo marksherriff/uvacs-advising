@@ -70,3 +70,5 @@ This is unfortunate. It's important that we honor our agreement with students an
 * You should also have been introduced to the idea that assembly code is translated to machine code for the processor to run, including the fetch/execute cycle.
 
 BACS students at UVA who submit the transfer credit form before they register for CSC 215 will be warned about this issue and asked to acknowledge that they understand these issues and that they'll need to do some "outside learning" to prepared for CS 3130.  (BSCS students do not need department approval before taking the course, so we have no way to provide this information to them directly. We'll have to hope BSCS students will have read the information here!)
+
+Students who do transfer CSC 215, because CSC 215 is three credits and CS 2130 is four credits, will need one additional 2000+ level CS credit to make up the difference.
