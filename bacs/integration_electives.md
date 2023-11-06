@@ -158,6 +158,7 @@ Below that is a list of courses for which petitions __will not be accepted__. Be
 * MDST 3430, AI and Cinema
 * MDST 3500, Comparative Histories of the Internet
 * MDST 3559-011 from Spring 2020, Designing Play (will be on the 2020-2021 list)
+* MESA 2559: Playing Games: A Gateway to the Mid East & S Asia
 * MUSI 2559/3559 in Summer 2022: Sonification for Musicians, Designers and Scientists
 * MUSI 3374, Composing Mixtapes
 * MUSI 4620, Audio Visual Environments
@@ -180,6 +181,7 @@ Below that is a list of courses for which petitions __will not be accepted__. Be
 * STAT 3110: Foundations of Statistics
 * STAT 3280, Data Visualization and Management
 * STAT 4559 from Fall 2020, Statistical Text Analysis
+* WGS 3415	Sex and Resistance on the Internet
 * Research coursework or independent study in a College department where computing is applied to that area, as long as this course receives a letter grade.
 
 ### Already determined NOT to be eligible:
@@ -208,7 +210,6 @@ Below that is a list of courses for which petitions __will not be accepted__. Be
 * PHYS 1050    How Things Work
 * PHYS 1655   Introduction to Python for Scientists and Engineers
 * PHYS 2010    Principles of Physics I
-* PHYS 5630 	Computational Physics
 * PLAP 3140    Mass Media and American Politics
 * PLCP 1010    Introduction to Comparative Politics
 * PSYC 2400    Introduction to Personality Psychology
