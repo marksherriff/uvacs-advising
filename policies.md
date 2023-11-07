@@ -36,6 +36,8 @@ __Guidelines for CS Electives:__
 * Up to three (3) credits of CS 4993 - Independent Study may count toward the CS elective requirement.  Credits beyond this limit may be applied to the unrestricted elective requirement.
 * CS 4980 and CS 4998 do not count as CS electives.
 
+__NOTE:__ ECE courses that are cross-listed with CS do count as CS electives (e.g., CS 4457 and ECE 4457), even if you sign up for the ECE number.  However, we will have to put an exception in SIS to make this count before you graduate.
+
 ## Policy on Course Credit for Internships
 
 Students often ask if they can receive CS course credit for an internship experience that they have.  While the department highly encourages students to seek out internships, these are not part of our degree program and cannot grant course credit.  
