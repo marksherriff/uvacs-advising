@@ -29,7 +29,7 @@ __NOTE:__ These resources are available for BACS majors as well!  You are still 
 ### Learning
 {: .no_toc }
 * [Lisa Lampe](https://engineering.virginia.edu/current-students/current-undergraduate-students/student-support/academic-coaching), Director of Undergraduate Education
-* [Blake Calhoun](https://engineering.virginia.edu/current-students/current-undergraduate-students/student-support/academic-coaching), Director of Undergraduate Success 
+* [Georgiana Nembhard](https://engineering.virginia.edu/current-students/current-undergraduate-students/student-support/academic-coaching), Director of Undergraduate Success 
 * [Courtney MacMasters](mailto:cmacmasters@virginia.edu), Accessibility Specialist
 * [Free tutoring](https://engineering.virginia.edu/current-students/current-undergraduate-students/student-support/tutoring) is available for most classes
 
