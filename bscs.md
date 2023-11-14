@@ -59,6 +59,8 @@ BSCS students must complete the unified set of general requirements for all engi
 * [Math and Science Elective]({{ site.data.externallinks.seas_elective_info }}) (Credits: 3)
 * [Humanities or Social Science Electives]({{ site.data.externallinks.seas_elective_info }}) (Credits: 9) (more info below)
 
+_NOTE: The above requirements apply to the class of 2027 and beyond. Students graduating in the class of 2024, 2025, and 2026 may have ENGR 1624, STS 1500, and an STS 2000 level elective as requirements instead of ENGR 1010, ENGR 1020, and STS 2600. Note that STS 2600 does fulfill the requirement of a 2000 level STS elective, but if other 2000 level courses are available, students who have this requirement in SIS can still take them. ENGR 1624 and STS 1500, however, will no longer be offered and students must take ENGR 1010 and ENGR 1020 if they are still missing these courses._
+
 ### Introduction to Programming
 
 All SEAS students (including CS majors) must complete one Introduction to Programming course as a part of their general SEAS requirements.  Students may also complete this requirement through Advanced Placement (AP), International Baccalaureate (IB), or dual-enrollment credit.  Some students with programming experience may wish to take the place-out test, which satisfies the requirement but does not award degree credit.  More information can be found in the Place-Out Tests section below.
