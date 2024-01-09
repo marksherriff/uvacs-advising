@@ -50,6 +50,36 @@ The reasons for this are:
 
 Students who must get course credit for an internship (such as for visa requirements or CPT) should sign up for UNST 3910 or UNST 3920.  These one-credit courses are offered CR/NC and cannot be used toward degree requirements, but do count toward overall credits taken.
 
+## Policy on Independent Study Courses
+
+These courses are one-off offerings tailored to specific students. In general, they may consist of:
+
+* Instruction in topics not of general interest
+* Supervised research, in which the primary goal is the student performing or assisting in a research project
+* Supervised project work, in which the primary goal is the student creating or assisting in the creation of a significant artifact
+
+All independent study courses must be offered by a faculty member with an appointment in the Computer Science department.  Independent studies can be performed with faculty outside the CS department for credit, but it is required that a CS faculty member have some oversight in the project such that they can offer the actual independent study course and assign a final grade.
+
+The independent study courses offered by the department are:
+
+* CS 2993 - Should have limited prereqs and deal in less advanced material than a typical computing elective.  Generally counts as an unrestricted elective, and not a CS elective.
+* CS 4980 - Independent work done in pursuit of the capstone for BSCS students only.
+* CS 4993 - Must build on the student's foundational CS knowledge in some way and require CS 2100, CS 2120, or CS 2130 at a minimum as a prerequisite.  Should be work equivalent to what is done in a typical CS elective course and counts as a CS elective.
+* CS 4998 - Independent work done in pursuit of the Distinguished Major for BACS students only.
+
+Before signing up for an independent study course, there should be an initial discussion between the student and the professor to ensure that both individuals want to move forward.  Note that all independent study courses are set up as permission of instructor in SIS and require professor approval.  Faculty members who do not have a particular independent study course listed in SIS for a given semester should reach out to the department scheduler for assistance.
+
+Instructors of independent study courses should clearly specify their expectations in writing to students early in the term (a week before the drop deadline at a minimum) and should grade them based on those expectations.  The final output of an independent study course is at the discretion of the faculty member, bearing in mind the level and purpose of the course as described above.  Some common outputs include a technical paper or report or a significant software project.
+
+It is appropriate to mix and match independent study sections with other sections. For example, the following are appropriate:
+
+* Having a group of undergraduates working on a project, some for CS 4993, some for CS 4980, and some as an uncredited side project
+* Having an undergrad in CS 4993 attend a graduate course as their primary learning activity
+* Having a BSCS student work on a year-long project with 3 credits of CS 4993 in one semester and 3 credits of CS 4980 in the other
+
+Independent study courses are variable credit courses, which means a student can register for 1, 2, or 3 credits of work in a given semester.  A studnet and faculty member can spread independent study credits out as well if that makese sense for the project (e.g., the student takes 1 credit of CS 4980 in the fall to do a literature review and 2 credits of CS 4980 in the spring to do the project).  Note that a student can only earn a total of 3 credits of CS 4993 and it count as a CS elective.  Any credits of CS 4993 beyond 3 will count as unrestricted elective credits.
+
+
 ## Double Counting Courses Policy
 
 BACS
