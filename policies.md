@@ -79,6 +79,15 @@ It is appropriate to mix and match independent study sections with other section
 
 Independent study courses are variable credit courses, which means a student can register for 1, 2, or 3 credits of work in a given semester.  A studnet and faculty member can spread independent study credits out as well if that makese sense for the project (e.g., the student takes 1 credit of CS 4980 in the fall to do a literature review and 2 credits of CS 4980 in the spring to do the project).  Note that a student can only earn a total of 3 credits of CS 4993 and it count as a CS elective.  Any credits of CS 4993 beyond 3 will count as unrestricted elective credits.
 
+## Policy on Enrolled Students Taking Course Work at Other Institutions
+
+__NOTE: This policy was emailed out by the SEAS Dean's Office in January 2024.  We are reviewing how it may also apply to BACS majors.__
+
+Per UVA's Academic Record, "University of Virginia students must secure the permission of their dean's office prior to enrolling in courses at another institution and transferring academic credit back to the University to apply toward their degree program."
+
+UVA expects you to be fully invested in your coursework here during the regular Fall and Spring semesters, and not taking courses elsewhere. If you enroll in a course elsewhere during the Fall or Spring UVA semesters without getting explicit written permission from your dean's office, then you will not be able to transfer any credits from that course back to UVA.  This rule does not normally apply to summer or J-term enrollment. 
+
+Per the SEAS dean's office, in making a decision on whether to allow enrollment elsewhere and transfer of credits during a regular enrolled semester at UVA, we will consider whether doing so is necessary or only a preference. We will consider whether a suitable class is already available at UVA and whether it is possible for you to take it. We may also consider the degree of overlap of the course with our semester, whether by one week or many weeks, and we will consider your current academic load. Examples of requests that will not normally be approved include a fondness for online learning, a preference to take the class elsewhere, a desire to go to increased load, or a wish to "get ahead."
 
 ## Double Counting Courses Policy
 
@@ -125,8 +134,6 @@ We __will not__ entertain requests to change a graduation year / class standing 
 Further, if we process this change for you, __you are committing to graduating early and cannot revert this change except under special circumstances.__
 
 ## Policy on Conflicts Between Required Courses for Graduating Students
-
-__NOTE: This policy is currently in draft form and being discussed.  If/when this policy is approved, this note will be removed.__
 
 If a student is double majoring in a computing major and something else or is minoring in CS, there is a chance that in a student's final semester, there could be a conflict between required courses from the two programs.
 
