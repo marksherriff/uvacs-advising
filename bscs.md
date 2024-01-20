@@ -143,7 +143,7 @@ BSCS majors must have a 2.0 GPA average for CS courses in order to graduate.  Fo
 
 ## Capstone Information
 
-The BSCS Capstone is seperate but related to the SEAS Senior Thesis requirement for graduation.  As a part of the SEAS Senior Thesis, students will take STS 4500 and STS 4600 during their last two semesters at UVA.  Through these courses, students will create a Senior Thesis Portfolio accordoing to the [SEAS Thesis Portfolio Guide](https://guides.lib.virginia.edu/seasthesis).  The Portfolio contains several parts, most of which will be done through the STS courses.  
+The BSCS Capstone is seperate but related to the SEAS Senior Thesis requirement for graduation.  As a part of the SEAS Senior Thesis, students will take STS 4500 and STS 4600 during their last two semesters at UVA.  Through these courses, students will create a Senior Thesis Portfolio according to the [SEAS Thesis Portfolio Guide](https://guides.lib.virginia.edu/seasthesis).  The Portfolio contains several parts, most of which will be done through the STS courses.  
 
 However, the part that intersects with the CS Capstone is the "Technical Report."  
 
