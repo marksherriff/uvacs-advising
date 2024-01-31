@@ -158,6 +158,7 @@ Below that is a list of courses for which petitions __will not be accepted__. Be
 * MDST 3430, AI and Cinema
 * MDST 3500, Comparative Histories of the Internet
 * MDST 3559-011 from Spring 2020, Designing Play (will be on the 2020-2021 list)
+* MDST 3665, Digital Media Accessibility
 * MESA 2559: Playing Games: A Gateway to the Mid East & S Asia
 * MUSI 2559/3559 in Summer 2022: Sonification for Musicians, Designers and Scientists
 * MUSI 3374, Composing Mixtapes
