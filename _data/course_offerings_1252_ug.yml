@@ -1,0 +1,356 @@
+- course: CS 1010
+  title: Introduction to Information Technology
+  type: LEC
+  instructor: David Evans
+  day: TBA
+  locaion: TBA
+
+- course: CS 1110
+  title: Introduction to Programming
+  type: LEC
+  instructor: Arohi Khargonkar
+  day: TBA
+  locaion: TBA
+
+- course: CS 1110
+  title: Introduction to Programming
+  type: LEC
+  instructor: Arohi Khargonkar
+  day: TBA
+  locaion: TBA
+
+- course: CS 1110
+  title: Introduction to Programming
+  type: LEC
+  instructor: To Be Announced
+  day: TBA
+  locaion: TBA
+
+- course: CS 1111
+  title: Introduction to Programming
+  type: LEC
+  instructor: To Be Announced
+  day: TBA
+  locaion: TBA
+
+- course: CS 1112
+  title: Introduction to Programming
+  type: LEC
+  instructor: Nada Basit
+  day: TBA
+  locaion: TBA
+
+- course: CS 1112
+  title: Introduction to Programming
+  type: LEC
+  instructor: Nada Basit
+  day: TBA
+  locaion: TBA
+
+- course: CS 2100
+  title: Data Structures and Algorithms 1
+  type: LEC
+  instructor: Briana Morrison
+  day: TBA
+  locaion: TBA
+
+- course: CS 2100
+  title: Data Structures and Algorithms 1
+  type: LEC
+  instructor: Briana Morrison
+  day: TBA
+  locaion: TBA
+
+- course: CS 2120
+  title: Discrete Mathematics and Theory 1
+  type: LEC
+  instructor: Elizabeth Orrico
+  day: TBA
+  locaion: TBA
+
+- course: CS 2120
+  title: Discrete Mathematics and Theory 1
+  type: LEC
+  instructor: Elizabeth Orrico
+  day: TBA
+  locaion: TBA
+
+- course: CS 2130
+  title: Computer Systems and Organization 1
+  type: LEC
+  instructor: Robbie Hott
+  day: TBA
+  locaion: TBA
+
+- course: CS 2130
+  title: Computer Systems and Organization 1
+  type: LEC
+  instructor: Robbie Hott
+  day: TBA
+  locaion: TBA
+
+- course: CS 2130
+  title: Computer Systems and Organization 1
+  type: LEC
+  instructor: Todd Delong
+  day: TBA
+  locaion: TBA
+
+- course: CS 2910
+  title: CS Education Practicum
+  type: PRA
+  instructor: Nada Basit
+  day: TBA
+  locaion: TBA
+
+- course: CS 3100
+  title: Data Structures and Algorithms 2
+  type: LEC
+  instructor: Aaron Bloomfield
+  day: TBA
+  locaion: TBA
+
+- course: CS 3100
+  title: Data Structures and Algorithms 2
+  type: LEC
+  instructor: Ray Pettit
+  day: TBA
+  locaion: TBA
+
+- course: CS 3120
+  title: Discrete Mathematics and Theory 2
+  type: LEC
+  instructor: Mark Floryan
+  day: TBA
+  locaion: TBA
+
+- course: CS 3120
+  title: Discrete Mathematics and Theory 2
+  type: LEC
+  instructor: Wei-Kai Lin
+  day: TBA
+  locaion: TBA
+
+- course: CS 3130
+  title: Computer Systems and Organization 2
+  type: LEC
+  instructor: Charles Reiss
+  day: TBA
+  locaion: TBA
+
+- course: CS 3130
+  title: Computer Systems and Organization 2
+  type: LEC
+  instructor: Daniel Graham
+  day: TBA
+  locaion: TBA
+
+- course: CS 3140
+  title: Software Development Essentials
+  type: LEC
+  instructor: Rich Nguyen
+  day: TBA
+  locaion: TBA
+
+- course: CS 3140
+  title: Software Development Essentials
+  type: LEC
+  instructor: Derrick Stone
+  day: TBA
+  locaion: TBA
+
+- course: CS 3140
+  title: Software Development Essentials
+  type: LEC
+  instructor: Derrick Stone
+  day: TBA
+  locaion: TBA
+
+- course: CS 3240
+  title: Advanced Software Development Techniques
+  type: LEC
+  instructor: Will McBurney
+  day: TBA
+  locaion: TBA
+
+- course: CS 3240
+  title: Advanced Software Development Techniques
+  type: LEC
+  instructor: Mark Sherriff
+  day: TBA
+  locaion: TBA
+
+- course: CS 3205
+  title: Human-Computer Interaction
+  type: LEC
+  instructor: Seongkook Heo
+  day: TBA
+  locaion: TBA
+
+- course: CS 3250
+  title: Software Testing
+  type: LEC
+  instructor: Upsorn Praphamontripong
+  day: TBA
+  locaion: TBA
+
+- course: CS 3710
+  title: Introduction to Cybersecurity
+  type: LEC
+  instructor: Angela Orebaugh
+  day: TBA
+  locaion: TBA
+
+- course: CS 3710
+  title: Introduction to Cybersecurity
+  type: LEC
+  instructor: Angela Orebaugh
+  day: TBA
+  locaion: TBA
+
+- course: CS 3710
+  title: Introduction to Cybersecurity
+  type: LEC
+  instructor: Ray Pettit
+  day: TBA
+  locaion: TBA
+
+- course: CS 4330
+  title: Computer Architecture
+  type: LEC
+  instructor: Ashish Venkat
+  day: TBA
+  locaion: TBA
+
+- course: CS 4414
+  title: Operating Systems
+  type: LEC
+  instructor: Felix Lin
+  day: TBA
+  locaion: TBA
+
+- course: CS 4444
+  title: Parallel Computing
+  type: LEC
+  instructor: Adwait Jog
+  day: TBA
+  locaion: TBA
+
+- course: CS 4457
+  title: Computer Networks
+  type: LEC
+  instructor: Joon Kim
+  day: TBA
+  locaion: TBA
+
+- course: CS 4501
+  title: "Special Topics: IoT"
+  type: LEC
+  instructor: Brad Campbell
+  day: TBA
+  locaion: TBA
+
+- course: CS 4501
+  title: "Special Topics: IoT"
+  type: LEC
+  instructor: Kun Qian
+  day: TBA
+  locaion: TBA
+
+- course: CS 4501
+  title: "Special Topics: Cryptocurrency"
+  type: LEC
+  instructor: Aaron Bloomfield
+  day: TBA
+  locaion: TBA
+
+- course: CS 4501
+  title: "Special Topics: Algo Econ"
+  type: LEC
+  instructor: Mattheus Ferreira
+  day: TBA
+  locaion: TBA
+
+- course: CS 4630
+  title: Defense Against the Dark Arts
+  type: LEC
+  instructor: Charles Reiss
+  day: TBA
+  locaion: TBA
+
+- course: CS 4710
+  title: Artificial Intelligence
+  type: LEC
+  instructor: Yangfeng Ji
+  day: TBA
+  locaion: TBA
+
+- course: CS 4710
+  title: Artificial Intelligence
+  type: LEC
+  instructor: Yen-Ling Kuo
+  day: TBA
+  locaion: TBA
+
+- course: CS 4720
+  title: Mobile App Development
+  type: LEC
+  instructor: Will McBurney
+  day: TBA
+  locaion: TBA
+
+- course: CS 4740
+  title: Cloud Computing
+  type: LEC
+  instructor: Haiying Shen
+  day: TBA
+  locaion: TBA
+
+- course: CS 4750
+  title: Database Systems
+  type: LEC
+  instructor: Upsorn Praphamontripong
+  day: TBA
+  locaion: TBA
+
+- course: CS 4774
+  title: Machine Learning
+  type: LEC
+  instructor: Rich Nguyen
+  day: TBA
+  locaion: TBA
+
+- course: CS 4810
+  title: Introduction to Computer Graphics
+  type: LEC
+  instructor: Zezhou Cheng
+  day: TBA
+  locaion: TBA
+
+- course: CS 4980
+  title: Capstone Research
+  type: IND
+  instructor: All Instructors
+  day: TBA
+  locaion: TBA
+
+- course: CS 4991
+  title: Capstone Technical Report
+  type: SEM
+  instructor: Rosanne Vrugtman
+  day: TBA
+  locaion: TBA
+
+- course: CS 4993
+  title: Independent Study
+  type: IND
+  instructor: All Instructors
+  day: TBA
+  locaion: TBA
+
+- course: CS 4998
+  title: Distinguished BA Majors Research
+  type: IND
+  instructor: All Instructors
+  day: TBA
+  locaion: TBA
