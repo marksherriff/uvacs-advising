@@ -132,6 +132,8 @@ The timeframe for making this change is:
 - If it is currently the spring semester and you aim to graduate in one year in the next spring semester, submit your request between the Add Deadline (2 weeks after the start of the current spring semester) and February 15.
 - If it is currently the fall semester you aim to graduate in one year in the next fall semester, submit your request between the Add Deadline (2 weeks after the start of the current fall semester) and September 15.
 
+While requests can be made outside of this timeframe, the department cannot guarantee that a student's class year can be changed in time for the next registration cycle if the request comes in after the 15th of Februrary or September, respectively.
+
 If a student is in this position and wishes to proceed, they need to create a course schedule / outline that shows that they can finish the degree in one year and make an appointment with the appropriate program director - [bscsdirector@virginia.edu](mailto:bscsdirector@virginia.edu) or [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu) - with their plan to set up a meeting.  If the program director agrees that this plan is feasible, the program director will contact the appropriate school registrar to make the change in SIS.
 
 We __will not__ entertain requests to change a graduation year / class standing until one year remains because it is not uncommon for students to think they want to graduate early, only to find that they require more time.
