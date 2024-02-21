@@ -6,7 +6,7 @@ nav_order: 3.4
 
 # CS Minor
 
-The information on this page is intended for students who newly declared the CS minor starting in the fall of 2021.  Students who declared before this time (or have previously taken CS 2110) should see the information for the old curriculum.
+The information on this page is intended for students who newly declared the CS minor starting in the fall of 2021.  Students who declared before this time (or have previously taken CS 2110) should contact the department for more information.
 
 ## CS Minor Requirements
 
