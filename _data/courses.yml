@@ -162,9 +162,9 @@
   flag: elective
 
 - course: CS 3240
-  title: Advanced Software Development Techniques
+  title: Software Engineering
   credits: 3
-  description: "Analyzes modern software engineering practice for multi-person projects; methods for requirements specification, design, implementation, verification, and maintenance of large software systems; advanced software development techniques and large project management approaches; project planning, scheduling, resource management, accounting, configuration control, and documentation."
+  description: "Analyzes modern software engineering practice for multi-person projects; methods for requirements specification, design, implementation, verification, and maintenance of large software systems; advanced software development techniques and large project management approaches; project planning, scheduling, resource management, accounting, configuration control, and documentation.  Formerly known as Advanced Software Development Techniques."
   prereqs: CS 2150 or CS 3140 with a grade of C- or better
   flag: BSCS Required / BACS Elective
 

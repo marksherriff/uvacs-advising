@@ -356,21 +356,21 @@
   location: TBA
 
 - course: CS 3240
-  title: Advanced Software Development Techniques
+  title: Software Engineering (formerly ASD)
   type: LEC
   instructor: Tom Horton
   day: TuTh 14:00-15:15
   location: RICE 130
 
 - course: CS 3240
-  title: Advanced Software Development Techniques
+  title: Software Engineering (formerly ASD)
   type: LEC
   instructor: Mark Sherriff
   day: TuTh 09:30-10:45
   location: RICE 130
 
 - course: CS 3240
-  title: Advanced Software Development Techniques
+  title: Software Engineering (formerly ASD)
   type: LAB
   instructor: Mark Sherriff
   day: Online
