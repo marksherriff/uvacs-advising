@@ -1,7 +1,7 @@
 ---
 layout: default
 title: General Student Information
-nav_order: 3.5
+nav_order: 3.7
 ---
 
 # General Student Information
