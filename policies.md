@@ -125,7 +125,9 @@ __For APMA:__ Any other APMA or MATH course credits not already being used towar
 
 ## Policy on Changing Graduation Year / Graduating Early
 
-The department will help a CS student change their graduation year / class year standing in SIS because they are graduating early __only when they are about to start their final year at UVA__.  This typically means the student has roughly 30-36 credits remaining and plans on enrolling in two more regular semesters at UVA.
+*Note:* Effective 2/28/2024, the College of Arts and Sciences will no longer accept requests to change a student's expected graduation semester in SIS.  This will not prevent a BACS student from graduating early; they will just need to apply for graduation early.  [This website](https://college.as.virginia.edu/graduation) appears to document how to do this, but contact your College Association Dean if you have questions.  For SEAS students, read the following information below.
+
+The department will help a CS student in SEAS change their graduation year / class year standing in SIS because they are graduating early __only when they are about to start their final year at UVA__.  This typically means the student has roughly 30-36 credits remaining and plans on enrolling in two more regular semesters at UVA.
 
 The timeframe for making this change is:
 
@@ -134,7 +136,7 @@ The timeframe for making this change is:
 
 While requests can be made outside of this timeframe, the department cannot guarantee that a student's class year can be changed in time for the next registration cycle if the request comes in after the 15th of Februrary or September, respectively.
 
-If a student is in this position and wishes to proceed, they need to create a course schedule / outline that shows that they can finish the degree in one year and make an appointment with the appropriate program director - [bscsdirector@virginia.edu](mailto:bscsdirector@virginia.edu) or [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu) - with their plan to set up a meeting.  If the program director agrees that this plan is feasible, the program director will contact the appropriate school registrar to make the change in SIS.
+If a SEAS student is in this position and wishes to proceed, they need to create a course schedule / outline that shows that they can finish the degree in one year and make an appointment with the appropriate program director - [bscsdirector@virginia.edu](mailto:bscsdirector@virginia.edu) - with their plan to set up a meeting.  If the program director agrees that this plan is feasible, the program director will contact the appropriate school registrar to make the change in SIS.
 
 We __will not__ entertain requests to change a graduation year / class standing until one year remains because it is not uncommon for students to think they want to graduate early, only to find that they require more time.
 
