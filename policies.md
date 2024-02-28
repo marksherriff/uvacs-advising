@@ -125,7 +125,9 @@ __For APMA:__ Any other APMA or MATH course credits not already being used towar
 
 ## Policy on Changing Graduation Year / Graduating Early
 
-*Note:* Effective 2/28/2024, the College of Arts and Sciences will no longer accept requests to change a student's expected graduation semester in SIS.  This will not prevent a BACS student from graduating early; they will just need to apply for graduation early.  [This website](https://college.as.virginia.edu/graduation) appears to document how to do this, but contact your College Association Dean if you have questions.  For SEAS students, read the following information below.
+*Note:* Effective 2/28/2024, the College of Arts and Sciences will no longer manually change a student’s expected graduation term.  This will not prevent a BACS student from graduating early; they will simply apply for graduation in SIS during the semester in which they will graduate.  [This website](https://college.as.virginia.edu/graduation) appears to document how to do this, but contact your College Association Dean if you have questions.
+
+For SEAS students, read the following information below.
 
 The department will help a CS student in SEAS change their graduation year / class year standing in SIS because they are graduating early __only when they are about to start their final year at UVA__.  This typically means the student has roughly 30-36 credits remaining and plans on enrolling in two more regular semesters at UVA.
 
