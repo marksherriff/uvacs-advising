@@ -10,7 +10,7 @@ The information on this page is intended for students who newly declared the CS 
 
 ## CS Minor Requirements
 
-The Computer Science minor requires credit for six CS courses as described below. Any undergraduate student in the university who has completed CS 2100 with a C- or better can apply for the minor.  
+The Computer Science minor requires credit for five CS courses as described below. Any undergraduate student in the university who has completed CS 2100 with a C- or better can apply for the minor.  
 
 To obtain a minor in computer science, a student must complete the following requirements:
 
