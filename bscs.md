@@ -2,6 +2,7 @@
 layout: default
 title: BSCS Information
 nav_order: 3.1
+has_children: true
 ---
 
 # BSCS Information
@@ -88,7 +89,7 @@ These courses are the next set of courses students take after finishing Introduc
 
 BSCS majors must take one upper-level course in software engineering and one course to complete the SEAS senior thesis. 
 
-* [CS 3240 - Software engineering]({{ baseurl }}/courses.html#cs-3240-software-engineering) (Credits: 3) (formerly Advanced Softare Development Techniques)
+* [CS 3240 - Software Engineering]({{ baseurl }}/courses.html#cs-3240-software-engineering) (Credits: 3) (formerly Advanced Softare Development Techniques)
 
 The senior thesis should be taken during the student’s last year and consists of the STS 4500/4600 sequence (see the General Requirements listed above) together with one of the following options:
 
