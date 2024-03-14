@@ -2,7 +2,6 @@
 layout: default
 title: BSCS Information
 nav_order: 3.1
-has_children: true
 ---
 
 # BSCS Information

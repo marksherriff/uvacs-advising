@@ -2,6 +2,7 @@
 layout: default
 title: Getting Help / Advising
 nav_order: 5
+has_children: true
 ---
 
 # Getting Help / Advising

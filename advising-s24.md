@@ -1,16 +1,17 @@
 ---
 layout: default
-title: BACS/BACS Advising, Spring 2024
+title: BACS/BACS Advising (Spring 2024)
 nav_order: 5
+parent: Getting Help / Advising
 ---
 
-# BACS and BSCS Advising before Course Registration, Spring 2024
+# BACS and BSCS Advising before Course Registration (Spring 2024)
 {: .no_toc }
 
 1. TOC
 {:toc}
 
-## New Process for Advising for BACS and BSCS Majors, Spring 2024
+## New Process for Advising for BACS and BSCS Majors - Spring 2024
 
 The CS department is using a new process for advising BACS and BSCS majors before course registration for Fall 2024 begins.  In the past every student was required to see their faculty advisor to get their registration hold released. But this time things are different, so please read the following carefully.
 
@@ -40,8 +41,8 @@ Many majors assume their faculty advisor is the best person to answer every kind
 * __CS student Ambassadors:__ These are students CS has hired and trained to help provide advising information. They can give a "student view" and know to whom to direct any questions they can't answer. They're available at the walk-in table in the 4th floor Rice Hall common area for most of the day Monday-Friday.
 * __Your CS Faculty Advisor:__ CS faculty can talk to you about the field of computing in general, especially areas of advanced study or research. If you're thinking about research or grad school, they're a great resource. And if you're just looking to make a personal connection with a faculty member, don't hesitate to visit them during office hours etc. to say hello or just to talk. And if you have a question they can't answer, they'll know who you can contact.
 * __The BACS or BSCS Program Director:__ The Program Directors in CS can help with more complex issues beyond the "routine", including those require coordination with the Deans office or other departments.
-    * BSCS Director: [Tom Horton, bscsdirector@virginia.edu](mailto:bscsdirector@virginia.edu)
-    * BACS Director: [Mark Sherriff, bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu)
+    * BSCS Director: [Mark Sherriff, bscsdirector@virginia.edu](mailto:bscsdirector@virginia.edu)
+    * BACS Director: [Tom Horton, bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu)
     * BSCpE Director: [Mircea Stan, mircea@virginia.edu](mircea@virginia.edu)
 * __Questions about General Education Requirements?__
     * For BACS majors, your Association Dean is the one to ask about general education requirements, not anyone in the CS department.
