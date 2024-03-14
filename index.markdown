@@ -13,8 +13,9 @@ Site Last Updated: {{ site.time | date: '%A, %B %d, %Y' }}
 This website is maintained by the faculty and staff of the Department of Computer Science and is intended to be a resource for students, faculty, staff, and prospective students who have questions regarding the undergradaute programs offered by the department.  We work to keep this website as up-to-date as possible, but if there are any conflicts between this website and official resources provided by the University of Virginia (e.g., information from the Registrar's Office, the official Academic Record, etc.), the official resources should be considered the authoritative source.  Please report any discrepancies or suggestions for other content to [bscsdirector@virginia.edu](mailto:bscsdirector@virginia.edu).
 
 
-## Fall 2024 Advising and Enrollment Schedule (IMPORTANT UPDATE!)
+## Fall 2024 Advising and Enrollment Schedule
 
+{: .important }
 There is a __new advising procedure__ for BSCS and BACS students this semester (Spring 2024) ahead of registration for the Fall 2024 semester.  Please see this page for more information: [BACS and BSCS Advising before Course Registration (Spring 2024)]({{ baseurl }} /advising-s24.html)
 
 Returning UVA students: please see the dates below to plan for your fall 2024 semester.
