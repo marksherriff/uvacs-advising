@@ -8,6 +8,7 @@ nav_order: 9
 
 ## BSCS Presentations
 
+* [BSCS New Major Initial Advising (Spring 2024)](https://docs.google.com/presentation/d/1a2hvZG1VIRAhEu4DEctdKB2XcUgvGbV8bJsQPlA9f_o/edit?usp=sharing)
 * [BSCS Fall Engineering Majors Night (2023)](https://docs.google.com/presentation/d/1vlH0l-piBp0uIv174MgJRqntTeYTd9U2x2enQmT0iyw/edit?usp=sharing) _(NOTE: Unfortunately, the audio on the recording failed :-(.  The information in last year's recording below is pretty much the same, but feel free to email bscsdirector@virginia.edu with any questions.)_
 * [BSCS New Major Initial Advising (Fall 2022)](https://docs.google.com/presentation/d/1a2hvZG1VIRAhEu4DEctdKB2XcUgvGbV8bJsQPlA9f_o/edit?usp=sharing)
 * [BSCS Information Session for First Years](https://docs.google.com/presentation/d/1Elf8qozh7xEmdePcEUst88fWcWGQ4LcSk1ylvK1CKFc/edit?usp=sharing)
