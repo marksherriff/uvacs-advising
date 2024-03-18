@@ -19,7 +19,7 @@ __Advising for Fall 2024 registration:__ The CS department is using a new proces
 
 Before course registration, __some__ CS majors (but not all) will have an advising hold that will prevent them from registering until it is removed.  See the page link above for how this might or might not affect you when registering for next term's courses.
 
-You can find when your faculty advisor will be available on this page: [page coming soon!]({{ baseurl }}/not-ready-yet.html)
+You can find when your faculty advisor will be available on this page: [CS Faculty Advisor Availability](https://myuva-my.sharepoint.com/:x:/g/personal/tbh3f_virginia_edu/ERsaJ2DKmNxMiN_047hwlxoBEQTMpYD2J1MSclVcwDNUTg)
 
 
 __What do I do if I have a hold I don't hear from my advisor?__  If you haven't heard anything from your advisor after several attempts to contact them, please email [cs-office@virginia.edu](mailto:cs-office@virginia.edu).

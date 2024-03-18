@@ -23,7 +23,9 @@ You may have a department __advising hold__  that must get removed before you ca
 
 * __Newly-declared majors:__  First-year BSCS majors and BACS majors who declared after 10/1/2023 will be emailed about attending one of many group advising meetings. We'll record who attends, and your hold will be released. If you don't attend one of these, you'll need to see your faculty advisor before you're allowed to register for fall courses.
 * __Students needing extra support:__ Some majors have been identified as needing some extra support through advising. We are emailing these students, who will need to meet with the department advising coordinator (SJ Jimenez) before they can register.
-* __All other students__ will have their hold removed automatically by April 1 without needing to see their advisor. But, these students are encouraged to see their advisor or get assistance from another source, as appropriate.  See the next section!
+* __All other students__ will have their hold removed automatically by April 1 without needing to see their advisor. But, these students are encouraged to see their advisor or get assistance from another source, as appropriate.  See below for more info!
+
+You can see your [CS Faculty Advisor's Availability](https://myuva-my.sharepoint.com/:x:/g/personal/tbh3f_virginia_edu/ERsaJ2DKmNxMiN_047hwlxoBEQTMpYD2J1MSclVcwDNUTg)
 
 ## Important Dates
 
@@ -39,7 +41,7 @@ Many majors assume their faculty advisor is the best person to answer every kind
 
 * __CS department's Advising Coordinator, SJ Jimenez__:  SJ is a staff person in CS who takes the lead on supporting students with advising questions and helping the department better meet student needs. Students can contact SJ if they have particularly tricky issues (even those associated with "life" issues rather than academics). If SJ is not the person to handle your problem, they can get you to the right person. SJ is in Rice 420 with walk-in office hours posted on the door, or email [smj4z@virginia.edu](mailto:smj4z@virginia.edu)
 * __CS student Ambassadors:__ These are students CS has hired and trained to help provide advising information. They can give a "student view" and know to whom to direct any questions they can't answer. They're available at the walk-in table in the 4th floor Rice Hall common area for most of the day Monday-Friday.
-* __Your CS Faculty Advisor:__ CS faculty can talk to you about the field of computing in general, especially areas of advanced study or research. If you're thinking about research or grad school, they're a great resource. And if you're just looking to make a personal connection with a faculty member, don't hesitate to visit them during office hours etc. to say hello or just to talk. And if you have a question they can't answer, they'll know who you can contact.
+* __Your CS Faculty Advisor:__ CS faculty can talk to you about the field of computing in general, especially areas of advanced study or research. If you're thinking about research or grad school, they're a great resource. And if you're just looking to make a personal connection with a faculty member, don't hesitate to visit them during office hours etc. to say hello or just to talk. And if you have a question they can't answer, they'll know who you can contact.  You can find when your faculty advisor will be available on this page: [CS Faculty Advisor Availability](https://myuva-my.sharepoint.com/:x:/g/personal/tbh3f_virginia_edu/ERsaJ2DKmNxMiN_047hwlxoBEQTMpYD2J1MSclVcwDNUTg)
 * __The BACS or BSCS Program Director:__ The Program Directors in CS can help with more complex issues beyond the "routine", including those require coordination with the Deans office or other departments.
     * BSCS Director: [Mark Sherriff, bscsdirector@virginia.edu](mailto:bscsdirector@virginia.edu)
     * BACS Director: [Tom Horton, bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu)

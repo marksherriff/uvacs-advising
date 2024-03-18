@@ -24,7 +24,7 @@ All Undergrad CS Students Department List (cs-ugrads@virginia.edu): A list calle
 ## SEAS Student Support Team
 You have many resources available to you when you experience academic or personal stresses. In addition to your professor, the School of Engineering and Applied Science has staff members located in Thornton Hall who you can contact to help manage academic or personal challenges. Please do not wait until the end of the semester to ask for help! 
 
-__NOTE:__ These resources are available for BACS majors as well!  You are still a part of our department!
+__NOTE:__ While the contacts in this section are in the SEAS Dean's office, College students can approach them. You should make it clear you're a CS student in the College, and if they are not able help you they certainly should be able to point you to someone in the College or elsewhere who can.
 
 ### Learning
 {: .no_toc }
