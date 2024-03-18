@@ -13,11 +13,16 @@ has_children: true
 
 ## Advising
 
-Every BACS and BSCS major is assigned an advisor in the CS department. You can find their name when you log into SIS. This person is a good resource for CS matters but not for other things.  Your CS advisor is a great person to talk to about CS and computing issues. Course selection, career plans, getting into research, etc.
+Every BACS and BSCS major is assigned a faculty advisor in the CS department. You can find their name when you log into SIS. This person is a good resource for CS matters but not for everything.  Your CS advisor is a great person to talk to about CS and computing issues, including career plans, getting into research, sub-areas of computing, etc.  Other people and sources for getting information are described on this page and also on the "Spring 2024" page linked in the next paragraph.
 
-Before course registration, an advisor hold is placed on your account. You must meet with your advisor who will release the hold.  Normally, advisors contact their advisees to explain how they'll do this.
+__Advising for Fall 2024 registration:__ The CS department is using a new process for advising BACS and BSCS majors before course registration for Fall 2024 begins on April 8. In the past, every student was required to see their faculty advisor to get their registration hold released. But this semester things are different, so please read the info about [Advising for CS Majors during Spring 2024]({{ baseurl }}/advising-s24.html)
 
-__What do I do if I don't hear from my advisor?__  If you haven't heard anything from your advisor after several attempts, please email [cs-office@virginia.edu](mailto:cs-office@virginia.edu).
+Before course registration, __some__ CS majors (but not all) will have an advising hold that will prevent them from registering until it is removed.  See the page link above for how this might or might not affect you when registering for next term's courses.
+
+You can find when your faculty advisor will be available on this page: [page coming soon!]({{ baseurl }}/not-ready-yet.html)
+
+
+__What do I do if I have a hold I don't hear from my advisor?__  If you haven't heard anything from your advisor after several attempts to contact them, please email [cs-office@virginia.edu](mailto:cs-office@virginia.edu).
 
 ## Help with Tracking Degree Progress
 
@@ -47,9 +52,11 @@ Need a course approved to be taken during study-abroad? Both BACS and BSCS shoul
 
 For issues related to internships or finding a job that the faculty can't answer, all computing students should visit the website or office of the [Center for Engineering Career Development](https://engineering.virginia.edu/about/offices/center-engineering-career-development) in Thornton Hall A-wing.  They work with both SEAS and BACS students.
 
-## Help with College Non-CS Requirements
+## Help with Non-CS (e.g. General Education) Requirements
 
-Any questions that's NOT related to CS requirements, students should [ask their association dean](https://college.as.virginia.edu/association-deans). (This is like a 2nd advisor for College students who handles issues not related to their major subject such as College foundation requirements, etc.)
+__BACS majors:__ Any questions that's NOT related to CS requirements, students should [ask their association dean](https://college.as.virginia.edu/association-deans). (This is like a 2nd advisor for College students who handles issues not related to their major subject such as College foundation requirements, etc.)
+
+__SEAS majors:__ SEAS students will need to work with the SEAS Deans Office for Undergraduate Programs for inquiries regarding non-CS SEAS foundational requirements. 
 
 ## Help with Getting into a Course
 

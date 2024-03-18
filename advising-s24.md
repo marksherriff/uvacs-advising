@@ -11,7 +11,7 @@ parent: Getting Help / Advising
 1. TOC
 {:toc}
 
-## New Process for Advising for BACS and BSCS Majors - Spring 2024
+## New Process for Advising for BACS and BSCS Majors during Spring 2024
 
 The CS department is using a new process for advising BACS and BSCS majors before course registration for Fall 2024 begins.  In the past every student was required to see their faculty advisor to get their registration hold released. But this time things are different, so please read the following carefully.
 
