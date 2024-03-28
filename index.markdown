@@ -40,11 +40,11 @@ __Advising will begin in early March.  Please watch for emails from the CS depar
 
 Rice Hall 4th Floor Open Area
 
-- Monday: 11:30 a.m. - 1:30 p.m. 
-- Tuesday: 9:30 a.m. - 11:30 a.m.
-- Wednesday: 11:30 a.m. - 1:30 p.m. 
-- Thursday: 9:30 a.m. – 11:30 a.m. 
-- Friday: 1:00 p.m. - 3:00 p.m. 
+- Monday: 11:30 AM - 1:30 PM 
+- Tuesday: 12:00 PM - 3:00 PM
+- Wednesday: 11:30 AM - 1:30 PM 
+- Thursday: 12:00 PM - 3:00 PM 
+- Friday: 1:00 PM - 3:00 PM 
 
 ## Congrats New Hoos!
 
