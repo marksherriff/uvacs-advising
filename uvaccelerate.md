@@ -36,6 +36,10 @@ A: You may graduate with the undergraduate degree with the usual timing, remain 
 
 http://records.ureg.virginia.edu/preview_program.php?catoid=57&poid=8694
 
+**Q: If I accept my UVXL admission status, can I drop out the program anytime in the rest of my undergraduate study?**
+
+UVAccelerate offers a non-binding and flexible program structure. You may withdraw at any point before the MCS officially starts. If you decide to do so, notify gradengineeringinfo@virginia.edu. 
+
 **Q: I still have questions. Who to contact?** 
 
 * For general UVXL questions (application, finance, etc), contact Ashley Haddox at the SEAS graduate office. 
