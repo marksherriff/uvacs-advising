@@ -28,7 +28,7 @@ A: apply for UVXL in the spring of your 3rd year.
 
 A: Typically, CS often admits master’s for Fall cycles so approval will be needed. If you’re admitted to UVXL and would like to start the MCS in spring rather than the fall, please contact Ashley Haddox (SEAS grad office) in your final semester of undergrad, who will submit a request on your behalf to Prof. Matt Dwyer (CS) overseeing the CS grad admission. 
 
-** Q: If I am eligible to graduate with both undergraduate and master's degrees simultaneously, what would be the process for graduation?** 
+**Q: If I am eligible to graduate with both undergraduate and master's degrees simultaneously, what would be the process for graduation?** 
 
 A: You may graduate with the undergraduate degree with the usual timing, remain in the affiliated status for one semester, and graduate with your master's degree. 
 
