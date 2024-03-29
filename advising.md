@@ -50,7 +50,11 @@ Need a course approved to be taken during study-abroad? Both BACS and BSCS shoul
 
 ## Help with Internships / Career Planning
 
-For issues related to internships or finding a job that the faculty can't answer, all computing students should visit the website or office of the [Center for Engineering Career Development](https://engineering.virginia.edu/about/offices/center-engineering-career-development) in Thornton Hall A-wing.  They work with both SEAS and BACS students.
+For issues related to internships or finding a job that the faculty can't answer, all computing students should visit the website or office of the [Center for Engineering Career Development](https://www.engineering.virginia.edu/offices-programs/center-engineering-career-development) in Thornton Hall A-wing.  They work with both SEAS and BACS students.
+
+You can also take advantages of the resources at the [UVA Career Center](https://career.virginia.edu/).  Make sure to create a [Handshake](https://career.virginia.edu/Students/Explore/GettingStartedonHandshake) profile to get even more informaiton!
+
+For students particularly interested in pre-med / medical careers, please see [https://career.virginia.edu/Students/Connect/PreHealth](https://career.virginia.edu/Students/Connect/PreHealth).
 
 ## Help with Non-CS (e.g. General Education) Requirements
 
