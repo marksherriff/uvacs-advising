@@ -10,7 +10,8 @@ UVA CS undergraduate are often excited about getting involved in research during
 
 ## Available Research Projects
 
-We post undergraduate research opportunities at [http://ug-research.cs.virginia.edu](http://ug-research.cs.virginia.edu).  Please go there or talk to your advisor about suggestions.
+__UPDATE:__ The previous research listing hosted on the SEAS website (through ug-research.cs.virginia.edu) has not survived the transition to the new design.  We are working to correct the problem.  In the meantime, the project listing can be [found below](#current-undergraduate-research-projects).
+
 
 ## Getting Credit for Research
 
@@ -46,3 +47,13 @@ We are often asked if research in another department can count for either CS 499
 This means the research MUST have enough CS content that it could be considered an upper-level CS elective.  One way to tell the difference is what background knowledge you need to have.  If you are applying concepts from courses like CS 3140 or CS 3100, then it might be appropriate.  But if you are just building a web page, then that's probably not enough.
 
 When in doubt, ask your program director or faculty advisor.
+
+## Current Undergraduate Research Projects
+<style>
+   #researchframe {
+      width: 100%;
+      height: 100%;
+   }
+</style>
+
+<iframe name="researchframe" width="100%" height="1000" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQeFV6RFFRQ2m8CpFVEwPtccv6stjDcawOrhgLE4DHK_Mb2ukfe6Br9h8qFaT0hKyzdJjC1vkQaHspd/pubhtml?gid=0&amp;single=true&amp;headers=false"></iframe>
