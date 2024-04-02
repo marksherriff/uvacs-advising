@@ -33,7 +33,10 @@ These courses have been approved and entered into SIS to count for each other in
 * APMA 2130 == MATH 3250
 * APMA 3080 == MATH 3351
 * APMA 3100 == MATH 3100
-* APMA 3120 == STAT 3120
+
+__UPDATES__
+
+* As of the 2024-2025 AY, APMA 3120 != STAT 3120 (per information from Jesse Rogers)
 
 ### Other SEAS Courses
 
