@@ -24,7 +24,7 @@ The College and SEAS pages have their own list of courses each has pre-approved.
 
 The pages above have links to school's pre-approved list of courses, but here are direct links:
 
-* [SEAS List of Approved Transfer Courses](https://engineering.virginia.edu/current-students/current-undergraduate-students/transferring-uva-engineering/transfer-credit)
+* [SEAS List of Approved Transfer Courses](https://engineering.virginia.edu/undergraduate-study/future-undergrads/transferring-uva-engineering/transfer-credit-equivalency)
 * [College Transfer Credit Equivalencies for U.S. Colleges and Universities](http://ascs8.eservices.virginia.edu/AsEquivs)
 
 ### Quick Reference for VCCS Courses
