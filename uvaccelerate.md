@@ -40,7 +40,11 @@ http://records.ureg.virginia.edu/preview_program.php?catoid=57&poid=8694
 
 UVAccelerate offers a non-binding and flexible program structure. You may withdraw at any point before the MCS officially starts. If you decide to do so, notify gradengineeringinfo@virginia.edu. 
 
-**Q8: I still have questions. Who to contact?** 
+**Q8: I just got accepted to UVXL! What courses should I take in the Fall semester?** 
+
+Strongly recommended CS6190 (CS perspective, 1 hr). It is required for all MS/MCS degrees and only offered in Fall. Other than that, decide based on your personal interest (e.g. ML, CPS, or systems?), career plan (e.g. looking for internship that may require LLM skills?), and course load (e.g. how many project-based courses you will have?). Check Lou's list to see what is to be offered. Contact individual instructors asking for syllabi. 
+
+**Q99: I still have questions. Who to contact?** 
 
 * For general UVXL questions (application, finance, etc), contact Ashley Haddox at the SEAS graduate office. 
 * For CS-specific UVXL questions (courses, degree requirements, etc), contact cs-uvaccelerate@
