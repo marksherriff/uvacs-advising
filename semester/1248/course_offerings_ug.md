@@ -16,7 +16,7 @@ __CS 4501-001: Privacy in the Internet Age__ w/ Prof. Yixin Sun
 
 __CS 4501-002: Natural Language Processing__ w/ Prof. Yu Meng - _"Natural Language Processing (NLP) is a rapidly evolving field in artificial intelligence (AI) with wide-ranging applications in our daily life. This course provides an introduction to the fundamental concepts, techniques, and applications of NLP."_
 
-__CS 4501-003: Smart and Healthy Buildings__ w/ Prof. Brad Campbell 
+__CS 4501-003: Smart and Healthy Buildings__ w/ Prof. Brad Campbell - _"This class focuses the next generation of buildings where smart devices, Internet of Things (IoT) systems, machine learning applications, and simulations platforms will help us understand the changes in indoor environments and occupants’ needs, allowing building systems to dynamically enhance the indoor environmental conditions from health, comfort, and energy perspectives. This course will familiarize students with smart building concepts, terminology, tools and techniques needed to make our future buildings adjust to our needs and energy demands. Specifically, students will gain hands-on experience with real test beds to build and deploy smart building applications that will better support occupants."_
 
 __CS 4501-004: Reinforcement Learning__ w/ Prof. Shangtong Zhang
 
