@@ -16,7 +16,7 @@ __CS 6501-001: Human-Computer Interaction__ w/ Prof. Seongkook Heo - _"This cour
 
 __CS 6501-002: Wireless Sensing in IoT__ w/ Prof. Kun Qian - _"Wireless sensing technologies repurpose wireless signals for sensing physical environment and gaining situational awareness. Formed by pervasive wirelessly connected devices, the IoT can be turned into a universal sensor network with wireless sensing, enabling the vision of ambient intelligence. This course covers the wireless sensing basics (e.g., radar, Wi-Fi) and cutting-edge applications (e.g., motion tracking, activity recognition, environmental sensing). The evaluation will be based on assignments, a course project, a mid-term exam, and a final presentation."_
 
-__CS 6501-003: Smart and Healthy Buildings__ w/ Prof. Brad Campbell
+__CS 6501-003: Smart and Healthy Buildings__ w/ Prof. Brad Campbell - _"This class focuses the next generation of buildings where smart devices, Internet of Things (IoT) systems, machine learning applications, and simulations platforms will help us understand the changes in indoor environments and occupants’ needs, allowing building systems to dynamically enhance the indoor environmental conditions from health, comfort, and energy perspectives. This course will familiarize students with smart building concepts, terminology, tools and techniques needed to make our future buildings adjust to our needs and energy demands. Specifically, students will gain hands-on experience with real test beds to build and deploy smart building applications that will better support occupants."_
 
 __CS 6501-004: TBD__ w/ TBD  
 
