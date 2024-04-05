@@ -12,7 +12,7 @@ Please see [Lou's List](https://louslist.org/page.php?Semester=1242&Type=Group&G
 
 ## Special Topics Courses
 
-__CS 4501-001: Privacy in the Internet Age__ w/ Prof. Yixin Sun
+__CS 4501-001: Privacy in the Internet Age__ w/ Prof. Yixin Sun - _"This course provides an in-depth look into privacy issues on the Internet and introduces privacy enhancing technologies. We will cover topics such as anonymous communications, traffic analysis and location privacy. We will also examine the trade-offs between security and privacy, and the interactions with other fields such as machine learning and policy."_
 
 __CS 4501-002: Natural Language Processing__ w/ Prof. Yu Meng - _"Natural Language Processing (NLP) is a rapidly evolving field in artificial intelligence (AI) with wide-ranging applications in our daily life. This course provides an introduction to the fundamental concepts, techniques, and applications of NLP."_
 
