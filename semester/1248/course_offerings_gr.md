@@ -26,7 +26,7 @@ __CS 6501-006: TBD__ w/ Prof. Dave Evans
 
 __CS 6501-007: Learning for Interactive Robots__ w/ Prof. Yen-Ling Kuo
 
-__CS 6501-008: 3D Computer Vision__ w/ Zezhou Cheng - _"The ability to perceive the world in 3D is critically important for humans and has extensive applications in robotics, graphics, virtual/augmented reality, and more. This course will delve into the foundational concepts and recent advancements at the intersection of machine learning and 3D computer vision. Topics include classical multi-view geometry, explicit and implicit 3D representations, differentiable rendering, 3D perception, and motion understanding."_ 
+__CS 6501-008: 3D Computer Vision__ w/ Prof. Zezhou Cheng - _"The ability to perceive the world in 3D is critically important for humans and has extensive applications in robotics, graphics, virtual/augmented reality, and more. This course will delve into the foundational concepts and recent advancements at the intersection of machine learning and 3D computer vision. Topics include classical multi-view geometry, explicit and implicit 3D representations, differentiable rendering, 3D perception, and motion understanding."_ 
 
 __CS 6501-009: Convex Optimization for Engineering & Data Science__ w/ Prof. Jundong Li
 
