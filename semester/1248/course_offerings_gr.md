@@ -38,7 +38,7 @@ __CS 6501-012: Cloud System Reliability__ w/ Prof. Chang Lou - _"In this course 
 
 __CS 6501-013: Geometry of Data__ w/ Prof. Tom Fletcher
 
-__CS 6501-014: Computational Behavior Modelng__ w/ Prof. Afsaneh Doryab
+__CS 6501-014: Computational Behavior Modelng__ w/ Prof. Afsaneh Doryab - _"This course aims to provide students with a comprehensive understanding of the principles, methods, and applications of computational behavior modeling. The course content focuses on the techniques used to model the behavior of complex systems such as humans, animals, nature, robots, or other computer systems. By the end of the course, students will have gained a thorough knowledge of computational techniques and their relevance to modeling complex systems."_
 
 __CS 6501-015: TBD__ w/ TBD 
 
