@@ -166,6 +166,7 @@ Below that is a list of courses for which petitions __will not be accepted__. Be
 * PHYS 5630, Computational Physics I
 * PHIL 2500 sections on the topic Minds and Machines
 * PHIL 3400, Introduction to Non-Classical Logic
+* PHIL 3620, Science Fiction & Philosophy
 * PSYC 2100, Introduction to Learning (AKA Learning and Behavior?), Fall 2018
 * PSYC 2160, Cognitive Neuroscience
 * PSYC 2700   Child Psychology  (Counted by SIS if major declared Fall 2022 or later)
