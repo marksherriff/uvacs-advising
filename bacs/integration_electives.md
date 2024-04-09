@@ -170,6 +170,7 @@ Below that is a list of courses for which petitions __will not be accepted__. Be
 * PSYC 2160, Cognitive Neuroscience
 * PSYC 2700   Child Psychology  (Counted by SIS if major declared Fall 2022 or later)
 * PSYC 2559 (J-term 2021), Cognition and Cognitive Biases
+* PSYC 3310, RM: R Applications of Psychology
 * PSYC 4500, Computational Methods in Psychology and Neuroscience, Fall 2020 and ?
 * PSYC 5270, Computational Neuroscience 
 * PSYC 5332, Introduction to Quantified Cognition
@@ -192,6 +193,7 @@ Below that is a list of courses for which petitions __will not be accepted__. Be
 * Any course offered by the School of Commerce
 * ARTS 2559    Drawing and Design
 * ASTR 1220    Introduction to Stars, Galaxies, and the Universe
+* ASTR 3450     Mission to Mars
 * ECE 2330    Digital Logic Design
 * EDIS xxxx	Applied Teaching with Technology other than EDIS 2200, Designing Art, Music, & Games
 * EGMT xxxx   The College has told us that no Engagement course can count
@@ -214,7 +216,7 @@ Below that is a list of courses for which petitions __will not be accepted__. Be
 * PLAP 3140    Mass Media and American Politics
 * PLCP 1010    Introduction to Comparative Politics
 * PSYC 2400    Introduction to Personality Psychology
-* PSYC 2700   Child Psychology  This one is counted by SIS effective Fall 2022
+* PSYC 2600    Introduction to Social Psychology
 * SLAV 2360    Dracula
 * STAT 1559    Intro Data Science with Python/R
 * STAT 1601    Intro Data Science with R
