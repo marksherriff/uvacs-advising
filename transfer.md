@@ -55,6 +55,17 @@ We will then look at the course and inform you of the CS department's decision a
 
 The courses taken at another institution cannot apply toward prerequisites at UVA until it has been completed and the grade is shown in SIS.  For example, if you plan to take a course to replace CS 2100 over the summer, SIS will not let you register for CS 3140 for the following fall until the course you are taking over the summer has been successfully completed AND is in SIS.  There is no good way to put in exceptions in SIS based on what a student "plans to do."  You can always reach out to the professors of the course you want to get in to, but they will generally let the registration process proceed normally.
 
+
+## Important Information about taking CSC 223 from a Virginia Community College
+
+If you have taken the three-course sequence CSC 221, 222 and 223 at a Virginia community college, none of what is discussed next applies to you.
+
+If a UVA student who has taken CS111x at UVA (or the equivalent) and wants to take CSC 223  at a community college, there are some issues that make this challenging.
+
+The CSC 223 course is the third in the community college's sequence of three courses, CSC 221, 222 and 223 (all in Java).  Here at UVA we have a two-course sequence (1110 and 2100).  To take CSC 223 at a community college, before taking CSC 223 you must have taken their CSC 222 course, in addition to a first programming course (like their CSC 221 or UVA's CS111x).  CSC 222 is a strict pre-requisite to take CSC 223 at the community college.  Also, they require you have a discrete math class as a co-requisite for CSC 223, so if you haven't had our CS 2120 class here at UVA, they'd require you to take CSC 208, Introduction to Discrete Structures, while or before you take CSC 223.  (CSC 208 will transfer here CS 2120)
+
+The transfer credit rule about CSC 223 is more about how a student how transfers from a community college gets credit for the three CS courses they take there before coming to UVA.  The fact that their three-course sequence is different than how we teach things makes it a challenge (but not impossible) for a student who takes CS111x at UVA to go pick up one course, CSC 223, in the summer. You may need to take one or two more courses in addition to CSC 223.
+
 ## Important Information about CSC 215 from a Virginia Community College
 
 
