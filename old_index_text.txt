@@ -1,0 +1,22 @@
+## Fall 2024 Advising and Enrollment Schedule
+
+{: .important }
+There is a __new advising procedure__ for BSCS and BACS students this semester (Spring 2024) ahead of registration for the Fall 2024 semester.  Please see this page for more information: [BACS and BSCS Advising before Course Registration (Spring 2024)]({{ baseurl }} /advising-s24.html)
+
+Returning UVA students: please see the dates below to plan for your fall 2024 semester.
+
+- Early March: Fall 2024 CS Course Schedule released on UVA CS Advising Guide
+- Friday, March 15: Full class search available in SIS for summer and fall 2024
+- Friday, March 22: Shopping cart opens in SIS for summer and fall 2024
+- Tuesday, March 26: Summer 2024 enrollment opens for 4th & 3rd Years
+- Wednesday, March 27: Summer 2024 enrollment opens for 2nd Years
+
+__Fall 2024 Enrollment begins the week of April 8:__
+
+- Monday, April 8 for 4th Years
+- Tuesday, April 9 for 3rd Years
+- Wednesday, April 10 for 2nd Years
+
+Incoming 1st Year students and new transfer students will enroll during their orientation session over the summer.  Slots will be held in CS 1110, CS 1111, CS 1112, CS 2100, CS 2120, and CS 2130 for summer enrollment.
+
+__Advising will begin in early March.  Please watch for emails from the CS department!__ 
