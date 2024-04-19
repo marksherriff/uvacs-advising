@@ -29,7 +29,7 @@ __NOTE:__ While the contacts in this section are in the SEAS Dean's office, Coll
 ### Learning
 {: .no_toc }
 * [Lisa Lampe](https://engineering.virginia.edu/current-students/current-undergraduate-students/student-support/academic-coaching), Director of Undergraduate Education
-* [Georgiana Nembhard](https://engineering.virginia.edu/current-students/current-undergraduate-students/student-support/academic-coaching), Director of Undergraduate Success 
+* [Georgina Nembhard](https://engineering.virginia.edu/current-students/current-undergraduate-students/student-support/academic-coaching), Director of Undergraduate Success 
 * [Courtney MacMasters](mailto:cmacmasters@virginia.edu), Accessibility Specialist
 * [Free tutoring](https://engineering.virginia.edu/current-students/current-undergraduate-students/student-support/tutoring) is available for most classes
 
@@ -54,7 +54,7 @@ Students who wish to request academic accommodation for a religious observance s
 Accommodations do not relieve you of the responsibility for completion of any part of the coursework missed as the result of a religious observance.
 
 ## Community and Identity
-The [Center for Diversity in Engineering](https://engineering.virginia.edu/about/diversity-and-engagement/center-diversity-engineering) (CDE) is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world.  The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers.
+The [Center for Diversity in Engineering](https://engineering.virginia.edu/about-our-school/diversity-equity-and-engagement/center-diversity-engineering) (CDE) is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world.  The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers.
 
 ## Statement on Violence
 The University of Virginia is dedicated to providing a safe and equitable learning environment for all students. If you or someone you know has been affected by power-based personal violence, more information can be found on the [UVA Sexual Violence website](http://www.virginia.edu/sexualviolence) that describes reporting options and resources available.  
