@@ -46,6 +46,15 @@ UVAccelerate offers a non-binding and flexible program structure. You may withdr
 
 See Q6 above. Strongly recommended CS6190 (CS perspective, 1 hr). It is required for all MS/MCS degrees and only offered in Fall. Other than that, decide based on your personal interest (e.g. ML, CPS, or systems?), career plan (e.g. looking for internship that may require LLM skills?), and course load (e.g. how many project-based courses you will have?). Check Lou's list to see what is to be offered. Contact individual instructors asking for syllabi. 
 
+**Q9: How do I get enrolled in graduate classes?**
+
+By filling in a request form online. That will geneate requests to their advisors (cs-office), to the course instructors, and to the SEAS grad office & registrar (in this order). 
+Should any approver denies the form (e.g. the form has incorrect information), the students will be notified of the denial. This basically voids the request.
+
+**Q10: How does the student know where their form is and do they get a notification once it is denied or processed?**
+
+The student will not know where the form is in the approval process, but they will be notified once everything is approved or if their request is denied.  If they submitted the form a while ago, they can email Mr. Jesse Rogers (the SEAS registrar) to get a status on their request.  Many times it’s held up somewhere, and they can resend the form to the recipient. 
+
 **Q99: I still have questions. Who to contact?** 
 
 * For general UVXL questions (application, finance, etc), contact Ashley Haddox at the SEAS graduate office. 
