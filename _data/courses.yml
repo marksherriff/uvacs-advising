@@ -37,7 +37,7 @@
   credits: 3
   description: "This course is an introduction to the most important ideas in computing. It focuses on the big ideas in computer science including the major themes of recursive definitions, universality, and abstraction. It covers how to describe information processes by defining procedures using the Scheme and Python programming languages, how to analyze the costs required to carry out a procedure, and the fundamental limits of what can be computed."
   prereqs: None
-  flag: foundation
+
 
 - course: CS 1501
   title: Special Topics in Computer Science
