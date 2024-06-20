@@ -22,9 +22,9 @@ nav_order: 9
 
 ## BACS Presentations
 
-Here is an orientation Video for College students interested in the BACS or CS minor (recorded June 2023).  This is for potential majors, newly declared majors, and new or potential transfer students.
+Here is an orientation video for College students interested in the BACS or CS minor (recorded June 2024).  This is for potential majors, newly declared majors, and new or potential transfer students.
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/EbbcLVnX1T4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://youtu.be/0PEnIikSjPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 * [Slides]({{base_url}}/materials/bacs-orientation-june2023.pdf) from the above presentation. 
