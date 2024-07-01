@@ -77,7 +77,7 @@ __Before you declare:__
 
 ### Submitting the Declaration of Major for the BACS
 
-Go to the College's page of DocuSign forms, [https://college.as.virginia.edu/student-forms](https://college.as.virginia.edu/student-forms). (FYI the instructions recommend you use the Chrome web browser.) You have to do some things to show you're a real UVA student, and then look for the item "Declaration of Major and Minor Form (DocuSign)".  Read what's there, and to then get to the form, click on that text in the left column.  Note: it says to contact someone in CS to determine what steps you need to in order to declare, but you don't need to do that -- the page you're reading explains all that!
+Go to the College's page of DocuSign forms, [https://college.as.virginia.edu/forms](https://college.as.virginia.edu/forms). (FYI the instructions recommend you use the Chrome web browser.) You have to do some things to show you're a real UVA student, and then look for the item "Declaration of Major and Minor Form (DocuSign)".  Read what's there, and to then get to the form, click on that text in the left column.  Note: it says to contact someone in CS to determine what steps you need to in order to declare, but you don't need to do that -- the page you're reading explains all that!
  
 __Step 1:__     
 You'll first see the "Powerform" where you must enter just 4 things:  your name and your email address, and then (for the "DMC" person) enter the Program Director's name, Tom Horton, and the email address __tbh3f@virginia.edu__. (Not "horton@virginia.edu", but "tbh3f@virginia.edu". Do NOT enter the "bacsdirector" email alias in DocuSign! __Failure to enter the correct email address means your form may not come to our attention for months, if at all, due to the way DocuSign works.__)
@@ -108,4 +108,4 @@ Your form will be forwarded to a sequence of people, who will approve it, assign
 
 ## How to Undeclare the BACS Major
 
-If the BACS is your second major, and you no longer wish to pursue the BACS major, use the "Delete a Major or Minor" form on the [student forms](https://college.as.virginia.edu/student-forms) page.  This form is also used to change a major to a minor. 
+If the BACS is your second major, and you no longer wish to pursue the BACS major, use the "Delete a Major or Minor" form on the [student forms](https://college.as.virginia.edu/forms) page.  This form is also used to change a major to a minor. 
