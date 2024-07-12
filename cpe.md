@@ -106,7 +106,7 @@ Total: 40.5 credits.
 * CS 2130 - Computer Systems and Organization 1 (Credits: 4)
 * CS 3130 - Computer Systems and Organization 2 (Credits: 4)
 * CS 3140 - Software Development Essentials (Credits: 3)
-* ECE 2200 - Applied Circuits (Credits: 3)
+* ECE 2300 - Applied Circuits (Credits: 3)
 * ECE 2330 - Digital Logic and Design (Credits: 3)
 * ECE 2600 - Electronics (Credits: 3)
 * ECE 2700 - Signals and Systems (Credits: 3)
