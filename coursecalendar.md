@@ -7,7 +7,7 @@ nav_exclude: true
 
 # CS Course Calendars
 
-[Teaching Assignment Spreadsheet (AY '24-'25)](https://docs.google.com/spreadsheets/d/1jkSN9MAiuWCmQBtvg7ZosutvPLgnuWDjFa288sKFlqw/edit?usp=sharing)
+[Teaching Assignment Spreadsheet (AY '24-'25) - Currently being updated with new faculty and assignments](#)
 
 ### Undergraduate 1000-2000 Courses
 
