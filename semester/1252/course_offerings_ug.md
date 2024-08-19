@@ -8,7 +8,7 @@ parent: Course Information
 
 __Last Updated: Monday, February 15__
 
-_NOTE: Below is the current predicted courses for Spring 2025.  This is subject to change, but is being provided to help students plan their next academic year as best as possible._
+_NOTE: This is now very much out of date and will be updated in the coming weeks._
 
 ## Undergraduate Courses
 
