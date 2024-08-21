@@ -70,7 +70,8 @@ The College members of the BACS committee and the College Dean’s office have g
 ## 5) Can BACS integration electives also satisfy requirements for another major or a minor?
 
 __Sharing courses with another major:__     
-The College’s rule states: “No more than two courses can be counted simultaneously for two non-interdisciplinary majors; an interdisciplinary major may share up to three courses with another major.”  (You can see this rule and a list of which majors are “interdisciplinary” [on this page in the section “Number of Credits”]({{ site.data.externallinks.college_declaring_major }}).)
+The College’s rule states: “No more than two courses can be counted simultaneously for two non-interdisciplinary majors; an interdisciplinary major may share up to three courses with another major.”  (You can see this rule [here on the College website]({{ site.data.externallinks.college_double_majors }}),
+and see a list of which majors are “interdisciplinary” [on this page in the section “What is an Interdisciplinary Major?”]({{ site.data.externallinks.college_types_majors }}).)
 
 __Sharing and CS111x and CS2100/CS2110:__ For the BACS, these courses are __prerequisites to declare the major,__ and for this reason are not officially degree requirements. So College sharing rules for major and minors do not apply to these courses!
 

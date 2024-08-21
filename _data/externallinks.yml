@@ -32,7 +32,9 @@ seas_declaring_major: "https://engineering.virginia.edu/current-students/current
 seas_undergrad_forms: "https://engineering.virginia.edu/undergraduate-study/current-undergrads/degree-information/undergraduate-registration-forms"
 
 ## College links
-college_declaring_major: "https://college.as.virginia.edu/declaremajor"
+college_declaring_major: "https://college.as.virginia.edu/when-and-how-declare-your-major"
+college_types_majors:  "https://college.as.virginia.edu/types-majors-college"
+college_double_majors: "https://college.as.virginia.edu/college-policies-regarding-majors"
 college_departments: "http://as.virginia.edu/departments"
 
 ## Registrar links
