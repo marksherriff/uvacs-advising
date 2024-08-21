@@ -168,5 +168,5 @@ __Q: Do I have to take CS 4991 in the fall or can I take it in the spring?__
 A: It doesn't matter which semester you take it.  Prof. Vrugtman will take half of the BSCS students who want to do this option this fall and the other half in the spring.  If you want to do it in the fall, it may already be full, but you can see if someone wants to drop or swap.
  
 __Q: I don't want to do a 6th elective and would prefer research or an independent project.__    
-A: Great!  You can go to [https://uvacsadvising.org/ug_research.html](https://uvacsadvising.org/ug_research.html) to see a list of potential projects or ideas.  Even if the idea was posted a while ago, if you think it sounds cool, reach out to the professor!  They may still be working on that project or have other ideas based on your interests!  It never hurts to reach out to our faculty to talk about their research or your project ideas.
+A: Great!  You can go to [https://uvacsadvising.org/ug_research.html](https://uvacsadvising.org/ug_research.html) to see a list of potential projects or ideas.  Even if the idea was posted a while ago, if you think it sounds cool, reach out to the professor!  They may still be working on that project or have other ideas based on your interests!  It never hurts to reach out to our faculty to talk about their research or your project ideas.  
 
