@@ -71,14 +71,16 @@ The College members of the BACS committee and the College Dean’s office have g
 
 __Sharing courses with another major:__     
 The College’s rule states: “No more than two courses can be counted simultaneously for two non-interdisciplinary majors; an interdisciplinary major may share up to three courses with another major.”  (You can see this rule [here on the College website]({{ site.data.externallinks.college_double_majors }}),
-and see a list of which majors are “interdisciplinary” [on this page in the section “What is an Interdisciplinary Major?”]({{ site.data.externallinks.college_types_majors }}).)
+and see a list of which majors are “interdisciplinary” [on this page]({{ site.data.externallinks.college_types_majors }}) in the section “What is an Interdisciplinary Major?"".)
+
+This rule also applies if your other major is not in the College, e.g. in Data Science, the Batten School, etc.
 
 __Sharing and CS111x and CS2100/CS2110:__ For the BACS, these courses are __prerequisites to declare the major,__ and for this reason are not officially degree requirements. So College sharing rules for major and minors do not apply to these courses!
 
 For College CS majors, it depends on if you’re following the “old” or “new” CS major requirements.
 
-1. If you’re following the “old” curriculum requirements, the CS degree you’ll get is an interdisciplinary major, i.e. it is officially part of the “interdisciplinary” degree program.  Therefore, you __can share up to 3 courses__ from the BACS (CS courses and/or Integration Electives) with any other major. 
-2. If you’re following the “new” curriculum requirements, the CS degree you’ll get is NOT an interdisciplinary major.  If the other major is interdisciplinary, you __can share up to 3 courses__ from the BACS (CS courses and/or Integration Electives) with that interdisciplinary major. But if the other major is not interdisciplinary, you __can share only 2 courses__.
+1. If you’re following the “new” (really the current) curriculum requirements, the CS degree you’ll get is NOT an interdisciplinary major.  If the other major is interdisciplinary, you __can share up to 3 courses__ from the BACS (CS courses and/or Integration Electives) with that interdisciplinary major. But if the other major is not interdisciplinary, you __can share only 2 courses__.
+2. If you’re following the “old” curriculum requirements, the CS degree you’ll get is an interdisciplinary major, i.e. it is officially part of the “interdisciplinary” degree program.  Therefore, you __can share up to 3 courses__ from the BACS (CS courses and/or Integration Electives) with any other major. 
 3. It’s possible that the other department may need to agree to sharing. CS always approves of such sharing. Check with your advisor or DUP in the other department to see if they have any restrictions.  Cognitive Science in particular has some specific rules about this. Check with CogSci about this if that’s your second major.
 
 __Sharing with a minor:__
