@@ -27,11 +27,11 @@ This website is maintained by the faculty and staff of the Department of Compute
 
 Rice Hall 4th Floor Open Area
 
-- Monday: 11:30 AM - 1:30 PM 
-- Tuesday: 12:00 PM - 3:00 PM
-- Wednesday: 11:30 AM - 1:30 PM 
-- Thursday: 12:00 PM - 3:00 PM 
-- Friday: 1:00 PM - 3:00 PM 
+- Monday: 2:30 PM - 6:00 PM
+- Tuesday: 8:00 AM - 10:30 AM & 3:30 PM - 5:00 PM
+- Wednesday: 2:30 PM - 6:00 PM
+- Thursday: 8:30 AM - 10:30 AM & 3:30 PM - 5:30 PM
+- Friday: 2:30 PM - 5:00 PM
 
 ## Congrats New Hoos!
 
