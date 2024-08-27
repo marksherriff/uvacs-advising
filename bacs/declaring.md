@@ -77,18 +77,15 @@ __Before you declare:__
 
 ### Submitting the Declaration of Major for the BACS
 
-Go to the College's page of DocuSign forms, [https://college.as.virginia.edu/forms](https://college.as.virginia.edu/forms). (FYI the instructions recommend you use the Chrome web browser.) You have to do some things to show you're a real UVA student, and then look for the item "Declaration of Major and Minor Form (DocuSign)".  Read what's there, and to then get to the form, click on that text in the left column.  Note: it says to contact someone in CS to determine what steps you need to in order to declare, but you don't need to do that -- the page you're reading explains all that!
+Go to the College's page ["Declaration of Major and Minor - Form and Instructions"](https://college.as.virginia.edu/declaration-major-and-minor-form-and-instructions). (FYI the instructions recommend you use the Chrome web browser.) You may have to do some things to show you're a real UVA student.  Read what's there, and to then get to the form, click on that text in the left column.  Note: it says to contact someone in CS to determine what steps you need to in order to declare, but you don't need to do that -- the page you're reading explains all that!
  
 __Step 1:__     
 You'll first see the "Powerform" where you must enter just 4 things:  your name and your email address, and then (for the "DMC" person) enter the Program Director's name, Tom Horton, and the email address __tbh3f@virginia.edu__. (Not "horton@virginia.edu", but "tbh3f@virginia.edu". Do NOT enter the "bacsdirector" email alias in DocuSign! __Failure to enter the correct email address means your form may not come to our attention for months, if at all, due to the way DocuSign works.__)
 Don't enter or change anything else, but you MUST click on __Begin Signing__ at the bottom.
-(The following link shows you what this Powerform looks like and where you enter things:
-[https://college.as.virginia.edu/sites/college.as.virginia.edu/files/DoM%20PowerForm%20Instructions3.pdf](https://college.as.virginia.edu/sites/college.as.virginia.edu/files/DoM%20PowerForm%20Instructions3.pdf))
  
 __Step 2:__      
 After you click __Begin Signing__, you'll see the major declaration form. You'll need to complete the some info, sign it, and click __Finish__ at the bottom of that page.
-What info will you need to enter?  __See the next section for CS-specific instructions.__  Also, here's a PDF file the College has provided that shows what this form will look like:
-[https://college.as.virginia.edu/sites/college.as.virginia.edu/files/DecOfMajorForm%20watermark.pdf](https://college.as.virginia.edu/sites/college.as.virginia.edu/files/DecOfMajorForm%20watermark.pdf)
+What info will you need to enter?  __See the next section for CS-specific instructions.__  Also, here's a PDF file the College has provided that shows [what this form will look like:](https://college.as.virginia.edu/sites/college.as.virginia.edu/files/2024-05/Declaration%20of%20Major%20Preview%20Form.pdf).
  
 __IMPORTANT NOTES:__       
 
