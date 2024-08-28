@@ -198,6 +198,7 @@ Below that is a list of courses for which petitions __will not be accepted__. Be
 * ARTS 2559    Drawing and Design
 * ASTR 1220    Introduction to Stars, Galaxies, and the Universe
 * ASTR 3450     Mission to Mars
+* ECE 2066    Science of Information
 * ECE 2330    Digital Logic Design
 * EDIS xxxx	Applied Teaching with Technology other than EDIS 2200, Designing Art, Music, & Games
 * EGMT xxxx   The College has told us that no Engagement course can count
