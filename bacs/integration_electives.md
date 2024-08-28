@@ -162,12 +162,13 @@ Below that is a list of courses for which petitions __will not be accepted__. Be
 * MDST 3500, Comparative Histories of the Internet
 * MDST 3559-011 from Spring 2020, Designing Play (will be on the 2020-2021 list)
 * MDST 3665, Digital Media Accessibility
-* MESA 2559: Playing Games: A Gateway to the Mid East & S Asia
-* MUSI 2559/3559 in Summer 2022: Sonification for Musicians, Designers and Scientists
+* MDST 3760,  Reading Black Digital Culture
+* MESA 2559, Playing Games: A Gateway to the Mid East & S Asia
+* MUSI 2559/3559 in Summer 2022, Sonification for Musicians, Designers and Scientists
 * MUSI 3374, Composing Mixtapes
 * MUSI 4620, Audio Visual Environments
 * PHYS 5630, Computational Physics I
-* PHIL 2500 sections on the topic Minds and Machines
+* PHIL 2500, sections on the topic Minds and Machines
 * PHIL 3400, Introduction to Non-Classical Logic
 * PHIL 3620, Science Fiction & Philosophy
 * PSYC 2100, Introduction to Learning (AKA Learning and Behavior?), Fall 2018
@@ -181,13 +182,13 @@ Below that is a list of courses for which petitions __will not be accepted__. Be
 * PSYC 5500, Electroencephalography in Spring 2020
 * PSYC 5710, Machine Learning and Data Mining
 * PSYC 5715, Introduction to Machine Learning for Psychologists
-* RELG 3001   Gods, Humans, Robots
+* RELG 3001,   Gods, Humans, Robots
 * SARC 5400, Data Visualization
 * SOC 4780, The Politics of Data
-* STAT 3110: Foundations of Statistics
+* STAT 3110, Foundations of Statistics
 * STAT 3280, Data Visualization and Management
 * STAT 4559 from Fall 2020, Statistical Text Analysis
-* WGS 3415	Sex and Resistance on the Internet
+* WGS 3415,	Sex and Resistance on the Internet
 * Research coursework or independent study in a College department where computing is applied to that area, as long as this course receives a letter grade.
 
 ### Already determined NOT to be eligible:
