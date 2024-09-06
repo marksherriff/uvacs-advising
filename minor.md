@@ -19,7 +19,9 @@ To obtain a minor in computer science, a student must complete the following req
 * [CS 2120 - Discrete Mathematics and Theory 1]({{ baseurl }}/courses.html#cs-2120-discrete-mathematics-and-theory-1) (Credits: 3)
 * [CS 2130 - Computer Systems and Organization 1]({{ baseurl }}/courses.html#cs-2130-computer-systems-and-organization-1) (Credits: 4)
 * [CS 3140 - Software Development Essentials]({{ baseurl }}/courses.html#cs-3140-software-development-essentials) (Credits: 3)
-* One [CS Elective]({{ baseurl }}/policies.html#cs-elective-policy) (Credits: 3)
+* One [CS Elective]({{ baseurl }}/policies.html#cs-elective-policy) (Credits: 3)^
+
+_^Note: CS Minors can also take CS 3100, CS 3120, CS 3140, or CS 3240 as their CS Elective if they so choose._
 
 ### Notes About the Minor
 
