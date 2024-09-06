@@ -33,10 +33,6 @@ Rice Hall 4th Floor Open Area
 - Thursday: 8:30 AM - 10:30 AM & 3:30 PM - 5:30 PM
 - Friday: 2:30 PM - 5:00 PM
 
-## Congrats New Hoos!
-
-Congratualations to all the new Hoos of the Class of 2028!  If you have any questions about the BSCS, BACS, or BSCPE degrees at UVA, please feel free to look through the degree information pages here or email with questions.  Remember that Engineering Open House is April 7 if you want to come meet us!
-
 
 {: .note }
 The information contained on this website is for informational purposes only. The Undergraduate Record and Graduate Record represent the official repository for academic program requirements. These publications may be found at [http://records.ureg.virginia.edu/](http://records.ureg.virginia.edu/index.php).
