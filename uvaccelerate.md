@@ -55,6 +55,13 @@ Should any approver denies the form (e.g. the form has incorrect information), t
 
 The student will not know where the form is in the approval process, but they will be notified once everything is approved or if their request is denied.  If they submitted the form a while ago, they can email Mr. Jesse Rogers (the SEAS registrar) to get a status on their request.  Many times it’s held up somewhere, and they can resend the form to the recipient. 
 
+**Q11: How can I get TA and/or RA positions?**
+
+TA: The department rarely hires MS/MCS students unless specifically requested by faculty, often when a professor knows the student and recognizes their suitability. Consider reaching out to professors proactively. TAs for MS/MCS are usually hourly and don’t cover tuition.
+
+RA: Funding comes from individual faculty members, so building relationships is key. This can be achieved by doing independent studies or capstone projects under their supervision.
+
+
 **Q99: I still have questions. Who to contact?** 
 
 * For general UVXL questions (application, finance, etc), contact Ashley Haddox at the SEAS graduate office. 
