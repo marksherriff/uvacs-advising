@@ -25,14 +25,15 @@ This website is maintained by the faculty and staff of the Department of Compute
 
 ## Walk-In CS Advising Hours
 
-Rice Hall 4th Floor Open Area
+CS Student Ambassadors (4th floor Rice table):
 
-- Monday: 2:30 PM - 6:00 PM
-- Tuesday: 8:00 AM - 10:30 AM & 3:30 PM - 5:00 PM
-- Wednesday: 2:30 PM - 6:00 PM
-- Thursday: 8:30 AM - 10:30 AM & 3:30 PM - 5:30 PM
-- Friday: 2:30 PM - 5:00 PM
+- Mondays, Wednesday, & Fridays: 11:00 AM-5:00 PM
+- Tuesdays & Thursdays: 9:00 AM-12:30 PM & 3:30-5:00 PM
 
+CS Advising Staff:
+
+- Mondays, Thursdays, & Fridays: 2:00-4:00 PM
+- Tuesdays & Wednesdays: 10:00 AM-12:00 PM
 
 {: .note }
 The information contained on this website is for informational purposes only. The Undergraduate Record and Graduate Record represent the official repository for academic program requirements. These publications may be found at [http://records.ureg.virginia.edu/](http://records.ureg.virginia.edu/index.php).
