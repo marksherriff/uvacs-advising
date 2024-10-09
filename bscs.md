@@ -98,16 +98,7 @@ The senior thesis should be taken during the student’s last year and consists 
 
 ### Computer Science Electives
 
-BSCS majors must complete 15 credits of CS courses at the 3000 level or higher.  These courses must have the CS mnemonic.  Courses from other disciplines will only be accepted under rare circumstances and by approval of the CS Undergraduate Curriculum Committee.  Additional CS electives may be required as part of the CS 4991 option for the senior thesis or to fill in missing credits due to place-out test.
-
-Guidelines for CS Electives:
-
-* Must have a CS mnemonic.
-* Must be at the 3000 level or higher.
-* Must not be a foundation course or upper-level required course
-* Second digit of course number must not be 0 or 9, except as noted below
-* Two electives with significant overlap of material cannot both count toward the CS degree.
-* Up to three (3) credits of CS 4993 - Independent Study may count toward the CS elective requirement.  Credits beyond this limit may be applied to the unrestricted elective requirement.
+BSCS majors must complete 15 credits of [CS electives]({{baseurl}}/policies.html#cs-elective-policy).  These courses must have the CS mnemonic.  Additional CS electives may be required as part of the CS 4991 option for the senior thesis or to fill in missing credits due to place-out test.  
 
 ### Applied Mathematics Electives
 
