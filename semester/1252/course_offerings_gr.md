@@ -2,6 +2,7 @@
 layout: default
 title: Grad - Spring 2025
 parent: Course Information
+nav_exclude: true
 ---
 
 # CS Graduate Courses for Spring 2025

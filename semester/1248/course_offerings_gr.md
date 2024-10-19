@@ -2,6 +2,7 @@
 layout: default
 title: Grad - Fall 2024
 parent: Course Information
+nav_exclude: true
 ---
 
 # CS Graduate Courses for Fall 2024

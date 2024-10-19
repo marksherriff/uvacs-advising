@@ -2,6 +2,7 @@
 layout: default
 title: Undergrad - Spring 2025
 parent: Course Information
+nav_exclude: true
 ---
 
 # CS Undergrad Courses for Spring 2025

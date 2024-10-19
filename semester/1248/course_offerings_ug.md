@@ -2,6 +2,7 @@
 layout: default
 title: Undergrad - Fall 2024
 parent: Course Information
+nav_exclude: true
 ---
 
 # CS Undergrad Courses for Fall 2024

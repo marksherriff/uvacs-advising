@@ -25,12 +25,12 @@ This website is maintained by the faculty and staff of the Department of Compute
 
 ## Walk-In CS Advising Hours
 
-CS Student Ambassadors (4th floor Rice table):
+CS Student Ambassadors (4th Floor Rice table):
 
 - Mondays, Wednesday, & Fridays: 11:00 AM-5:00 PM
 - Tuesdays & Thursdays: 9:00 AM-12:30 PM & 3:30-5:00 PM
 
-CS Advising Staff:
+CS Advising Staff (4th Floor Rice):
 
 - Mondays, Thursdays, & Fridays: 2:00-4:00 PM
 - Tuesdays & Wednesdays: 10:00 AM-12:00 PM
