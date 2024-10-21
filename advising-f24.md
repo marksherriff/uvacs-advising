@@ -22,7 +22,7 @@ You may have a department __advising hold__  that must get removed before you ca
 *New!* Some students will have their __CS department advising holds__ removed automatically by October 18 without needing to see their advisor. Each CS major will be in one of three groups:
 
 * __Newly-declared BACS majors:__  BACS majors who declared after 3/1/2024 must see your faculty advisor before you're allowed to register for fall courses.
-* __Newly-declared BSCS majors:__  BSCS majors who declared in Spring or Summer should have meet with an advisor by now. You will not have a hold, but please see one of our advising staff or your faculty advisor if you have questions before you register for fall courses.
+* __Newly-declared BSCS majors:__  BSCS majors who declared in Spring or Summer should have already met with an advisor by now. You will not have a hold, but please see one of our advising staff or your faculty advisor if you have questions before you register for fall courses.
 * __Students needing extra support:__ Some majors have been identified as needing some extra support through advising. We are emailing these students, who will need to meet with one of the department advising staff (SJ Jimenez or Sheri Grimes) before they can register.
 * __All other students__ will have their hold removed automatically by October 18 without needing to see their advisor. But, these students are encouraged to see their advisor or get assistance from another source, as appropriate.  See below for more info!
 
