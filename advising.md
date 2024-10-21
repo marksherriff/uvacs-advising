@@ -13,9 +13,9 @@ has_children: true
 
 ## Advising
 
-Every BACS and BSCS major is assigned a faculty advisor in the CS department. You can find their name when you log into SIS. This person is a good resource for CS matters but not for everything.  Your CS advisor is a great person to talk to about CS and computing issues, including career plans, getting into research, sub-areas of computing, etc.  Other people and sources for getting information are described on this page and also on the "Spring 2024" page linked in the next paragraph.
+Every BACS and BSCS major is assigned a faculty advisor in the CS department. You can find their name when you log into SIS. This person is a good resource for CS matters but not for everything.  Your CS advisor is a great person to talk to about CS and computing issues, including career plans, getting into research, sub-areas of computing, etc.  Other people and sources for getting information are described on this page and also on the "Fall 2024" page linked in the next paragraph.
 
-__Advising for Fall 2024 registration:__ The CS department is using a new process for advising BACS and BSCS majors before course registration for Fall 2024 begins on April 8. In the past, every student was required to see their faculty advisor to get their registration hold released. But this semester things are different, so please read the info about [Advising for CS Majors during Spring 2024]({{ baseurl }}/advising-s24.html)
+__Advising for Fall 2024 registration:__ The CS department is using a new process for advising BACS and BSCS majors before course registration for Spring 2024 begins on November 4. In the past, every student was required to see their faculty advisor to get their registration hold released. But this semester things are different, so please read the info about [Advising for CS Majors during Fall 2024]({{ baseurl }}/advising-f24.html)
 
 Before course registration, __some__ CS majors (but not all) will have an advising hold that will prevent them from registering until it is removed.  See the page link above for how this might or might not affect you when registering for next term's courses.
 
