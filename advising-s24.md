@@ -3,6 +3,7 @@ layout: default
 title: BACS/BACS Advising (Spring 2024)
 nav_order: 5
 parent: Getting Help / Advising
+nav_exclude: true
 ---
 
 # BACS and BSCS Advising before Course Registration (Spring 2024)
