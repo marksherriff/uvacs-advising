@@ -26,7 +26,7 @@ You may have a department __advising hold__  that must get removed before you ca
 * __Students needing extra support:__ Some majors have been identified as needing some extra support through advising. We are emailing these students, who will need to meet with one of the department advising staff (SJ Jimenez or Sheri Grimes) before they can register.
 * __All other students__ will have their hold removed automatically by October 18 without needing to see their advisor. But, these students are encouraged to see their advisor or get assistance from another source, as appropriate.  See below for more info!
 
-You can see your [CS Faculty Advisor's Availability](https://myuva-my.sharepoint.com/:x:/g/personal/tbh3f_virginia_edu/ERsaJ2DKmNxMiN_047hwlxoBEQTMpYD2J1MSclVcwDNUTg)
+You can see your [CS Faculty Advisor's Availability](https://myuva-my.sharepoint.com/:x:/g/personal/smj4z_virginia_edu/EcoD2dr4L79Hn-nz98_dFOIBG5v8VUzuSrBx5KqRIKOlnQ?e=BUcz6u&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0)
 
 ## Important Dates
 
