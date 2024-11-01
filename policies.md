@@ -129,7 +129,7 @@ __For APMA:__ Any other APMA or MATH course credits not already being used towar
 
 For SEAS students, read the following information below.
 
-The department will help a CS student in SEAS change their graduation year / class year standing in SIS because they are graduating early __only when they are about to start their final year at UVA__.  This typically means the student has roughly 30-36 credits remaining and plans on enrolling in two more regular semesters at UVA.
+The department will help a CS student in SEAS change their graduation year / class year standing in SIS because they are graduating early when they have two semesters remaining at UVA.  This typically means the student has roughly 30 credits remaining.
 
 _The primary reason for requesting a graduation year change at this time is so that a student can register for STS 4500 in their penultimate semester._  STS 4500 has a prerequisite of 4th-year standing, so it's important to make your request _on time_ so that a student can register with the other 4th years to get into STS 4500.  Third-years can try to register for STS 4500 without applying for a graduation date change, but that request has to be approved by the STS 4500 professor, not someone in CS.
 
@@ -142,7 +142,7 @@ While requests can be made outside of this timeframe, the department cannot guar
 
 If a SEAS student is in this position and wishes to proceed, they need to create a course schedule / outline that shows that they can finish the degree in one year and make an appointment with the appropriate program director - [bscsdirector@virginia.edu](mailto:bscsdirector@virginia.edu) - with their plan to set up a meeting.  If the program director agrees that this plan is feasible, the program director will contact the SEAS school registrar to make the change in SIS.
 
-We __will not__ entertain requests to change a graduation year / class standing until one year remains because it is not uncommon for students to think they want to graduate early, only to find that they require more time.
+We __will not__ accept requests to change a graduation year / class standing when a student has more than two regular semesters remaining at UVA because it is not uncommon for students to think they want to graduate early, only to find that they require more time or want to stay for other reasons.
 
 Further, if we process this change for you, __you are committing to graduating early and cannot revert this change except under special circumstances.__
 
