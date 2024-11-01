@@ -131,7 +131,7 @@ For SEAS students, read the following information below.
 
 The department will help a CS student in SEAS change their graduation year / class year standing in SIS because they are graduating early __only when they are about to start their final year at UVA__.  This typically means the student has roughly 30-36 credits remaining and plans on enrolling in two more regular semesters at UVA.
 
-_The primary reason for requesting a graduation year change at this time is so that a student can register for STS 4500 in their penultimate semester._  STS 4500 has a prerequisite of 4th-year standing, so it's important to make your request _on time_ so that a student can register with the other 4th years to get into STS 4500.
+_The primary reason for requesting a graduation year change at this time is so that a student can register for STS 4500 in their penultimate semester._  STS 4500 has a prerequisite of 4th-year standing, so it's important to make your request _on time_ so that a student can register with the other 4th years to get into STS 4500.  Third-years can try to register for STS 4500 without applying for a graduation date change, but that request has to be approved by the STS 4500 professor, not someone in CS.
 
 The timeframe for making this change is:
 
