@@ -135,8 +135,8 @@ _The primary reason for requesting a graduation year change at this time is so t
 
 The timeframe for making this change is:
 
-- If it is currently the spring semester and you aim to graduate in one year in the next spring semester, submit your request between the Add Deadline (2 weeks after the start of the current spring semester) and February 15.
-- If it is currently the fall semester you aim to graduate in one year in the next fall semester, submit your request between the Add Deadline (2 weeks after the start of the current fall semester) and September 15.
+- If it is currently the spring semester and you aim to graduate in one year in the next spring semester, submit your request between the Add Deadline (2 weeks after the start of the current spring semester) and March 15.
+- If it is currently the fall semester you aim to graduate in one year in the next fall semester, submit your request between the Add Deadline (2 weeks after the start of the current fall semester) and October 15.
 
 While requests can be made outside of this timeframe, the department cannot guarantee that a student's class year can be changed in time for the next registration cycle if the request comes in after the 15th of Februrary or September, respectively.
 
