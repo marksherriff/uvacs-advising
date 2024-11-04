@@ -382,7 +382,7 @@
   title: Capstone Research
   credits: 1 - 3
   description: "This course is one option in the CS fourth-year thesis track. Students will seek out a faculty member as an advisor, and do an independent project with said advisor. Instructors can give the 3 credits across multiple semesters, if desired. This course is designed for students who are doing research, and want to use that research for their senior thesis. Note that this track could also be an implementation project, including a group-based project."
-  prereqs: CS 2150 or CS 2501 topic DSA2 with a grade of C- or higher, and BSCS major
+  prereqs: CS 3140 with a grade of C- or higher, and BSCS major
   flag: Capstone
 
 - course: CS 4991
