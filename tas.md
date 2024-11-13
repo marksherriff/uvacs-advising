@@ -6,7 +6,7 @@ nav_order: 8
 
 # Undergraduate Teaching Assistants
 
-## Now accepting submissions for the Fall 2024 semester!
+## Now accepting submissions for the Spring 2025 semester!
 
 [Computer Science Teaching Assistant Interest Form]({{ site.data.externallinks.csta_interest_form }}){: .btn .btn-purple}
 
