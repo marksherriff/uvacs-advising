@@ -119,6 +119,8 @@ For a 5000-level course, we're told you do not need special permission to enroll
 
 For a 6000-level course:
 
-__College students enrolled in UVAccelerate:__ You should receive instructions from that program about the process you should use.  Essentially you will follow the procedure for SEAS students (see above), and the UVAccelerate and SEAS will coordinate with the College to make this happen.
+__College students enrolled in UVAccelerate:__ You should receive instructions from that program about the process you should use.  Essentially you will follow the procedure for SEAS students (see above), and the UVAccelerate and SEAS will coordinate with the College to make this happen.  Also, see Note below.
 
-__College students _not_ in UVAccelerate:__ The College has a policy described on their [College Forms page](https://college.as.virginia.edu/forms). To enroll in a 6000-level course students must complete and submit the "6000 Form".  However, the form will not be made available until a few weeks before classes start, so it's not possible to enroll before that time. (The CS department has no control over this policy.)
+__College students _not_ in UVAccelerate:__ The College has a policy described on their [College Forms page](https://college.as.virginia.edu/forms). To enroll in a 6000-level course students must complete and submit the "6000 Form".  However, the form will not be made available until a few weeks before classes start, so it's not possible to enroll before that time. (The CS department has no control over this policy.) 
+
+Note: The College won't approve enrollment if the course is listed as full in SIS when they get the form.  It will get rejected when it makes it to the College person who signs it, so you'll need to wait until a place opens up and then hope the process moves quickly enough.  (About 3 people have to look at the form, so it sometimes doesn't. )  This is an awkward process and frustrating, but it's the College's way and we in CS don't have any control over it.
