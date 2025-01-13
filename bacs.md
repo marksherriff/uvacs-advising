@@ -80,6 +80,9 @@ Our page about  [Integration Electives]({{baseurl}}/bacs/integration_electives.h
 * A course that’s been added to a more recent version of the list will count for students who have an earlier year’s requirements term. (You will need to submit the form described in the document above.)
 * But, a course that’s been removed from an earlier year’s list will not count for a student following a later year’s requirements, unless it was taken before we made the change.
 
+### GPA requirements for the BACS
+
+At this time the BACS requirements for graduating with the BACS major do NOT include a minimum GPA requirement for CS courses. (Engineering students doing the BSCS major must have a 2.0 GPA average for CS courses.) Therefore a BACS major can have a grade as low as a D- in a CS course or integration elective course that will still satisfy the major requirement and count for graduation. Note you must have a C- or higher some CS courses that are prerequisites for later CS courses.
 
 ## Distinguished Majors Program
 
