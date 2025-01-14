@@ -27,8 +27,8 @@ This website is maintained by the faculty and staff of the Department of Compute
 
 CS Student Ambassadors (4th Floor Rice table):
 
-- Mondays, Wednesday, & Fridays: 11:00 AM-5:00 PM
-- Tuesdays & Thursdays: 9:00 AM-12:30 PM & 3:30-5:00 PM
+- Mondays & Wednesdays: 9:00 AM-3:00 PM
+- Tuesdays, Thursdays, & Fridays: 9:00 AM-5:00 PM
 
 CS Advising Staff (4th Floor Rice):
 
