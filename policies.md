@@ -81,8 +81,6 @@ Independent study courses are variable credit courses, which means a student can
 
 ## Policy on Enrolled Students Taking Course Work at Other Institutions
 
-__NOTE: This policy was emailed out by the SEAS Dean's Office in January 2024.  We are reviewing how it may also apply to BACS majors.__
-
 Per UVA's Academic Record, "University of Virginia students must secure the permission of their dean's office prior to enrolling in courses at another institution and transferring academic credit back to the University to apply toward their degree program."
 
 UVA expects you to be fully invested in your coursework here during the regular Fall and Spring semesters, and not taking courses elsewhere. If you enroll in a course elsewhere during the Fall or Spring UVA semesters without getting explicit written permission from your dean's office, then you will not be able to transfer any credits from that course back to UVA.  This rule does not normally apply to summer or J-term enrollment. 
