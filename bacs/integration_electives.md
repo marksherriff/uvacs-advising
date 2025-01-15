@@ -168,6 +168,7 @@ Below that is a list of courses for which petitions __will not be accepted__. Be
 * MUSI 3374, Composing Mixtapes
 * MUSI 4620, Audio Visual Environments
 * PHYS 5630, Computational Physics I
+* PHIL 1330, Virtual Worlds and Philosophy
 * PHIL 2500, sections on the topic Minds and Machines
 * PHIL 3400, Introduction to Non-Classical Logic
 * PHIL 3620, Science Fiction & Philosophy
