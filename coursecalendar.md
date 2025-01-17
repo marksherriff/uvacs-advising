@@ -7,8 +7,6 @@ nav_exclude: true
 
 # CS Course Calendars
 
-[Teaching Assignment Spreadsheet (AY '24-'25)](https://docs.google.com/spreadsheets/d/1jkSN9MAiuWCmQBtvg7ZosutvPLgnuWDjFa288sKFlqw/edit?usp=sharing)
-
 ### Undergraduate 1000-2000 Courses
 
 - [HTML - View in Browser](https://outlook.office365.com/owa/calendar/165022bfe47740ca8bb1433bd8759a7d@virginia.edu/a2dcfa5370bc4db48e86133ed3e57e1e11066348050535637388/calendar.html)
