@@ -17,10 +17,10 @@ This website is maintained by the faculty and staff of the Department of Compute
 ## Where do I go for help?
 
 - First, use the search bar above and search this online guide!  Most answers are here!
-- For questions about CS topics, CS research, opportunities in graduate school, aligning career goals with department courses, etc, please reach out to your assigned faculty advisor that you see listed in SIS.
+- For questions about CS topics, CS research, opportunities in graduate school, aligning career goals with department courses, etc, please reach out to your assigned faculty advisor that you see listed in SIS or Stellic.
 - For questions about applying for jobs, help with your resume, internships, etc, please contact [the Career Development Center](https://engineering.virginia.edu/offices-programs/center-engineering-career-development).
 - For questions about navigating academic policies or getting help with University resources (e.g., CAPS, SDAC), please contact SJ Jimènez-Calhoun ([smj4z@virginia.edu](mailto:smj4z@virginia.edu)), Sheri Grimes ([prk2zq@virginia.edu](mailto:prk2zq@virginia.edu)), or email [cs-office@virginia.edu](mailto:cs-office@virginia.edu).
-- For questions about SIS (exceptions, how things count, etc.), department resources, processing academic forms, taking placement exams, space reservations, listservs, graduation, etc., please email [cs-office@virginia.edu](mailto:cs-office@virginia.edu).
+- For questions about SIS or Stellic (exceptions, how things count, etc.), department resources, processing academic forms, taking placement exams, space reservations, listservs, graduation, etc., please email [cs-office@virginia.edu](mailto:cs-office@virginia.edu).
 - For questions about graduating early or exceptions to your degree program (e.g., substituting courses for other requirements), please email your appropriate program director.
 
 ## Walk-In CS Advising Hours
