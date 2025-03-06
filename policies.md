@@ -138,7 +138,7 @@ The timeframe for making this change is:
 
 While requests can be made outside of this timeframe, the department cannot guarantee that a student's class year can be changed in time for the next registration cycle if the request comes in after the 15th of Februrary or September, respectively.
 
-If a SEAS student is in this position and wishes to proceed, they need to create a course schedule / outline that shows that they can finish the degree in one year and make an appointment with the appropriate program director - [bscsdirector@virginia.edu](mailto:bscsdirector@virginia.edu) - with their plan to set up a meeting.  If the program director agrees that this plan is feasible, the program director will contact the SEAS school registrar to make the change in SIS.
+If a SEAS student is in this position and wishes to proceed, they need to create a course schedule / outline that shows that they can finish the degree in one year and email that schedule along with a transcript to [bscsdirector@virginia.edu](mailto:bscsdirector@virginia.edu).  If the program director agrees that this plan is feasible, the program director will contact the SEAS school registrar to make the change in SIS.
 
 We __will not__ accept requests to change a graduation year / class standing when a student has more than two regular semesters remaining at UVA because it is not uncommon for students to think they want to graduate early, only to find that they require more time or want to stay for other reasons.
 
