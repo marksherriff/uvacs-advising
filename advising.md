@@ -44,9 +44,14 @@ Also, if the student is doing the 6th elective option for the capstone, the actu
 
 ## Help with Studying Abroad
 
-Start with the International Studies office - [https://www.virginia.edu/academics/international](https://www.virginia.edu/academics/international).  They see a lot of CS majors and know many things faculty don't.
+Start with the International Studies office - [https://www.virginia.edu/academics/international](https://www.virginia.edu/academics/international).  They see a lot of CS majors and know many things that CS faculty don't. (For example, universities that match your goals in particular countries; costs; application processes; etc.)
 
-Need a course approved to be taken during study-abroad? Both BACS and BSCS should contact Prof. Charles Reiss @ [creiss@virginia.edu](mailto:creiss@virginia.edu) for approval of courses for CS degree requirements. Except for BACS integration electives -- for those, students should email [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu).
+The CS department does play a role in approving courses that satisfy CS major requirements.
+
+* To see if a CS course will count for a CS major requirement, both BACS and BSCS majors should contact Prof. Charles Reiss @ [creiss@virginia.edu](mailto:creiss@virginia.edu). Email him with details about the course (such as a website describing the course). If you're a BACS student he will email the BACS Program Director with his decision after he evaluates the course.
+* For BACS students seeking approval for an Integration Elective, email [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu) with details about the course. See note below about BACS students and DocuSign forms.
+* Note about BACS students and the DocuSign form: The College now requires the BACS Program Director to sign the DocuSign form and no one else, and this leads to a few issues. First, the Director is not the person in CS who evaluates and approves CS courses, so be sure to contact Prof. Reiss first and get his approval; this approval then needs to be passed along to the Director so they can sign the form.  Second, by signing the DocuSign form, the BACS Director is only approving the CS courses you list on your form. The non-CS courses will be evaluated and approved by the College after you submit the form, including exactly which course number a non-CS courses transfers as. Thus the BACS Director cannot say whether or not a non-CS course you list on the form will count for a requirement for general education, a minor or a second major. (If the Director does approve something as an integration elective, we'll accept it no matter number is used when it appears on your transcript.)
+
 
 ## Help with Internships / Career Planning
 
