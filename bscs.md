@@ -34,7 +34,7 @@ __Transferring Credits from Another University:__ Individual courses in Computer
 ## Degree Handouts and Resources
 
 * [UVA BSCS Degree Checklist]({{ site.data.externallinks.bscs_checklist}}) - For students matriculating to UVA Fall 2025 and later
-* [UVA BSCS Degree Checklist]({{ site.data.externallinks.bscs_checklist}}) - For students who matriculated to UVA prior to Fall 2025
+* [UVA BSCS Degree Checklist]({{ site.data.externallinks.bscs_checklist_pref25}}) - For students who matriculated to UVA prior to Fall 2025
 * [UVA BSCS Example Semester Schedule]({{ site.data.externallinks.bscs_example_schedule }})
 * [Course Prerequisite Chart]({{ baseurl }} /courses.html#prerequisite-chart)
 

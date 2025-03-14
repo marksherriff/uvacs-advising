@@ -8,6 +8,7 @@ ureg_transfer_credit: "http://records.ureg.virginia.edu/content.php?catoid=58&na
 
 ## CS Materials
 bscs_checklist: "/materials/uva-bscs-checklist.pdf"
+bscs_checklist_pref25: "/materials/uva-bscs-checklist-preF25.pdf"
 bscs_example_schedule: "/materials/bscs-example-schedule.pdf"
 bacs_checklist: "/materials/uva-bacs-checklist.pdf"
 bacs_example_schedule: "/materials/bacs-example-schedule.pdf"
