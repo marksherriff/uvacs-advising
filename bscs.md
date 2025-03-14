@@ -33,7 +33,8 @@ __Transferring Credits from Another University:__ Individual courses in Computer
 
 ## Degree Handouts and Resources
 
-* [UVA BSCS Degree Checklist]({{ site.data.externallinks.bscs_checklist}})
+* [UVA BSCS Degree Checklist]({{ site.data.externallinks.bscs_checklist}}) - For students matriculating to UVA Fall 2025 and later
+* [UVA BSCS Degree Checklist]({{ site.data.externallinks.bscs_checklist}}) - For students who matriculated to UVA prior to Fall 2025
 * [UVA BSCS Example Semester Schedule]({{ site.data.externallinks.bscs_example_schedule }})
 * [Course Prerequisite Chart]({{ baseurl }} /courses.html#prerequisite-chart)
 
@@ -45,6 +46,7 @@ All students completing the Bachelor of Science degree in Computer Science must 
 
 BSCS students must complete the unified set of general requirements for all engineering majors.  More information can be found on the SEAS Curricular Requirements page.  These courses are often completed during the first two years in SEAS, with the exception of STS 4500 and 4600, which are taken during the fall and spring of the fourth year, respectively.
 
+* [APMA 1090 - Single Variable Calculus II]({{ site.data.externallinks.apma_course_list }}) (Credits: 3) _(NOTE: New requirement for students matriculating Fall 2025 and after.)_
 * [APMA 1110 - Single Variable Calculus II]({{ site.data.externallinks.apma_course_list }}) (Credits: 4)
 * [APMA 2120 - Multivariable Calculus III]({{ site.data.externallinks.apma_course_list }}) (Credits: 4)
 * [CHEM 1410/1411 - Introductory Chemistry I & Lab]({{ site.data.externallinks.chem_course_list }}) (Credits: 4)
@@ -128,6 +130,8 @@ BSCS majors must complete a total of fifteen (15) credits of HSS electives, whic
 
 BSCS majors must complete fifteen (15) credits of unrestricted electives.  Unrestricted electives may be chosen from any graded course in the University except mathematics courses below MATH 1310; courses that substantially duplicate any others offered for the degree, including PHYS 2010, PHYS 2020, CS 1010, CS 1020; any introductory programming course; or SCPS courses. APMA 1090 counts as a three credit unrestricted elective. [See the SEAS page regarding electives for more information.]({{ site.data.externallinks.seas_elective_info }})
 
+_(NOTE: Students matriculating in Fall 2025 and after will complete twelve (12) credits of undrestricted electives instead of 15.)_
+
 ### GPA Requirement
 
 BSCS majors must have a 2.0 GPA average for CS courses in order to graduate.  For courses that must be repeated due to a failing grade or not obtaining the needed grade as a prerequisite for a later course, all grades (including the original grade) count toward the CS GPA.
@@ -143,11 +147,13 @@ The CS Capstone is comprised of two parts:
 1. Three credits of student work, either through independent research or a CS elective
 2. Writing the technical report as a part of the SEAS Senior Thesis
 
-There are two primary options for completing these two steps:
+There are three options for completing these two steps:
 
-__Option 1)__ Take 3 credits of CS 4980 and write the technical report at the end of this course.  Whoever you take CS 4980 with will sign off on the paper as being your technical report component for your senior thesis portfolio that you do with STS during 4500 and 4600.  Reach out to faculty to see what projects they may have or check out [https://uvacsadvising.org/ug_research.html](https://uvacsadvising.org/ug_research.html) for ideas!   
+__Option 1)__ Take 3 credits of CS 4971: Capstone Practicum II.  This course will involve a semester-long team project determined by the students.  It will be run similarly to CS 3240 in that it will follow a set development methodology.  A team report will be written at the end that will serve as the technical report for all students on the team.  This option may not be offered every semester.
 
-__Option 2)__ Take a 6th CS elective (CS 4000 or higher) -AND- take the 0-credit CS 4991 course.  The 6th CS elective will cover your required 3 credits needed for the capstone slot in your SIS Academic Requirements report.  CS 4991 is the course in which we track and evaluate a your technical report that you come up with on your own.  This course is pass/fail and you need a pass to graduate.
+__Option 2)__ Take 3 credits of CS 4980 and write the technical report at the end of this course.  Whoever you take CS 4980 with will sign off on the paper as being your technical report component for your senior thesis portfolio that you do with STS during 4500 and 4600.  Reach out to faculty to see what projects they may have or check out [https://uvacsadvising.org/ug_research.html](https://uvacsadvising.org/ug_research.html) for ideas!   
+
+__Option 3)__ Take a 6th CS elective (CS 4000 or higher) -AND- take the 0-credit CS 4991 course.  The 6th CS elective will cover your required 3 credits needed for the capstone slot in your SIS Academic Requirements report.  CS 4991 is the course in which we track and evaluate a your technical report that you come up with on your own.  This course is pass/fail and you need a pass to graduate.
   
 __Q: How do I come up with my paper topic?__    
 A: Here are two prompts to consider:
@@ -158,6 +164,6 @@ A: Here are two prompts to consider:
 __Q: Do I have to take CS 4991 in the fall or can I take it in the spring?__     
 A: It doesn't matter which semester you take it.  Prof. Vrugtman will take half of the BSCS students who want to do this option this fall and the other half in the spring.  If you want to do it in the fall, it may already be full, but you can see if someone wants to drop or swap.
  
-__Q: I don't want to do a 6th elective and would prefer research or an independent project.__    
+__Q: I don't want to do a 6th elective or CS 4971 and would prefer research or an independent project.__    
 A: Great!  You can go to [https://uvacsadvising.org/ug_research.html](https://uvacsadvising.org/ug_research.html) to see a list of potential projects or ideas.  Even if the idea was posted a while ago, if you think it sounds cool, reach out to the professor!  They may still be working on that project or have other ideas based on your interests!  It never hurts to reach out to our faculty to talk about their research or your project ideas.  
 
