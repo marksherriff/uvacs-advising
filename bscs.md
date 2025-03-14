@@ -46,7 +46,7 @@ All students completing the Bachelor of Science degree in Computer Science must 
 
 BSCS students must complete the unified set of general requirements for all engineering majors.  More information can be found on the SEAS Curricular Requirements page.  These courses are often completed during the first two years in SEAS, with the exception of STS 4500 and 4600, which are taken during the fall and spring of the fourth year, respectively.
 
-* [APMA 1090 - Single Variable Calculus II]({{ site.data.externallinks.apma_course_list }}) (Credits: 3) _(NOTE: New requirement for students matriculating Fall 2025 and after.)_
+* [APMA 1090 - Single Variable Calculus I]({{ site.data.externallinks.apma_course_list }}) (Credits: 3) _(NOTE: New requirement for students matriculating Fall 2025 and after.)_
 * [APMA 1110 - Single Variable Calculus II]({{ site.data.externallinks.apma_course_list }}) (Credits: 4)
 * [APMA 2120 - Multivariable Calculus III]({{ site.data.externallinks.apma_course_list }}) (Credits: 4)
 * [CHEM 1410/1411 - Introductory Chemistry I & Lab]({{ site.data.externallinks.chem_course_list }}) (Credits: 4)
@@ -149,7 +149,7 @@ The CS Capstone is comprised of two parts:
 
 There are three options for completing these two steps:
 
-__Option 1)__ Take 3 credits of CS 4971: Capstone Practicum II.  This course will involve a semester-long team project determined by the students.  It will be run similarly to CS 3240 in that it will follow a set development methodology.  A team report will be written at the end that will serve as the technical report for all students on the team.  This option may not be offered every semester.
+__Option 1)__ Take 3 credits of CS 4971: Capstone Practicum II.  This course will involve a semester-long team project determined by the students.  It will be run similarly to CS 3240 in that it will follow a set development methodology.  A team report will be written at the end that will serve as the technical report for all students on the team.  This option may not be offered every semester.  Further, sometimes the chosen project will be a year-long project instead of semester-long.  In those cases, CS 4970: Capstone Practicum I must be taken in the fall semester before CS 4971 in the spring.  
 
 __Option 2)__ Take 3 credits of CS 4980 and write the technical report at the end of this course.  Whoever you take CS 4980 with will sign off on the paper as being your technical report component for your senior thesis portfolio that you do with STS during 4500 and 4600.  Reach out to faculty to see what projects they may have or check out [https://uvacsadvising.org/ug_research.html](https://uvacsadvising.org/ug_research.html) for ideas!   
 
