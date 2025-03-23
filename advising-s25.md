@@ -13,11 +13,11 @@ parent: Getting Help / Advising
 
 ## New Process for Advising for BACS and BSCS Majors during Spring 2025
 
-The CS department is using a new process for advising BACS and BSCS majors before course registration for Fall 2025 begins. We began to use this process in Spring 2024. Before then every student was required to see their faculty advisor to get their registration hold released. But now things are different, so please read the following carefully.
+The CS department is using a new process for advising BACS and BSCS majors before course registration for Fall 2025 begins. We began to use this process in Spring 2024. Before then every student was required to see their faculty advisor to get their registration hold for the next fall or spring term is released. But now things are different, so please read the following carefully.
 
 ## Holds on your Registration
 
-You may have a department __advising hold__  that must get removed before you can register. You may have a hold added by someone other than CS (e.g. financial aid) that will stop you registering. __Important:__ you must take are of all holds before your sign-up time, as CS courses fill up very quickly and a delay in signing up can have a serious impact.
+You may have a department __advising hold__  that must get removed before you can register for the next fall or spring term. (Holds do not apply for summer registration.) You may have a hold added by someone other than CS (e.g. financial aid) that will stop you registering. __Important:__ you must take are of all holds before your sign-up time, as CS courses fill up very quickly and a delay in signing up can have a serious impact.
 
 *New!* Some students will have their __CS department advising holds__ removed automatically by April 3 without needing to see their advisor. Each CS major will be in one of three groups:
 
@@ -33,7 +33,7 @@ You can see your [CS Faculty Advisor's Availability](https://myuva-my.sharepoint
 
 * Friday, March 14 – Courses for Fall 2025 are listed on SIS
 * Friday, March 21 – Shopping Cart opens in SIS and enrollment appointments for summer and fall 2025 are visible
-* Tuesday, March 25 – Undergraduate Enrollment begins for Summer 2025
+* Tuesday, March 25 – Undergraduate Enrollment begins for Summer 2025 (Note: advising holds do not apply for summer registration)
 * Thursday, April 3 – CS majors who will have holds that wil be automatically dropped should see this reflected in SIS (but not before this date)
 * Monday, April 7 – Undergraduate Enrollment begins for Fall 2025
 * April 25 - remaining advising holds are removed
