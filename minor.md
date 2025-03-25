@@ -21,7 +21,7 @@ To obtain a minor in computer science, a student must complete the following req
 * [CS 3140 - Software Development Essentials]({{ baseurl }}/courses.html#cs-3140-software-development-essentials) (Credits: 3)
 * One [CS Elective]({{ baseurl }}/policies.html#cs-elective-policy) (Credits: 3)^
 
-_^Note: CS Minors can also take CS 3100, CS 3120, CS 3140, or CS 3240 as their CS Elective if they so choose._
+_^Note: CS Minors can also take CS 3100, CS 3120, CS 3130, or CS 3240 as their CS Elective if they so choose._
 
 ### Notes About the Minor
 
