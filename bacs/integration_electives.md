@@ -158,9 +158,10 @@ Below that is a list of courses for which petitions __will not be accepted__. Be
 * MATH 3354, Survey of Algebra
 * MATH 4651, Advanced Linear Algebra
 * MDST 3180, Media Law
-* MDST 3430, AI and Cinema
+* MDST 3430, AI and Cinema (Rendering AI: Cinema and Artificial Intelligence)
 * MDST 3500, Comparative Histories of the Internet
 * MDST 3559-011 from Spring 2020, Designing Play (will be on the 2020-2021 list)
+* MDSTS 3510 (or 3559) AI Policy and Society
 * MDST 3665, Digital Media Accessibility
 * MDST 3760,  Reading Black Digital Culture
 * MESA 2559, Playing Games: A Gateway to the Mid East & S Asia
