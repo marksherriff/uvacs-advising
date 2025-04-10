@@ -67,7 +67,11 @@ The College members of the BACS committee and the College Dean’s office have g
 7. A Pavilion Seminar (PAVS) course that meets the goals for a BACS integration elective __may possibly count__, despite a published College rule that says that they cannot be used for a major requirement. (We got approval for this from the College.) Submit a petition if you think a PAVS course you are taking is appropriate.
 8. The College has told us that no Engagement courses (EGMT) courses can be used to satisfy this requirement.
 
-## 5) Can BACS integration electives also satisfy requirements for another major or a minor?
+## 5) Can BACS integration electives also satisfy other requirements (2nd major, minor, general education)? 
+
+__General Education requirements:__
+The College's webpage on [__Policies about majors in the College__](https://college.as.virginia.edu/college-policies-regarding-majors) states: 
+"Courses used to meet general education requirements can also count toward your major." That page is the source for much of what's explained below (and if there is any difference you should assume the College page is correct).
 
 __Sharing courses with another major:__     
 The College’s rule states: “No more than two courses can be counted simultaneously for two non-interdisciplinary majors; an interdisciplinary major may share up to three courses with another major.”  (You can see this rule [here on the College website]({{ site.data.externallinks.college_double_majors }}),
