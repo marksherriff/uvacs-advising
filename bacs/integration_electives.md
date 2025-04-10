@@ -28,7 +28,7 @@ The BA degree in Computer Science degree is offered by the College of Arts and S
 
 ## 2) Where can I find a list of integration electives for the BACS?
 
-Starting in Spring 2020, there is one official list maintained by the University Registrar. If you look at the description of the BACS requirements in the Undergraduate Record, you’ll find the courses listed there. That page (as of August 2024) is: [{{ site.data.externallinks.bacs_ureg_integration_electives }}]({{ site.data.externallinks.bacs_ureg_integration_electives }})
+Starting in Spring 2020, there is one official list maintained by the University Registrar. If you look at the description of the BACS requirements in the Undergraduate Record, you’ll find the courses listed there. That page (as of April 2025) is: [{{ site.data.externallinks.bacs_ureg_integration_electives }}]({{ site.data.externallinks.bacs_ureg_integration_electives }})
 
 Is there a convenient list of all the integration electives that are offered in the up-coming semester? [This page](https://www.cs.virginia.edu/~horton/integ-elect2.html) shows what Integration Electives are offered in the upcoming semester that you can enroll in. The page lets you search, sort, find courses with open seats, see which count for a College General Education requirement, etc.
 
@@ -166,7 +166,9 @@ Below that is a list of courses for which petitions __will not be accepted__. Be
 * MDST 3760,  Reading Black Digital Culture
 * MESA 2559, Playing Games: A Gateway to the Mid East & S Asia
 * MUSI 2559/3559 in Summer 2022, Sonification for Musicians, Designers and Scientists
+* MUSI 2360, EcoSonics: Environmental Sound Art Composition
 * MUSI 3374, Composing Mixtapes
+* MUSI 3400, Ecoacoustics
 * MUSI 4620, Audio Visual Environments
 * PHYS 5630, Computational Physics I
 * PHIL 1330, Virtual Worlds and Philosophy
