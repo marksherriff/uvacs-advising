@@ -17,6 +17,7 @@ Page Last Updated: {{ site.time | date: '%A, %B %d, %Y' }}
 
 Official descriptions for the BACS degree program in the Undergraduate Record:
 
+* For those following the [2025-2026 requirements](https://records.ureg.virginia.edu/preview_program.php?catoid=67&poid=10221)
 * For those following the [2024-2025 requirements](https://records.ureg.virginia.edu/preview_program.php?catoid=61&poid=8845)
 * For those following the [2023-2024 requirements]({{site.data.externallinks.bacs_undergraduate_record}})
 * For those following the [2022-2023 requirements](http://records.ureg.virginia.edu/preview_program.php?catoid=54&poid=7501)

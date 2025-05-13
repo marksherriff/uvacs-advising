@@ -71,7 +71,7 @@ Note - You can only receive credit for 1 CS 111X or 1120 course.
 {: .no_toc }
 
 * For Computer Science - 4 or 5 gives credit for CS 1110
-* For CS Principles - 4 or 5 gives credit for CS 1000T and the student is encouraged to take the CS 1110 Placement Test
+* For CS Principles - 4 or 5 gives credit for CS 1000T and the student is encouraged to take the CS 1110 Place-Out Test
 
 ### International Baccalaureate
 {: .no_toc }

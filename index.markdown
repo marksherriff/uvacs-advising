@@ -25,15 +25,7 @@ This website is maintained by the faculty and staff of the Department of Compute
 
 ## Walk-In CS Advising Hours
 
-CS Student Ambassadors (4th Floor Rice table):
-
-- Mondays & Wednesdays: 9:00 AM-3:00 PM
-- Tuesdays, Thursdays, & Fridays: 9:00 AM-5:00 PM
-
-CS Advising Staff (4th Floor Rice):
-
-- Mondays, Thursdays, & Fridays: 2:00-4:00 PM
-- Tuesdays & Wednesdays: 10:00 AM-12:00 PM
+Summer 2025: Please email [cs-office@virginia.edu](mailto:cs-office@virginia.edu) for appointments over the summer.
 
 {: .note }
 The information contained on this website is for informational purposes only. The Undergraduate Record and Graduate Record represent the official repository for academic program requirements. These publications may be found at [http://records.ureg.virginia.edu/](http://records.ureg.virginia.edu/index.php).
