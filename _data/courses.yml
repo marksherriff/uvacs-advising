@@ -115,7 +115,7 @@
 - course: CS 2993
   title: Independent Study
   credits: 1 - 3
-  description: "In-depth study of a computer science or computer engineering problem by an individual student in close consultation with departmental faculty. This version of Independent Study is appropriate for students who have not completed CS 2150."
+  description: "In-depth study of a computer science or computer engineering problem by an individual student in close consultation with departmental faculty. This version of Independent Study is appropriate for students who have not completed CS 3140."
   prereqs: None
 
 - course: CS 3100
