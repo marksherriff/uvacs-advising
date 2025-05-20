@@ -153,7 +153,7 @@ __Option 1)__ Take 3 credits of CS 4971: Capstone Practicum II.  __For AY '25-'2
 
 __Option 2)__ Take 3 credits of CS 4980 and write the technical report at the end of this course.  Whoever you take CS 4980 with will sign off on the paper as being your technical report component for your senior thesis portfolio that you do with STS during 4500 and 4600.  Reach out to faculty to see what projects they may have or check out [https://uvacsadvising.org/ug_research.html](https://uvacsadvising.org/ug_research.html) for ideas!   
 
-__Option 3)__ Take a 6th CS elective (CS 4000 or higher) -AND- take the 0-credit CS 4991 course.  The 6th CS elective will cover your required 3 credits needed for the capstone slot in your SIS Academic Requirements report.  CS 4991 is the course in which we track and evaluate a your technical report that you come up with on your own.  This course is pass/fail and you need a pass to graduate.
+__Option 3)__ Take a 6th CS elective (CS 4000 or higher) -AND- take the 0-credit CS 4991 course.  The 6th CS elective will cover your required 3 credits needed for the capstone slot in your SIS Academic Requirements report.  CS 4991 is the course in which we track and evaluate a your technical report that you come up with on your own.  This course is pass/fail and you need a pass to graduate. _NOTE: We anticipate that AY '25-'26 will be the last year this is offered and limited seats will be available._
   
 __Q: How do I come up with my paper topic?__    
 A: Here are two prompts to consider:
