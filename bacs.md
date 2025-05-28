@@ -88,7 +88,7 @@ At this time the BACS requirements for graduating with the BACS major do NOT inc
 
 ## Distinguished Majors Program
 
-Prof. David Evans manages the BACS Distinguished Majors Program (DMP), and details about that program can be found at [https://csdmp.github.io/](https://csdmp.github.io/).  Students who apply to and are accepted to be in the Distinguished Majors Program must complete the usual degree requirements as well as a fourth year thesis project. This requires two semesters of [CS 4998 - Distinguished BA Majors Research]({{ baseurl }}/courses.html#cs-4998-distinguished-ba-majors-research) (3 credits each semester) in addition to the usual requirements.
+Prof. Yixin Sun manages the BACS Distinguished Majors Program (DMP), and details about that program can be found at [https://csdmp.github.io/](https://csdmp.github.io/).  Students who apply to and are accepted to be in the Distinguished Majors Program must complete the usual degree requirements as well as a fourth year thesis project. This requires two semesters of [CS 4998 - Distinguished BA Majors Research]({{ baseurl }}/courses.html#cs-4998-distinguished-ba-majors-research) (3 credits each semester) in addition to the usual requirements.
 
 ## "Old" BACS Requirements
 

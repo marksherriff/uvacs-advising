@@ -24,9 +24,15 @@ nav_order: 9
 
 ## BACS Presentations
 
+### Summer 2025, New UVA Students interested in the BACS or CS Minor
+
+Here is an orientation video for College students interested in the BACS or CS minor (recorded May 2025).  This is for potential majors, newly declared majors, and new or potential transfer students.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm8Bm1XmDuA?si=LXAwT5euG7x7enJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Spring 2025, Recently-Declared BACS Majors
 
-Here is the recording of the [orientation advising session for recently-declared BACS majors](https://virginia.zoom.us/rec/share/uGGi_zTCKsCdoG6sYENc9sFnMVvx3Zt4zAz3o0uHvTtt4yGn64lcpmxKPrsIM5TW.stXrRjvWvty9YFu_).  The Zoom password is: s+Fw7p6*
+Here is the recording of the [March 2025 orientation advising session for recently-declared BACS majors](https://virginia.zoom.us/rec/share/uGGi_zTCKsCdoG6sYENc9sFnMVvx3Zt4zAz3o0uHvTtt4yGn64lcpmxKPrsIM5TW.stXrRjvWvty9YFu_).  The Zoom password is: s+Fw7p6*
 
 Here are the [slides]({{base_url}}/materials/bacs-advising-fair-spring2025.pdf) from that orientation session.
 Recently-declared BACS students with an advisor hold can get it released by watching that video and then answering some "quiz" questions and leaving their name and email ID [in this form](https://forms.gle/dagHDdxK5ehwLqHK9).
