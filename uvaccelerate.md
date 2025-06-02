@@ -66,4 +66,4 @@ RA: Funding comes from individual faculty members, so building relationships is 
 
 * For general UVXL questions (application, finance, etc), contact Ashley Haddox at the SEAS graduate office. 
 * For CS-specific UVXL questions (courses, degree requirements, etc), contact cs-uvaccelerate@
-* For CS admission questions, contact Prof. Lu Feng who oversees the CS graduate admission. 
+* For CS admission questions, contact cs-admissions@ and Prof. Lu Feng who oversees the CS graduate admission. 
