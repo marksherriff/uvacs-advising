@@ -146,9 +146,7 @@ Below that is a list of courses for which petitions __will not be accepted__. Be
 * APMA courses that match MATH courses on the list (can only have one non-College course)
 * ARCH 5420, Digital Animation and Storytelling (can only have one non-College course)
 * ARCH 5422, Computer Animation (can only have one non-College course)
-* DRAM 2620, Sound Design (will be on the 2020-2021 list)
-* DRAM 3820, Video Design 1
-* DRAM 4110, Lighting Design
+* DRAM 2211, Designing Spaces
 * ECON 4030, Market Design 
 * ECON 4730, Markets, Mechanisms and Machines
 * ECON 4444, AI and the Future of Work (will be on the 2020-2021 list)
