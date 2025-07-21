@@ -30,6 +30,7 @@ Here is an orientation video for College students interested in the BACS or CS m
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/fm8Bm1XmDuA?si=5aRuUGhxfaqpW0UH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Here are the [slides]({{base_url}}/materials/bacs-orientation-july2025.pdf) from a July 2025 info session for new transfer students. Here is [a recording](https://virginia.zoom.us/rec/share/bgtebnPk2YR7SpALTpr6sojH78QLZeOxw6ejWvWxu_3MwsiVXx395pY0p_bufVGq.pr3F7otG4GG2TPpP) of one of those sessions.  The Zoom password is: Wd?0u4Cb
 
 ### Spring 2025, Recently-Declared BACS Majors
 
