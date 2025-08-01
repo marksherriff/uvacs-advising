@@ -49,7 +49,7 @@ You might have questions. You might want to meet with someone to get info or adv
 
 1. There’s an info video recorded for those who are thinking of declaring. See the [Video Library]({{baseurl}}/video_library.html) on the menu to the left.
 2. Each semester we’ll offer info sessions via Zoom where you talk to the program’s director to get questions answered. Upcoming sessions are to be added soon – watch this space!  All held by Zoom at [https://virginia.zoom.us/my/horton.uva](https://virginia.zoom.us/my/horton.uva)
-3. We have a page called [Info for New BACS Students]({{ baseurl }}/bacs/new_student_info.html) on the menu to the left.  This page is designed for those who’ve just declared, but all majors should keep a link to this because it has many useful links.
+
 
 If you’ve watched the info video, looked at the Basic Info page and still have questions, email the Program Director(s) at [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu) to ask a question or request a meeting.
 
