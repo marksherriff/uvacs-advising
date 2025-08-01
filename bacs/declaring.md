@@ -28,7 +28,7 @@ In particular, students in Engineering are not allowed to declare the BA in Comp
 Effective Summer 2022, a "new" version of the BACS major came into existence. Almost every student who declares the BA in CS in Summer 2022 and later will complete the requirements for this "new" version of the BACS. Some current majors are completing the "Old BACS", but they all had to complete CS2110 (an "old" course) by the end of Fall 2021. Any student taking CS2100 in Spring 2022 or later must do the "New BACS", and in order to declare you must have met its prerequisites.
 
 * What are the prerequisites?  CS1110 or equivalent with a C+ or higher, and CS2100 or equivalent with a C+ or higher.
-* Where can I find the requirements for the "New BACS"? The official degree requirements are in the [2022-23 Undergraduate Record]( {{ site.data.externallinks.bacs_undergraduate_record }}).  
+* Where can I find the requirements for the "New BACS"? The official degree requirements are in the [Undergraduate Record]( {{ site.data.externallinks.bacs_undergraduate_record }}).  
 
 __Can I declare the "Old BACS"?__  Only if you completed CS2150 with a C+ or higher by the end of Fall 2022. If you did but did not complete CS 3330 by the end of Spring 2023, contact the Program Director for advice.  (We won’t be teaching "old" courses like CS2110, CS2150 and CS3330 again, so they and the Old BACS are being phased out.)
 

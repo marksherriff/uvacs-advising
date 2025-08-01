@@ -33,7 +33,7 @@ The official undergraduate record contains the official rules for completing the
 degree program. If there is any disagreement between these pages and the rules
 in the undergraduate record, the record is the final authority.
 
-[UVA CpE Undergraduate Record 2022-2023](http://records.ureg.virginia.edu/preview_program.php?catoid=54&poid=7138)
+[UVA CpE Undergraduate Record]( {{ site.data.externallinks.bscpe_undergraduate_record }})
 
 
 ## Declaring the Major
