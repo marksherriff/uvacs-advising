@@ -4,6 +4,7 @@ bscs_undergraduate_record: "https://records.ureg.virginia.edu/preview_program.ph
 bacs_undergraduate_record: "https://records.ureg.virginia.edu/preview_program.php?catoid=67&poid=10221"
 ## http://records.ureg.virginia.edu/preview_program.php?catoid=58&poid=8142"
 seas_major_minor: "http://records.ureg.virginia.edu/content.php?catoid=54&navoid=4326#Major_Minor"
+bscpe_undergraduate_record: "https://records.ureg.virginia.edu/preview_program.php?catoid=67&poid=10130"
 bacs_ureg_integration_electives: "https://records.ureg.virginia.edu/preview_program.php?catoid=61&poid=8845"
 ap_credit: "http://records.ureg.virginia.edu/content.php?catoid=52&navoid=4102#Advanced_Placement_Program"
 ureg_transfer_credit: "http://records.ureg.virginia.edu/content.php?catoid=58&navoid=4806#transer_credit"
