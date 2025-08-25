@@ -48,8 +48,10 @@ See Q6 above. Strongly recommended CS6190 (CS perspective, 1 hr). It is required
 
 **Q9: How do I get enrolled in graduate classes?**
 
-By filling in a request form online. That will geneate requests to their advisors (cs-office), to the course instructors, and to the SEAS grad office & registrar (in this order). 
-Should any approver denies the form (e.g. the form has incorrect information), the students will be notified of the denial. This basically voids the request.
+**BACS**: Please initiate a 6000 form via this link: https://college.as.virginia.edu/6000-form-enrollment-graduate-level-courses-form-and-instructions
+
+**BSCS**:
+Please initiate a Request Forms: Enrolling in a Graduate Level Course via this link: https://engineering.virginia.edu/undergraduate-study/current-undergrads/degree-information/undergraduate-registration-forms
 
 **Q10: How does the student know where their form is and do they get a notification once it is denied or processed?**
 
