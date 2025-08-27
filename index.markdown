@@ -33,7 +33,7 @@ Advising Staff Hours:
 - Thursdays - 2:00-4:00 PM w/ Sheri Grimes in Rice 425
 - Fridays - 2:00-4:00 PM w/ SJ Jimènez-Calhoun in Rice 420
 
-Peer Advisors:
+Peer Advisors (starting 9/2/2025):
 
 - Mondays-Fridays - 11:00 AM-5:00 PM in the Rice 4th floor open area
 
