@@ -22,6 +22,8 @@ To obtain a minor in computer science, a student must complete the following req
 
 _^Note: CS Minors can also take CS 3100, CS 3120, CS 3130, or CS 3240 as their CS Elective if they so choose._
 
+This [Course Prerequisite Chart]({{ baseurl }} /courses.html#prerequisite-chart) may help students see what the prerequisites are for CS electives and other CS courses.
+
 ### Notes About the Minor
 
 * Students with a computer science or computer engineering major are ineligible for the CS minor.
