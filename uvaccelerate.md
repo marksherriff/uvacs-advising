@@ -46,7 +46,7 @@ UVAccelerate offers a non-binding and flexible program structure. You may withdr
 
 See Q6 above. Strongly recommended CS6190 (CS perspective, 1 hr). It is required for all MS/MCS degrees and only offered in Fall. Other than that, decide based on your personal interest (e.g. ML, CPS, or systems?), career plan (e.g. looking for internship that may require LLM skills?), and course load (e.g. how many project-based courses you will have?). Check Lou's list to see what is to be offered. Contact individual instructors asking for syllabi. 
 
-**Q9: How do I get enrolled in graduate classes?**
+**Q9: How do I enroll in graduate classes?**
 
 **BACS**: Please initiate a 6000 form via this link: https://college.as.virginia.edu/6000-form-enrollment-graduate-level-courses-form-and-instructions
 
