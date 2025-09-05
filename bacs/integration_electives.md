@@ -28,8 +28,8 @@ The BA degree in Computer Science degree is offered by the College of Arts and S
 
 ## 2) Where can I find a list of integration electives for the BACS?
 
-Starting in Spring 2020, there is one official list maintained by the University Registrar. If you look at the description of the BACS requirements in the Undergraduate Record, you’ll find the courses listed there. That page (as of April 2025) is: [{{ site.data.externallinks.bacs_ureg_integration_electives }}]({{ site.data.externallinks.bacs_ureg_integration_electives }})
-
+Starting in Spring 2020, there is one official list maintained by the University Registrar. If you look at the [{{ site.data.externallinks.bacs_ureg_integration_electives }}](description of the BACS requirements in the Undergraduate Record), you’ll find the courses listed in a section on that page. 
+ 
 Is there a convenient list of all the integration electives that are offered in the up-coming semester? [This page](https://www.cs.virginia.edu/~horton/integ-elect2.html) shows what Integration Electives are offered in the upcoming semester that you can enroll in. The page lets you search, sort, find courses with open seats, see which count for a College General Education requirement, etc.
 
 The course list in the UG Record is official! If that changes and something on this website or another disagrees with that, the one in the Record is the official list. What the UG Record says supersedes any other list you might find online, including here. 
