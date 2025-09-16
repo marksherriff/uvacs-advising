@@ -27,15 +27,16 @@ This website is maintained by the faculty and staff of the Department of Compute
 
 Advising Staff Hours:
 
-- Mondays - 2:00-4:00 PM w/ SJ Jimènez-Calhoun in Rice 420
-- Tuesdays - 10:00 AM-12:00 PM w/ Sheri Grimes in Rice 425
-- Wednesdays - 10:00 AM-12:00 PM w/ SJ Jimènez-Calhoun in Rice 420
-- Thursdays - 2:00-4:00 PM w/ Sheri Grimes in Rice 425
-- Fridays - 2:00-4:00 PM w/ SJ Jimènez-Calhoun in Rice 420
+- Mondays: 2:00-4:00 PM w/ SJ Jimènez-Calhoun in Rice 420
+- Tuesdays: 10:00 AM-12:00 PM w/ Sheri Grimes in Rice 425
+- Wednesdays: 10:00 AM-12:00 PM w/ SJ Jimènez-Calhoun in Rice 420
+- Thursdays: 2:00-4:00 PM w/ Sheri Grimes in Rice 425
+- Fridays: 2:00-4:00 PM w/ SJ Jimènez-Calhoun in Rice 420
 
-Peer Advisors (starting 9/2/2025):
+Peer Advisors:
 
-- Mondays-Fridays - 11:00 AM-5:00 PM in the Rice 4th floor open area
+- Mondays, Wednesdays, and Fridays: 11:00 AM-5:00 PM in the Rice 4th floor open area
+- Tuesdays and Thursdays: 11:00 AM-3:00 PM in the Rice 4th floor open area
 
 {: .note }
 The information contained on this website is for informational purposes only. The Undergraduate Record and Graduate Record represent the official repository for academic program requirements. These publications may be found at [http://records.ureg.virginia.edu/](http://records.ureg.virginia.edu/index.php).
