@@ -77,7 +77,7 @@ __Sharing courses with another major:__
 The College’s rule states: “No more than two courses can be counted simultaneously for two non-interdisciplinary majors; an interdisciplinary major may share up to three courses with another major.”  (You can see this rule [here on the College website]({{ site.data.externallinks.college_double_majors }}),
 and see a list of which majors are “interdisciplinary” [on this page]({{ site.data.externallinks.college_types_majors }}) in the section “What is an Interdisciplinary Major?"".)
 
-This rule also applies if your other major is not in the College, e.g. in Data Science, the Batten School, etc.
+This rule also applies if your other major is not in the College, __unless__ the school that offers the other major has a more strict policy. This is true of Data Science: students doing a double-major with Data Science and CS (or any College major) can normally share only one course between the two majors; please read the Data Science policy ([see "Simultaneous Counting" section in 2025-26 UG Record here]( https://records.ureg.virginia.edu/content.php?catoid=67&navoid=5990&hl=%22Simultaneous+Counting%22&returnto=search#majors-and-minors) ) carefully and consult a data science advisor if you have questions.
 
 __Sharing and CS111x and CS2100/CS2110:__ For the BACS, these courses are __prerequisites to declare the major,__ and for this reason are not officially degree requirements. So College sharing rules for major and minors do not apply to these courses!
 
