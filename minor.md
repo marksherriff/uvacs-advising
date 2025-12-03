@@ -32,6 +32,10 @@ This [Course Prerequisite Chart]({{ baseurl }} /courses.html#prerequisite-chart)
 
 ## Declaring the CS Minor
 
-The CS Minor is a SEAS minor, even for students who are not in SEAS.  Thus, any student applying for the minor must use the following online DocuSign form: [Minor Declaration Form – School of Engineering & Applied Science](https://na2.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=3d7d67ed-1b4c-4df6-a1c7-1acf25b76be9&env=na2&acct=a8970e23-de25-4821-8826-64a7afe0662b&v=2).  Please note that in order to be approved for the CS Minor, students must have a major declared in SIS. 
+The CS Minor is a SEAS minor, even for students who are not in SEAS.  Thus, any student applying for the minor must use the following online DocuSign form: [Minor Declaration Form – School of Engineering & Applied Science](https://na2.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=3d7d67ed-1b4c-4df6-a1c7-1acf25b76be9&env=na2&acct=a8970e23-de25-4821-8826-64a7afe0662b&v=2).  
+_Note: When you enter your name in the DocuSign Powerform, make sure you enter 24 characters or fewer; otherwise, you'll get a weird DocuSign error!__
+
+
+Please note that in order to be approved for the CS Minor, students must have a major declared in SIS. 
 
 Questions can be directed to [cs-office@virginia.edu](mailto:cs-office@virginia.edu) or the CS Minor Director at [csminordirector@virginia.edu](mailto:csminordirector@virginia.edu).
