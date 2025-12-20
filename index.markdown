@@ -33,10 +33,11 @@ Advising Staff Hours:
 - Thursdays: 2:00-4:00 PM w/ Sheri Grimes in Rice 425
 - Fridays: 2:00-4:00 PM w/ SJ Jimènez-Calhoun in Rice 420
 
-Peer Advisors:
+Peer Advisors (Spring 2026):
 
-- Mondays, Wednesdays, and Fridays: 11:00 AM-5:00 PM in the Rice 4th floor open area
-- Tuesdays and Thursdays: 11:00 AM-3:00 PM in the Rice 4th floor open area
+- Mondays and Wednesdays: 11:00 AM-2:00 PM in the Rice 4th floor open area
+- Tuesdays and Thursdays: 11:00 AM-5:00 PM in the Rice 4th floor open area
+- Fridays: 12:00-5:00 PM in the Rice 4th floor open area
 
 {: .note }
 The information contained on this website is for informational purposes only. The Undergraduate Record and Graduate Record represent the official repository for academic program requirements. These publications may be found at [http://records.ureg.virginia.edu/](http://records.ureg.virginia.edu/index.php).
