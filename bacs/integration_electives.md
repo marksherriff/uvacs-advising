@@ -231,6 +231,7 @@ Below that is a list of courses for which petitions __will not be accepted__. Be
 * PLAP 3140    Mass Media and American Politics
 * PLCP 1010    Introduction to Comparative Politics
 * PSYC 2400    Introduction to Personality Psychology
+* PSYC 2410	   Abnormal Psychology
 * PSYC 2600    Introduction to Social Psychology
 * SLAV 2360    Dracula
 * STAT 1559    Intro Data Science with Python/R
