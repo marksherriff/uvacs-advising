@@ -13,26 +13,33 @@ has_children: false
 
 ## Advising
 
-Every BACS and BSCS major is assigned a faculty advisor in the CS department. You can find their name when you log into SIS. This person is a good resource for CS matters but not for everything.  Your CS advisor is a great person to talk to about CS and computing issues, including career plans, getting into research, sub-areas of computing, etc.  Other people and sources for getting information are described on this page and also on the "Spring 2025" page linked in the next paragraph.
+Every BACS and BSCS major is assigned a faculty advisor in the CS department. You can find their name when you log into SIS. This person is a good resource for CS matters but not for everything.  Your CS advisor is a great person to talk to about CS and computing issues, including career plans, getting into research, sub-areas of computing, etc.  Other people and sources for getting information are described on this page and also in the [section on this website's home page about who to see for help]({{ baseurl }}/#where-do-i-go-for-help).)
 
-__Advising for Fall 2025 registration:__ The CS department is using a new process for advising BACS and BSCS majors before course registration for Fall 2025 begins on April 7. In the past, every student was required to see their faculty advisor to get their registration hold released. But this semester things are different, so please read the info about [Advising for CS Majors during Spring 2025]({{ baseurl }}/advising-s25.html)
+__Advising before course registration:__ The CS department uses a process for advising BACS and BSCS majors before course registration that differs from other departments. In the past, every student was required to see their faculty advisor to get their registration hold released. But now in CS, before course registration, __some__ CS majors (but not all) will have an advising hold that will prevent them from registering until it is removed.  Normally students who have done OK in their CS courses and have good GPAs will not be required to meet with their advisor before registering. (But, we encourage you to do so if you want to talk, need advice, etc!) 
 
-Before course registration, __some__ CS majors (but not all) will have an advising hold that will prevent them from registering until it is removed.  See the page link above for how this might or might not affect you when registering for next term's courses.
+Students who would benefit from a meeting with an advisor will emailed and told to see an advisor before registration, and their hold will NOT be removed until they meet with the advisor who contacted them.
 
-You can find when your faculty advisor will be available on this page: [CS Faculty Advisor Availability](https://myuva-my.sharepoint.com/:x:/g/personal/smj4z_virginia_edu/EcoD2dr4L79Hn-nz98_dFOIBG5v8VUzuSrBx5KqRIKOlnQ?e=BUcz6u&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0)
-
-
-__What do I do if I have a hold I don't hear from my advisor?__  If you haven't heard anything from your advisor after several attempts to contact them, please email [cs-office@virginia.edu](mailto:cs-office@virginia.edu).
+__I want or need to hear or meet with my advisor, but I can't get them to respond?__ If you don't get a response from your advisor after several attempts to contact them, please email [cs-office@virginia.edu](mailto:cs-office@virginia.edu).
 
 ## Help with Tracking Degree Progress
 
-To see how the courses you have taken are meeting your degree requirements, in SIS you can click "Academics" in the left navigation panel, and then select "View Academic Requirements". This will show you each requirement for your degree(s), which requirements you have already satisfied, what requirements your registered courses will meet, and which requirements you still need to meet.
+You don't need to meet with an advisor to check if you're meeting degree requirements. UVA provides good online tools that let you do this anytime on your own, as follows:
 
-Note, the Academic Requirements page is dense and somewhat unintuitive to read. However, it is the most concise way to view which courses are meeting which requirements. The Degree Progress is more visually appealing, but requires more searching to find the same information.
+* Class of 2028 & 2029 should use Stellic as the official degree progress tool.
+* Class of 2027 can use Stellic for planning, advising, and tracking progress; it should match progress in SIS. 
+* Class of 2026 should continue using SIS as the official source for degree progress.
+
+(If you see something in SIS or Stellic that you don't think is right, see the next section for who to contact. If you have a question about what you're seeing, then we're happy to talk to you!  See the [section on this website's home page about who to see for help]({{ baseurl }}/#where-do-i-go-for-help).)
+
+__In Stellic:__ Click the "Progress" tab in the set of choices right below where your current semester courses are listed.
+
+__In SIS:__ to see how the courses you have taken are meeting your degree requirements, click "Academics" in the left navigation panel, and then select "View Academic Requirements". This will show you each requirement for your degree(s), which requirements you have already satisfied, what requirements your registered courses will meet, and which requirements you still need to meet.
+
+Note, SIS's Academic Requirements report is dense and somewhat unintuitive to read. However, it is the most concise way to view which courses are meeting which requirements. SIS's Degree Progress tool is more visually appealing, but requires more searching to find the same information.
 
 ## Help with Issues in SIS
 
-SIS is wrong?  Missing a class from transfer, something in the wrong “bucket”, etc.  please email [cs-office@virginia.edu](mailto:cs-office@virginia.edu) with your name, ID, and situation. It is each student's responsibility to ensure that their academic record as recorded on the SIS is accurate.
+SIS or Stellic seems to be wrong?  Missing a class from transfer, something in the wrong “bucket”, etc.?  Please email [cs-office@virginia.edu](mailto:cs-office@virginia.edu) with your name, ID, and situation. It is each student's responsibility to ensure that their academic record as recorded in Stellic or SIS is accurate.
 
 ## Help with SIS putting a CS elective in my Capstone slot (or any other course in a particular slot)
 
