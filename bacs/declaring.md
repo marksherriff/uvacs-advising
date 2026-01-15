@@ -48,10 +48,9 @@ Due to prerequisite dependencies, it is nearly impossible for third-year student
 You might have questions. You might want to meet with someone to get info or advice before you declare. We definitely want to help, but there are literally hundreds of students who declare the BACS each year, so we have a system to try to get you the info you need. We just can’t have one-on-one meetings with everyone. Of course, if what we provide doesn’t answer all your questions, we will meet! But before that, here are steps to take.
 
 1. There’s an info video recorded for those who are thinking of declaring. See the [Video Library]({{baseurl}}/video_library.html) on the menu to the left.
-2. Each semester we’ll offer info sessions via Zoom where you talk to the program’s director to get questions answered. Upcoming sessions are to be added soon – watch this space!  All held by Zoom at [https://virginia.zoom.us/my/horton.uva](https://virginia.zoom.us/my/horton.uva)
+2. Some semesters we’ll offer info sessions via Zoom where you talk to the program’s director to get questions answered. Upcoming sessions are to be added soon – watch this space!  
 
-
-If you’ve watched the info video, looked at the Basic Info page and still have questions, email the Program Director(s) at [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu) to ask a question or request a meeting.
+If you’ve watched the info video, looked at the Basic Info page and still have questions, email the Program Director at [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu) to ask a question or request a meeting.
 
 ## How to Declare the BACS
 
@@ -80,7 +79,7 @@ __Before you declare:__
 Go to the College's page ["Declaration of Major and Minor - Form and Instructions"](https://college.as.virginia.edu/declaration-major-and-minor-form-and-instructions). (FYI the instructions recommend you use the Chrome web browser.) You may have to do some things to show you're a real UVA student.  Read what's there, and to then get to the form, click on that text in the left column.  Note: it says to contact someone in CS to determine what steps you need to in order to declare, but you don't need to do that -- the page you're reading explains all that!
  
 __Step 1:__     
-You'll first see the "Powerform" where you must enter just 4 things:  your name and your email address, and then (for the "DMC" person) enter the Program Director's name, Tom Horton, and the email address __tbh3f@virginia.edu__. (Not "horton@virginia.edu", but "tbh3f@virginia.edu". Do NOT enter the "bacsdirector" email alias in DocuSign! __Failure to enter the correct email address means your form may not come to our attention for months, if at all, due to the way DocuSign works.__)
+You'll first see the "Powerform" where you must enter just 4 things:  your name and your email address, and then (for the "DMC" person) enter the Program Director's name, Robbie Hott, and the email address __jh2jf@virginia.edu__. (Not "jrhott@virginia.edu", but "jh2jf@virginia.edu". Do NOT enter the "bacsdirector" email alias in DocuSign! __Failure to enter the correct email address means your form may not come to our attention for months, if at all, due to the way DocuSign works.__)
 Don't enter or change anything else, but you MUST click on __Begin Signing__ at the bottom.
  
 __Step 2:__      
