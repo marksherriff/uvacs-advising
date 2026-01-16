@@ -26,6 +26,8 @@ The BA degree in Computer Science degree is offered by the College of Arts and S
 
 > ...non-CS courses that contribute to this program of study by exploring applications of computing to arts and sciences fields in a significant way or by providing fundamental computing depth and background. Integration electives are courses offered by departments in the College of Liberal Arts and Sciences.
 
+__They must be taken for a letter grade.__ [College policy](https://college.as.virginia.edu/credits) says: "no course taken under the CR/NC option may count toward fulfilling general education, major, or minor requirements."
+
 ## 2) Where can I find a list of integration electives for the BACS?
 
 Starting in Spring 2020, there is one official list maintained by the University Registrar. If you look at the [description of the BACS requirements in the Undergraduate Record]({{ site.data.externallinks.bacs_ureg_integration_electives }}), you’ll find the courses listed in a section on that page. 
