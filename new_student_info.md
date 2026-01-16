@@ -73,7 +73,7 @@ Students can also watch the [orientation video for College students interested i
 ### Contacts
 {: .no_toc }
 
-The Program Director (DUP) for the BACS is currently Tom Horton, and if you email [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu) that will reach him and a back-up who helps out.
+The Program Director (DUP) for the BACS is currently Robbie Hott, and if you email [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu) that will reach him and a back-up who helps out.
 
 ### Getting Help and Advising for the BACS
 {: .no_toc }
