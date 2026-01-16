@@ -35,9 +35,7 @@ Advising Staff Hours:
 
 Peer Advisors (Spring 2026):
 
-- Mondays and Wednesdays: 11:00 AM-2:00 PM in the Rice 4th floor open area
-- Tuesdays and Thursdays: 11:00 AM-5:00 PM in the Rice 4th floor open area
-- Fridays: 12:00-5:00 PM in the Rice 4th floor open area
+- Mondays-Fridays: 12:00-5:00 PM in the Rice 4th floor open area
 
 {: .note }
 The information contained on this website is for informational purposes only. The Undergraduate Record and Graduate Record represent the official repository for academic program requirements. These publications may be found at [http://records.ureg.virginia.edu/](http://records.ureg.virginia.edu/index.php).
