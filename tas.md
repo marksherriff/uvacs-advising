@@ -6,8 +6,6 @@ nav_order: 8
 
 # Undergraduate Teaching Assistants
 
-## Now accepting submissions for the Fall 2025 semester!
-
 [Computer Science Teaching Assistant Interest Form]({{ site.data.externallinks.csta_interest_form }}){: .btn .btn-purple}
 
 The CS department has always benefited from having fantastic undergrads work as Teaching Assistants for our courses. We simply couldn't make the courses run without them!
