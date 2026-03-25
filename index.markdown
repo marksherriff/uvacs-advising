@@ -27,11 +27,11 @@ This website is maintained by the faculty and staff of the Department of Compute
 
 Advising Staff Hours:
 
-- Mondays: 2:00-4:00 PM w/ SJ Jimènez-Calhoun in Rice 420
+- Mondays: 2:00-4:00 PM w/ SJ Jimènez-Calhoun [online through Zoom](https://virginia.zoom.us/my/csadvising)
 - Tuesdays: 10:00 AM-12:00 PM w/ Sheri Grimes in Rice 425
-- Wednesdays: 10:00 AM-12:00 PM w/ SJ Jimènez-Calhoun in Rice 420
+- Wednesdays: 10:00 AM-12:00 PM w/ SJ Jimènez-Calhoun [online through Zoom](https://virginia.zoom.us/my/csadvising)
 - Thursdays: 2:00-4:00 PM w/ Sheri Grimes in Rice 425
-- Fridays: 2:00-4:00 PM w/ SJ Jimènez-Calhoun in Rice 420
+- Fridays: 2:00-4:00 PM w/ SJ Jimènez-Calhoun [online through Zoom](https://virginia.zoom.us/my/csadvising)
 
 Peer Advisors (Spring 2026):
 
