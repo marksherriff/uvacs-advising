@@ -14,6 +14,8 @@ Site Last Updated: {{ site.time | date: '%A, %B %d, %Y' }}
 
 This website is maintained by the faculty and staff of the Department of Computer Science and is intended to be a resource for students, faculty, staff, and prospective students who have questions regarding the undergradaute programs offered by the department.  We work to keep this website as up-to-date as possible, but if there are any conflicts between this website and official resources provided by the University of Virginia (e.g., information from the Registrar's Office, the official Academic Record, etc.), the official resources should be considered the authoritative source.  Please report any discrepancies or suggestions for other content to [bscsdirector@virginia.edu](mailto:bscsdirector@virginia.edu).
 
+### [Special Topics Courses for F26](/semester/1268/specialtopics.html)
+
 ## Where do I go for help?
 
 - First, use the search bar above and search this online guide!  Most answers are here!
