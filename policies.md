@@ -121,6 +121,17 @@ __For CS 2100, CS 2130, or CS 3130:__ Any CS course numbered 2000 or higher.
 
 __For APMA:__ Any other APMA or MATH course credits not already being used toward the major.
 
+__For ENGR 1010:__ Students may replace ENGR 1010 with engineering course credits.  These may be any disciplinary engineering credits that are technical in nature.  STS, APMA, and EBUS mnemonic courses, courses that fulfill the science elective, and courses that fulfill the engineering business minor do not qualify.
+
+__For ENGR 1020:__ 
+
+* Transfer students: We can award transfer credit for ENGR 1020 for students who were awarded an associate’s degree prior to matriculation and completed a College Composition II course.  Many times, we are missing the final transcript with the student’s degree conferral.  In this case, the student will need to request their official transcript with their degree conferral and send it to Jesse Rogers (jr7up).
+* A course in sociotechnical studies that is not otherwise required by engineering. Those include STS electives, and a smattering of courses in the College. The latter should be requested via the appeal to the SEAS Dean's Office.
+* Missing just a couple credits of 1020?  Students can complete an additional 2000-level or higher math or science course not required for their major. 
+
+For more info about ENGR courses, please contact Jesse Rogers (jr7up).
+
+
 ## Policy on Changing Graduation Year / Graduating Early
 
 *Note:* Effective 2/28/2024, the College of Arts and Sciences will no longer manually change a student’s expected graduation term, which means College students cannot get an updated registration time when they plan to graduate early. This will not prevent a BACS student from graduating early; they will simply apply for graduation in SIS during the semester in which they will graduate.  [This website](https://college.as.virginia.edu/graduation) appears to document how to do this, but contact your College Association Dean if you have questions.
