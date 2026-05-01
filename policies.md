@@ -191,7 +191,7 @@ Before filing a grievance with the department, the student should have attempted
 
 It is the responsibility of the student filing the grievance to ensure that the grievance clearly describes the issue and includes all necessary supporting documentation at the time of submission.
 
-A disagreement over the quality of the student’s work is not sufficient grounds for an appeal. Appeals may only relate to adherence to course policies, the process of how the final grade was computed, etc. An appeal based on a student's disagreement with a documented course policy is unlikely to succeed, unless the student can argue that the policy has been applied in an unfair or unreasonable manner. 
+A disagreement over the quality of the student’s work is not sufficient grounds for an appeal. Appeals may only relate to adherence to course policies, the process of how the final grade was computed, or other similar logistical issues. An appeal based on a student's disagreement with a documented course policy is unlikely to succeed, unless the student can argue that the policy has been applied in an unfair or unreasonable manner. 
 
 A grade appeal to the CS department from a course offered during the fall term must be initiated by the student by February 1st of the following spring term; the appeal of a grade from a course offered during the spring or summer terms must be initiated by the student by September 1st of the following fall term. The appeal of a grade from a course offered during a student’s final term before graduation must be appealed before graduation.
 
