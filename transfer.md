@@ -20,6 +20,10 @@ Current UVA students taking course work at other institutions may need to secure
 
 The College and SEAS pages have their own list of courses each has pre-approved. If a course is pre-approved, College students must submit a form before they take it (see the instructions on their website). SEAS does not require anything in advance if the course is pre-approved, but see their page for what you need to do after you complete the course. 
 
+## Transferring to UVA CS
+
+If you are interested in fully tranferring to the BSCS or BACS degree programs from another program or institution (either internally in UVA or externally), please see [Transferring to UVA CS](/newtransfer.html).
+
 ## Approved Transfer Courses
 
 The pages above have links to school's pre-approved list of courses, but here are direct links:

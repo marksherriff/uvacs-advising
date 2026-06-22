@@ -167,3 +167,6 @@ A: It doesn't matter which semester you take it.  Prof. Vrugtman will take half 
 __Q: I don't want to do a 6th elective or CS 4971 and would prefer research or an independent project.__    
 A: Great!  You can go to [https://uvacsadvising.org/ug_research.html](https://uvacsadvising.org/ug_research.html) to see a list of potential projects or ideas.  Even if the idea was posted a while ago, if you think it sounds cool, reach out to the professor!  They may still be working on that project or have other ideas based on your interests!  It never hurts to reach out to our faculty to talk about their research or your project ideas.  
 
+## Transferring to the BSCS Degree
+
+If you are interested in tranferring to the BSCS degree (either internally in UVA or externally), please see [Transferring to UVA CS](/newtransfer.html).
