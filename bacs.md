@@ -76,11 +76,7 @@ All BACS majors must complete 9 credits (normally 3 courses) of [CS electives]({
 
 All BACS majors must complete 12 credits of [Integration Electives]({{baseurl}}/bacs/integration_electives.html).  These are non-CS courses that contribute to this program of study by exploring applications of computing to arts and sciences fields in a significant way or by providing fundamental computing depth and background. Integration electives are courses offered by departments in the College of Liberal Arts and Sciences. The list of approved courses can be found in the [BACS section of the UG Record]({{ site.data.externallinks.bacs_undergraduate_record }}).
 
-Our page about  [Integration Electives]({{baseurl}}/bacs/integration_electives.html) describes rules on whether things NOT on the official list can be counted. It also has a link to the petition-request for, and a list of courses that have already been successfully petitioned. If you have questions about anything about integration electives not answered on that page, email the BACS Program Director.  Please note the following:
-
-* SIS automatically recognizes the set of integration electives that were defined for your "requirements term" as indicated in SIS.  
-* A course that’s been added to a more recent version of the list will count for students who have an earlier year’s requirements term. (You will need to submit the form described in the document above.)
-* But, a course that’s been removed from an earlier year’s list will not count for a student following a later year’s requirements, unless it was taken before we made the change.
+Our page about  [Integration Electives]({{baseurl}}/bacs/integration_electives.html) describes rules on whether things NOT on the official list can be counted. It also has a link to the petition-request for, and a list of courses that have already been successfully petitioned. If you have questions about anything about integration electives not answered on that page, email the BACS Program Director.
 
 ### GPA requirements for the BACS
 
@@ -89,16 +85,6 @@ At this time the BACS requirements for graduating with the BACS major do NOT inc
 ## Distinguished Majors Program
 
 Prof. Yixin Sun manages the BACS Distinguished Majors Program (DMP), and details about that program can be found at [https://csdmp.github.io/](https://csdmp.github.io/).  Students who apply to and are accepted to be in the Distinguished Majors Program must complete the usual degree requirements as well as a fourth year thesis project. This requires two semesters of [CS 4998 - Distinguished BA Majors Research]({{ baseurl }}/courses.html#cs-4998-distinguished-ba-majors-research) (3 credits each semester) in addition to the usual requirements.
-
-## "Old" BACS Requirements
-
-The BACS degree program changed significantly for students who started at UVA in Summer 2022 and later. Some current BA majors are still completing the "old" degree program. Here is some advising info for those students.
-
-* The official degree requirements are in the 2021-22 Undergraduate Record [at this link](http://records.ureg.virginia.edu/preview_program.php?catoid=52&poid=6752&returnto=4118).
-* Here's a [check-list of requirements](http://bacsoldchecklist.uvacs.org/) for the "old" degree requirements.
-* SIS automatically recognizes the list of integration electives for these students linked to from that page in the UG Record. Here’s a [direct link](http://records.ureg.virginia.edu/mime/media/view/52/4095/Computer%2BScience%2BIntegration%2BElectives%2B2021-2022.pdf). (Courses on a more recent list can count, but the student must fill out the request form.)
-* Current students can declare the major with the “old curriculum” at this time only if they were able to complete CS2150 by the end of Fall 2022 (with a C- or higher) and pass CS3330 no later than Spring 2023.
-* If a student is doing the old curriculum for either the BACS or the BSCS and needs to take CS3330 after Spring 2023, see [this page about what to do instead](https://docs.google.com/document/d/1KWvVXLSntg6I6fJrSy4SWaDCxBTABfptozVgO3Prn74/edit?usp=sharing).
 
 ## Transferring to the BACS Degree
 
