@@ -17,6 +17,21 @@ Site Last Updated: {{ site.time | date: '%A, %B %d, %Y' }}
 1. TOC
 {:toc}
 
+{: .note-title }
+> TLDR - High-level overview
+> 
+> <div style="font-size: 0.9em" markdown="1">
+>
+> - BACS Integration Electives are non-CS courses that connect computing with arts, humanities, sciences, or provide relevant computing-related depth; they are a core part of the BACS degree’s interdisciplinary mission.
+> - To count, courses must be taken for a letter grade, be offered outside the CS department, and generally come from College of Arts & Sciences departments (with at most one approved non-College exception).
+> - You should first check the official list; however, many additional courses have already been approved through prior petitions (as listed in this document) and can be accepted with a simple petition request.
+> - Many courses are explicitly ineligible to count as integration electives, including CS courses, many introductory/general education courses, Commerce courses, and courses that significantly overlap CS curriculum content.
+> - New courses may be petitioned as integration electives if they clearly support the goal of integrating computing with another discipline; graduate courses, special topics courses, study-abroad courses, and some non-College courses may qualify under specific conditions.
+> - Integration electives may count toward general education requirements, have limited sharing with other majors, and cannot be shared with a minor due to College policy.
+> 
+> </div>
+
+
 ## Integration Electives and their role in the BACS Degree
 
 The BA degree in Computer Science degree is offered by the College of Arts and Sciences with a goal of providing students with a strong foundation in computer science, combined with courses in arts, humanities, and sciences, in order to develop an understanding of how topics in these areas connect with computing. **Integration electives** in the BACS are central in supporting this goal of “connecting” CS with other subject areas in the arts and sciences.  As defined in the Undergraduate Record, Integration Electives are:
@@ -245,8 +260,3 @@ The College rules on sharing apply **even if the minor is outside the College** 
     The BACS degree program is managed by a joint committee made up of CS faculty and faculty from various College departments. The College Dean’s office is frequently involved in discussions of direction and policy because having a program managed across two schools is unusual. A program director (the DUP, director of undergraduate programs) from CS does day-to-day management, and staff from CS answer many questions and otherwise support the program.
 
     Petitions are initially reviewed by the Director and may then be evaluated by others on the committee (including our member from the Dean’s office). Sometimes we ask the opinion of the instructor or the DUP from the department offering the course. The BACS Committee has final authority on such decisions, i.e. they cannot be appealed to a department chair or dean.
-
-
-__
-
-
