@@ -23,14 +23,12 @@ As noted in the Undergraduate Record:
 
 In particular, students in Engineering are not allowed to declare the BA in Computer Science (but are welcome to declare the BSCS as a 2nd major or to complete the CS minor).  Students from schools other than Engineering (or the College) who wish to explore if they have taken enough coursework in the College to be allowed to declare the BACS should contact the program director at [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu).
 
-## New BACS degree with new requirements     
+## Prerequisites to declaring
 
-Effective Summer 2022, a "new" version of the BACS major came into existence. Almost every student who declares the BA in CS in Summer 2022 and later will complete the requirements for this "new" version of the BACS. Some current majors are completing the "Old BACS", but they all had to complete CS2110 (an "old" course) by the end of Fall 2021. Any student taking CS2100 in Spring 2022 or later must do the "New BACS", and in order to declare you must have met its prerequisites.
+To declare the degree, you must have completed the following:
 
-* What are the prerequisites?  CS1110 or equivalent with a C+ or higher, and CS2100 or equivalent with a C+ or higher.
-* Where can I find the requirements for the "New BACS"? The official degree requirements are in the [Undergraduate Record]( {{ site.data.externallinks.bacs_undergraduate_record }}).  
-
-__Can I declare the "Old BACS"?__  Only if you completed CS2150 with a C+ or higher by the end of Fall 2022. If you did but did not complete CS 3330 by the end of Spring 2023, contact the Program Director for advice.  (We won’t be teaching "old" courses like CS2110, CS2150 and CS3330 again, so they and the Old BACS are being phased out.)
+* An introductory computer science course, such as [CS 1110]({{ baseurl }}/courses.html#cs-1110-introduction-to-programming), [CS 1111]({{ baseurl }}/courses.html#cs-1111-introduction-to-programming), [CS 1112]({{ baseurl }}/courses.html#cs-1112-introduction-to-programming), [CS 1113]({{ baseurl }}/courses.html#cs-1113-introduction-to-programming) or CS 1120, or an equivalent course; or successful completion of the associated place-out test.
+* [CS 2100 - Data Structures and Algorithms 1]({{ baseurl }}/courses.html#cs-2100-data-structures-and-algorithms-1) (with C+ or higher) or equivalent or successful completion of the associated place-out test.
 
 ## Transfer Students and the BACS
 
@@ -40,7 +38,7 @@ __Important:__ Transfer students should not carry out the instructions below abo
 
 As noted in the [Undergraduate Record]( {{ site.data.externallinks.bacs_undergraduate_record }}), transfer students who have not completed the degree’s pre-requisites (CS 1110 or equivalent and CS 2100 or equivalent, with grades of C+ or higher) before their first semester in residence cannot be accepted into the major. Students missing CS 2100 can "defer" the major and then declare after Fall if they earn a C+ in CS 2100. Students who take CS 2100 in their 5th semester __can__ complete all the degree requirements in 8 semesters, but there is little flexiblity or room for error. (We strongly recommend students in this situation have a "Plan B" for another major and also take courses toward that major in their first semester at UVA.)
 
-Due to prerequisite dependencies, it is nearly impossible for third-year students who have not completed CS 1110 (or its equivalent) to complete the BA in CS in the four remaining semesters. It is important that students transferring to the University as third-years complete the equivalent of CS 1110 and ideally CS 2100 before coming to UVA. The ability to complete the degree in a timely fashion is one factor that will determine if you are accepted into the degree program.
+_Due to prerequisite dependencies, it is nearly impossible for third-year students who have not completed CS 1110 (or its equivalent) to complete the BA in CS in the four remaining semesters. It is important that students transferring to the University as third-years complete the equivalent of CS 1110 and ideally CS 2100 before coming to UVA. The ability to complete the degree in a timely fashion is one factor that will determine if you are accepted into the degree program._
 
 
 ## Getting Information and Advising Before You Declare the BACS
