@@ -149,23 +149,11 @@ The CS Capstone is comprised of two parts:
 
 There are three options for completing these two steps:
 
-__Option 1)__ Take 3 credits of CS 4971: Capstone Practicum II.  __For AY '25-'26, we are piloting a new version of the course.__ This course will involve a semester-long team project determined by the students.  It will be run similarly to CS 3240 in that it will follow a set development methodology.  A team report will be written at the end that will serve as the technical report for all students on the team.  This option may not be offered every semester.  _NOTE: The typical version of this course runs as a year-long project instead of semester-long.  In those cases, CS 4970: Capstone Practicum I must be taken in the fall semester before CS 4971 in the spring._
+__Option 1)__ Take 3 credits of CS 4971: Capstone Practicum.  This course will involve a semester-long team project determined by the students.  It will be run similarly to CS 3240 in that it will follow a set development methodology.  A team report will be written at the end that will serve as the technical report for all students on the team.  This option may not be offered every semester.  
 
 __Option 2)__ Take 3 credits of CS 4980 and write the technical report at the end of this course.  Whoever you take CS 4980 with will sign off on the paper as being your technical report component for your senior thesis portfolio that you do with STS during 4500 and 4600.  Reach out to faculty to see what projects they may have or check out [https://uvacsadvising.org/ug_research.html](https://uvacsadvising.org/ug_research.html) for ideas!   
 
-__Option 3)__ Take a 6th CS elective (CS 4000 or higher) -AND- take the 0-credit CS 4991 course.  The 6th CS elective will cover your required 3 credits needed for the capstone slot in your SIS Academic Requirements report.  CS 4991 is the course in which we track and evaluate a your technical report that you come up with on your own.  This course is pass/fail and you need a pass to graduate. _NOTE: We anticipate that AY '25-'26 will be the last year this is offered and limited seats will be available._
-  
-__Q: How do I come up with my paper topic?__    
-A: Here are two prompts to consider:
-
-- Describe an already completed computing experiential learning event ― internship, personal project, non-profit volunteer effort ― that offered documented value to a specific organization, community, or group. If appropriate, indicate how the project could be enhanced or redesigned for increased value.
-- Propose a synthesis of ideas from two completed CS courses that connects how topic(s) might be enhanced, extended, refined, or reworked.
-  
-__Q: Do I have to take CS 4991 in the fall or can I take it in the spring?__     
-A: It doesn't matter which semester you take it.  Prof. Vrugtman will take half of the BSCS students who want to do this option this fall and the other half in the spring.  If you want to do it in the fall, it may already be full, but you can see if someone wants to drop or swap.
- 
-__Q: I don't want to do a 6th elective or CS 4971 and would prefer research or an independent project.__    
-A: Great!  You can go to [https://uvacsadvising.org/ug_research.html](https://uvacsadvising.org/ug_research.html) to see a list of potential projects or ideas.  Even if the idea was posted a while ago, if you think it sounds cool, reach out to the professor!  They may still be working on that project or have other ideas based on your interests!  It never hurts to reach out to our faculty to talk about their research or your project ideas.  
+__Option 3)__ Take a 6th CS elective (CS 4000 or higher) -AND- take the 0-credit CS 4991 course.  The 6th CS elective will cover your required 3 credits needed for the capstone slot in your SIS Academic Requirements report.  CS 4991 is the course in which we track and evaluate a your technical report that you come up with on your own.  While techincally still an option, this will be rare going forward.  Some facutly may offer the chance to do a CS 4991 in conjunction with a 4000-level elective, but are not required to.  Please reach out to a faculty member before assuming this will be an option for you.
 
 ## Transferring to the BSCS Degree
 

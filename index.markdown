@@ -29,15 +29,20 @@ This website is maintained by the faculty and staff of the Department of Compute
 
 Advising Staff Hours:
 
-- Mondays: 2:00-4:00 PM w/ SJ Jimènez-Calhoun [online through Zoom](https://virginia.zoom.us/my/csadvising)
-- Tuesdays: 10:00 AM-12:00 PM w/ Sheri Grimes in Rice 425
-- Wednesdays: 10:00 AM-12:00 PM w/ SJ Jimènez-Calhoun [online through Zoom](https://virginia.zoom.us/my/csadvising)
-- Thursdays: 2:00-4:00 PM w/ Sheri Grimes in Rice 425
-- Fridays: 2:00-4:00 PM w/ SJ Jimènez-Calhoun [online through Zoom](https://virginia.zoom.us/my/csadvising)
+M/W/F 2-4 pm SJ, Room 106
+Tues 10-12pm - Sheri, Room 107
+Th 2-4pm- Sheri, Room 107
 
-Peer Advisors (Spring 2026):
+- Mondays: 2:00-4:00 PM w/ SJ Jimènez-Calhoun in Rice 106
+- Tuesdays: 10:00 AM-12:00 PM w/ Sheri Grimes in Rice 107
+- Wednesdays: 2:00-4:00 PM w/ SJ Jimènez-Calhoun in Rice 106
+- Thursdays: 2:00-4:00 PM w/ Sheri Grimes in Rice 107
+- Fridays: 2:00-4:00 PM w/ SJ Jimènez-Calhoun in Rice 106
 
-- Mondays-Fridays: 12:00-5:00 PM in the Rice 4th floor open area
+Peer Advisors (Fall 2026):
+
+- Mondays and Wednesdays: 11:00 AM-2:00 PM in Davis Commons
+- Tuesdays and Thursdays: 2:00-4:00 PM in Davis Commons
 
 {: .note }
 The information contained on this website is for informational purposes only. The Undergraduate Record and Graduate Record represent the official repository for academic program requirements. These publications may be found at [http://records.ureg.virginia.edu/](http://records.ureg.virginia.edu/index.php).
