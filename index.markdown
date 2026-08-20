@@ -29,10 +29,6 @@ This website is maintained by the faculty and staff of the Department of Compute
 
 Advising Staff Hours:
 
-M/W/F 2-4 pm SJ, Room 106
-Tues 10-12pm - Sheri, Room 107
-Th 2-4pm- Sheri, Room 107
-
 - Mondays: 2:00-4:00 PM w/ SJ Jimènez-Calhoun in Rice 106
 - Tuesdays: 10:00 AM-12:00 PM w/ Sheri Grimes in Rice 107
 - Wednesdays: 2:00-4:00 PM w/ SJ Jimènez-Calhoun in Rice 106
