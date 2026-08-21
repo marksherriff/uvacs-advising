@@ -57,14 +57,14 @@ Students must complete **one** of the following:
 
 For the concentration in Artificial Intelligence, students are required to complete **four courses (12 credits)** as described below. Each course also satisfies a major requirement for the BACS, so the concentration can be completed without taking courses beyond what is required to complete the major.
 
-## AI Concentration Core
+### AI Concentration Core
 
 Students must complete the following two courses, which also satisfy the CS Restricted Electives for the BACS major requirements:
 
 - [CS 4710 - Artificial Intelligence](https://records.ureg.virginia.edu/preview_program.php?catoid=72&poid=11789#) — 3 credits
 - [CS 4774 - Machine Learning](https://records.ureg.virginia.edu/preview_program.php?catoid=72&poid=11789#) — 3 credits
 
-## AI Concentration Electives
+### AI Concentration Electives
 
 Students must also complete **two courses** from the following pre-approved list:
 
@@ -78,7 +78,7 @@ Students must also complete **two courses** from the following pre-approved list
 - [PLAP 3242 - The Politics of Artificial Intelligence](https://records.ureg.virginia.edu/preview_program.php?catoid=72&poid=11789#) — 3 credits
 - [STAT 4630 - Statistical Machine Learning](https://records.ureg.virginia.edu/preview_program.php?catoid=72&poid=11789#) — 3 credits
 
-### Special Topics Courses
+#### Special Topics Courses
 
 The following special topics courses may count toward the AI Concentration Electives category, but will require manual override.  Please reach out to the department for more information.
 
