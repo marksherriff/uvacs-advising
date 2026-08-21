@@ -6,15 +6,28 @@ nav_order: 3.4
 
 # Artificial Intelligence Concentration
 
-The Department of Computer Science offers an Artificial Intelligence Concentration - a curated sequence of courses designed for students who want to take a focused area of study in AI. The AI Concentration is available to BSCS and BACS majors only. More information is found [on this page](https://engineering.virginia.edu/department/computer-science/cs-undergraduate-artificial-intelligence-focal-path).
+The College of Arts and Sciences (A&S) and the School of Engineering and Applied Science (SEAS) now offer concentrations in Artificial Intelligence (AI) under the BA and BS in Computer Science degree programs, effective Fall 2026. Both concentrations are designed to provide a rigorous foundation in modern AI and machine learning, in response to well-documented academic trends and workforce needs.  
 
-A concentration is a selection of courses that a student can take to demonstrate they have fulfilled a set of courses the department has defined for that area of focus in computing. Concentrations will appear on a student's transcript, but not on their diploma. Courses that count for the concentration can also count for any other major or minor requirement.
+The AI concentration in each major is focused around two foundation courses and two elective courses, each requiring 12 credits total:  
+
+* 6 credits of foundation coursework (2 courses) in Artificial Intelligence and Machine Learning.  
+* 6 credits of elective coursework (2 courses) chosen from curated lists for each concentration.  
+
+Concentrations will appear on a student's transcript, but not on their diploma. Courses that count for the concentration can also count for any other major or minor requirement. More information is found [on the department's info page](https://engineering.virginia.edu/department/computer-science/cs-undergraduate-artificial-intelligence-focal-path).
 
 ## Declaring the AI Concentration
 
-Students should reach out to their respective registrar for information on how to declare the concentration *after* they have fully declared either the BACS or BSCS major.  
+- BSCS Majors: Submit a change of major form to the SEAS office to add the concentration.
+- BACS Majors: Choose the concentration via AirTable (when available - coming soon).
 
-## Course Requirements for BSCS Majors
+## BSCS AI Concentration
+
+### Learning Outcomes
+
+- Master foundational AI/ML methods and theory.  
+- Implement and evaluate models using modern software tools and best practices.  
+- Assess applications and societal implications of AI in engineering contexts.  
+- Communicate findings to technical and non‑technical audiences.  
 
 For the concentration in Artificial Intelligence, students are required to complete **four courses (12 credits)** as described below.
 
@@ -53,7 +66,12 @@ Students must complete **one** of the following:
   - _Approved Topic:_ AI Policy and Society
 
 
-## Course Requirements for BACS Majors
+## BACS AI Concentration
+
+- Connect AI methods to interdisciplinary contexts in the College of Arts & Sciences.  
+- Critically evaluate applications and impacts of AI across domains.  
+- Use data and algorithmic tools to address cross‑domain questions.  
+- Communicate to broad audiences, integrating technical and societal perspectives. 
 
 For the concentration in Artificial Intelligence, students are required to complete **four courses (12 credits)** as described below. Each course also satisfies a major requirement for the BACS, so the concentration can be completed without taking courses beyond what is required to complete the major.
 
