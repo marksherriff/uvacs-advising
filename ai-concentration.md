@@ -13,7 +13,7 @@ The AI concentration in each major is focused around two foundation courses and 
 * 6 credits of foundation coursework (2 courses) in Artificial Intelligence and Machine Learning.  
 * 6 credits of elective coursework (2 courses) chosen from curated lists for each concentration.  
 
-Concentrations will appear on a student's transcript, but not on their diploma. Courses that count for the concentration can also count for any other major or minor requirement. More information is found [on the department's info page](https://engineering.virginia.edu/department/computer-science/cs-undergraduate-artificial-intelligence-focal-path).
+Concentrations will appear on a student's transcript, but not on their diploma. Courses that count for the concentration can also count for any other major or minor requirement. More information is found [on the department's info page](https://engineering.virginia.edu/department/computer-science/cs-undergraduate-artificial-intelligence-concentrations).
 
 ## Declaring the AI Concentration
 
