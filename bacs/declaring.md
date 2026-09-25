@@ -58,47 +58,20 @@ You can submit your declaration any time, but our staff may not necessarily proc
 ### Will I be accepted into the major? 
 All College students who meet the prerequisites will be allowed to declare. Currently there are no "caps" or limits on the number of College students who can declare the BACS. So it is not a competitive admissions situation.
 
-### I want to declare!  What do I do now?
-
-There are two forms to complete: the CS department form, and the College's major declaration form with DocuSign.
-
-* First, fill out the [CS department declaration form (June 2022 version)]({{ site.data.externallinks.bacs_declaration_form }}).  When you complete that PDF form, you’ll need to save it to your computer after you enter your responses into it.
-* Second, follow the instructions below to complete the __College’s major declaration form using DocuSign.__ You will attach the CS declaration form (the PDF file you completed) when you submit the College form using DocuSign.
-
-__Before you declare:__
+### What if I have questions before declaring? 
 
 * If you are not sure you meet the prerequisites, contact [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu) before applying.
-* Read the [Info for New BACS Students]({{ baseurl }}/bacs/new_student_info.html) page. Check that out at some point, please, as it answers many questions.
-* You’ll be assigned a CS advisor when we process your major declaration, and you’ll find that person’s name in SIS. For any CS questions before that, email [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu). 
+* You’ll be assigned a CS advisor when we process your major declaration, and you’ll find that person’s name in Stellic. For any CS questions before that, email [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu). 
 
+## Submitting the Declaration of Major for the BACS
 
-### Submitting the Declaration of Major for the BACS
+Submit your major declaration using the [Declare a Major or Minor form](https://college.as.virginia.edu/declaration-major-and-minor-form-and-instructions) on the College website.  Instructions for logging in and accessing the form can be found at the above link.  Be sure to select the correct major so that we receive your declaration. _From this form, you may also declare the AI concentration._
 
-Go to the College's page ["Declaration of Major and Minor - Form and Instructions"](https://college.as.virginia.edu/declaration-major-and-minor-form-and-instructions). (FYI the instructions recommend you use the Chrome web browser.) You may have to do some things to show you're a real UVA student.  Read what's there, and to then get to the form, click on that text in the left column.  Note: it says to contact someone in CS to determine what steps you need to in order to declare, but you don't need to do that -- the page you're reading explains all that!
- 
-__Step 1:__     
-You'll first see the "Powerform" where you must enter just 4 things:  your name and your email address, and then (for the "DMC" person) enter the Program Director's name, Robbie Hott, and the email address __jh2jf@virginia.edu__. (Not "jrhott@virginia.edu", but "jh2jf@virginia.edu". Do NOT enter the "bacsdirector" email alias in DocuSign! __Failure to enter the correct email address means your form may not come to our attention for months, if at all, due to the way DocuSign works.__)
-Don't enter or change anything else, but you MUST click on __Begin Signing__ at the bottom.
- 
-__Step 2:__      
-After you click __Begin Signing__, you'll see the major declaration form. You'll need to complete the some info, sign it, and click __Finish__ at the bottom of that page.
-What info will you need to enter?  __See the next section for CS-specific instructions.__  Also, here's a PDF file the College has provided that shows [what this form will look like:](https://college.as.virginia.edu/sites/college.as.virginia.edu/files/2024-05/Declaration%20of%20Major%20Preview%20Form.pdf).
- 
-__IMPORTANT NOTES:__       
+Once you have submitted your declaration, it will go to a few different people as it's getting processed.  You should expect an email response from us in 5 business days during the Fall/Spring semester and within 10 business days at any other time. 
 
-1. On the line "Intended Major/Minor" you must enter either the text "CS-BA" (for the New BACS major) or "INCOMP-BA" (for the Old BACS major). Entering anything other than these will result in your form being rejected. (If you type, say, "Computer Science" that could mean either degree, and the Dean’s Office can’t tell which of the two degrees you’re declaring.)
-2. Just after that line in the form, be sure to check at least one of the boxes about your intended major.  If this will be your second major or if you’re replacing your previous major, this section is important!
-3. There's a section labeled "Complete the bottom portion of this form with a major/minor advisor". For CS it's perfectly OK if you don't fill this out, but DocuSign requires you put something here. So just put 29 (or anything) for the number of credit hours needed, and enter info for just one CS course.  But for the course title write "see attachment".
+**Having trouble using the form?**  Email [CollegeForms@virginia.edu](mailto:CollegeForms@virginia.edu) with as much information as possible about your specific problem. 
 
-
-__Step 3:__     
-At the bottom of that form, you’ll see a button with a paper-clip. This lets you add an attachment. Click on that and attach the PDF file of the completed [CS department declaration form]({{ site.data.externallinks.bacs_declaration_form }}) that we mentioned earlier. Be sure you don’t forget to complete and attach this!
- 
-__Final Step:__    
-Be sure to click __Finish__ at the bottom of the major declaration form!
-
-Your form will be forwarded to a sequence of people, who will approve it, assign you a CS advisor, and finally enter your new major into SIS. After the final step happens, DocuSign is supposed to send you an email saying it’s completed. We’ve noticed that sometimes this email doesn’t reach your Inbox, so check on SIS to see if your major has been updated if you don’t see the email.
-
+**Haven't heard back from the CS department?** Thank you for your patience!  If your declaration is still in progress but you haven’t received an email from us after the time windows mentioned above, contact [bacsdirector@virginia.edu](mailto:bacsdirector@virginia.edu), including your full name, computing ID, and the major/minor you are trying to declare.
 
 ## How to Undeclare the BACS Major
 
