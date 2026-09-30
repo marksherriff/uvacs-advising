@@ -65,7 +65,41 @@ All College students who meet the prerequisites will be allowed to declare. Curr
 
 ## Submitting the Declaration of Major for the BACS
 
-Submit your major declaration using the [Declare a Major or Minor form](https://college.as.virginia.edu/declaration-major-and-minor-form-and-instructions) on the College website.  Instructions for logging in and accessing the form can be found at the above link.  Be sure to select the correct major so that we receive your declaration. _From this form, you may also declare the AI concentration._
+Submit your major declaration using the [Declare a Major or Minor form](https://college.as.virginia.edu/declaration-major-and-minor-form-and-instructions) on the College website.  Instructions for logging in and accessing the form can be found at the above link. 
+ 
+The form for major declarations is changing!  But the steps are different depending on if you have the old from (in Docusign) or the new form (in AirTable). So please read carefully!
+
+
+### Docusign Form
+
+If the form you open is titled **PowerForm Signer Information**, then you have the Docusign form.  Please use these instructions, since we in CS ask you to skip a few sections.
+
+__Step 1:__     
+You'll first see the "Powerform" where you must enter just 4 things:  your name and your email address, and then (for the "DMC" person) enter the Program Director's name, Robbie Hott, and the email address __jh2jf@virginia.edu__. (Not "jrhott@virginia.edu", but "jh2jf@virginia.edu". Do NOT enter the "bacsdirector" email alias in DocuSign! __Failure to enter the correct email address means your form may not come to our attention for months, if at all, due to the way DocuSign works.__)
+Don't enter or change anything else, but you MUST click on __Begin Signing__ at the bottom.
+ 
+__Step 2:__      
+After you click __Begin Signing__, you'll see the major declaration form. You'll need to complete the some info, sign it, and click __Finish__ at the bottom of that page.
+What info will you need to enter?  __See the next section for CS-specific instructions.__  Also, here's a PDF file the College has provided that shows [what this form will look like:](https://college.as.virginia.edu/sites/college.as.virginia.edu/files/2024-05/Declaration%20of%20Major%20Preview%20Form.pdf).
+ 
+__IMPORTANT NOTES:__       
+1. On the line "Intended Major/Minor" you must enter either the text "CS-BA". Entering anything other than these will result in your form being rejected.  You may also enter "AI concentration" to additionally declare the concentration in AI. 
+2. Just after that line in the form, be sure to check at least one of the boxes about your intended major.  If this will be your second major or if you’re replacing your previous major, this section is important!
+3. There's a section labeled "Complete the bottom portion of this form with a major/minor advisor". For CS it's perfectly OK if you don't fill this out, but DocuSign requires you put something here. So just put 29 (or anything) for the number of credit hours needed, and enter info for just one CS course.  But for the course title write "see attachment".
+
+__Step 3:__     
+At the bottom of that form, you’ll see a button with a paper-clip. This lets you add an attachment. Click on that and attach the PDF file of the completed [CS department declaration form]({{ site.data.externallinks.bacs_declaration_form }}) that we mentioned earlier. Be sure you don’t forget to complete and attach this!
+ 
+__Final Step:__    
+Be sure to click __Finish__ at the bottom of the major declaration form!
+
+Your form will be forwarded to a sequence of people, who will approve it, assign you a CS advisor, and finally enter your new major into Stellic. After the final step happens, DocuSign is supposed to send you an email saying it’s completed. We’ve noticed that sometimes this email doesn’t reach your Inbox, so check on SIS to see if your major has been updated if you don’t see the email.
+
+### AirTable Form
+
+If you have the new form (**not** labeled PowerForm Signer Information), then continue to the instructions below.
+
+Be sure to select the correct major so that we receive your declaration. _From this form, you may also declare the AI concentration._
 
 Once you have submitted your declaration, it will go to a few different people as it's getting processed.  You should expect an email response from us in 5 business days during the Fall/Spring semester and within 10 business days at any other time. 
 
