@@ -1,3 +1,4 @@
+---
 layout: default
 title: BSCS Senior Thesis Technical Report Information
 permalink: /seniorthesis/
@@ -6,7 +7,7 @@ nav_exclude: true
 
 # BSCS Senior Thesis Technical Report Guide
 
-Default guidance for students and faculty
+Guidance for students and faculty for completing the Technical Report as a part of the SEAS STS Senior Thesis Portfolio.
 
 ## 1 Using this guide
 
