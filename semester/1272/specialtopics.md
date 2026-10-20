@@ -149,7 +149,8 @@ This course introduces modern data privacy through concrete attacks, practical d
 ---
 
 ### Advanced SE (Section 011)
-**Instructor:** Sebastian Elbaum
+**Instructor:** Sebastian Elbaum  
+This course explores, reproduces, and enhances state-of-the-art software engineering techniques from top-tier research conferences, covering the entire development lifecycle with a dedicated focus on leveraging agentic AI. Students will engage in paper reading, infrastructure setup, empirical studies, and hands-on technique development.
 
 ---
 
