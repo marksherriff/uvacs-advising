@@ -37,21 +37,21 @@ This course explores current and future impacts of AI on humanity. We aim to und
 ---
 
 ### Digital Wellbeing (Section 004)
-**Instructor:** Angela D. Orebaugh
+**Instructor:** Angela Orebaugh
 
 **Prerequisites:** Completed CS 2100 with a grade of C- or better or successfully completed the CS 2100 place out test.
 
 ---
 
 ### Systemic Certification (Section 005)
-**Instructor:** Kevin J. Sullivan  
+**Instructor:** Kevin Sullivan  
 
 **Prerequisites:** CS 2120 and CS 3140
 
 ---
 
 ### Specification Engineering (Section 006)
-**Instructor:** Matthew B. Dwyer  
+**Instructor:** Matthew Dwyer  
 Students will learn how to specify the intended behavior of software systems using mathematical logic and then use specifications to verify that implementations conform to the specifications. They will also use emerging industrial frameworks that support specification and verification, like Verus for Rust, which has been used in multiple large deployed systems in industry and will also leverage agentic approaches to synthesize proofs.  A significant part of the course will be applying the learned methods to specify and verify existing Rust software systems in the context of a 8+ week project.  Students will leverage generative AI to support validation of specifications and generation of proof code - using methods employed in industrial practice.
 
 **Prerequisites:** CS 2120 and CS 3140;   Knowledge of Rust is helpful, but not required.
@@ -59,7 +59,7 @@ Students will learn how to specify the intended behavior of software systems usi
 ---
 
 ### Workshop on Building AI Agents (Section 007)
-**Instructor:** Henry Alexander Kautz  
+**Instructor:** Henry Kautz  
 In this hands-on workshop, we will learn how to build AI agents: systems powered by large-language models that autonomously interact with services, tools, and other agents.
 
 **Prerequisites:** CS 3140
@@ -67,7 +67,7 @@ In this hands-on workshop, we will learn how to build AI agents: systems powered
 ---
 
 ### Environmental Intelligence (Section 008)
-**Instructor:** Nhat H Nguyen  
+**Instructor:** Rich Nguyen  
 Environmental Intelligence is a project-based learning course where students use AI to monitor ecosystems, reduce environmental harm, and prepare for natural disasters. Instead of lectures, each week pairs a discussion seminar with a build lab.
 
 **Prerequisites:** Completed CS 2100 with a grade of C- or better or successfully completed the CS 2100 place out test.
