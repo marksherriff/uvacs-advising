@@ -54,6 +54,8 @@ This course explores current and future impacts of AI on humanity. We aim to und
 **Instructor:** Matthew Dwyer  
 Students will learn how to specify the intended behavior of software systems using mathematical logic and then use specifications to verify that implementations conform to the specifications. They will also use emerging industrial frameworks that support specification and verification, like Verus for Rust, which has been used in multiple large deployed systems in industry and will also leverage agentic approaches to synthesize proofs.  A significant part of the course will be applying the learned methods to specify and verify existing Rust software systems in the context of a 8+ week project.  Students will leverage generative AI to support validation of specifications and generation of proof code - using methods employed in industrial practice.
 
+**Course Website:** [https://matthewbdwyer.github.io/4501/](https://matthewbdwyer.github.io/4501/)
+
 **Prerequisites:** CS 2120 and CS 3140;   Knowledge of Rust is helpful, but not required.
 
 ---
