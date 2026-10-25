@@ -94,9 +94,9 @@ BSCS majors must take one upper-level course in software engineering and one cou
 
 The senior thesis should be taken during the student’s last year and consists of the STS 4500/4600 sequence (see the General Requirements listed above) together with one of the following options:
 
-* [CS 4980 - Capstone Research]({{ baseurl }}/courses.html#cs-4980-capstone-research) (Credits: 3)
-* [CS 4971 - Capstone Practicum II]({{ baseurl }}/courses.html#cs-4971-capstone-practicum-ii) (Credits: 3)
-* [CS 4991 - Capstone Technical Report]({{ baseurl }}/courses.html#cs-4991-capstone-technical-report) (Credits: 0) AND a three-credit, graded CS 4000 course not used to fulfill any other CS degree requirement.
+* [CS 4980 - Senior Thesis Research]({{ baseurl }}/courses.html#cs-4980-capstone-research) (Credits: 3)
+* [CS 4971 - Senior Thesis Practicum]({{ baseurl }}/courses.html#cs-4971-capstone-practicum-ii) (Credits: 3)
+* [CS 4991 - Senior Thesis Technical Report]({{ baseurl }}/courses.html#cs-4991-capstone-technical-report) (Credits: 0) AND a three-credit, graded CS 4000 course not used to fulfill any other CS degree requirement.
 
 ### Computer Science Electives
 
@@ -136,24 +136,28 @@ _(NOTE: Students matriculating in Fall 2025 and after will complete twelve (12) 
 
 BSCS majors must have a 2.0 GPA average for CS courses in order to graduate.  For courses that must be repeated due to a failing grade or not obtaining the needed grade as a prerequisite for a later course, all grades (including the original grade) count toward the CS GPA.
 
-## Capstone Information
+## Senior Thesis Information
 
-The BSCS Capstone is seperate but related to the SEAS Senior Thesis requirement for graduation.  As a part of the SEAS Senior Thesis, students will take STS 4500 and STS 4600 during their last two semesters at UVA.  Through these courses, students will create a Senior Thesis Portfolio according to the [SEAS Thesis Portfolio Guide](https://guides.lib.virginia.edu/seasthesis).  The Portfolio contains several parts, most of which will be done through the STS courses.  
+The BSCS Senior Thesis is seperate but related to the SEAS Senior Thesis requirement for graduation.  As a part of the SEAS Senior Thesis, students will take STS 4500 and STS 4600 during their last two semesters at UVA.  Through these courses, students will create a Senior Thesis Portfolio according to the [SEAS Thesis Portfolio Guide](https://guides.lib.virginia.edu/seasthesis).  The Portfolio contains several parts, most of which will be done through the STS courses.  
 
-However, the part that intersects with the CS Capstone is the "Technical Report."  
+However, the part that intersects with the CS Senior Thesis is the "Technical Report."  
 
-The CS Capstone is comprised of two parts:
+The CS Senior Thesis is comprised of two parts:
 
 1. Three credits of student work, either through independent research or a CS elective
 2. Writing the technical report as a part of the SEAS Senior Thesis
 
 There are three options for completing these two steps:
 
-__Option 1)__ Take 3 credits of CS 4971: Capstone Practicum.  This course will involve a semester-long team project determined by the students.  It will be run similarly to CS 3240 in that it will follow a set development methodology.  A team report will be written at the end that will serve as the technical report for all students on the team.  This option may not be offered every semester.  
+__Option 1)__ Take 3 credits of CS 4971: Senior Thesis Practicum.  This course will involve a semester-long team project determined by the students.  It will be run similarly to CS 3240 in that it will follow a set development methodology.  A team report will be written at the end that will serve as the technical report for all students on the team.  This option may not be offered every semester.  
 
 __Option 2)__ Take 3 credits of CS 4980 and write the technical report at the end of this course.  Whoever you take CS 4980 with will sign off on the paper as being your technical report component for your senior thesis portfolio that you do with STS during 4500 and 4600.  Reach out to faculty to see what projects they may have or check out [https://uvacsadvising.org/ug_research.html](https://uvacsadvising.org/ug_research.html) for ideas!   
 
-__Option 3)__ Take a 6th CS elective (CS 4000 or higher) -AND- take the 0-credit CS 4991 course.  The 6th CS elective will cover your required 3 credits needed for the capstone slot in your SIS Academic Requirements report.  CS 4991 is the course in which we track and evaluate a your technical report that you come up with on your own.  While techincally still an option, this will be rare going forward.  Some facutly may offer the chance to do a CS 4991 in conjunction with a 4000-level elective, but are not required to.  Please reach out to a faculty member before assuming this will be an option for you.
+__Option 3)__ Take a 6th CS elective (CS 4000 or higher) -AND- take the 0-credit CS 4991 course.  The 6th CS elective will cover your required 3 credits needed for the senior thesis slot in your SIS Academic Requirements report.  CS 4991 is the course in which we track and evaluate a your technical report that you come up with on your own.  While techincally still an option, this will be rare going forward.  Some facutly may offer the chance to do a CS 4991 in conjunction with a 4000-level elective, but are not required to.  Please reach out to a faculty member before assuming this will be an option for you.
+
+### Technical Report
+
+More information about the Technical Report can be found on the [BSCS Senior Thesis Technical Report Guide](/seniorthesis).
 
 ## Transferring to the BSCS Degree
 
