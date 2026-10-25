@@ -9,19 +9,19 @@ nav_exclude: true
 
 Guidance for students and faculty for completing the Technical Report as a part of the SEAS STS Senior Thesis Portfolio.
 
-## 1 Using this guide
+## 1. Using this guide
 
 Your technical report explains a computing research or implementation project for the SEAS Senior Thesis portfolio. It should show what problem you addressed, what you contributed, how you examined the work, and what the evidence supports. A strong report makes your technical reasoning understandable to a reader who was not involved in the project.
 
-Use this guide when your supervising faculty member has not provided more specific instructions. Faculty instructions govern the project scope, report content, format, and assessment; this guide fills gaps. Course requirements and current SEAS portfolio submission requirements also apply. If instructions conflict, resolve the conflict with the supervising faculty member or course instructor before submission.
+This guide provides general information for BSCS students and CS faculty on what is often reuired for a successful Senior Thesis. Faculty instructions govern the project scope, report content, format, and assessment; this guide fills gaps. Course requirements and current SEAS portfolio submission requirements also apply. If instructions conflict, resolve the conflict with the supervising faculty member or course instructor before submission.
 
 ### How the report fits your course
 
 - **CS 4971** provides a course-based path to the technical report. Follow the course assignment and submission instructions.
 - **CS 4980** involves independent research with a faculty member. That faculty member determines the paper’s content and format. This guide provides a starting point when additional guidance would help.
-- **CS 4991** is a fallback for students in special circumstances. It carries no credit; students using this option take an additional CS elective. Follow the applicable CS 4991 instructions and confirm the arrangement with your advisor.
+- **CS 4991** is a fallback for students in special circumstances, such as students who are abroad in their final year and cannot complete one of the other options. Please discuss with the BSCS Director before considering.
 
-This guide addresses the technical report. It does not replace instructions for the STS paper, prospectus, or other portfolio components, and it does not determine eligibility for a course or thesis path.
+This guide addresses the technical report. It does not replace instructions for the STS paper, prospectus, or other portfolio components.
 
 ### Start with a clear scope
 
@@ -29,12 +29,11 @@ Before drafting, identify the question or problem, the work you will report, you
 
 ### Default presentation
 
-When no other format is specified, use an ACM-style technical paper with a descriptive title, author name and affiliation, abstract, numbered body sections, and references. Word or LaTeX is suitable. A two-column layout is a useful default; preserve the chosen template’s margins, type size, and spacing. Remove sample text and publication metadata that do not apply, including invented conference names, copyright notices, and placeholder identifiers.
+When no other format is specified, use an [ACM-style technical conference paper](https://www.acm.org/publications/proceedings-template) with a descriptive title, author name and affiliation, abstract, numbered body sections, and references. Word or LaTeX is suitable. Using the approved [ACM conference template in Overleaf](https://www.overleaf.com/latex/templates/acm-conference-proceedings-primary-article-template/wbvnghjbzwpc) with your UVA account is a good choice. A two-column layout is a useful default; preserve the chosen template’s margins, type size, and spacing. Remove sample text and publication metadata that do not apply, including invented conference names, copyright notices, and placeholder identifiers.
 
-Use a default limit of **six pages of content, including figures and tables, plus up to one additional page containing only references**. References may begin within the first six pages; a seventh page, if needed, must contain only references. The faculty member may choose a different length or layout. This matches the CS 4971 report limit. In CS 4991, follow the applicable course limit. Use an editable document for feedback and a PDF for the final report unless the recipient specifies another format. Confirm portfolio packaging and submission instructions separately.
+Use a default limit of **six pages of content, including figures and tables, plus up to one additional page containing only references**. References may begin within the first six pages; a seventh page, if needed, must contain only references. Note that the faculty member may choose a different length or layout based on their needs and common publication venues in their field. Use an editable document for feedback and a PDF for the final report unless the recipient specifies another format. Confirm portfolio packaging and submission instructions separately.
 
-
-## 2 What the report should contain
+## 2. What the report should contain
 
 These sections describe the report’s functions. You may rename, combine, or split sections to fit the project, provided the reader can find the information. Background and acknowledgments are optional. Methods, results, and limitations may be integrated into other sections, but their substance should remain explicit.
 
@@ -68,8 +67,7 @@ Interpret the findings and explain their boundaries. Distinguish system limitati
 
 Summarize the contribution and what the evidence establishes. Do not introduce new results or promise benefits that were not examined. Identify concrete next steps, particularly those needed to address limitations or unfinished objectives. Acknowledgments may recognize assistance and resources. End with full references for the sources cited in the text.
 
-
-## 3 Making the evaluation credible
+## 3. Making the evaluation credible
 
 Evaluation should fit the project’s objectives and available resources. It may involve experiments, benchmarks, correctness tests, a proof, structured user observations, analysis of an existing dataset, or comparison against defined requirements. A publishable discovery, successful deployment, or positive outcome is not necessary for a useful report. Honest analysis of an unsuccessful approach can demonstrate substantial technical work.
 
@@ -103,8 +101,7 @@ For example, a short evaluation of a planning tool might support the conclusion 
 
 Describe the implemented portion and evaluate it where possible. Label proposed components, expected benefits, and planned evaluations clearly. Never present anticipated results as observations. Explain what prevented completion, what you learned from the attempt, and what would be needed to answer the remaining question. Confirm with your faculty member that the resulting scope meets the expectations for your project.
 
-
-## 4 Adapting the structure to your project
+## 4. Adapting the structure to your project
 
 The same core questions apply across project types, but the evidence and technical explanation will differ. Choose a structure that makes the contribution visible.
 
@@ -115,12 +112,6 @@ State the research question or hypothesis and how it follows from prior work. Ex
 ### Software or system implementation
 
 Define the requirements and intended use. Explain the architecture and technically significant design decisions, including alternatives and constraints. Describe the implemented state and assess it using appropriate tests, benchmarks, or user tasks. Distinguish requirements met, requirements partially met, and work deferred. Screenshots can illustrate behavior, but should accompany an explanation of the system’s design and evidence about its operation.
-
-### Internship or collaborative project
-
-Provide enough organizational context to explain the technical problem, then focus on your contribution. Identify what existed before you began, what you designed or implemented, and what other people contributed. Use “I” for your work and “we” for shared work, with a clear explanation of the roles. Agree on attribution and any shared text with your faculty member. Follow the applicable course rules for team reports and individual submissions.
-
-Do not disclose confidential code, credentials, private records, or proprietary details. Work with the faculty member and project owner to identify a reportable scope or suitable abstraction. Resolve confidentiality and any archive restrictions before submission; do not assume that a private course submission will remain private in the portfolio.
 
 ### Technical design or proposal
 
@@ -134,8 +125,7 @@ Use this approach only when agreed with the supervising faculty member or course
 
 A research report might use Research Question, Methods, Results, and Discussion. A system report might use System Design, Implementation, Evaluation, and Limitations. A proposal might use Requirements, Proposed Design, Feasibility Analysis, and Evaluation Plan. The names may change; the distinction among what was done, what was observed, and what is expected should remain clear.
 
-
-## 5 Writing and review
+## 5. Writing and review
 
 Write for a technically educated reader who does not know your particular project. Introduce specialized terms and expand acronyms on first use. Explain enough context for faculty outside the subfield to follow the argument while retaining the technical detail needed to assess the work. Prefer direct sentences and active voice when they clarify responsibility. First person is appropriate when it makes the contribution precise.
 
@@ -172,10 +162,9 @@ Set dates with your faculty member for an outline, a complete draft, and the fin
 
 Use the checklist as a shared basis for feedback. Consider whether the technical contribution is substantial for the agreed scope, the explanation permits informed assessment, the evaluation addresses the objectives, and the conclusions follow from the evidence. Identify specific gaps and the revisions needed to address them. Faculty determine assessment and acceptance; this guide does not impose a common grading rubric or require the same evaluation method for every project.
 
+## 6. Learning from example reports
 
-## 6 Learning from example reports
-
-Read examples for how they explain a contribution and organize evidence. They illustrate different approaches rather than prescribing identical methods, section names, length, or formatting. Evaluate their claims critically, and follow your own applicable instructions.
+Read examples for how they explain a contribution and organize evidence. They illustrate different approaches rather than prescribing identical methods, section names, length, or formatting. Evaluate their claims critically, and follow your own applicable instructions. All of these reports are available through [the UVA Libary Libra system](https://library.virginia.edu/libra).
 
 ### Implementation and evaluation examples
 
@@ -196,9 +185,3 @@ Read examples for how they explain a contribution and organize evidence. They il
 ### A useful way to read any example
 
 Identify the contribution in one sentence. Then trace one important claim from the introduction to the technical approach, evaluation, result, and limitation. If a link is missing, consider what additional information would make the claim assessable. Apply the same exercise to your own draft.
-
-### Faculty starting statement
-
-Faculty who wish to use this guide may give students the following direction and add any project-specific exceptions:
-
-“Use the BSCS Senior Thesis Technical Report Guide as the default for your technical report. Follow the project-specific instructions I provide where they differ. Before drafting, we will agree on your contribution, evaluation, report length and format, feedback schedule, and submission requirements.”
