@@ -174,7 +174,7 @@ Read examples for how they explain a contribution and organize evidence. They il
 
 **Dynamic Schedule Planner Automated Workload Balancing via Syllabus and Canvas Extraction** — Chang Huang, Nathan Kim, Tapi Goredema, and Edward Cho-Jung. The report describes an ingestion pipeline and evaluates both extraction behavior and user workflows. Its limitations address document formats, participant selection, and the absence of long-term outcome evidence. Read it for evaluating separate system components and separating immediate feedback from longer-term impact.
 
-**Reel It In** — supplied as BLUE_6__A_Gamified_Focus_Timer.pdf. The report describes focus and gameplay mechanisms, evaluates them through user tasks, and discusses the lack of long-term engagement testing. Read it for connecting implementation choices to intended user behavior and for recognizing what a brief test cannot demonstrate.
+**Reel It In** — The report describes focus and gameplay mechanisms, evaluates them through user tasks, and discusses the lack of long-term engagement testing. Read it for connecting implementation choices to intended user behavior and for recognizing what a brief test cannot demonstrate.
 
 ### Educational design examples
 
