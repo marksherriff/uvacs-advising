@@ -98,9 +98,18 @@ Students must also complete **two courses** from the following pre-approved list
 
 #### Special Topics Courses
 
-The following special topics courses may count toward the AI Concentration Electives category, but will require manual override.  Please reach out to the department for more information.
+By College policy, the official list that’s published cannot contain special topics courses (new courses without a permanent course number) or graduate courses. But some of these courses are great electives that may count toward the AI Concentration Electives category, and they’re not on the list only because of procedural reasons.  Special topics courses in CS that may count (after petition) are listed below; others from the BSCS list above may also be petitioned to count.  For Integration Electives (i.e., courses in the College of Arts and Sciences but outside CS), you may need to first submit a petition for the course to count as an Integration Elective.
 
 - CS 4501: Law and AI
 - CS 4501: Risks and Benefits of Generative AI and LLMs
 - CS 4501: AI-Powered Cybersecurity
 - CS 4501: LLMs and Software Engineering
+
+To petition one of these courses to count, please fill out the form below.
+
+<div style="text-align: center" markdown="1">
+
+[BACS AI Concentration Elective Petition Form]({{site.data.externallinks.bacs_ai_elective_petition}}){: .btn .btn-blue}
+
+</div>
+
