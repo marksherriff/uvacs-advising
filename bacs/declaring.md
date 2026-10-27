@@ -65,7 +65,7 @@ All College students who meet the prerequisites will be allowed to declare. Curr
 
 ## Submitting the Declaration of Major for the BACS
 
-Submit your major declaration using the [Declare a Major or Minor form](https://college.as.virginia.edu/declaration-major-and-minor-form-and-instructions) on the College website.  Instructions for logging in and accessing the form can be found at the above link. 
+Submit your major declaration using the [Declare a Major or Minor form]({{ site.data.externallinks.bacs_declaration_form }}) on the College website.  Instructions for logging in and accessing the form can be found at the above link. 
  
 Be sure to select the correct major so that we receive your declaration. _From this form, you may also declare the AI concentration._
 

@@ -18,7 +18,7 @@ Concentrations will appear on a student's transcript, but not on their diploma. 
 ## Declaring the AI Concentration
 
 - BSCS Majors: Submit a change of major form to the SEAS office to add the concentration.
-- BACS Majors: Choose the concentration via AirTable (when available - coming soon).
+- BACS Majors: Submit a change (or declaration) of major using the [College's Major Declaration Form]({{ site.data.externallinks.bacs_declaration_form }}) and select "Computer Science/Artificial Intelligence (BA)".
 
 ## BSCS AI Concentration
 
