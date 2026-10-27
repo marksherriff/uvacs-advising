@@ -17,7 +17,7 @@ Concentrations will appear on a student's transcript, but not on their diploma. 
 
 ## Declaring the AI Concentration
 
-- BSCS Majors: [Submit a change of major form to the SEAS office](https://na2.docusign.net/Member/PowerFormSigning.aspx?PowerFormId=3ec6cf20-d420-4061-997b-ab5d112bb6b1&env=na2&acct=a8970e23-de25-4821-8826-64a7afe0662b&v=2) to add the concentration.
+- BSCS Majors: [Submit a change of major form to the SEAS office]({{ site.data.externallinks.seas_change_major_form }}) to add the concentration.
 - BACS Majors: Submit a change (or declaration) of major using the [College's Major Declaration Form]({{ site.data.externallinks.bacs_declaration_form }}) and select "Computer Science/Artificial Intelligence (BA)".
 
 ## BSCS AI Concentration
