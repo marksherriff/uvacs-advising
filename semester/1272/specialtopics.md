@@ -158,3 +158,10 @@ This course explores, reproduces, and enhances state-of-the-art software enginee
 
 ### Learning in Robotics
 **Instructor:** Madhur Behl
+This course develops the mathematical foundations of robot learning, connecting classical methods for state estimation, planning, and control to modern learning-based approaches. Topics include Bayesian and Kalman filtering, dynamic programming, optimal control, imitation learning, reinforcement learning, and model-based and offline learning. Students will develop the tools to understand how robots reason under uncertainty, predict the consequences of actions, and learn from data and experience.
+
+**Course Website:** [Learning in Robotics](https://linklab-uva.github.io/robotlearning/)
+
+**Undergraduates may enroll with instructor approval (via SIS)**
+
+---
