@@ -138,6 +138,17 @@ BSCS majors must have a 2.0 GPA average for CS courses in order to graduate.  Fo
 
 ## Senior Thesis Information
 
+<div style="position: relative; width: 100%; max-width: 800px; aspect-ratio: 16 / 9; margin: 1.5rem auto;">
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/WN9_YwQqyo8"
+    title="BSCS Senior Thesis and Prospectus Guidance"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    allowfullscreen>
+  </iframe>
+</div>
+
 The BSCS Senior Thesis is seperate but related to the SEAS Senior Thesis requirement for graduation.  As a part of the SEAS Senior Thesis, students will take STS 4500 and STS 4600 during their last two semesters at UVA.  Through these courses, students will create a Senior Thesis Portfolio according to the [SEAS Thesis Portfolio Guide](https://guides.lib.virginia.edu/seasthesis).  The Portfolio contains several parts, most of which will be done through the STS courses.  
 
 However, the part that intersects with the CS Senior Thesis is the "Technical Report."  
