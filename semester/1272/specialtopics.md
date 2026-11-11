@@ -6,9 +6,17 @@ parent: Course Information
 
 # CS Special Topics Courses for Spring 2027
 
-__Last Updated: Tuesday, October 20__
+__Last Updated: Wednesday, November 11__
 
 # CS Special Topics Courses
+
+## CS 2501 - Special Topics (Undergraduate)
+
+### Introduction to Game Programming and Design (Section 001)
+**Instructor:** Robbie Hott
+This course is an introductory course in video game design and creation. We will focus on both the design and technical aspects of creating a game, from concept inception and prototyping through coding and playtesting. There will be a heavy focus on playing games and evaluating them. Students will also create games in the course using game building tools.
+
+**Prerequisites:** Any introductory programming class, including all intro CS courses, but also introductory Python courses offered from Physics, Statistics, etc.
 
 ## CS 4501 – Special Topics (Undergraduate)
 
