@@ -8,6 +8,7 @@ nav_order: 9
 
 ## BSCS Presentations
 
+* [BSCS Fall Engineering Majors Night (2026)](https://docs.google.com/presentation/d/13WxYNMqUF2xIZRr_G79frxW_QZsxUzH5dFjiYpDCTUg/edit?usp=sharing)
 * [BSCS New Major Initial Advising (Spring 2025)](https://docs.google.com/presentation/d/1AWZMFN9anvdInwXyDykhB5ymV9mUriTE1ZRoPhleB3o/edit?usp=sharing)
 * [BSCS New Major Initial Advising (Spring 2025)](https://docs.google.com/presentation/d/1_UpYcz1GI5x0RiKSbCTf8hSCRpgDcvkwboM5arU9oPU/edit?usp=sharing)
 * [BSCS Fall Engineering Majors Night (2024)](https://docs.google.com/presentation/d/1yMvBEevVriAMgVz8Njr2TnPwuY0pzOIkY1JasIniLjU/edit?usp=sharing)
