@@ -29,11 +29,11 @@ This website is maintained by the faculty and staff of the Department of Compute
 
 Advising Staff Hours:
 
-- Mondays: 2:00-4:00 PM w/ SJ Jimènez-Calhoun in Rice 106
-- Tuesdays: 10:00 AM-12:00 PM w/ Sheri Grimes in Rice 107
-- Wednesdays: 2:00-4:00 PM w/ SJ Jimènez-Calhoun in Rice 106
+- Tuesdays: 2:00-4:00 PM w/ Sheri Grimes in Rice 107
+- Wednesdays w/ Sheri Grimes in Rice 107:
+  - 10:00 AM-12:00 PM (career advising)
+  - 2:00-4:00 PM (academic advising)
 - Thursdays: 2:00-4:00 PM w/ Sheri Grimes in Rice 107
-- Fridays: 2:00-4:00 PM w/ SJ Jimènez-Calhoun in Rice 106
 
 Peer Advisors (Fall 2026):
 
